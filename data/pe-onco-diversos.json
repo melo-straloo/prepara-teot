@@ -1,0 +1,1506 @@
+{
+  "area": "Pé/Tornozelo, Oncologia, Infecção e Metabólicas",
+  "slug": "pe-onco-diversos",
+  "questoes": [
+    {
+      "id": "POD-001",
+      "tema": "Hálux valgo - avaliação radiográfica",
+      "enunciado": "Em uma radiografia de pé com carga para avaliação de hálux valgo, qual valor é considerado o limite superior da normalidade para o ângulo intermetatársico (IMA) entre o primeiro e o segundo metatarsais?",
+      "alternativas": [
+        "Até 9 graus",
+        "Até 20 graus",
+        "Até 30 graus",
+        "Não há valor de referência validado"
+      ],
+      "correta": 0,
+      "comentario": "O ângulo intermetatársico (IMA) normal é de até 9°. Valores entre 10-13° indicam deformidade leve a moderada, e acima de 16° caracterizam deformidade grave. Esse parâmetro, junto ao ângulo do hálux valgo (HVA, normal até 15°) e ao DMAA, orienta a escolha da técnica cirúrgica. As radiografias devem ser realizadas em ortostase (com carga) para refletir a deformidade funcional.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-002",
+      "tema": "Hálux valgo - DMAA e escolha cirúrgica",
+      "enunciado": "Paciente de 28 anos com hálux valgo apresenta ângulo articular metatarsal distal (DMAA) aumentado, indicando orientação anômala da superfície articular da cabeça do primeiro metatarsal em relação ao seu eixo longitudinal. Qual a implicação mais correta para o planejamento cirúrgico?",
+      "alternativas": [
+        "A correção deve incluir uma osteotomia que reoriente a superfície articular distal (componente biplanar/em cunha), pois a correção isolada do IMA não resolve o DMAA",
+        "O DMAA aumentado é irrelevante para a escolha cirúrgica",
+        "Deve-se realizar apenas liberação de partes moles laterais (McBride)",
+        "O tratamento definitivo é sempre a artrodese metatarsofalângica"
+      ],
+      "correta": 0,
+      "comentario": "DMAA aumentado indica que a orientação da superfície articular da cabeça do primeiro metatarsal contribui para a deformidade, independentemente do IMA. Corrigir apenas o desvio angular do metatarsal (via osteotomia simples de translação) sem reorientar a superfície articular tende a recidivar. Técnicas com componente de reorientação articular (osteotomias distais biplanares) são preferidas nesses casos.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "POD-003",
+      "tema": "Hálux valgo - indicação de Lapidus",
+      "enunciado": "Mulher de 45 anos com hálux valgo moderado a grave, IMA de 18°, e hipermobilidade importante do primeiro raio ao teste clínico. Qual procedimento é mais indicado?",
+      "alternativas": [
+        "Osteotomia distal tipo chevron isolada",
+        "Artrodese da primeira articulação tarsometatársica (procedimento de Lapidus)",
+        "Osteotomia de Akin isolada",
+        "Ressecção artroplástica de Keller"
+      ],
+      "correta": 1,
+      "comentario": "A hipermobilidade do primeiro raio associada a IMA elevado é a indicação clássica para o procedimento de Lapidus, que consiste na artrodese da primeira articulação tarsometatársica, corrigindo a deformidade na sua origem proximal e estabilizando o raio. Osteotomias distais isoladas não corrigem a instabilidade proximal e tendem a recidivar nesses casos. A ressecção de Keller é reservada para pacientes idosos de baixa demanda com artrose associada.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-004",
+      "tema": "Hálux valgo - osteotomia de Akin",
+      "enunciado": "Qual é a principal indicação da osteotomia de Akin no tratamento do hálux valgo?",
+      "alternativas": [
+        "Correção isolada de grandes desvios do IMA",
+        "Correção de deformidade residual em valgo da falange proximal (hallux valgus interphalangeus), geralmente associada a outro procedimento",
+        "Tratamento definitivo de hálux rígido avançado",
+        "Substituto da artrodese metatarsofalângica em artrose grave"
+      ],
+      "correta": 1,
+      "comentario": "A osteotomia de Akin é uma osteotomia em cunha de fechamento medial na base da falange proximal, indicada para corrigir componente residual de desvio em valgo interfalângico, geralmente combinada a uma osteotomia metatarsal (como o chevron) quando a correção óssea distal isolada é insuficiente. Não corrige o IMA, pois atua na falange e não no metatarsal.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-005",
+      "tema": "Hálux valgo - osteotomia distal (chevron)",
+      "enunciado": "A osteotomia distal tipo chevron para correção de hálux valgo é classicamente indicada em qual cenário?",
+      "alternativas": [
+        "Deformidade leve a moderada (IMA até aproximadamente 13°), sem hipermobilidade significativa do primeiro raio",
+        "Deformidade grave com IMA acima de 20°",
+        "Artrose avançada da articulação metatarsofalângica",
+        "Instabilidade da articulação tarsometatársica"
+      ],
+      "correta": 0,
+      "comentario": "A osteotomia distal tipo chevron é indicada para deformidades leves a moderadas, permitindo boa correção com técnica relativamente simples e recuperação mais rápida. Deformidades graves (IMA elevado) geralmente requerem osteotomias proximais ou o procedimento de Lapidus, que têm maior potência de correção angular.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-006",
+      "tema": "Hálux valgo - osteotomia proximal/scarf",
+      "enunciado": "Para correção de hálux valgo moderado a grave (IMA entre 13-20°), sem hipermobilidade do primeiro raio, qual técnica costuma ser preferida em relação à osteotomia distal simples?",
+      "alternativas": [
+        "Osteotomia proximal do primeiro metatarsal ou osteotomia scarf",
+        "Ressecção de Keller isolada",
+        "Fusão da interfalângica do hálux",
+        "Neurectomia do nervo plantar medial"
+      ],
+      "correta": 0,
+      "comentario": "Osteotomias proximais (em base do metatarsal) ou a osteotomia scarf (em Z, diafisária) oferecem maior capacidade de correção angular do que osteotomias distais isoladas, sendo preferidas em deformidades moderadas a graves quando não há indicação de artrodese tarsometatársica. A escolha entre proximal, scarf ou Lapidus depende também da mobilidade do primeiro raio e da congruência articular.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-007",
+      "tema": "Hálux valgo juvenil",
+      "enunciado": "Em relação ao hálux valgo juvenil (adolescente), qual afirmação é correta?",
+      "alternativas": [
+        "Costuma ter DMAA aumentado e forte componente familiar/hereditário",
+        "É sempre secundário a artrite reumatoide",
+        "Nunca deve ser operado antes do fechamento das fises",
+        "É indistinguível radiograficamente do hálux valgo do adulto"
+      ],
+      "correta": 0,
+      "comentario": "O hálux valgo juvenil frequentemente apresenta DMAA aumentado e forte associação familiar, diferindo em parte da fisiopatologia do adulto. Quando indicada, a cirurgia deve considerar as fises abertas, preferindo técnicas que não as cruzem ou aguardando maturidade esquelética quando possível, pelo maior risco de recidiva em crianças/adolescentes.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-008",
+      "tema": "Hálux valgo - complicação (hálux varo)",
+      "enunciado": "Paciente evolui, após osteotomia para correção de hálux valgo, com desvio medial do hálux (hálux varo) e dor. Qual é o mecanismo mais provável dessa complicação?",
+      "alternativas": [
+        "Supercorreção cirúrgica, frequentemente por liberação lateral excessiva e/ou ressecção óssea exagerada",
+        "Falha de consolidação da osteotomia",
+        "Infecção pós-operatória",
+        "Recidiva do hálux valgo original"
+      ],
+      "correta": 0,
+      "comentario": "O hálux varo iatrogênico geralmente resulta de supercorreção: ressecção excessiva do osso medial da cabeça do primeiro metatarsal, liberação lateral agressiva do adutor do hálux e do ligamento sesamoide lateral, ou correção excessiva do IMA. É uma complicação temida por ser de difícil manejo, podendo exigir revisão cirúrgica com tenotomia do extensor curto/transferência tendínea ou osteotomia de correção reversa.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "POD-009",
+      "tema": "Hálux rígido - classificação",
+      "enunciado": "A classificação de Coughlin e Shurnas para hálux rígido baseia-se principalmente em quais parâmetros?",
+      "alternativas": [
+        "Grau de dor, limitação da amplitude de movimento dorsal da MTF e achados radiográficos (osteófitos, redução do espaço articular)",
+        "Apenas o índice de massa corporal do paciente",
+        "Classificação exclusivamente cirúrgica intraoperatória",
+        "Presença ou ausência de gota tofácea"
+      ],
+      "correta": 0,
+      "comentario": "A classificação de Coughlin-Shurnas (graus 0 a 4) combina achados clínicos (dor, rigidez, amplitude de dorsiflexão da primeira MTF) com achados radiográficos (osteófitos dorsais, estreitamento do espaço articular, esclerose subcondral), orientando a escolha entre tratamento conservador, cheilectomia e artrodese.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-010",
+      "tema": "Hálux rígido - cheilectomia",
+      "enunciado": "A cheilectomia dorsal é indicada preferencialmente em qual estágio de hálux rígido?",
+      "alternativas": [
+        "Estágios leves a moderados, com osteófito dorsal predominante e preservação relativa do espaço articular plantar",
+        "Apenas em artrose terminal com anquilose completa",
+        "Exclusivamente em crianças",
+        "Como alternativa à artrodese em qualquer estágio avançado"
+      ],
+      "correta": 0,
+      "comentario": "A cheilectomia (ressecção do osteófito dorsal e de parte da cabeça metatarsal dorsal) alivia o impacto dorsal na dorsiflexão e é indicada em estágios leves a moderados (Coughlin-Shurnas 1-2, parte do 3), quando ainda há espaço articular plantar preservado. Em artrose avançada com destruição articular completa, a artrodese é a opção mais previsível.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-011",
+      "tema": "Hálux rígido - artrodese MTF",
+      "enunciado": "Ao realizar artrodese da primeira articulação metatarsofalângica para hálux rígido avançado, qual é o posicionamento recomendado?",
+      "alternativas": [
+        "Dorsiflexão de aproximadamente 10-15° em relação ao solo e leve valgo de 10-15°",
+        "Flexão plantar de 20°",
+        "Neutro absoluto sem angulação em nenhum plano",
+        "Varo de 15° para facilitar o calçado"
+      ],
+      "correta": 0,
+      "comentario": "A posição-alvo clássica para artrodese da primeira MTF é dorsiflexão de 10-15° em relação ao solo (ou 20-30° em relação ao eixo do primeiro metatarsal) e discreto valgo de 10-15°, sem rotação. Esse posicionamento permite adequada função na fase de propulsão da marcha e evita sobrecarga da interfalângica.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-012",
+      "tema": "Disfunção do tendão tibial posterior - estágio I",
+      "enunciado": "Paciente com dor e edema ao longo do trajeto do tendão tibial posterior, sem deformidade visível do retropé, capaz de realizar o teste do apoio unipodal em ponta de pé (heel rise) com inversão normal do calcâneo. Qual o estágio de Johnson-Strom mais provável?",
+      "alternativas": [
+        "Estágio I - tenossinovite sem deformidade",
+        "Estágio II - deformidade flexível em plano valgo",
+        "Estágio III - deformidade rígida com artrose subtalar",
+        "Estágio IV - comprometimento do tornozelo com insuficiência do deltoide"
+      ],
+      "correta": 0,
+      "comentario": "No estágio I da disfunção do tendão tibial posterior (classificação de Johnson e Strom), há tenossinovite/degeneração tendínea sem deformidade estrutural; o teste do apoio unipodal permanece normal (calcâneo inverte). O tratamento é habitualmente conservador (imobilização, órtese, anti-inflamatórios e reabilitação).",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-013",
+      "tema": "Disfunção do tendão tibial posterior - estágio II",
+      "enunciado": "Paciente apresenta pé plano adquirido com sinal do 'too many toes' visível por trás, deformidade em valgo do retropé e abdução do antepé, porém a deformidade é passivamente corrigível e não há artrose subtalar. Qual a classificação e o tratamento cirúrgico mais associado a esse estágio?",
+      "alternativas": [
+        "Estágio II flexível; transferência do flexor longo dos dedos (FLD) associada a osteotomia calcânea medializante",
+        "Estágio I; apenas sinovectomia do tibial posterior",
+        "Estágio III rígido; tríplice artrodese",
+        "Estágio IV; artroplastia total de tornozelo"
+      ],
+      "correta": 0,
+      "comentario": "O estágio II caracteriza-se por deformidade flexível (redutível passivamente) em valgo do retropé com abdução do antepé, sinal do 'too many toes' positivo e incapacidade de realizar o heel rise unipodal correto. O tratamento cirúrgico padrão combina transferência do flexor longo dos dedos para substituir o tibial posterior insuficiente com osteotomia calcânea medializante (Koutsogiannis), podendo associar osteotomia de alongamento da coluna lateral conforme o grau de abdução.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-014",
+      "tema": "Disfunção do tendão tibial posterior - estágio III",
+      "enunciado": "Paciente com pé plano adquirido de longa data apresenta deformidade rígida (não corrigível passivamente) do retropé em valgo, com artrose subtalar estabelecida ao exame de imagem. Qual o tratamento cirúrgico mais apropriado?",
+      "alternativas": [
+        "Tríplice artrodese (subtalar, talonavicular e calcaneocuboidea)",
+        "Transferência isolada do flexor longo dos dedos",
+        "Cheilectomia da articulação subtalar",
+        "Reparo isolado do espring ligament sem procedimento ósseo"
+      ],
+      "correta": 0,
+      "comentario": "No estágio III, a deformidade é rígida e já existe artrose nas articulações do retropé, tornando procedimentos de partes moles e osteotomias insuficientes. A tríplice artrodese (fusão subtalar, talonavicular e calcaneocuboidea) corrige a deformidade e elimina a dor articular, sendo o tratamento cirúrgico de escolha nesse estágio.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-015",
+      "tema": "Disfunção do tendão tibial posterior - estágio IV",
+      "enunciado": "O que caracteriza o estágio IV da disfunção do tendão tibial posterior segundo a classificação de Johnson-Strom modificada (Myerson)?",
+      "alternativas": [
+        "Deformidade em valgo do retropé associada à inclinação em valgo do tálus dentro da mortalha do tornozelo, por insuficiência do ligamento deltoide",
+        "Apenas tenossinovite leve sem deformidade",
+        "Presença isolada de neuroma de Morton associado",
+        "Ruptura completa do tendão de Aquiles"
+      ],
+      "correta": 0,
+      "comentario": "O estágio IV acrescenta ao quadro do estágio III o comprometimento do tornozelo, com inclinação em valgo do tálus na mortalha por insuficiência secundária do ligamento deltoide, decorrente da deformidade crônica em valgo do retropé. O tratamento é mais complexo, podendo exigir reconstrução ligamentar do deltoide associada à correção do retropé e, eventualmente, artrodese do tornozelo.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "POD-016",
+      "tema": "Disfunção do tendão tibial posterior - tratamento cirúrgico estágio II",
+      "enunciado": "Na reconstrução cirúrgica do pé plano adquirido em estágio II com abdução significativa do antepé, qual procedimento adicional pode ser necessário além da transferência tendínea e da osteotomia calcânea medializante?",
+      "alternativas": [
+        "Osteotomia de alongamento da coluna lateral (ex: Evans) para corrigir a abdução do antepé",
+        "Amputação transmetatársica",
+        "Artrodese tibiotalar primária",
+        "Ressecção do quinto metatarsal"
+      ],
+      "correta": 0,
+      "comentario": "Quando há abdução importante do antepé (avaliada clinicamente e por incongruência talonavicular na radiografia), a osteotomia de alongamento da coluna lateral do calcâneo (tipo Evans) é frequentemente associada para corrigir esse componente, complementando a transferência do FLD e a osteotomia medializante do calcâneo, que corrigem principalmente o valgo do retropé.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "POD-017",
+      "tema": "Pé plano adquirido - papel do spring ligament",
+      "enunciado": "Qual estrutura, além do tendão tibial posterior, tem papel fundamental no suporte estático do arco longitudinal medial e frequentemente está insuficiente no pé plano adquirido do adulto?",
+      "alternativas": [
+        "O ligamento calcaneonavicular plantar (spring ligament)",
+        "O ligamento cruzado anterior",
+        "O ligamento talofibular anterior",
+        "O retináculo dos extensores"
+      ],
+      "correta": 0,
+      "comentario": "O ligamento calcaneonavicular plantar (spring ligament) é o principal estabilizador estático da cabeça do tálus e do arco longitudinal medial, trabalhando em conjunto com o tendão tibial posterior (estabilizador dinâmico). Sua insuficiência contribui para a progressão da deformidade em pé plano adquirido, e seu reparo/reconstrução pode ser necessário em casos com falha significativa desse ligamento.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-018",
+      "tema": "Pé cavo - teste de Coleman",
+      "enunciado": "Qual é a finalidade do teste do bloco de Coleman (Coleman block test) na avaliação do pé cavo?",
+      "alternativas": [
+        "Diferenciar se o retropé em varo é flexível (corrigível) ou rígido, avaliando a contribuição do primeiro raio plantarfletido",
+        "Avaliar a integridade do tendão de Aquiles",
+        "Diagnosticar ruptura do tendão tibial posterior",
+        "Medir o ângulo de Böhler do calcâneo"
+      ],
+      "correta": 0,
+      "comentario": "No teste de Coleman, o paciente fica em pé sobre um bloco que eleva o quarto e o quinto metatarsais, deixando o primeiro raio pendente fora do bloco. Se o varo do retropé se corrige, isso indica que a deformidade é flexível e secundária ao primeiro raio plantarfletido (geralmente por hiperatividade do fibular longo); se o varo persiste, a deformidade do retropé é rígida, orientando o planejamento cirúrgico (procedimentos de partes moles/osteotomia do primeiro raio versus correção óssea do retropé).",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-019",
+      "tema": "Pé cavo - etiologia neurológica",
+      "enunciado": "Um paciente jovem com pé cavovaro bilateral, dedos em garra e fraqueza distal progressiva deve ser investigado prioritariamente para qual condição?",
+      "alternativas": [
+        "Doença de Charcot-Marie-Tooth (neuropatia hereditária sensitivo-motora)",
+        "Artrite reumatoide juvenil",
+        "Osteomielite crônica bilateral",
+        "Displasia fibrosa poliostótica"
+      ],
+      "correta": 0,
+      "comentario": "A doença de Charcot-Marie-Tooth é a causa neurológica hereditária mais comum de pé cavovaro, decorrente do desequilíbrio muscular entre o fibular longo (hiperativo) e o tibial anterior (fraco), e entre o tibial posterior e os fibulares curto/terceiro fibular. Todo pé cavo, especialmente bilateral e progressivo, deve motivar avaliação neurológica cuidadosa.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-020",
+      "tema": "Pé cavo - tratamento cirúrgico rígido",
+      "enunciado": "Em pé cavovaro rígido do adulto, com deformidade do retropé não corrigível pelo teste de Coleman e artrose associada, qual é a opção cirúrgica definitiva mais indicada?",
+      "alternativas": [
+        "Tríplice artrodese com osteotomias corretivas associadas conforme necessário",
+        "Apenas transferência tendínea isolada",
+        "Fasciotomia plantar isolada",
+        "Artroplastia total de tornozelo isolada"
+      ],
+      "correta": 0,
+      "comentario": "Em deformidades rígidas do retropé com artrose estabelecida, a correção por partes moles e osteotomias isoladas é insuficiente; a tríplice artrodese, associada a osteotomias e transferências tendíneas complementares para equilibrar o pé, é a abordagem definitiva para restaurar alinhamento plantígrado e alívio da dor.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-021",
+      "tema": "Tendinopatia insercional do Aquiles",
+      "enunciado": "Paciente com dor na inserção do tendão de Aquiles no calcâneo, associada a exostose posterossuperior do calcâneo (deformidade de Haglund) e calcificação intratendínea na radiografia. Qual a abordagem cirúrgica quando o tratamento conservador falha?",
+      "alternativas": [
+        "Debridamento do tendão degenerado com ressecção da exostose calcânea e reinserção do tendão, se necessário com âncoras",
+        "Tenotomia completa do Aquiles sem reparo",
+        "Fasciotomia plantar",
+        "Artrodese subtalar"
+      ],
+      "correta": 0,
+      "comentario": "Na tendinopatia insercional do Aquiles refratária, associada à deformidade de Haglund e calcificações, o tratamento cirúrgico envolve debridamento da porção degenerada do tendão, ressecção da proeminência óssea posterossuperior do calcâneo e reancoragem do tendão remanescente ao osso, frequentemente com âncoras, quando há descolamento significativo da inserção.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-022",
+      "tema": "Tendinopatia não insercional do Aquiles",
+      "enunciado": "Qual é o tratamento conservador de primeira linha, com melhor nível de evidência, para tendinopatia não insercional (mid-portion) do tendão de Aquiles?",
+      "alternativas": [
+        "Programa de exercícios excêntricos para o tríceps sural",
+        "Infiltração de corticoide intratendínea repetida",
+        "Imobilização gessada prolongada por 12 semanas",
+        "Tenotomia percutânea imediata"
+      ],
+      "correta": 0,
+      "comentario": "Os exercícios excêntricos do tríceps sural (protocolo de Alfredson) têm o melhor suporte de evidência como tratamento conservador de primeira linha para tendinopatia não insercional do Aquiles, promovendo remodelação do colágeno tendíneo. Infiltrações de corticoide são geralmente evitadas por risco de enfraquecimento tendíneo e ruptura.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-023",
+      "tema": "Ruptura do tendão de Aquiles - diagnóstico",
+      "enunciado": "Homem de 40 anos sofre dor aguda em 'chicotada' na panturrilha durante prática esportiva, seguida de dificuldade para flexão plantar ativa do tornozelo. Ao exame, palpa-se falha no trajeto do tendão de Aquiles e o teste de Thompson (compressão da panturrilha) não produz flexão plantar do pé. Qual o diagnóstico mais provável?",
+      "alternativas": [
+        "Ruptura completa do tendão de Aquiles",
+        "Entorse do tornozelo grau I",
+        "Fascite plantar aguda",
+        "Síndrome do túnel do tarso"
+      ],
+      "correta": 0,
+      "comentario": "O quadro clínico clássico de dor aguda tipo 'chicotada', falha palpável no trajeto tendíneo e teste de Thompson ausente (sem flexão plantar à compressão da panturrilha) é altamente sugestivo de ruptura completa do tendão de Aquiles, tipicamente ocorrendo na zona hipovascular a 2-6 cm da inserção calcânea.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-024",
+      "tema": "Ruptura do tendão de Aquiles - tratamento",
+      "enunciado": "Em relação ao tratamento da ruptura aguda do tendão de Aquiles, qual afirmação está mais alinhada com a evidência atual?",
+      "alternativas": [
+        "Protocolos de reabilitação funcional com mobilização precoce tornam as taxas de rerruptura do tratamento não operatório comparáveis às do tratamento cirúrgico, em pacientes selecionados",
+        "O tratamento não operatório sempre resulta em taxa de rerruptura inaceitavelmente alta, independentemente do protocolo de reabilitação",
+        "A cirurgia elimina completamente o risco de rerruptura",
+        "A imobilização gessada rígida por 12 semanas sem apoio é hoje o padrão-ouro"
+      ],
+      "correta": 0,
+      "comentario": "Estudos comparativos mostraram que, quando associado a protocolos de reabilitação funcional com mobilização e carga precoces (uso de órtese articulada), o tratamento não operatório pode alcançar taxas de rerruptura semelhantes às do tratamento cirúrgico, com menor risco de complicações relacionadas à ferida operatória. A decisão deve ser individualizada considerando idade, nível de atividade e comorbidades.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "POD-025",
+      "tema": "Instabilidade crônica do tornozelo - Broström",
+      "enunciado": "Paciente com múltiplos episódios de entorse em inversão do tornozelo, sensação de instabilidade crônica e falha do tratamento conservador (fisioterapia proprioceptiva e órtese) por 6 meses. Qual o procedimento cirúrgico padrão-ouro para reparo ligamentar nesse cenário?",
+      "alternativas": [
+        "Reparo anatômico direto dos ligamentos talofibular anterior e calcaneofibular (procedimento de Broström, com ou sem aumento de Gould)",
+        "Reconstrução não anatômica com tenodese do fibular curto (Chrisman-Snook) como primeira escolha",
+        "Artrodese do tornozelo",
+        "Transferência do tendão tibial posterior"
+      ],
+      "correta": 0,
+      "comentario": "O procedimento de Broström (reparo/imbricação direta dos ligamentos talofibular anterior e calcaneofibular), frequentemente associado ao reforço de Gould com o retináculo extensor, é o procedimento padrão-ouro para instabilidade lateral crônica do tornozelo refratária ao tratamento conservador, apresentando bons resultados funcionais na maioria dos pacientes.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-026",
+      "tema": "Instabilidade crônica do tornozelo - lesão associada",
+      "enunciado": "Em pacientes com instabilidade crônica lateral do tornozelo submetidos a artroscopia, qual achado intra-articular associado é frequentemente identificado e pode contribuir para dor residual (impacto anterolateral)?",
+      "alternativas": [
+        "Lesão meniscoide (tecido cicatricial hipertrófico) na goteira anterolateral do tornozelo",
+        "Ruptura do ligamento cruzado posterior",
+        "Lesão do menisco lateral do joelho",
+        "Fratura de estresse do calcâneo"
+      ],
+      "correta": 0,
+      "comentario": "A síndrome de impacto anterolateral do tornozelo, causada por tecido sinovial/cicatricial hipertrófico (lesão meniscoide) na goteira anterolateral, é uma causa comum de dor residual em pacientes com instabilidade crônica, frequentemente identificada e tratada (desbridamento artroscópico) no mesmo tempo cirúrgico do reparo ligamentar.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-027",
+      "tema": "Lesão osteocondral do tálus - classificação de Berndt-Harty",
+      "enunciado": "A classificação de Berndt e Harty para lesões osteocondrais do tálus baseia-se em quais características radiográficas?",
+      "alternativas": [
+        "Grau de compressão, fissura, deslocamento parcial e deslocamento completo (corpo livre) do fragmento osteocondral",
+        "Presença isolada de derrame articular",
+        "Tamanho do maléolo medial",
+        "Classificação exclusivamente por ressonância magnética funcional"
+      ],
+      "correta": 0,
+      "comentario": "A classificação clássica de Berndt-Harty distingue estágios progressivos: I (compressão subcondral), II (fratura parcialmente destacada), III (fragmento completamente destacado, mas no leito) e IV (fragmento deslocado como corpo livre intra-articular), orientando decisões terapêuticas. Lesões posteromediais tendem a ser mais profundas e cup-shaped, enquanto as anterolaterais são mais rasas e relacionadas a trauma por inversão.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-028",
+      "tema": "Lesão osteocondral do tálus - tratamento",
+      "enunciado": "Paciente com lesão osteocondral sintomática do tálus, medindo aproximadamente 8 mm de diâmetro, refratária a tratamento conservador. Qual a conduta cirúrgica inicial mais apropriada?",
+      "alternativas": [
+        "Microfratura artroscópica (perfurações no leito subcondral para estimular fibrocartilagem reparadora)",
+        "Artroplastia total de tornozelo primária",
+        "Osteotomia supramaleolar",
+        "Amputação transtibial"
+      ],
+      "correta": 0,
+      "comentario": "Para lesões osteocondrais de pequeno a médio porte (geralmente até cerca de 10-15 mm), a microfratura artroscópica é o tratamento de primeira linha, estimulando a formação de fibrocartilagem reparadora a partir de células-tronco da medula óssea. Lesões maiores, císticas ou com falha prévia de microfratura podem necessitar de transplante osteocondral autólogo (OATS) ou aloenxerto.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-029",
+      "tema": "Artrose do tornozelo - artrodese vs artroplastia",
+      "enunciado": "Paciente de 68 anos, sedentário, com artrose pós-traumática grave e dolorosa do tornozelo, sem deformidade significativa nem instabilidade ligamentar importante. Qual opção cirúrgica tende a preservar melhor a mobilidade da marcha, com bom perfil de indicação nessa faixa etária?",
+      "alternativas": [
+        "Artroplastia total de tornozelo",
+        "Amputação transtibial",
+        "Fasciotomia dos compartimentos da perna",
+        "Ressecção artroplástica sem estabilização"
+      ],
+      "correta": 0,
+      "comentario": "Em pacientes idosos de baixa demanda, com boa qualidade óssea, alinhamento adequado e ausência de instabilidade ligamentar grave, a artroplastia total de tornozelo é uma opção que preserva a mobilidade articular residual, sendo preferida em relação à artrodese nesse perfil. Já em pacientes jovens de alta demanda ou com deformidade/instabilidade importante, a artrodese permanece o procedimento mais previsível e durável.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-030",
+      "tema": "Artrose do tornozelo - etiologia",
+      "enunciado": "Qual é a etiologia mais comum de artrose primária/isolada do tornozelo, diferentemente do joelho e do quadril (onde a artrose primária idiopática predomina)?",
+      "alternativas": [
+        "Artrose pós-traumática, geralmente secundária a fraturas do pilão tibial ou fraturas maleolares",
+        "Artrose primária idiopática, com a mesma prevalência do quadril",
+        "Necrose avascular idiopática do tálus",
+        "Doença de Paget"
+      ],
+      "correta": 0,
+      "comentario": "Diferentemente do quadril e joelho, onde a artrose primária idiopática é predominante, a maioria dos casos de artrose de tornozelo é pós-traumática, secundária a fraturas articulares (pilão tibial, maleolares) ou instabilidade ligamentar crônica não tratada. Esse dado é relevante epidemiologicamente e no aconselhamento de pacientes mais jovens com histórico de trauma.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-031",
+      "tema": "Artrodese do tornozelo - posicionamento",
+      "enunciado": "Qual é o posicionamento-alvo recomendado para artrodese tibiotalar (tornozelo)?",
+      "alternativas": [
+        "Dorsiflexão neutra (0°), leve valgo de 0-5° e rotação externa de 5-10° em relação ao eixo tibial",
+        "Flexão plantar fixa de 20°",
+        "Varo de 15°",
+        "Rotação interna de 20°"
+      ],
+      "correta": 0,
+      "comentario": "O posicionamento clássico para artrodese do tornozelo é neutro em dorsiflexão/flexão plantar (evitando equino, que sobrecarrega o mediopé), leve valgo de 0-5° e rotação externa de 5-10°, replicando o alinhamento fisiológico do pé em relação à perna e otimizando a marcha.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-032",
+      "tema": "Fascite plantar - diagnóstico clínico",
+      "enunciado": "Paciente relata dor na região plantar medial do calcanhar, pior nos primeiros passos ao levantar-se pela manhã, melhorando parcialmente após alguns minutos de caminhada. Qual é o diagnóstico clínico mais provável?",
+      "alternativas": [
+        "Fascite plantar",
+        "Ruptura do tendão de Aquiles",
+        "Neuroma de Morton",
+        "Artrite séptica subtalar"
+      ],
+      "correta": 0,
+      "comentario": "A dor plantar medial do calcâneo com piora característica no início da marcha após repouso ('dor de primeiros passos'), melhorando com o aquecimento e piorando novamente ao final do dia com atividade prolongada, é o quadro clínico clássico da fascite plantar, diagnóstico eminentemente clínico. Fatores de risco incluem obesidade, encurtamento do tríceps sural e pé plano ou cavo.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-033",
+      "tema": "Fascite plantar - tratamento",
+      "enunciado": "Qual é a sequência de tratamento inicial recomendada para fascite plantar crônica, antes de considerar procedimentos invasivos?",
+      "alternativas": [
+        "Alongamento da fáscia plantar e do tríceps sural, órteses/palmilhas e modificação de atividade, reservando infiltração de corticoide para casos refratários pelo risco de ruptura da fáscia e atrofia do coxim adiposo",
+        "Infiltração de corticoide como primeira linha em todos os casos, repetida mensalmente",
+        "Fasciotomia cirúrgica aberta imediata em todos os pacientes sintomáticos",
+        "Artrodese subtalar precoce"
+      ],
+      "correta": 0,
+      "comentario": "O tratamento inicial da fascite plantar é conservador: alongamento específico da fáscia plantar e da cadeia posterior (tríceps sural), uso de órteses/palmilhas e modificação de atividades, com boa taxa de resolução em meses. Infiltrações de corticoide devem ser usadas com cautela e reservadas a casos refratários, pelo risco de ruptura da fáscia plantar e atrofia do coxim adiposo do calcanhar.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-034",
+      "tema": "Fascite plantar - diagnóstico diferencial",
+      "enunciado": "Paciente com dor no calcanhar que piora à noite, com irradiação e queimação, e não responde ao tratamento padrão para fascite plantar. Qual diagnóstico diferencial neuropático deve ser considerado?",
+      "alternativas": [
+        "Aprisionamento do nervo do músculo abdutor do quinto dedo (nervo de Baxter)",
+        "Fratura do colo do fêmur",
+        "Síndrome do túnel do carpo",
+        "Neurite óptica"
+      ],
+      "correta": 0,
+      "comentario": "O aprisionamento do primeiro ramo do nervo plantar lateral (nervo de Baxter), que inerva o músculo abdutor do quinto dedo, é um importante diagnóstico diferencial de dor crônica no calcanhar que mimetiza fascite plantar, mas costuma ter características neuropáticas (queimação, irradiação) e não responde ao tratamento padrão da fascite, exigindo investigação e tratamento direcionados (eventual liberação cirúrgica do nervo).",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "POD-035",
+      "tema": "Neuroma de Morton - apresentação clínica",
+      "enunciado": "Paciente relata dor em queimação e formigamento no terceiro espaço interdigital do pé, piorada pelo uso de calçados apertados e aliviada ao retirar o sapato e massagear o pé. Ao exame, o teste de compressão mediolateral do antepé reproduz um clique doloroso palpável (sinal de Mulder). Qual o diagnóstico mais provável?",
+      "alternativas": [
+        "Neuroma de Morton (neuroma interdigital plantar)",
+        "Fascite plantar",
+        "Fratura de estresse do segundo metatarsal",
+        "Tendinite do tibial anterior"
+      ],
+      "correta": 0,
+      "comentario": "O neuroma de Morton, uma fibrose perineural do nervo digital plantar comum (mais frequente no terceiro espaço interdigital), causa dor em queimação/formigamento nos dedos correspondentes, agravada por calçados apertados. O sinal de Mulder (clique doloroso à compressão mediolateral do antepé) é um achado clássico ao exame físico, e o diagnóstico é essencialmente clínico, podendo ser confirmado por ultrassonografia ou ressonância magnética.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-036",
+      "tema": "Neuroma de Morton - tratamento cirúrgico",
+      "enunciado": "Após falha do tratamento conservador (modificação de calçado, palmilha metatarsal, infiltração) para neuroma de Morton, qual é o tratamento cirúrgico padrão e sua principal complicação?",
+      "alternativas": [
+        "Excisão do neuroma por via dorsal ou plantar, com risco de formação de neuroma de coto recorrente",
+        "Artrodese metatarsofalângica do dedo correspondente",
+        "Amputação do dedo adjacente",
+        "Osteotomia de Weil isolada sem excisão do neuroma"
+      ],
+      "correta": 0,
+      "comentario": "A excisão cirúrgica do neuroma interdigital (por via dorsal, geralmente preferida, ou plantar) é o tratamento padrão em casos refratários ao manejo conservador. A principal complicação é a recorrência dos sintomas por formação de um neuroma de coto (stump neuroma) na extremidade proximal do nervo seccionado, que pode exigir reintervenção.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-037",
+      "tema": "Metatarsalgia - doença de Freiberg",
+      "enunciado": "Adolescente do sexo feminino apresenta dor e edema na região da cabeça do segundo metatarsal, com radiografia mostrando achatamento e esclerose da cabeça metatarsal. Qual o diagnóstico mais provável?",
+      "alternativas": [
+        "Doença de Freiberg (osteonecrose da cabeça do metatarsal, mais comum no segundo raio)",
+        "Osteossarcoma metafisário",
+        "Gota tofácea",
+        "Osteomielite hematogênica aguda"
+      ],
+      "correta": 0,
+      "comentario": "A doença de Freiberg é uma osteonecrose da cabeça metatarsal, mais comum no segundo metatarsal, tipicamente acometendo adolescentes do sexo feminino, provavelmente relacionada a microtraumas repetitivos e sobrecarga mecânica. Radiograficamente observa-se achatamento, esclerose e, em fases avançadas, colapso e fragmentação da cabeça metatarsal, podendo evoluir para artrose metatarsofalângica secundária.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-038",
+      "tema": "Metatarsalgia de transferência",
+      "enunciado": "Após osteotomia de Lapidus e correção de hálux valgo grave, paciente evolui meses depois com dor sob a cabeça do segundo metatarsal. Qual é o mecanismo mais provável dessa nova queixa?",
+      "alternativas": [
+        "Metatarsalgia de transferência por elevação/encurtamento relativo do primeiro raio, redistribuindo carga para os metatarsais centrais",
+        "Recidiva do hálux valgo original",
+        "Infecção profunda no sítio cirúrgico original",
+        "Ruptura do tendão de Aquiles"
+      ],
+      "correta": 0,
+      "comentario": "A metatarsalgia de transferência ocorre quando a correção do primeiro raio (por elevação excessiva, encurtamento ou perda de sua função de suporte de carga) redistribui a sobrecarga mecânica para os metatarsais centrais adjacentes (geralmente segundo e terceiro), gerando dor plantar nessa região. É uma complicação conhecida da cirurgia do hálux valgo e deve ser considerada no planejamento pré-operatório e no seguimento.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-039",
+      "tema": "Pé de Charcot - Eichenholtz estágio 1",
+      "enunciado": "Paciente diabético com neuropatia periférica apresenta pé quente, edemaciado e eritematoso, sem lesão de pele, com radiografia mostrando fragmentação óssea e subluxação articular no mediopé. A temperatura cutânea está elevada em comparação ao pé contralateral. Qual o estágio de Eichenholtz mais compatível e a conduta inicial?",
+      "alternativas": [
+        "Estágio 1 (desenvolvimento/fragmentação); imobilização em bota de contato total (total contact cast) com descarga do peso",
+        "Estágio 3 (consolidação); liberação para calçado comum sem restrições",
+        "Estágio 0; observação sem qualquer intervenção",
+        "Estágio 2; indicação cirúrgica de urgência com artrodese imediata"
+      ],
+      "correta": 0,
+      "comentario": "O estágio 1 (fragmentação) da classificação de Eichenholtz para artropatia de Charcot caracteriza-se por fase aguda inflamatória, com pé quente, edemaciado e fragmentação/subluxação óssea radiográfica. O tratamento nessa fase é primariamente não cirúrgico, com imobilização rigorosa e descarga de peso (bota de contato total), visando evitar progressão da deformidade até a consolidação óssea.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-040",
+      "tema": "Pé de Charcot - Eichenholtz estágios 2 e 3",
+      "enunciado": "Em relação à evolução da artropatia de Charcot pelos estágios de Eichenholtz, qual afirmação está correta?",
+      "alternativas": [
+        "O estágio 2 (coalescência) mostra redução do processo inflamatório com início de consolidação óssea, e o estágio 3 (remodelação/reconstrução) representa a fase final de estabilização, quando a cirurgia corretiva eletiva pode ser considerada com menor risco",
+        "O estágio 3 é a fase mais aguda e inflamatória, contraindicando qualquer atividade",
+        "O estágio 2 já permite retorno a calçados comuns sem qualquer proteção",
+        "Não existe correlação entre os estágios clínicos e os achados radiográficos"
+      ],
+      "correta": 0,
+      "comentario": "Na evolução natural da artropatia de Charcot, o estágio 2 (coalescência) mostra diminuição da inflamação e início da consolidação de fragmentos ósseos, enquanto o estágio 3 (reconstrução/remodelação) representa a fase de estabilização final, com pé 'frio' e alinhamento definido. É nessa fase mais tardia e estável que procedimentos cirúrgicos corretivos eletivos (quando indicados por deformidade residual/instabilidade) apresentam menor risco de complicações.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "POD-041",
+      "tema": "Oncologia - estadiamento de Enneking (tumores benignos)",
+      "enunciado": "Na classificação de Enneking para tumores ósseos benignos, uma lesão que causa erosão/expansão cortical progressiva, é sintomática, mas permanece contida pelo periósteo, é classificada como qual estágio?",
+      "alternativas": [
+        "Estágio 2 - ativo",
+        "Estágio 1 - latente",
+        "Estágio 3 - agressivo",
+        "Estágio IIB"
+      ],
+      "correta": 0,
+      "comentario": "Na classificação de Enneking para tumores benignos: estágio 1 (latente) são lesões inativas, frequentemente assintomáticas e autolimitadas; estágio 2 (ativo) apresentam crescimento progressivo sintomático com expansão/erosão cortical, mas ainda contidos; estágio 3 (agressivo) rompem a barreira cortical/periosteal, invadindo tecidos adjacentes, semelhante ao comportamento local de malignidade, embora sem potencial metastático verdadeiro.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-042",
+      "tema": "Oncologia - estadiamento de Enneking (tumores malignos)",
+      "enunciado": "Um sarcoma ósseo de alto grau histológico, confinado ao compartimento anatômico de origem, sem metástases identificadas, é classificado pelo sistema de Enneking como qual estágio?",
+      "alternativas": [
+        "Estágio IIA (alto grau, intracompartimental, sem metástase)",
+        "Estágio IA (baixo grau, intracompartimental)",
+        "Estágio III (qualquer grau, com metástase)",
+        "Estágio IB (baixo grau, extracompartimental)"
+      ],
+      "correta": 0,
+      "comentario": "No sistema de estadiamento de Enneking para sarcomas musculoesqueléticos, o grau histológico (G1 baixo grau / G2 alto grau), a extensão anatômica (T1 intracompartimental / T2 extracompartimental) e a presença de metástase (M0/M1) definem o estágio: IA (G1T1M0), IB (G1T2M0), IIA (G2T1M0), IIB (G2T2M0) e III (qualquer G/T com M1). Um tumor de alto grau confinado ao compartimento de origem, sem metástase, corresponde ao estágio IIA.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-043",
+      "tema": "Oncologia - princípios de biópsia",
+      "enunciado": "Qual princípio é fundamental ao planejar a biópsia de uma suspeita de sarcoma ósseo?",
+      "alternativas": [
+        "A incisão deve ser longitudinal, no trajeto que será posteriormente incluído na ressecção definitiva, evitando contaminação de compartimentos não envolvidos",
+        "A incisão deve ser transversal para melhor exposição, independente do planejamento cirúrgico futuro",
+        "A biópsia deve sempre ser aberta e extensa, nunca por agulha",
+        "Drenos devem ser posicionados distantes da incisão para reduzir o risco de contaminação"
+      ],
+      "correta": 0,
+      "comentario": "A biópsia de um tumor musculoesquelético suspeito deve ser cuidadosamente planejada, idealmente pelo cirurgião que realizará o tratamento definitivo, com incisão longitudinal exatamente no trajeto que será excisado na cirurgia definitiva (incluindo o trajeto do dreno, se usado), evitando contaminar compartimentos anatômicos não envolvidos e comprometer o salvamento do membro. Erros de biópsia (incisão inadequada, hematoma, contaminação) estão entre as principais causas de amputações desnecessárias.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-044",
+      "tema": "Oncologia - erros de biópsia",
+      "enunciado": "Segundo estudos clássicos sobre erros de biópsia em tumores ósseos (Mankin e colaboradores), qual é uma das principais consequências de biópsias mal planejadas realizadas fora de centros de referência?",
+      "alternativas": [
+        "Aumento significativo da taxa de complicações (incluindo necessidade de amputação e pior prognóstico) em comparação com biópsias realizadas no centro de tratamento definitivo",
+        "Nenhuma diferença relevante no desfecho oncológico",
+        "Redução do custo total do tratamento",
+        "Diminuição do tempo total até o início da quimioterapia"
+      ],
+      "correta": 0,
+      "comentario": "Os estudos de Mankin sobre erros de biópsia demonstraram que biópsias inadequadamente planejadas e realizadas fora de centros especializados em oncologia musculoesquelética associam-se a taxas significativamente maiores de complicações, alterações no plano de tratamento (incluindo conversão de cirurgia de salvamento para amputação) e, potencialmente, pior prognóstico oncológico. Isso reforça a recomendação de referenciar o paciente para um centro especializado antes da biópsia.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "POD-045",
+      "tema": "Oncologia - princípios gerais (MSTS)",
+      "enunciado": "O sistema de estadiamento cirúrgico da Musculoskeletal Tumor Society (MSTS/Enneking) para sarcomas é amplamente utilizado por qual característica principal?",
+      "alternativas": [
+        "Incorpora grau histológico, extensão anatômica (compartimental) e presença de metástase para orientar prognóstico e planejamento cirúrgico",
+        "Baseia-se exclusivamente no tamanho absoluto do tumor em centímetros",
+        "Aplica-se apenas a tumores de partes moles, nunca a tumores ósseos",
+        "Utiliza somente achados de PET-CT, sem necessidade de biópsia"
+      ],
+      "correta": 0,
+      "comentario": "O sistema MSTS (equivalente ao sistema de Enneking) combina três variáveis - grau histológico, extensão anatômica em relação a compartimentos e presença de metástase - para estratificar sarcomas ósseos e de partes moles, orientando tanto o prognóstico quanto a estratégia cirúrgica (margens necessárias, indicação de terapia adjuvante).",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-046",
+      "tema": "Osteossarcoma - epidemiologia e apresentação",
+      "enunciado": "Adolescente de 15 anos apresenta dor progressiva e edema no joelho há 2 meses, com radiografia mostrando lesão metafisária distal do fêmur, com reação periosteal em 'raios de sol' (sunburst) e triângulo de Codman. Qual o diagnóstico mais provável?",
+      "alternativas": [
+        "Osteossarcoma",
+        "Osteomielite crônica",
+        "Cisto ósseo simples",
+        "Condroma"
+      ],
+      "correta": 0,
+      "comentario": "O osteossarcoma convencional é o sarcoma ósseo primário mais comum em adolescentes, com pico de incidência na segunda década de vida, tipicamente acometendo a região metafisária de ossos longos (fêmur distal, tíbia proximal, úmero proximal - regiões de maior crescimento). Os achados radiográficos clássicos incluem reação periosteal agressiva em 'raios de sol' e o triângulo de Codman (elevação periosteal na margem da lesão).",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-047",
+      "tema": "Osteossarcoma - tratamento",
+      "enunciado": "Qual é a abordagem terapêutica padrão atual para osteossarcoma de alto grau, localizado, em paciente sem metástase ao diagnóstico?",
+      "alternativas": [
+        "Quimioterapia neoadjuvante seguida de cirurgia de ressecção com margem ampla (salvamento do membro quando possível) e quimioterapia adjuvante",
+        "Apenas radioterapia isolada, sem cirurgia nem quimioterapia",
+        "Amputação primária sem quimioterapia em todos os casos",
+        "Cirurgia isolada sem qualquer tratamento sistêmico"
+      ],
+      "correta": 0,
+      "comentario": "O tratamento padrão do osteossarcoma de alto grau combina quimioterapia neoadjuvante (pré-operatória), seguida de ressecção cirúrgica com margens amplas (permitindo salvamento do membro na maioria dos casos atualmente) e quimioterapia adjuvante pós-operatória. Essa abordagem multimodal aumentou significativamente a sobrevida em comparação à era pré-quimioterapia, quando a amputação isolada era o tratamento padrão.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-048",
+      "tema": "Osteossarcoma - variantes",
+      "enunciado": "Qual variante de osteossarcoma tipicamente se origina na superfície óssea (justacortical), acomete a região metafisária posterior do fêmur distal em mulheres jovens e apresenta comportamento biológico menos agressivo que o osteossarcoma convencional?",
+      "alternativas": [
+        "Osteossarcoma parosteal",
+        "Osteossarcoma telangiectásico",
+        "Osteossarcoma intramedular convencional",
+        "Osteossarcoma de células pequenas"
+      ],
+      "correta": 0,
+      "comentario": "O osteossarcoma parosteal é uma variante de superfície, de baixo grau histológico, que classicamente acomete a face posterior da metáfise do fêmur distal em mulheres jovens adultas, com crescimento lento e prognóstico consideravelmente melhor que o osteossarcoma convencional intramedular. Já o osteossarcoma telangiectásico é uma variante agressiva, lítica e hemorrágica, que pode mimetizar um cisto ósseo aneurismático.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "POD-049",
+      "tema": "Osteossarcoma - resposta à quimioterapia",
+      "enunciado": "Após quimioterapia neoadjuvante para osteossarcoma, a peça de ressecção cirúrgica é submetida à avaliação do percentual de necrose tumoral (grau de Huvos). Qual é a importância prognóstica desse achado?",
+      "alternativas": [
+        "Necrose tumoral igual ou superior a 90% após quimioterapia neoadjuvante está associada a melhor prognóstico e maior sobrevida livre de doença",
+        "A porcentagem de necrose não tem qualquer valor prognóstico estabelecido",
+        "Necrose tumoral é avaliada apenas em tumores de partes moles, nunca em osteossarcoma",
+        "Quanto menor a necrose, melhor o prognóstico"
+      ],
+      "correta": 0,
+      "comentario": "A resposta histológica à quimioterapia neoadjuvante, quantificada pelo percentual de necrose tumoral na peça ressecada (sistema de Huvos), é um dos fatores prognósticos mais importantes no osteossarcoma: pacientes com boa resposta (geralmente definida como necrose ≥90%) apresentam significativamente melhor sobrevida livre de doença em comparação aos maus respondedores, informação que também orienta ajustes no esquema de quimioterapia adjuvante.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "POD-050",
+      "tema": "Sarcoma de Ewing - translocação genética",
+      "enunciado": "O sarcoma de Ewing está classicamente associado a qual alteração genética?",
+      "alternativas": [
+        "Translocação t(11;22), gerando o gene de fusão EWSR1-FLI1",
+        "Mutação do gene RB1 apenas",
+        "Trissomia do cromossomo 21",
+        "Deleção do gene APC"
+      ],
+      "correta": 0,
+      "comentario": "O sarcoma de Ewing apresenta, na grande maioria dos casos, a translocação t(11;22)(q24;q12), resultando no gene de fusão EWSR1-FLI1, uma alteração característica desse tumor de células pequenas, redondas e azuis, útil tanto para diagnóstico diferencial (por biologia molecular/FISH) quanto para compreensão da sua patogênese.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-051",
+      "tema": "Sarcoma de Ewing - apresentação radiográfica",
+      "enunciado": "Criança de 10 anos apresenta dor e edema na diáfise do fêmur, associados a febre baixa intermitente e elevação de VHS e PCR. A radiografia mostra lesão permeativa diafisária com reação periosteal lamelar em 'casca de cebola'. Qual diagnóstico deve ser fortemente considerado, além de osteomielite?",
+      "alternativas": [
+        "Sarcoma de Ewing",
+        "Osteocondroma",
+        "Cisto ósseo simples",
+        "Encondroma"
+      ],
+      "correta": 0,
+      "comentario": "O sarcoma de Ewing tipicamente acomete a diáfise de ossos longos em crianças e adolescentes, podendo se apresentar com sintomas sistêmicos (febre, mal-estar) e alterações laboratoriais inflamatórias (VHS/PCR elevados) que mimetizam osteomielite - um importante diagnóstico diferencial. A reação periosteal em 'casca de cebola' (onion skin) é um achado radiográfico clássico, refletindo camadas sucessivas de neoformação óssea periosteal.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-052",
+      "tema": "Sarcoma de Ewing - tratamento",
+      "enunciado": "Qual é a abordagem terapêutica multimodal padrão para o sarcoma de Ewing localizado?",
+      "alternativas": [
+        "Quimioterapia sistêmica combinada com controle local por cirurgia e/ou radioterapia, dado que é um tumor altamente quimiossensível e radiossensível",
+        "Cirurgia isolada, sem quimioterapia nem radioterapia",
+        "Apenas observação clínica com reavaliações seriadas",
+        "Radioterapia isolada sem qualquer quimioterapia"
+      ],
+      "correta": 0,
+      "comentario": "O sarcoma de Ewing é um tumor de células pequenas, redondas e azuis, altamente quimiossensível e radiossensível. O tratamento padrão combina quimioterapia sistêmica intensiva (antes e depois do controle local) com controle local por cirurgia, radioterapia, ou ambos, dependendo da localização e ressecabilidade do tumor.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-053",
+      "tema": "Sarcoma de Ewing - diagnóstico diferencial com osteomielite",
+      "enunciado": "Diante de uma criança com lesão óssea diafisária permeativa, febre e leucocitose, quais achados favoreceriam sarcoma de Ewing em vez de osteomielite aguda?",
+      "alternativas": [
+        "Massa de partes moles associada à lesão óssea na ressonância magnética e ausência de resposta clínica rápida a antibioticoterapia empírica",
+        "Hemocultura positiva para Staphylococcus aureus",
+        "Resposta clínica completa em 48 horas de antibiótico intravenoso",
+        "Presença isolada de abscesso subperiosteal sem componente de partes moles"
+      ],
+      "correta": 0,
+      "comentario": "Embora osteomielite e sarcoma de Ewing possam se apresentar de forma semelhante (dor, febre, alterações inflamatórias laboratoriais, lesão permeativa), a presença de massa de partes moles extensa associada à lesão óssea na ressonância magnética e a falta de resposta a antibioticoterapia empírica adequada devem levantar forte suspeita de neoplasia, justificando biópsia precoce para não retardar o diagnóstico oncológico.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "POD-054",
+      "tema": "Condrossarcoma - epidemiologia",
+      "enunciado": "Paciente de 55 anos apresenta dor insidiosa na pelve, com radiografia mostrando lesão lítica com calcificações em 'pipoca' e espessamento cortical endosteal (endosteal scalloping). Qual o diagnóstico mais provável?",
+      "alternativas": [
+        "Condrossarcoma",
+        "Sarcoma de Ewing",
+        "Osteoma osteoide",
+        "Cisto ósseo aneurismático"
+      ],
+      "correta": 0,
+      "comentario": "O condrossarcoma tipicamente acomete adultos de meia-idade a idosos (diferente do osteossarcoma e Ewing, mais comuns em jovens), com predileção por pelve, fêmur proximal e ombro. Os achados radiográficos característicos incluem calcificações em 'pipoca' (matriz condroide), erosão endosteal (scalloping) e, em lesões de maior grau, destruição cortical e massa de partes moles.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-055",
+      "tema": "Condrossarcoma - graduação e tratamento",
+      "enunciado": "Em relação ao tratamento do condrossarcoma, qual afirmação é correta?",
+      "alternativas": [
+        "Condrossarcomas convencionais de baixo grau podem ser tratados por curetagem intralesional extensa com adjuvantes locais, enquanto os de alto grau requerem ressecção ampla, dado que o tumor é classicamente resistente à quimioterapia e à radioterapia convencionais",
+        "Todos os condrossarcomas, independentemente do grau, respondem bem à quimioterapia sistêmica padrão",
+        "O tratamento padrão para qualquer grau é sempre radioterapia isolada",
+        "A curetagem isolada, sem adjuvantes, é suficiente mesmo em tumores de alto grau"
+      ],
+      "correta": 0,
+      "comentario": "O condrossarcoma convencional é classicamente resistente à quimioterapia e radioterapia, tornando a cirurgia o pilar do tratamento. Lesões de baixo grau (grau 1) podem ser tratadas com curetagem extensa associada a adjuvantes locais (fenol, crioterapia, cimento ósseo), com bons resultados oncológicos, enquanto tumores de grau 2-3 (alto grau) exigem ressecção cirúrgica com margens amplas pelo maior potencial de recidiva local e metástase.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "POD-056",
+      "tema": "Condrossarcoma desdiferenciado",
+      "enunciado": "O que caracteriza o condrossarcoma desdiferenciado?",
+      "alternativas": [
+        "Presença de um componente de condrossarcoma de baixo grau justaposto abruptamente a um sarcoma de alto grau não condroide, com prognóstico significativamente pior que o condrossarcoma convencional",
+        "É uma variante exclusivamente pediátrica e de excelente prognóstico",
+        "Corresponde sempre a uma lesão totalmente benigna",
+        "É sinônimo de osteocondroma múltiplo"
+      ],
+      "correta": 0,
+      "comentario": "O condrossarcoma desdiferenciado é uma variante agressiva na qual coexistem, de forma abrupta e bem delimitada, um componente cartilaginoso de baixo grau e um componente sarcomatoso de alto grau (geralmente indiferenciado, semelhante a osteossarcoma ou histiocitoma fibroso maligno). Apresenta prognóstico muito pior que o condrossarcoma convencional, com alta taxa de metástase precoce, sendo por vezes considerada indicação de quimioterapia, apesar da resistência habitual do componente condroide.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "POD-057",
+      "tema": "Tumores benignos - osteocondroma",
+      "enunciado": "Qual é a característica radiográfica mais típica do osteocondroma solitário?",
+      "alternativas": [
+        "Lesão exofítica metafisária com continuidade cortical e medular com o osso subjacente, recoberta por capa cartilaginosa",
+        "Lesão puramente lítica intramedular sem qualquer componente exofítico",
+        "Calcificação em 'pipoca' central sem continuidade cortical",
+        "Lesão exclusivamente epifisária com áreas de reabsorção"
+      ],
+      "correta": 0,
+      "comentario": "O osteocondroma é o tumor ósseo benigno mais comum, caracterizado por uma protuberância óssea exofítica na metáfise de ossos longos, com continuidade da cortical e da cavidade medular com o osso subjacente ('espelho' da estrutura óssea normal), recoberta por uma capa de cartilagem hialina. A forma múltipla hereditária (exostose múltipla hereditária) apresenta maior risco de transformação maligna (condrossarcoma secundário) em comparação à forma solitária.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-058",
+      "tema": "Encondroma - Ollier e Maffucci",
+      "enunciado": "Paciente com múltiplos encondromas assimétricos nos ossos das mãos e membros, associados a múltiplos hemangiomas de partes moles. Qual síndrome deve ser considerada?",
+      "alternativas": [
+        "Síndrome de Maffucci (encondromatose múltipla associada a hemangiomas de partes moles)",
+        "Doença de Ollier isolada, sem componente vascular",
+        "Síndrome de McCune-Albright",
+        "Neurofibromatose tipo 1"
+      ],
+      "correta": 0,
+      "comentario": "A síndrome de Maffucci associa encondromatose múltipla (semelhante à doença de Ollier) a múltiplos hemangiomas de partes moles, com risco significativo de transformação maligna dos encondromas em condrossarcoma, além de maior predisposição a outras neoplasias. A doença de Ollier apresenta encondromatose múltipla assimétrica sem o componente vascular, também com risco aumentado de malignização em relação ao encondroma solitário.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-059",
+      "tema": "Osteoma osteoide",
+      "enunciado": "Adolescente apresenta dor óssea noturna há meses, com alívio dramático e completo após uso de anti-inflamatório não esteroidal. A tomografia computadorizada mostra um pequeno nicho radiolucente central circundado por esclerose óssea reativa na diáfise da tíbia. Qual o diagnóstico e o tratamento minimamente invasivo de escolha atualmente?",
+      "alternativas": [
+        "Osteoma osteoide; ablação por radiofrequência guiada por imagem",
+        "Osteoblastoma; ressecção em bloco imediata",
+        "Osteossarcoma; quimioterapia neoadjuvante",
+        "Cisto ósseo simples; observação isolada"
+      ],
+      "correta": 0,
+      "comentario": "O osteoma osteoide é um tumor benigno formador de osso, caracterizado por dor noturna com alívio marcante por anti-inflamatórios não esteroidais (relacionado à produção de prostaglandinas pelo nidus), tipicamente na diáfise de ossos longos, com nidus radiolucente central circundado por esclerose reativa (bem evidenciado em TC). A ablação por radiofrequência percutânea guiada por imagem tornou-se o tratamento de escolha, por ser minimamente invasiva e altamente eficaz.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-060",
+      "tema": "Tumor de células gigantes",
+      "enunciado": "Paciente adulto jovem (25 anos), com esqueleto maduro, apresenta lesão lítica excêntrica na epífise/metáfise do fêmur distal, estendendo-se até a superfície subcondral, com aspecto de 'bolhas de sabão' na radiografia. Qual o diagnóstico mais provável?",
+      "alternativas": [
+        "Tumor de células gigantes do osso (TCG)",
+        "Cisto ósseo simples",
+        "Displasia fibrosa",
+        "Osteocondroma"
+      ],
+      "correta": 0,
+      "comentario": "O tumor de células gigantes do osso é classicamente uma lesão de comportamento localmente agressivo (Enneking 3), que ocorre após a fusão da fise (esqueleto maduro), com localização epifisária/metaepifisária característica (fêmur distal, tíbia proximal, rádio distal), lesão lítica excêntrica que se estende até o osso subcondral, com aspecto de 'bolhas de sabão'. O tratamento padrão é a curetagem extensa com adjuvantes locais (fenol, cimento, criocirurgia); denosumabe pode ser usado em casos irressecáveis ou como neoadjuvância.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-061",
+      "tema": "Cisto ósseo simples",
+      "enunciado": "Criança de 8 anos apresenta fratura patológica do úmero proximal após trauma de baixa energia. A radiografia mostra lesão lítica central, bem delimitada, metafisária, com um fragmento cortical caído dentro da cavidade cística (fallen fragment sign). Qual o diagnóstico mais provável e a conduta inicial?",
+      "alternativas": [
+        "Cisto ósseo simples (unicameral); tratamento inicial frequentemente conservador com tratamento da fratura, podendo ser seguido de aspiração/injeção intracística se persistente",
+        "Cisto ósseo aneurismático; embolização arterial de urgência",
+        "Osteossarcoma; amputação primária",
+        "Tumor de células gigantes; denosumabe isolado"
+      ],
+      "correta": 0,
+      "comentario": "O cisto ósseo simples (unicameral) é uma lesão benigna comum em crianças, tipicamente na metáfise do úmero ou fêmur proximal, frequentemente diagnosticado após fratura patológica de baixa energia. O sinal do 'fragmento caído' (fallen fragment sign) - um fragmento cortical que cai para o interior da cavidade cística preenchida por líquido - é um achado característico. Muitas vezes a fratura consolida e o cisto pode até involuir; persistindo, opções incluem aspiração/injeção com corticoide ou substitutos ósseos.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-062",
+      "tema": "Cisto ósseo aneurismático",
+      "enunciado": "Qual característica radiográfica é mais típica do cisto ósseo aneurismático?",
+      "alternativas": [
+        "Lesão excêntrica, expansiva, com aspecto de 'balão' (blow-out), septos internos e possíveis níveis líquido-líquido na ressonância magnética",
+        "Calcificações em 'pipoca' central",
+        "Reação periosteal em 'raios de sol'",
+        "Nicho radiolucente central com esclerose reativa intensa"
+      ],
+      "correta": 0,
+      "comentario": "O cisto ósseo aneurismático caracteristicamente se apresenta como uma lesão lítica excêntrica, expansiva, com afilamento e abaulamento cortical em formato de 'balão' (blow-out), frequentemente com septos internos e, na ressonância magnética, níveis líquido-líquido característicos (embora não patognomônicos, pois também podem ocorrer em osteossarcoma telangiectásico). Pode ser primário ou secundário a outra lesão subjacente (TCG, displasia fibrosa, condroblastoma).",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-063",
+      "tema": "Displasia fibrosa",
+      "enunciado": "Paciente com lesão óssea de aspecto 'vidro fosco' (ground glass) na diáfise/metáfise do fêmur proximal, associada a deformidade em 'cajado de pastor' (shepherd's crook). Quando associada a manchas café-com-leite e puberdade precoce, qual síndrome deve ser considerada?",
+      "alternativas": [
+        "Síndrome de McCune-Albright",
+        "Síndrome de Marfan",
+        "Neurofibromatose tipo 2",
+        "Síndrome de Ehlers-Danlos"
+      ],
+      "correta": 0,
+      "comentario": "A displasia fibrosa caracteriza-se radiograficamente pelo aspecto em 'vidro fosco' e pode causar deformidades progressivas, como a deformidade em 'cajado de pastor' (coxa vara) no fêmur proximal. Quando associada a manchas café-com-leite de bordas irregulares ('costa do Maine') e endocrinopatias como puberdade precoce, compõe a síndrome de McCune-Albright, que pode ainda incluir outras disfunções endócrinas.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-064",
+      "tema": "Lesões por faixa etária - histiocitose de células de Langerhans",
+      "enunciado": "Criança de 4 anos apresenta dor lombar e radiografia com colapso vertebral simétrico e uniforme de um corpo vertebral, mantendo os discos adjacentes preservados (vértebra plana), sem massa de partes moles significativa. Qual o diagnóstico mais provável?",
+      "alternativas": [
+        "Histiocitose de células de Langerhans (granuloma eosinofílico)",
+        "Osteossarcoma vertebral",
+        "Tuberculose vertebral (mal de Pott)",
+        "Metástase de neuroblastoma"
+      ],
+      "correta": 0,
+      "comentario": "A vértebra plana (colapso vertebral uniforme e simétrico, com preservação relativa dos discos intervertebrais adjacentes) em crianças pequenas é um achado clássico da histiocitose de células de Langerhans (granuloma eosinofílico), uma condição geralmente autolimitada, embora possa exigir biópsia para confirmação diagnóstica e exclusão de diagnósticos diferenciais mais agressivos, como tuberculose ou neoplasia maligna.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-065",
+      "tema": "Lesões por localização - condroblastoma",
+      "enunciado": "Adolescente com dor articular no joelho, radiografia mostrando lesão lítica epifisária bem delimitada na epífise femoral distal, com esqueleto ainda imaturo (fises abertas). Qual o diagnóstico mais provável nesse contexto de lesão epifisária em paciente esqueleticamente imaturo?",
+      "alternativas": [
+        "Condroblastoma",
+        "Tumor de células gigantes",
+        "Osteocondroma",
+        "Displasia fibrosa"
+      ],
+      "correta": 0,
+      "comentario": "O condroblastoma é classicamente a lesão lítica epifisária característica em pacientes esqueleticamente imaturos (fises ainda abertas), diferentemente do tumor de células gigantes, que tipicamente ocorre após o fechamento fisário em adultos jovens, também com localização epifisária/metaepifisária. Essa distinção pela maturidade esquelética é um ponto-chave para o diagnóstico diferencial radiográfico.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-066",
+      "tema": "Lesões por localização - osteoblastoma vertebral",
+      "enunciado": "Paciente jovem com dor lombar noturna, parcialmente responsiva a anti-inflamatórios, e lesão lítica expansiva maior que 2 cm nos elementos posteriores de uma vértebra lombar, associada a escoliose dolorosa. Qual o diagnóstico mais provável?",
+      "alternativas": [
+        "Osteoblastoma",
+        "Cisto ósseo simples",
+        "Encondroma",
+        "Osteossarcoma parosteal"
+      ],
+      "correta": 0,
+      "comentario": "O osteoblastoma é histologicamente semelhante ao osteoma osteoide, porém de maior tamanho (geralmente >1,5-2 cm) e comportamento mais agressivo, com predileção pelos elementos posteriores da coluna vertebral, podendo causar dor noturna (com resposta menos dramática a AINEs que o osteoma osteoide) e escoliose dolorosa secundária, um achado clássico em lesões vertebrais benignas nessa faixa etária.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-067",
+      "tema": "Lesões por localização - encondroma de mão",
+      "enunciado": "Qual é a localização mais comum de encondroma solitário no esqueleto?",
+      "alternativas": [
+        "Ossos tubulares curtos das mãos (falanges e metacarpais)",
+        "Corpo vertebral",
+        "Crânio",
+        "Costelas"
+      ],
+      "correta": 0,
+      "comentario": "O encondroma solitário é mais comumente encontrado nos ossos tubulares curtos das mãos (falanges e metacarpais), sendo frequentemente um achado incidental ou se manifestando após fratura patológica em trauma de baixa energia. O risco de transformação maligna do encondroma solitário nas mãos é considerado muito baixo, diferentemente de encondromas em ossos longos/axiais.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-068",
+      "tema": "Metástases ósseas - epidemiologia",
+      "enunciado": "Em um paciente adulto com lesão óssea lítica única e história prévia de neoplasia maligna, quais são as fontes primárias mais comuns de metástase óssea a serem investigadas?",
+      "alternativas": [
+        "Mama, próstata, pulmão, rim e tireoide",
+        "Apenas tumores primários do sistema nervoso central",
+        "Exclusivamente linfomas",
+        "Somente tumores de origem gastrointestinal"
+      ],
+      "correta": 0,
+      "comentario": "As neoplasias que mais frequentemente metastatizam para o osso em adultos são carcinoma de mama, próstata, pulmão, rim e tireoide, sendo o esqueleto axial (coluna, pelve, costelas) e a porção proximal dos ossos longos os locais mais acometidos. Metástases de mama e próstata costumam ser blásticas ou mistas, enquanto as de rim e tireoide tendem a ser predominantemente líticas.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-069",
+      "tema": "Metástases ósseas - escore de Mirels",
+      "enunciado": "O escore de Mirels, utilizado para avaliar o risco de fratura patológica iminente em lesões metastáticas de ossos longos, avalia quais parâmetros?",
+      "alternativas": [
+        "Localização da lesão, tamanho relativo (% do diâmetro cortical), caráter da lesão (lítica, blástica ou mista) e presença/intensidade da dor",
+        "Apenas o tipo histológico do tumor primário",
+        "Somente a idade do paciente",
+        "Exclusivamente o nível sérico de fosfatase alcalina"
+      ],
+      "correta": 0,
+      "comentario": "O escore de Mirels pontua de 1 a 3 pontos em quatro categorias - localização anatômica (membro superior, inferior ou peritrocantérica), tamanho da lesão em relação ao diâmetro do osso (<1/3, 1/3-2/3, >2/3), caráter radiográfico (blástica, mista, lítica) e grau de dor (leve, moderada, funcional/mecânica) -, totalizando até 12 pontos. Escores ≥9 indicam alto risco de fratura iminente e geralmente motivam fixação profilática.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-070",
+      "tema": "Metástases ósseas - conduta cirúrgica",
+      "enunciado": "Paciente com metástase óssea única no fêmur proximal, escore de Mirels de 10, sem fratura estabelecida. Qual a conduta mais apropriada?",
+      "alternativas": [
+        "Fixação cirúrgica profilática, geralmente associada à radioterapia pós-operatória",
+        "Apenas acompanhamento clínico e radiográfico seriado sem intervenção",
+        "Amputação do membro",
+        "Quimioterapia isolada sem qualquer abordagem cirúrgica ou ortopédica local"
+      ],
+      "correta": 0,
+      "comentario": "Um escore de Mirels ≥9 indica alto risco de fratura patológica iminente, sendo indicação de fixação cirúrgica profilática (com haste intramedular ou outro dispositivo, conforme a localização), que reduz morbidade e melhora a qualidade de vida em comparação ao tratamento de uma fratura já estabelecida. A radioterapia pós-operatória é frequentemente associada para controle local do tumor residual e prevenção de progressão.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-071",
+      "tema": "Metástases ósseas - biópsia em tumor primário desconhecido",
+      "enunciado": "Paciente de 60 anos, sem história oncológica conhecida, apresenta lesão óssea lítica isolada no fêmur. Qual é a conduta inicial mais adequada antes de qualquer tratamento cirúrgico definitivo?",
+      "alternativas": [
+        "Investigação sistêmica (incluindo exames de imagem para rastreio de tumor primário) e biópsia da lesão óssea para confirmação histológica antes de definir o tratamento",
+        "Fixação cirúrgica imediata sem biópsia, assumindo tratar-se de metástase",
+        "Amputação primária empírica",
+        "Início imediato de quimioterapia empírica sem diagnóstico histológico"
+      ],
+      "correta": 0,
+      "comentario": "Diante de uma lesão óssea isolada em paciente sem diagnóstico oncológico prévio conhecido, é fundamental não assumir automaticamente tratar-se de metástase: deve-se investigar um possível tumor primário e, principalmente, realizar biópsia da lesão óssea antes de qualquer tratamento cirúrgico definitivo, pois o manejo (e o cirurgião responsável) pode diferir substancialmente se a lesão for, por exemplo, um sarcoma primário em vez de uma metástase.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-072",
+      "tema": "Sarcomas de partes moles - apresentação clínica",
+      "enunciado": "Qual característica clínica de uma massa de partes moles deve levantar forte suspeita de sarcoma, justificando investigação por imagem e biópsia?",
+      "alternativas": [
+        "Massa indolor, de crescimento progressivo, com diâmetro maior que 5 cm e/ou localização profunda em relação à fáscia muscular",
+        "Massa móvel, superficial, com menos de 2 cm e estável há anos",
+        "Presença de flutuação e sinais flogísticos agudos sugestivos de abscesso",
+        "Massa que reduz de tamanho espontaneamente em poucas semanas"
+      ],
+      "correta": 0,
+      "comentario": "Massas de partes moles com diâmetro maior que 5 cm, localização profunda à fáscia muscular, crescimento progressivo e caráter indolor (mesmo sendo assintomáticas) são fatores de alto risco para sarcoma de partes moles, devendo ser investigadas com ressonância magnética e biópsia (preferencialmente por agulha grossa/core needle) antes de qualquer excisão, para evitar excisão inadvertida (marginal) de um sarcoma.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-073",
+      "tema": "Sarcomas de partes moles - biópsia e margens",
+      "enunciado": "Qual é a técnica de biópsia preferida para investigação inicial de uma massa de partes moles suspeita de sarcoma?",
+      "alternativas": [
+        "Biópsia percutânea por agulha grossa (core needle biopsy), guiada por imagem quando necessário",
+        "Excisão completa da massa sem biópsia prévia (biópsia excisional) como rotina em todos os casos",
+        "Aspiração por agulha fina isoladamente, sem confirmação histológica adicional",
+        "Observação clínica sem qualquer biópsia até crescimento de mais de 10 cm"
+      ],
+      "correta": 0,
+      "comentario": "A biópsia percutânea por agulha grossa (core needle biopsy) é a técnica preferida para diagnóstico inicial de massas de partes moles suspeitas, por ser minimamente invasiva, permitir diagnóstico histológico acurado na maioria dos casos e não comprometer o planejamento cirúrgico definitivo, ao contrário da biópsia excisional não planejada, que pode contaminar múltiplos compartimentos e prejudicar a ressecção oncológica subsequente.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-074",
+      "tema": "Sarcomas de partes moles - lipossarcoma",
+      "enunciado": "Qual é o sarcoma de partes moles mais comum em adultos, com subtipos que variam desde formas de baixo grau (bem diferenciado) até formas de alto grau (pleomórfico)?",
+      "alternativas": [
+        "Lipossarcoma",
+        "Rabdomiossarcoma embrionário",
+        "Sarcoma sinovial",
+        "Tumor desmoide"
+      ],
+      "correta": 0,
+      "comentario": "O lipossarcoma é um dos sarcomas de partes moles mais comuns em adultos, com diversos subtipos histológicos que vão desde o lipossarcoma bem diferenciado (comportamento indolente, localmente agressivo) até o lipossarcoma pleomórfico (alto grau, com potencial metastático significativo), passando pelo mixoide e o desdiferenciado, cada um com implicações prognósticas e terapêuticas distintas.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-075",
+      "tema": "Sarcomas de partes moles - sarcoma pleomórfico indiferenciado",
+      "enunciado": "Em pacientes idosos com sarcoma de partes moles de alto grau nas extremidades, sem diferenciação histológica específica identificável, qual diagnóstico histológico (antigamente denominado histiocitoma fibroso maligno) deve ser considerado?",
+      "alternativas": [
+        "Sarcoma pleomórfico indiferenciado",
+        "Sarcoma de Ewing extraósseo em criança",
+        "Rabdomiossarcoma embrionário",
+        "Tumor desmoide"
+      ],
+      "correta": 0,
+      "comentario": "O sarcoma pleomórfico indiferenciado (antigo histiocitoma fibroso maligno) é um dos sarcomas de partes moles mais comuns em adultos idosos, correspondendo a um diagnóstico de exclusão quando não se identifica uma linhagem de diferenciação específica por imuno-histoquímica, sendo tratado com os mesmos princípios oncológicos dos demais sarcomas de partes moles de alto grau (ressecção com margens amplas, radioterapia adjuvante conforme o caso).",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "POD-076",
+      "tema": "Osteomielite aguda hematogênica",
+      "enunciado": "Criança de 6 anos apresenta febre, dor e recusa de apoio no membro inferior há 3 dias, com hemocultura positiva. Qual é o agente etiológico mais comum da osteomielite hematogênica aguda nessa faixa etária?",
+      "alternativas": [
+        "Staphylococcus aureus",
+        "Pseudomonas aeruginosa",
+        "Salmonella sp.",
+        "Mycobacterium tuberculosis"
+      ],
+      "correta": 0,
+      "comentario": "O Staphylococcus aureus é o agente etiológico mais comum de osteomielite hematogênica aguda em crianças e adultos, disseminando-se tipicamente por via hematogênica para a metáfise de ossos longos (região de fluxo sanguíneo lentificado nos capilares sinusoides). A Salmonella deve ser considerada especialmente em pacientes com anemia falciforme, e Pseudomonas em usuários de drogas intravenosas ou perfurações plantares através de calçados.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-077",
+      "tema": "Osteomielite aguda - diagnóstico",
+      "enunciado": "Qual exame de imagem apresenta a maior sensibilidade para detecção precoce de osteomielite aguda, incluindo alterações de edema medular antes de mudanças líticas visíveis na radiografia simples?",
+      "alternativas": [
+        "Ressonância magnética",
+        "Radiografia simples",
+        "Ultrassonografia de partes moles",
+        "Densitometria óssea"
+      ],
+      "correta": 0,
+      "comentario": "A ressonância magnética é o exame de imagem mais sensível para diagnóstico precoce de osteomielite aguda, capaz de detectar edema de medula óssea, abscessos subperiosteais e coleções de partes moles antes que alterações líticas se tornem visíveis na radiografia simples (que costuma levar 10-14 dias para mostrar alterações). A radiografia inicial é útil principalmente para excluir outras causas e como referência basal.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-078",
+      "tema": "Osteomielite crônica - sequestro e invólucro",
+      "enunciado": "Em osteomielite crônica, o que representam, respectivamente, o 'sequestro' e o 'invólucro' (involucrum)?",
+      "alternativas": [
+        "Sequestro é o fragmento de osso necrótico desvitalizado; invólucro é o osso novo reativo formado pelo periósteo ao redor do sequestro",
+        "Sequestro é o novo osso periosteal; invólucro é o fragmento necrótico",
+        "Ambos os termos são sinônimos e representam o mesmo achado",
+        "Sequestro refere-se apenas a abscessos de partes moles"
+      ],
+      "correta": 0,
+      "comentario": "Na osteomielite crônica, o sequestro é um fragmento de osso necrótico, avascular, que se separa do osso viável adjacente e serve como nicho protegido para bactérias (dificultando a penetração antibiótica). O invólucro é a formação de osso novo reativo pelo periósteo elevado, envolvendo o sequestro. O tratamento definitivo geralmente exige a remoção cirúrgica (sequestrectomia) do osso necrótico, pois o antibiótico isoladamente não penetra adequadamente no tecido desvitalizado.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-079",
+      "tema": "Osteomielite - classificação de Cierny-Mader",
+      "enunciado": "A classificação de Cierny-Mader para osteomielite crônica baseia-se em quais dois eixos principais?",
+      "alternativas": [
+        "Tipo anatômico da lesão óssea (I a IV) e classe fisiológica do hospedeiro (A, B, C, conforme comorbidades e capacidade de cicatrização)",
+        "Apenas o agente etiológico isolado em cultura",
+        "Somente o tempo de evolução dos sintomas em semanas",
+        "Exclusivamente o resultado da ressonância magnética"
+      ],
+      "correta": 0,
+      "comentario": "A classificação de Cierny-Mader combina o tipo anatômico da osteomielite (I - medular; II - superficial; III - localizada, envolvendo espessura parcial da cortical, mecanicamente estável; IV - difusa, envolvendo todo o diâmetro ósseo, mecanicamente instável) com a classe fisiológica do hospedeiro (A - sadio; B - comprometimento local ou sistêmico; C - tratamento pior que a doença), orientando o planejamento terapêutico e o prognóstico.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "POD-080",
+      "tema": "Osteomielite crônica - tratamento",
+      "enunciado": "Qual é o princípio fundamental do tratamento cirúrgico da osteomielite crônica estabelecida (com sequestro)?",
+      "alternativas": [
+        "Desbridamento cirúrgico radical de todo o tecido ósseo e de partes moles desvitalizado (sequestrectomia), associado a antibioticoterapia prolongada e, quando necessário, manejo do espaço morto resultante",
+        "Antibioticoterapia isolada prolongada, sem qualquer intervenção cirúrgica",
+        "Amputação primária em todos os casos, independente da extensão",
+        "Uso exclusivo de antibióticos tópicos sem debridamento"
+      ],
+      "correta": 0,
+      "comentario": "O tratamento eficaz da osteomielite crônica estabelecida exige desbridamento cirúrgico radical, removendo todo o osso necrótico (sequestrectomia) e tecido infectado/desvitalizado, pois antibióticos isoladamente não penetram adequadamente em tecido avascular. Após o desbridamento, é necessário manejar o espaço morto resultante (enxertos, retalhos, espaçadores com antibiótico) e manter antibioticoterapia sistêmica prolongada guiada por cultura.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-081",
+      "tema": "Artrite séptica do adulto",
+      "enunciado": "Qual é a articulação mais comumente acometida por artrite séptica hematogênica no adulto, e qual o agente etiológico mais frequente?",
+      "alternativas": [
+        "Joelho; Staphylococcus aureus",
+        "Quadril; Neisseria gonorrhoeae exclusivamente",
+        "Cotovelo; Escherichia coli",
+        "Tornozelo; Mycobacterium tuberculosis"
+      ],
+      "correta": 0,
+      "comentario": "No adulto, o joelho é a articulação mais frequentemente acometida por artrite séptica de disseminação hematogênica, sendo o Staphylococcus aureus o agente etiológico mais comum. Em adultos jovens sexualmente ativos, a Neisseria gonorrhoeae deve ser considerada como causa importante, especialmente quando há poliartralgia migratória e lesões cutâneas associadas (artrite gonocócica disseminada).",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-082",
+      "tema": "Artrite séptica - análise do líquido sinovial",
+      "enunciado": "Na análise do líquido sinovial de uma articulação com suspeita de artrite séptica, qual achado é mais fortemente sugestivo de infecção bacteriana em comparação com artrite inflamatória não infecciosa?",
+      "alternativas": [
+        "Contagem de leucócitos acima de 50.000/mm³ com predomínio de polimorfonucleares (>90%)",
+        "Contagem de leucócitos abaixo de 200/mm³",
+        "Predomínio de eosinófilos no líquido sinovial",
+        "Presença isolada de cristais de urato monossódico, sem elevação leucocitária"
+      ],
+      "correta": 0,
+      "comentario": "Uma contagem leucocitária no líquido sinovial acima de 50.000/mm³, com marcado predomínio de neutrófilos (>90%), é altamente sugestiva de artrite séptica bacteriana, embora a coleta de cultura e Gram seja essencial para confirmação e identificação do agente. É importante lembrar que artropatias microcristalinas (gota, pseudogota) também podem cursar com contagens elevadas, exigindo análise cuidadosa (pesquisa de cristais) e alto índice de suspeição, já que as duas condições podem inclusive coexistir.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-083",
+      "tema": "Artrite séptica - tratamento",
+      "enunciado": "Qual é o tratamento de escolha diante do diagnóstico confirmado de artrite séptica bacteriana em uma articulação nativa?",
+      "alternativas": [
+        "Drenagem cirúrgica de urgência (artrotomia ou artroscopia) associada a antibioticoterapia sistêmica guiada por cultura",
+        "Antibioticoterapia oral ambulatorial isolada, sem necessidade de drenagem",
+        "Apenas aspiração diagnóstica única, sem necessidade de drenagem cirúrgica formal",
+        "Observação clínica com reavaliação em 2 semanas"
+      ],
+      "correta": 0,
+      "comentario": "A artrite séptica bacteriana em articulação nativa é uma emergência ortopédica, pois a permanência de bactérias e enzimas proteolíticas no espaço articular causa destruição rápida e irreversível da cartilagem. O tratamento padrão combina drenagem cirúrgica de urgência (artrotomia ou artroscopia, com lavagem abundante) e antibioticoterapia sistêmica intravenosa, inicialmente empírica e depois ajustada conforme cultura e antibiograma.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-084",
+      "tema": "Infecção periprotética - critérios diagnósticos",
+      "enunciado": "Segundo os critérios da Musculoskeletal Infection Society/ICM para infecção articular periprotética, quais achados constituem critérios maiores (praticamente diagnósticos por si só)?",
+      "alternativas": [
+        "Presença de fístula comunicando-se com a prótese, ou dois cultivos com isolamento do mesmo microrganismo",
+        "Apenas VHS e PCR elevados isoladamente",
+        "Apenas dor articular referida pelo paciente",
+        "Somente presença de radiolucência periprotética na radiografia"
+      ],
+      "correta": 0,
+      "comentario": "Os critérios maiores para infecção periprotética incluem a presença de trajeto fistuloso comunicante com a articulação protética ou o isolamento do mesmo microrganismo patogênico em duas ou mais culturas separadas de tecido/líquido periarticular. Na ausência desses critérios maiores, o diagnóstico é feito por uma combinação de critérios menores (VHS/PCR elevados, contagem leucocitária e percentual de neutrófilos no líquido sinovial, presença de pus intraoperatório, histologia positiva, cultura única positiva).",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "POD-085",
+      "tema": "Infecção periprotética - classificação temporal",
+      "enunciado": "Como se classifica, em relação ao tempo de instalação, uma infecção periprotética que se manifesta subitamente 2 anos após a artroplastia, em paciente previamente assintomático, associada a bacteremia recente por foco dentário?",
+      "alternativas": [
+        "Infecção hematogênica aguda (tardia)",
+        "Infecção pós-operatória aguda precoce",
+        "Infecção crônica de baixo grau desde a cirurgia índice",
+        "Contaminação intraoperatória subclínica manifestada tardiamente sem relação com bacteremia"
+      ],
+      "correta": 0,
+      "comentario": "A infecção periprotética hematogênica aguda ocorre em uma prótese previamente bem funcionante, geralmente meses a anos após a cirurgia, secundária à disseminação hematogênica a partir de um foco infeccioso à distância (dentário, urinário, cutâneo, entre outros), manifestando-se com início súbito de sintomas. Isso contrasta com a infecção pós-operatória aguda (dentro de semanas da cirurgia índice) e a infecção crônica de baixo grau (sintomas insidiosos e progressivos desde a cirurgia).",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-086",
+      "tema": "Infecção periprotética - tratamento (DAIR)",
+      "enunciado": "O procedimento de debridamento, antibioticoterapia e retenção do implante (DAIR) é mais indicado em qual cenário de infecção periprotética?",
+      "alternativas": [
+        "Infecção aguda (pós-operatória precoce ou hematogênica aguda), com prótese bem fixada e curto tempo de sintomas",
+        "Infecção crônica de longa data com implante solto e biofilme maduro estabelecido",
+        "Sempre como primeira escolha, independentemente do tempo de sintomas ou fixação do implante",
+        "Apenas em casos de infecção fúngica periprotética"
+      ],
+      "correta": 0,
+      "comentario": "O DAIR (debridamento cirúrgico, troca de componentes modulares quando possível, antibioticoterapia e retenção do implante) tem melhores taxas de sucesso quando realizado precocemente, em infecções agudas (curta duração de sintomas, geralmente menos de 3-4 semanas), com implante bem fixado e sem trajeto fistuloso crônico. Em infecções crônicas com biofilme maduro e/ou implante solto, a revisão em um ou dois estágios (com remoção completa dos componentes) apresenta taxas de erradicação superiores.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-087",
+      "tema": "Infecção periprotética - espaçador de cimento",
+      "enunciado": "Na revisão em dois estágios para infecção periprotética crônica, qual é a função do espaçador de cimento com antibiótico colocado entre a remoção do implante infectado e a reimplantação definitiva?",
+      "alternativas": [
+        "Fornecer altas concentrações locais de antibiótico, manter o espaço articular e a tensão de partes moles, e permitir alguma função temporária do membro",
+        "Substituir definitivamente a prótese, sem necessidade de reimplantação posterior",
+        "Servir apenas como material de preenchimento sem qualquer efeito antimicrobiano",
+        "Promover fusão óssea permanente da articulação"
+      ],
+      "correta": 0,
+      "comentario": "O espaçador de cimento com antibiótico (impregnado com agentes como vancomicina e/ou aminoglicosídeos) tem múltiplas funções na revisão em dois estágios: liberar altas concentrações locais de antibiótico diretamente no sítio da infecção, manter o comprimento do membro e a tensão de partes moles (facilitando a reimplantação posterior) e permitir alguma mobilidade e função temporárias, enquanto se aguarda a erradicação da infecção antes da reimplantação definitiva do novo implante.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-088",
+      "tema": "Tuberculose osteoarticular - mal de Pott",
+      "enunciado": "Paciente com dor lombar crônica, febre baixa vespertina, perda de peso e imagem de abscesso paravertebral com destruição de dois corpos vertebrais adjacentes e do disco intervertebral entre eles. Qual o diagnóstico mais provável?",
+      "alternativas": [
+        "Tuberculose vertebral (mal de Pott)",
+        "Osteoma osteoide vertebral",
+        "Hérnia de disco degenerativa simples",
+        "Fratura por compressão osteoporótica isolada"
+      ],
+      "correta": 0,
+      "comentario": "A tuberculose vertebral (mal de Pott) tipicamente acomete a coluna torácica baixa e lombar, com destruição progressiva de corpos vertebrais adjacentes e do disco intervertebral (diferentemente de neoplasias, que costumam poupar o disco), formação de abscessos paravertebrais 'frios' (sem sinais flogísticos exuberantes) e sintomas sistêmicos insidiosos como febre baixa vespertina, sudorese noturna e perda ponderal.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-089",
+      "tema": "Tuberculose osteoarticular - tratamento",
+      "enunciado": "Qual é a base do tratamento da tuberculose osteoarticular confirmada?",
+      "alternativas": [
+        "Poliquimioterapia antituberculosa prolongada (esquema RIPE), reservando a cirurgia para casos com instabilidade, deformidade progressiva, abscesso extenso ou déficit neurológico",
+        "Cirurgia isolada de ressecção, sem necessidade de tratamento medicamentoso",
+        "Apenas repouso e imobilização, sem antibioticoterapia específica",
+        "Corticoterapia isolada em altas doses como tratamento definitivo"
+      ],
+      "correta": 0,
+      "comentario": "O tratamento primário da tuberculose osteoarticular é a poliquimioterapia antituberculosa prolongada (esquema RIPE - rifampicina, isoniazida, pirazinamida, etambutol), geralmente por 6-12 meses conforme a gravidade e resposta. O tratamento cirúrgico é reservado para complicações específicas, como instabilidade vertebral, deformidade progressiva (cifose), abscessos volumosos não responsivos, ou déficit neurológico por compressão medular/radicular.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-090",
+      "tema": "Osteoporose - critérios diagnósticos (DEXA)",
+      "enunciado": "Segundo os critérios da Organização Mundial da Saúde baseados na densitometria óssea (DEXA), qual T-score define osteoporose?",
+      "alternativas": [
+        "T-score igual ou inferior a -2,5 desvios-padrão",
+        "T-score entre -1,0 e -2,5 desvios-padrão",
+        "T-score acima de -1,0 desvio-padrão",
+        "T-score não é utilizado no diagnóstico de osteoporose"
+      ],
+      "correta": 0,
+      "comentario": "O diagnóstico densitométrico de osteoporose, segundo os critérios da OMS, é definido por um T-score igual ou inferior a -2,5 desvios-padrão em relação à densidade mineral óssea de referência de adultos jovens saudáveis. Valores de T-score entre -1,0 e -2,5 definem osteopenia (baixa massa óssea), e valores acima de -1,0 são considerados normais.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-091",
+      "tema": "Osteoporose - tratamento farmacológico",
+      "enunciado": "Paciente em uso prolongado de bifosfonato oral para osteoporose apresenta dor na coxa há semanas, e a radiografia mostra uma linha de fratura transversa lateral no córtex, com espessamento cortical localizado, sem trauma significativo. Qual complicação deve ser considerada?",
+      "alternativas": [
+        "Fratura atípica de fêmur associada ao uso prolongado de bifosfonatos",
+        "Osteomielite hematogênica aguda",
+        "Fratura patológica por metástase óssea",
+        "Sinal precoce de displasia fibrosa"
+      ],
+      "correta": 0,
+      "comentario": "As fraturas atípicas de fêmur são uma complicação rara, porém bem descrita, associada ao uso prolongado de bifosfonatos (geralmente após 5 anos ou mais de terapia), caracterizadas por traço transverso ou levemente oblíquo na região subtrocantérica/diafisária lateral, com espessamento cortical localizado e frequentemente precedidas por dor prodrômica na coxa. O reconhecimento precoce é importante para avaliar o fêmur contralateral e reconsiderar a terapia antirreabsortiva.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "POD-092",
+      "tema": "Osteoporose - fraturas por fragilidade",
+      "enunciado": "Quais são os três sítios clássicos de fraturas por fragilidade relacionadas à osteoporose?",
+      "alternativas": [
+        "Coluna vertebral (corpos vertebrais), fêmur proximal (quadril) e rádio distal (punho)",
+        "Escafoide, capitato e trapézio",
+        "Patela, tálus e calcâneo",
+        "Clavícula, escápula e esterno"
+      ],
+      "correta": 0,
+      "comentario": "As fraturas por fragilidade osteoporótica mais características ocorrem em três sítios clássicos: corpos vertebrais (frequentemente assintomáticas ou com dor lombar/torácica e perda de altura), fêmur proximal (quadril, associada a alta morbimortalidade em idosos) e rádio distal (punho, tipicamente após queda sobre a mão espalmada). Sua ocorrência, mesmo após trauma de baixa energia, deve motivar investigação e tratamento da osteoporose subjacente.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-093",
+      "tema": "Osteoporose - avaliação de risco (FRAX)",
+      "enunciado": "Qual é a finalidade da ferramenta FRAX (Fracture Risk Assessment Tool) na avaliação de pacientes com osteopenia/osteoporose?",
+      "alternativas": [
+        "Estimar o risco absoluto de fratura osteoporótica maior e de fratura de quadril nos próximos 10 anos, combinando fatores de risco clínicos com ou sem a densidade mineral óssea",
+        "Substituir completamente a necessidade de densitometria óssea em todos os pacientes",
+        "Diagnosticar exclusivamente doença de Paget",
+        "Calcular apenas o risco cirúrgico perioperatório"
+      ],
+      "correta": 0,
+      "comentario": "O FRAX é uma ferramenta validada que estima o risco absoluto de fratura osteoporótica maior (vertebral, quadril, punho, úmero) e especificamente de fratura de quadril em 10 anos, integrando fatores de risco clínicos (idade, sexo, IMC, história pessoal/familiar de fratura, uso de corticoide, tabagismo, etilismo, artrite reumatoide) com ou sem o valor de densidade mineral óssea do colo femoral, auxiliando na decisão de iniciar tratamento farmacológico.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-094",
+      "tema": "Doença de Paget - fases e laboratório",
+      "enunciado": "Qual alteração laboratorial é classicamente observada na doença de Paget óssea, refletindo a atividade osteoblástica aumentada?",
+      "alternativas": [
+        "Elevação da fosfatase alcalina sérica, geralmente com cálcio e fósforo séricos normais",
+        "Hipercalcemia acentuada com fosfatase alcalina normal",
+        "Hipocalcemia grave associada a hiperfosfatemia",
+        "Elevação isolada do PSA (antígeno prostático específico)"
+      ],
+      "correta": 0,
+      "comentario": "A doença de Paget óssea caracteriza-se por um turnover ósseo desorganizado e acelerado (fases lítica, mista e blástica), com elevação da fosfatase alcalina sérica como marcador bioquímico clássico de atividade da doença, geralmente com níveis normais de cálcio e fósforo séricos (diferentemente de distúrbios paratireoidianos). Radiograficamente, observam-se espessamento cortical, deformidade em arco e padrão trabecular grosseiro característico.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-095",
+      "tema": "Doença de Paget - complicações",
+      "enunciado": "Qual é uma complicação maligna rara, porém grave, da doença de Paget óssea de longa evolução?",
+      "alternativas": [
+        "Degeneração sarcomatosa (osteossarcoma secundário), geralmente associada a piora súbita da dor em um osso previamente estável",
+        "Transformação em linfoma de Hodgkin",
+        "Desenvolvimento invariável de carcinoma de tireoide",
+        "Evolução universal para insuficiência renal terminal"
+      ],
+      "correta": 0,
+      "comentario": "Embora rara (ocorrendo em uma pequena porcentagem dos pacientes com Paget poliostótico extenso), a degeneração sarcomatosa (mais comumente osteossarcoma secundário, mas também condrossarcoma ou fibrossarcoma) é a complicação maligna mais temida da doença de Paget óssea, devendo ser suspeitada diante de piora súbita e importante da dor, aumento de volume ou nova lesão lítica agressiva em um osso previamente afetado pela doença, com prognóstico consideravelmente pior que o osteossarcoma primário do jovem.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "POD-096",
+      "tema": "Raquitismo/osteomalácia - achados radiográficos",
+      "enunciado": "Paciente adulto com deficiência crônica de vitamina D apresenta dor óssea difusa e fraqueza muscular proximal, com radiografia mostrando linhas radiolucentes transversais na cortical óssea (pseudofraturas). Qual o nome dado a esse achado radiográfico e o diagnóstico associado?",
+      "alternativas": [
+        "Linhas de Looser (zonas de Milkman), características de osteomalácia",
+        "Linhas de Harris, características de crescimento normal encerrado",
+        "Triângulo de Codman, característico de osteossarcoma",
+        "Sinal do halo, característico de afrouxamento protético"
+      ],
+      "correta": 0,
+      "comentario": "As linhas de Looser (também chamadas zonas de Milkman ou pseudofraturas) são faixas radiolucentes transversais, geralmente bilaterais e simétricas, encontradas em ossos como o colo femoral, ramos púbicos e escápula, representando áreas de mineralização deficiente do osteoide e sendo um achado radiográfico característico da osteomalácia no adulto (o equivalente do raquitismo, que ocorre em crianças com fises abertas).",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "POD-097",
+      "tema": "Raquitismo - deformidades em crianças",
+      "enunciado": "Criança com raquitismo carencial (deficiência de vitamina D) apresenta alargamento das placas de crescimento nos punhos e joelhos e deformidade em varo progressiva dos membros inferiores. Qual é o mecanismo fisiopatológico principal dessas alterações?",
+      "alternativas": [
+        "Falha na mineralização da matriz osteoide na placa de crescimento e no osso, levando a alargamento fisário e deformidades angulares progressivas sob carga",
+        "Destruição infecciosa direta da placa de crescimento por bactérias",
+        "Neoplasia primária da placa de crescimento",
+        "Consolidação viciosa de fratura prévia não tratada"
+      ],
+      "correta": 0,
+      "comentario": "No raquitismo, a deficiência de vitamina D (ou defeitos no seu metabolismo/ação) compromete a mineralização adequada da matriz osteoide recém-formada na placa de crescimento e no osso, resultando em acúmulo de tecido osteoide não mineralizado, alargamento e irregularidade das fises (evidente ao alargamento metafisário nos punhos e joelhos) e deformidades angulares progressivas (geno varo é comum) decorrentes do amolecimento ósseo sob carga mecânica.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-098",
+      "tema": "Hiperparatireoidismo - tumor marrom",
+      "enunciado": "Paciente com hiperparatireoidismo primário de longa evolução apresenta lesão óssea lítica bem delimitada, associada a hipercalcemia e elevação do PTH sérico. Qual é o diagnóstico dessa lesão óssea associada, e qual seu principal diagnóstico diferencial histológico?",
+      "alternativas": [
+        "Tumor marrom (osteíte fibrosa cística), que pode ser histologicamente indistinguível do tumor de células gigantes do osso",
+        "Osteossarcoma clássico, facilmente distinguível de qualquer outra lesão",
+        "Condrossarcoma central, com matriz condroide evidente",
+        "Cisto ósseo simples, sem qualquer relação com o hiperparatireoidismo"
+      ],
+      "correta": 0,
+      "comentario": "O tumor marrom é uma manifestação óssea do hiperparatireoidismo (primário ou secundário) de longa evolução, decorrente da reabsorção óssea osteoclástica excessiva com substituição por tecido fibrovascular e hemorragia (osteíte fibrosa cística), sendo histologicamente muito semelhante ao tumor de células gigantes do osso - a correlação com hipercalcemia e PTH elevado, e a eventual regressão da lesão após correção do hiperparatireoidismo, são fundamentais para o diagnóstico diferencial correto.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "POD-099",
+      "tema": "Gota - artropatia microcristalina",
+      "enunciado": "Paciente com crise aguda de monoartrite na primeira articulação metatarsofalângica (podagra), com líquido sinovial mostrando cristais em forma de agulha, fortemente birrefringentes negativos à luz polarizada. Qual o diagnóstico mais provável?",
+      "alternativas": [
+        "Gota (artropatia por cristais de urato monossódico)",
+        "Pseudogota (condrocalcinose por cristais de pirofosfato de cálcio)",
+        "Artrite reumatoide",
+        "Artrite séptica gonocócica"
+      ],
+      "correta": 0,
+      "comentario": "A gota é causada pela deposição de cristais de urato monossódico nas articulações, classicamente afetando a primeira articulação metatarsofalângica (podagra), com cristais em forma de agulha e birrefringência negativa fortemente característica à microscopia de luz polarizada, diferenciando-se da pseudogota (cristais de pirofosfato de cálcio, romboides, birrefringência fracamente positiva). O diagnóstico definitivo é feito pela identificação dos cristais no líquido sinovial.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "POD-100",
+      "tema": "Artrite reumatoide - aspectos ortopédicos",
+      "enunciado": "Paciente com artrite reumatoide de longa evolução deve ser avaliado com radiografias dinâmicas (flexão/extensão) da coluna cervical antes de qualquer procedimento cirúrgico eletivo com intubação orotraqueal, pela possibilidade de qual complicação potencialmente grave?",
+      "alternativas": [
+        "Instabilidade atlantoaxial por erosão/frouxidão do ligamento transverso do atlas, com risco de compressão medular à manipulação cervical",
+        "Ruptura espontânea do tendão de Aquiles bilateral",
+        "Fratura patológica obrigatória do fêmur proximal",
+        "Desenvolvimento inevitável de osteossarcoma secundário"
+      ],
+      "correta": 0,
+      "comentario": "Na artrite reumatoide, o acometimento sinovial crônico pode erodir o ligamento transverso do atlas e as estruturas ósseas adjacentes, resultando em instabilidade atlantoaxial (subluxação C1-C2), que representa risco de compressão medular grave durante manipulação cervical para intubação orotraqueal ou posicionamento cirúrgico. Por isso, a avaliação radiográfica cervical dinâmica pré-operatória é uma recomendação importante em pacientes com artrite reumatoide estabelecida submetidos a cirurgias eletivas sob anestesia geral.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    }
+  ]
+}

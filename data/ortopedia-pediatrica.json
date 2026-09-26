@@ -285,7 +285,7 @@
       "correta": 3,
       "comentario": "Os sinais de 'cabeça em risco' descritos por Catterall incluem o sinal de Gage, a calcificação lateral à epífise, a subluxação lateral progressiva da cabeça femoral, a horizontalização da placa de crescimento (fise) e a presença de reação metafisária difusa. Esses sinais indicam maior risco de deformação da cabeça femoral e podem influenciar a decisão de tratamento cirúrgico de contenção. A fusão precoce da cartilagem trirradiada não faz parte desses critérios; trata-se de um achado relacionado a outras condições, como algumas complicações pós-traumáticas do acetábulo.",
       "referencia": "Tachdjian's Pediatric Orthopaedics",
-      "dificuldade": "dificil"
+      "dificuldade": "facil"
     },
     {
       "id": "PED-020",
@@ -870,7 +870,7 @@
       "correta": 0,
       "comentario": "O método do multiplicador de Paley e o gráfico de linha reta (straight-line graph) de Moseley são ferramentas clássicas para prever a discrepância de comprimento dos membros na maturidade esquelética, a partir de medições seriadas do comprimento dos membros em diferentes idades, considerando o crescimento remanescente esperado das fises envolvidas. Esses métodos auxiliam no planejamento do momento ideal para intervenções como epifisiodese, calculando a discrepância projetada final, aspecto fundamental para a decisão terapêutica correta.",
       "referencia": "Tachdjian's Pediatric Orthopaedics",
-      "dificuldade": "dificil"
+      "dificuldade": "facil"
     },
     {
       "id": "PED-059",
@@ -915,7 +915,7 @@
       "correta": 1,
       "comentario": "A hemimelia fibular congênita (deficiência longitudinal da fíbula) é uma causa congênita clássica de discrepância de comprimento dos membros inferiores, frequentemente associada a outras anormalidades ipsilaterais, como deficiência ou ausência do ligamento cruzado anterior, instabilidade do joelho, deformidades do pé (ausência de raios laterais) e encurtamento femoral associado. O grau de encurtamento e as deformidades associadas variam amplamente, orientando desde tratamento conservador até amputação de Syme/Boyd associada a prótese, dependendo da gravidade do caso.",
       "referencia": "Tachdjian's Pediatric Orthopaedics",
-      "dificuldade": "dificil"
+      "dificuldade": "facil"
     },
     {
       "id": "PED-062",
@@ -1035,7 +1035,7 @@
       "correta": 1,
       "comentario": "Como o próprio nome indica, a displasia espondiloepifisária compromete tanto a coluna vertebral (spondylo-, com vértebras achatadas/platispondilia) quanto as epífises dos ossos longos (-epifisária), resultando tipicamente em baixa estatura desproporcional com tronco curto (nanismo de tronco curto). Já a displasia epifisária múltipla acomete predominantemente as epífises dos ossos longos, com relativa preservação vertebral e impacto menos acentuado na estatura do tronco, podendo se manifestar clinicamente com dor articular e alterações radiográficas que simulam doença de Perthes bilateral quando acomete os quadris.",
       "referencia": "Tachdjian's Pediatric Orthopaedics",
-      "dificuldade": "dificil"
+      "dificuldade": "facil"
     },
     {
       "id": "PED-070",
@@ -1485,7 +1485,7 @@
       "correta": 0,
       "comentario": "A doença de Panner é uma osteonecrose idiopática autolimitada do núcleo de ossificação do capítulo umeral, tipicamente acometendo crianças mais jovens (entre 5 e 10 anos), caracterizada por esclerose e irregularidade radiográfica do capítulo, geralmente sem fragmentação significativa ou formação de corpos livres intra-articulares, diferentemente da osteocondrite dissecante do capítulo umeral, que acomete adolescentes mais velhos (geralmente acima de 10-12 anos), frequentemente atletas de arremesso, e pode evoluir com fragmentação, instabilidade da lesão e formação de corpos livres intra-articulares, exigindo por vezes tratamento cirúrgico. A doença de Panner, por sua vez, geralmente tem excelente prognóstico com tratamento conservador.",
       "referencia": "Tachdjian's Pediatric Orthopaedics",
-      "dificuldade": "dificil"
+      "dificuldade": "facil"
     },
     {
       "id": "PED-100",
