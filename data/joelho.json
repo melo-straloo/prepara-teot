@@ -1,0 +1,1506 @@
+{
+  "area": "Joelho e Medicina Esportiva",
+  "slug": "joelho",
+  "questoes": [
+    {
+      "id": "JOE-001",
+      "tema": "LCA - exame físico",
+      "enunciado": "Paciente de 24 anos, atleta de futebol, sofreu entorse do joelho com mecanismo de pivô durante partida, evoluindo com dor e derrame articular. Qual exame físico apresenta maior sensibilidade para o diagnóstico de lesão do ligamento cruzado anterior (LCA) na fase aguda?",
+      "alternativas": [
+        "Teste da gaveta anterior a 90 graus de flexão",
+        "Teste de Lachman a 20-30 graus de flexão",
+        "Teste do pivot shift",
+        "Teste de McMurray"
+      ],
+      "correta": 1,
+      "comentario": "O teste de Lachman é considerado o exame mais sensível para lesão do LCA, pois avalia a translação anterior da tíbia com o joelho a 20-30° de flexão, posição em que o LCA é o principal restritor primário, sem a interferência do platô tibial posterior e dos meniscos como ocorre na gaveta anterior a 90°. Na fase aguda, dor, derrame e contratura muscular podem limitar a realização do pivot shift, reduzindo sua sensibilidade nesse momento, embora seja mais específico. O McMurray avalia lesão meniscal, não instabilidade ligamentar.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-002",
+      "tema": "LCA - indicação cirúrgica",
+      "enunciado": "Homem de 19 anos, jogador de basquete competitivo, apresenta ruptura completa do LCA confirmada por RM, sem lesões associadas relevantes, e deseja retornar ao esporte de pivô. Qual a conduta mais adequada?",
+      "alternativas": [
+        "Tratamento conservador com fisioterapia isolada",
+        "Reconstrução cirúrgica do LCA",
+        "Reparo primário do LCA por sutura direta",
+        "Observação clínica sem intervenção"
+      ],
+      "correta": 1,
+      "comentario": "Em pacientes jovens, ativos e que praticam esportes com pivô, a reconstrução cirúrgica do LCA é indicada para restaurar a estabilidade rotacional, permitir retorno seguro ao esporte e reduzir o risco de lesões meniscais e condrais secundárias à instabilidade recorrente. O reparo primário por sutura direta tem alto índice de falha e não é recomendado como rotina. O tratamento conservador é reservado a pacientes sedentários ou de baixa demanda funcional.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-003",
+      "tema": "LCA - escolha de enxerto",
+      "enunciado": "Atleta de 17 anos, sexo feminino, com hiperfrouxidão ligamentar generalizada (Beighton 6/9), é candidata a reconstrução do LCA. Em relação à escolha do enxerto, qual opção está associada a menor taxa de re-ruptura nesse perfil de paciente?",
+      "alternativas": [
+        "Enxerto de isquiotibiais (semitendíneo/grácil)",
+        "Enxerto osso-tendão patelar-osso (BTB)",
+        "Enxerto de tendão quadricipital sem bloco ósseo",
+        "Aloenxerto de tendão de Aquiles"
+      ],
+      "correta": 1,
+      "comentario": "Em pacientes jovens com hiperfrouxidão e alta demanda esportiva, o enxerto osso-tendão patelar-osso (BTB) autólogo está associado a menores taxas de re-ruptura em comparação aos isquiotibiais, especialmente pela fixação óssea mais rígida (incorporação osso-osso) e maior rigidez do enxerto. Aloenxertos apresentam maior taxa de falha em pacientes jovens e ativos, sendo relativamente contraindicados nessa população.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-004",
+      "tema": "LCA - lesão de raiz meniscal",
+      "enunciado": "Durante a reconstrução artroscópica do LCA, identifica-se avulsão completa da raiz posterior do menisco medial. Qual a conduta mais adequada frente a esse achado?",
+      "alternativas": [
+        "Meniscectomia parcial da raiz lesada",
+        "Reparo transtibial da raiz meniscal com fixação óssea",
+        "Deixar sem tratamento, pois é assintomática",
+        "Meniscectomia subtotal medial"
+      ],
+      "correta": 1,
+      "comentario": "A lesão de raiz meniscal posterior compromete a função de distribuição de carga do menisco de forma equivalente a uma meniscectomia total, predispondo à extrusão meniscal e à progressão precoce de artrose. O reparo transtibial com fixação óssea restaura a tensão circunferencial do menisco e deve ser realizado concomitantemente à reconstrução do LCA sempre que tecnicamente possível, evitando a meniscectomia, que acelera a degeneração articular.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-005",
+      "tema": "LCA - lesão ramp",
+      "enunciado": "Durante artroscopia para reconstrução do LCA, a inspeção pelo portal posteromedial revela uma lesão 'ramp' (lesão da junção meniscocapsular posterior do menisco medial). Qual a principal implicação biomecânica dessa lesão quando não tratada?",
+      "alternativas": [
+        "Aumento da rotação interna da tíbia, sem efeito na translação anterior",
+        "Aumento da translação anterior da tíbia e da rotação, sobrecarregando o enxerto de LCA",
+        "Nenhuma repercussão biomecânica relevante",
+        "Redução da carga sobre o enxerto de LCA"
+      ],
+      "correta": 1,
+      "comentario": "As lesões 'ramp' do menisco medial, localizadas na junção meniscocapsular posterior, quando não reparadas, aumentam significativamente a translação anterior da tíbia e a rotação, sobrecarregando o enxerto do LCA e aumentando o risco de falha da reconstrução. Por isso, a inspeção rotineira do compartimento posteromedial é recomendada durante a reconstrução do LCA, com reparo dessas lesões quando identificadas.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-006",
+      "tema": "LCA - fratura de Segond",
+      "enunciado": "Radiografia de joelho em paciente com entorse em valgo-rotação evidencia um pequeno fragmento ósseo avulsionado na região lateral da tíbia proximal, distal ao platô tibial lateral. Esse achado, conhecido como fratura de Segond, está fortemente associado a qual lesão ligamentar?",
+      "alternativas": [
+        "Ruptura do ligamento colateral medial",
+        "Ruptura do ligamento cruzado anterior",
+        "Ruptura isolada do ligamento colateral lateral",
+        "Ruptura do tendão patelar"
+      ],
+      "correta": 1,
+      "comentario": "A fratura de Segond representa uma avulsão da cápsula lateral/complexo anterolateral (incluindo o ligamento anterolateral) na inserção tibial lateral e é considerada praticamente patognomônica de lesão associada do LCA. Seu reconhecimento radiográfico deve alertar o cirurgião a investigar o controle rotacional, podendo motivar reconstrução associada do ligamento anterolateral em pacientes de alto risco de falha rotacional.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "JOE-007",
+      "tema": "LCA - ligamento anterolateral",
+      "enunciado": "Qual das seguintes características clínicas é considerada indicação para associar uma tenodese extra-articular lateral (ou reconstrução do ligamento anterolateral) à reconstrução do LCA?",
+      "alternativas": [
+        "Paciente sedentário acima de 50 anos",
+        "Pivot shift de alto grau (grau 2-3) e hiperfrouxidão associada",
+        "Lesão isolada do menisco lateral sem instabilidade rotacional",
+        "Ausência de história de falha prévia de enxerto"
+      ],
+      "correta": 1,
+      "comentario": "A associação de tenodese extra-articular lateral (técnica de Lemaire) ou reconstrução formal do ligamento anterolateral é recomendada em pacientes com fatores de risco para falha rotacional do enxerto, como pivot shift de alto grau, hiperfrouxidão generalizada, revisão de LCA e atletas de pivô de alto nível. Esses procedimentos reduzem a translação rotacional residual e diminuem o risco de nova ruptura do enxerto.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-008",
+      "tema": "LCA - causas de falha",
+      "enunciado": "Qual é a causa mais frequente de falha da reconstrução do LCA que motiva cirurgia de revisão?",
+      "alternativas": [
+        "Infecção pós-operatória",
+        "Posicionamento inadequado dos túneis ósseos (erro técnico)",
+        "Rejeição imunológica do enxerto autólogo",
+        "Fratura periprotética"
+      ],
+      "correta": 1,
+      "comentario": "O erro técnico, principalmente o posicionamento inadequado do túnel femoral (tipicamente muito anterior/vertical), é a causa mais comum de falha da reconstrução do LCA, levando a um enxerto biomecanicamente inadequado que não controla a rotação tibial. Trauma novo é a segunda causa mais comum. A avaliação pré-revisão deve incluir análise cuidadosa do posicionamento dos túneis prévios.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-009",
+      "tema": "LCA - posicionamento anatômico do túnel femoral",
+      "enunciado": "Na reconstrução anatômica do LCA, o túnel femoral deve ser posicionado preferencialmente em qual localização, visando restaurar a biomecânica rotacional normal do joelho?",
+      "alternativas": [
+        "No centro da pegada anatômica dos feixes anteromedial e posterolateral do LCA nativo",
+        "No teto do intercôndilo (posição 'over the top')",
+        "Na posição isométrica alta e anterior (técnica transtibial clássica)",
+        "Na inserção do ligamento cruzado posterior"
+      ],
+      "correta": 0,
+      "comentario": "A técnica anatômica atual preconiza o posicionamento do túnel femoral no centro da pegada nativa do LCA (considerando os feixes anteromedial e posterolateral), o que melhora o controle rotacional em comparação às antigas técnicas isométricas ou transtibiais, que frequentemente resultavam em túneis femorais verticalizados e anteriorizados, insuficientes para controlar a rotação tibial (pivot shift residual). Erros nesse posicionamento são a principal causa de falha de reconstrução, exigindo análise tomográfica detalhada em casos de revisão.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "JOE-010",
+      "tema": "LCA - critérios de retorno ao esporte",
+      "enunciado": "Qual dos critérios abaixo é considerado essencial antes de liberar o retorno ao esporte de pivô após reconstrução do LCA, além do tempo mínimo de 9 meses de pós-operatório?",
+      "alternativas": [
+        "Ausência total de dor em repouso",
+        "Índice de simetria de membros (limb symmetry index) maior ou igual a 90% em testes funcionais de força e salto",
+        "Radiografia mostrando consolidação óssea do túnel",
+        "Retorno da amplitude de movimento passiva apenas"
+      ],
+      "correta": 1,
+      "comentario": "Além do tempo mínimo (geralmente 9 meses, alguns protocolos exigem 12), a liberação para retorno ao esporte deve se basear em critérios funcionais objetivos. O índice de simetria de membros (LSI) ≥ 90% em testes de força de quadríceps/isquiotibiais e em testes de salto (hop tests) é o parâmetro mais utilizado. O retorno precoce ou baseado apenas em tempo, sem esses critérios, aumenta significativamente o risco de nova lesão do LCA, ipsi ou contralateral.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-011",
+      "tema": "LCA - esqueleto imaturo",
+      "enunciado": "Criança de 11 anos, com cartilagens de crescimento abertas (Tanner 1), apresenta ruptura completa do LCA. Qual técnica cirúrgica é preferida para minimizar o risco de lesão fisária e distúrbio de crescimento?",
+      "alternativas": [
+        "Técnica transfisária padrão do adulto, com túneis ósseos completos",
+        "Técnica physeal-sparing (poupadora de fise), com enxerto de tecidos moles ancorado extra-epifisário",
+        "Epifisiodese preventiva bilateral associada à reconstrução",
+        "Tratamento exclusivamente conservador até o fechamento das fises"
+      ],
+      "correta": 1,
+      "comentario": "Em crianças com fises abertas, as técnicas 'physeal-sparing', que utilizam trajetos extra-fisários ou epifisários para o enxerto, reduzem o risco de distúrbio de crescimento (deformidade angular ou discrepância de comprimento) que pode ocorrer com técnicas transfisárias padrão. O tratamento puramente conservador em crianças ativas apresenta alto risco de lesões meniscais e condrais recorrentes por instabilidade.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-012",
+      "tema": "LCA - lesão cyclops",
+      "enunciado": "Paciente evolui, 4 meses após reconstrução do LCA, com perda progressiva da extensão completa do joelho e sensação de bloqueio anterior. Qual é a causa mais provável desse quadro?",
+      "alternativas": [
+        "Lesão do tipo 'cyclops' (nódulo fibroso anterior ao enxerto)",
+        "Ruptura precoce do enxerto",
+        "Infecção articular crônica",
+        "Lesão do nervo fibular comum"
+      ],
+      "correta": 0,
+      "comentario": "A lesão 'cyclops' é um nódulo de tecido fibroso que se forma anteriormente ao enxerto do LCA, geralmente na região do túnel tibial, causando bloqueio mecânico à extensão completa do joelho. O diagnóstico é sugerido pela perda de extensão associada a dor anterior e confirmado por RM, sendo o tratamento a ressecção artroscópica do nódulo, diferenciando-se da artrofibrose generalizada, que causa perda de amplitude mais global.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-013",
+      "tema": "LCA - slope tibial e risco de falha",
+      "enunciado": "Estudos biomecânicos e clínicos demonstram associação entre aumento da inclinação posterior do platô tibial (slope tibial) e maior risco de falha da reconstrução do LCA. Qual o mecanismo fisiopatológico envolvido?",
+      "alternativas": [
+        "O slope aumentado reduz a tensão sobre o LCP, protegendo o enxerto de LCA",
+        "O slope tibial excessivo aumenta a translação anterior tibial sob carga axial, sobrecarregando o enxerto de LCA",
+        "O slope tibial não tem relação biomecânica com o LCA, apenas com o menisco",
+        "O slope aumentado favorece apenas lesões do ligamento colateral medial"
+      ],
+      "correta": 1,
+      "comentario": "Um slope tibial posterior aumentado (geralmente considerado de risco quando maior que 12°) gera maior componente de translação anterior da tíbia sob carga axial durante atividades como agachamento e aterrissagem de salto, aumentando as forças de cisalhamento sobre o enxerto do LCA e o risco de falha, especialmente em revisões. Em casos de slope muito elevado associado a falhas recorrentes, pode-se considerar osteotomia tibial anterior de correção (flexion osteotomy) como procedimento adjuvante.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "JOE-014",
+      "tema": "LCA - lesão combinada com LCM",
+      "enunciado": "Paciente apresenta lesão completa do LCA associada à lesão grau III do ligamento colateral medial (LCM), com instabilidade em valgo importante em extensão. Qual a conduta cirúrgica mais adequada?",
+      "alternativas": [
+        "Reconstrução isolada do LCA, tratando o LCM de forma conservadora com órtese",
+        "Reconstrução simultânea do LCA e do LCM",
+        "Tratamento conservador de ambas as lesões",
+        "Reconstrução isolada do LCM, postergando o LCA indefinidamente"
+      ],
+      "correta": 0,
+      "comentario": "Na maioria dos casos, lesões combinadas de LCA e LCM grau I-III respondem bem ao tratamento conservador do LCM (órtese articulada, fisioterapia) associado à reconstrução do LCA, pois o LCM tem boa capacidade de cicatrização quando as extremidades estão próximas. A reconstrução cirúrgica do LCM é reservada para instabilidade residual em valgo significativa após tratamento conservador adequado ou lesões com grande desvio/avulsão completa.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-015",
+      "tema": "LCA - mecanismo do pivot shift",
+      "enunciado": "O teste do pivot shift avalia a redução espontânea da subluxação anterolateral da tíbia durante a flexão do joelho a partir da extensão. Qual estrutura, quando íntegra, é a principal responsável por limitar essa subluxação, sendo o alvo primário avaliado pelo teste?",
+      "alternativas": [
+        "Ligamento colateral lateral",
+        "Ligamento cruzado anterior",
+        "Menisco lateral isoladamente",
+        "Tendão poplíteo"
+      ],
+      "correta": 1,
+      "comentario": "O pivot shift é um teste dinâmico que reproduz o mecanismo de subluxação anterolateral da tíbia em relação ao fêmur durante a extensão, com redução súbita durante a flexão (geralmente entre 20-40°), sendo o teste mais específico para instabilidade rotacional por insuficiência do LCA. Estruturas secundárias, como o ligamento anterolateral e a banda iliotibial, contribuem para a magnitude do pivot shift, mas o LCA é o restritor primário testado.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-016",
+      "tema": "LCP - mecanismo de trauma",
+      "enunciado": "Qual mecanismo de trauma é classicamente associado à lesão isolada do ligamento cruzado posterior (LCP)?",
+      "alternativas": [
+        "Entorse em valgo com o pé fixo no solo",
+        "Trauma direto anteroposterior sobre a tíbia proximal com joelho fletido (lesão do 'painel do carro')",
+        "Hiperextensão isolada sem trauma direto",
+        "Rotação externa isolada sem impacto direto"
+      ],
+      "correta": 1,
+      "comentario": "O mecanismo clássico de lesão do LCP é o trauma direto sobre a face anterior da tíbia proximal com o joelho fletido, empurrando a tíbia posteriormente em relação ao fêmur, típico da colisão do joelho contra o painel do carro em acidentes automobilísticos. Outros mecanismos incluem queda sobre o joelho fletido com o pé em flexão plantar e hiperflexão associada a hiperextensão em traumas esportivos.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-017",
+      "tema": "LCP - sinal do recuo posterior",
+      "enunciado": "Ao exame físico de um paciente com suspeita de lesão do LCP, observa-se que, com os quadris e joelhos fletidos a 90°, a tíbia proximal do lado acometido apresenta um afundamento posterior espontâneo em relação ao lado contralateral. Esse achado é denominado:",
+      "alternativas": [
+        "Sinal de Lachman invertido",
+        "Sinal do recuo posterior (posterior sag sign)",
+        "Sinal de Godfrey invertido apenas em extensão",
+        "Teste de gaveta anterior positivo"
+      ],
+      "correta": 1,
+      "comentario": "O sinal do recuo posterior (posterior sag sign ou sinal de Godfrey) é caracterizado pelo deslocamento posterior espontâneo da tíbia proximal em relação ao fêmur, com quadril e joelho fletidos a 90°, devido à ação da gravidade na ausência de restrição do LCP íntegro. É um dos sinais mais confiáveis para lesão do LCP e deve ser diferenciado de uma falsa gaveta anterior, já que a redução da tíbia a partir da posição subluxada posteriormente pode ser confundida com translação anterior patológica.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-018",
+      "tema": "LCP - tratamento conservador",
+      "enunciado": "Paciente com lesão isolada do LCP grau I-II (translação posterior até 10 mm), sem lesões associadas do canto posterolateral, é encaminhado para avaliação. Qual a conduta inicial mais apropriada?",
+      "alternativas": [
+        "Reconstrução cirúrgica imediata do LCP",
+        "Tratamento conservador com fortalecimento de quadríceps e órtese, evitando estresse posterior",
+        "Reconstrução combinada de LCP e canto posterolateral de rotina",
+        "Imobilização gessada em flexão de 90° por 8 semanas"
+      ],
+      "correta": 1,
+      "comentario": "Lesões isoladas do LCP grau I-II geralmente respondem bem ao tratamento conservador, com ênfase no fortalecimento do quadríceps, que atua como estabilizador dinâmico anterior contrapondo a translação posterior, uso de órtese específica e evolução funcional progressiva. A imobilização em flexão prolongada é contraindicada, pois favorece a translação posterior da tíbia sob a ação da gravidade. A cirurgia é reservada para lesões grau III, lesões combinadas ou falha do tratamento conservador.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-019",
+      "tema": "LCP e PLC - dial test",
+      "enunciado": "O 'dial test' (teste de rotação externa tibial), realizado a 30° e 90° de flexão, é utilizado para diferenciar lesões isoladas de canto posterolateral (PLC) de lesões combinadas de LCP e PLC. Qual achado sugere lesão isolada do canto posterolateral (sem lesão do LCP)?",
+      "alternativas": [
+        "Aumento da rotação externa apenas a 90°, sem diferença a 30°",
+        "Aumento da rotação externa (>10-15° comparado ao contralateral) apenas a 30°, normalizando a 90°",
+        "Ausência de qualquer aumento de rotação externa em ambos os graus",
+        "Aumento simétrico da rotação externa em ambos os joelhos"
+      ],
+      "correta": 1,
+      "comentario": "No dial test, quando o aumento da rotação externa tibial ocorre predominantemente a 30° de flexão e se normaliza a 90°, isso sugere lesão isolada do canto posterolateral, já que a 90° o LCP íntegro atua como estabilizador secundário à rotação externa. Quando o aumento da rotação externa persiste tanto a 30° quanto a 90°, isso indica lesão combinada de LCP e canto posterolateral.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "JOE-020",
+      "tema": "Canto posterolateral - anatomia",
+      "enunciado": "O canto posterolateral (complexo posterolateral) do joelho é composto classicamente por três estruturas principais. Quais são elas?",
+      "alternativas": [
+        "Ligamento colateral medial superficial, tendão do semimembranoso e ligamento poplíteo oblíquo",
+        "Ligamento colateral lateral (fibular), tendão poplíteo e ligamento poplíteo-fibular",
+        "Ligamento cruzado anterior, menisco lateral e banda iliotibial",
+        "Ligamento cruzado posterior, ligamento de Humphry e ligamento de Wrisberg"
+      ],
+      "correta": 1,
+      "comentario": "O complexo posterolateral do joelho é formado principalmente pelo ligamento colateral lateral (fibular), o tendão poplíteo e o ligamento poplíteo-fibular, estruturas que atuam em conjunto para prover estabilidade contra o varo, a rotação externa excessiva da tíbia e, secundariamente, a translação posterior. Lesões dessa região frequentemente estão associadas a lesões do LCP e devem ser cuidadosamente avaliadas, pois seu não reconhecimento é causa comum de falha de reconstruções combinadas.",
+      "referencia": "Netter's Concise Orthopaedic Anatomy",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-021",
+      "tema": "LCP - falha por PLC não tratado",
+      "enunciado": "Paciente foi submetido à reconstrução isolada do LCP, sem abordar uma lesão associada não diagnosticada do canto posterolateral. Qual a consequência biomecânica mais provável nesse cenário?",
+      "alternativas": [
+        "Sucesso pleno da reconstrução, sem repercussões",
+        "Sobrecarga e possível falha precoce do enxerto de LCP devido à instabilidade em varo/rotação externa residual",
+        "Redução do risco de artrose lateral",
+        "Aumento da estabilidade global do joelho sem necessidade de reabilitação"
+      ],
+      "correta": 1,
+      "comentario": "O não reconhecimento e tratamento de uma lesão associada do canto posterolateral é uma causa clássica de falha de reconstruções do LCP, pois a instabilidade residual em varo e rotação externa gera forças cíclicas de estresse sobre o enxerto do LCP, levando ao seu alongamento e falha precoce. Por isso, a avaliação cuidadosa do canto posterolateral (dial test, estresse em varo) é mandatória antes de qualquer reconstrução do LCP.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-022",
+      "tema": "LCP - avulsão óssea",
+      "enunciado": "Radiografia de perfil de joelho em paciente vítima de trauma evidencia fragmento ósseo avulsionado na inserção tibial posterior do LCP, com desvio significativo. Qual a conduta mais adequada?",
+      "alternativas": [
+        "Tratamento conservador com imobilização em extensão, independentemente do desvio",
+        "Redução aberta e fixação do fragmento ósseo avulsionado",
+        "Reconstrução com enxerto de tecidos moles, ignorando o fragmento",
+        "Meniscectomia posterior associada de rotina"
+      ],
+      "correta": 1,
+      "comentario": "Fraturas por avulsão da inserção tibial do LCP com desvio significativo (geralmente maior que 5-8 mm) têm indicação de redução aberta e fixação interna do fragmento ósseo, restaurando a anatomia e a função do ligamento sem necessidade de reconstrução com enxerto, já que o próprio ligamento permanece intacto, apenas avulsionado do osso. Fragmentos minimamente desviados podem ser tratados conservadoramente com imobilização em extensão.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-023",
+      "tema": "PLC - técnica de reconstrução",
+      "enunciado": "Em relação à reconstrução cirúrgica do canto posterolateral do joelho, qual afirmação está correta?",
+      "alternativas": [
+        "Deve ser sempre realizada isoladamente, nunca combinada com reconstrução do LCA ou LCP",
+        "Técnicas modernas buscam reconstruir tanto o ligamento colateral lateral quanto o complexo poplíteo-fibular, restaurando a anatomia tridimensional",
+        "O tratamento cirúrgico do canto posterolateral não influencia o resultado da reconstrução combinada do LCP",
+        "A reconstrução do canto posterolateral é contraindicada em lesões crônicas"
+      ],
+      "correta": 1,
+      "comentario": "As técnicas atuais de reconstrução do canto posterolateral (variantes da técnica de Larson ou reconstruções anatômicas com dois enxertos) visam restaurar tanto o ligamento colateral lateral quanto o complexo poplíteo-fibular, reproduzindo a anatomia tridimensional para controlar varo e rotação externa. Essas lesões frequentemente ocorrem associadas a lesões do LCP ou LCA em contexto multiligamentar, sendo a reconstrução combinada realizada no mesmo tempo cirúrgico para melhores resultados funcionais.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "JOE-024",
+      "tema": "Luxação do joelho - avaliação vascular",
+      "enunciado": "Paciente vítima de acidente motociclístico chega ao pronto-socorro com deformidade evidente do joelho, compatível com luxação, que se reduz espontaneamente antes da avaliação. Qual a conduta inicial mais importante e urgente?",
+      "alternativas": [
+        "Solicitar RM do joelho antes de qualquer outra medida",
+        "Avaliação vascular seriada com exame de pulsos e índice tornozelo-braquial (ITB)",
+        "Liberar o paciente para acompanhamento ambulatorial eletivo",
+        "Iniciar fisioterapia imediata para preservar amplitude de movimento"
+      ],
+      "correta": 1,
+      "comentario": "A luxação do joelho, mesmo quando reduzida espontaneamente antes da chegada ao hospital, apresenta risco significativo de lesão da artéria poplítea (cerca de 10-20% dos casos), que pode evoluir para isquemia e amputação se não diagnosticada precocemente. A avaliação vascular seriada, incluindo pulsos distais e cálculo do índice tornozelo-braquial (ITB), é mandatória; um ITB menor que 0,9 indica necessidade de angiotomografia. Achados de isquemia franca indicam exploração cirúrgica vascular emergencial sem atraso para exames de imagem.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-025",
+      "tema": "Luxação do joelho - lesão neurológica",
+      "enunciado": "Qual estrutura neurológica é mais frequentemente lesada em luxações do joelho, especialmente nos padrões com componente posterolateral?",
+      "alternativas": [
+        "Nervo tibial",
+        "Nervo fibular comum (peroneal)",
+        "Nervo femoral",
+        "Nervo obturatório"
+      ],
+      "correta": 1,
+      "comentario": "O nervo fibular comum, por seu trajeto superficial ao redor do colo da fíbula, é a estrutura neurológica mais frequentemente lesada nas luxações do joelho, especialmente naquelas com componente de lesão do canto posterolateral, podendo ocorrer por estiramento (neuropraxia) ou, em casos mais graves, ruptura completa. O exame neurológico distal deve ser cuidadosamente documentado antes e após a redução.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-026",
+      "tema": "Luxação do joelho - classificação de Schenck",
+      "enunciado": "A classificação de Schenck para luxações do joelho é baseada em qual critério principal?",
+      "alternativas": [
+        "Grau de lesão de partes moles pela escala de Tscherne",
+        "Padrão de estruturas ligamentares lesadas (KD-I a KD-V)",
+        "Presença ou ausência de fratura associada exclusivamente",
+        "Tempo decorrido entre o trauma e o atendimento"
+      ],
+      "correta": 1,
+      "comentario": "A classificação de Schenck (KD, de 'knee dislocation') categoriza as luxações do joelho de acordo com o padrão de estruturas ligamentares lesadas: KD-I (um cruzado, colaterais íntegros), KD-II (ambos os cruzados, colaterais íntegros), KD-III (ambos os cruzados + colateral medial ou lateral), KD-IV (lesão dos quatro ligamentos principais) e KD-V (luxação associada a fratura periarticular). Essa classificação orienta o planejamento cirúrgico e o risco estimado de lesão vascular associada.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-027",
+      "tema": "Multiligamentar - momento cirúrgico",
+      "enunciado": "Em relação ao momento ideal para a reconstrução cirúrgica em lesões multiligamentares do joelho (sem lesão vascular ou fratura associada exigindo urgência), qual é a recomendação atual predominante?",
+      "alternativas": [
+        "Cirurgia deve ser realizada sempre nas primeiras 24 horas, independentemente do estado das partes moles",
+        "Reconstrução geralmente realizada de forma subaguda, entre 2 e 3 semanas, após resolução do edema e recuperação da amplitude de movimento",
+        "Tratamento deve ser sempre conservador, sem indicação cirúrgica",
+        "Reconstrução deve ser postergada por no mínimo 1 ano"
+      ],
+      "correta": 1,
+      "comentario": "Na ausência de lesão vascular que exija reparo emergencial, a reconstrução das lesões multiligamentares do joelho é geralmente realizada de forma subaguda, aproximadamente entre 2 e 3 semanas após o trauma. Esse intervalo permite a resolução do edema, a recuperação parcial da amplitude de movimento e um planejamento cirúrgico adequado. Cirurgias muito precoces ou muito tardias estão associadas a maior risco de artrofibrose pós-operatória.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-028",
+      "tema": "Luxação do joelho - ITB anormal",
+      "enunciado": "Em paciente com luxação de joelho reduzida, sem sinais evidentes de isquemia (pulsos palpáveis, membro rosado), o índice tornozelo-braquial (ITB) mensurado é de 0,75. Qual a conduta mais apropriada?",
+      "alternativas": [
+        "Alta hospitalar com reavaliação ambulatorial em 1 semana",
+        "Observação clínica isolada, sem exames adicionais, pois os pulsos estão presentes",
+        "Solicitar angiotomografia ou arteriografia para investigação de lesão arterial",
+        "Amputação primária preventiva"
+      ],
+      "correta": 2,
+      "comentario": "Um ITB inferior a 0,9 é considerado anormal e indica investigação adicional com angiotomografia (ou arteriografia), mesmo na presença de pulsos distais palpáveis, pois lesões arteriais parciais (como dissecção íntimal) podem cursar com pulsos preservados inicialmente e evoluir para trombose tardia. A confiança isolada no exame físico de pulsos é insuficiente para excluir lesão vascular significativa em luxações de joelho.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "JOE-029",
+      "tema": "Luxação do joelho - síndrome compartimental",
+      "enunciado": "Paciente pós-redução de luxação do joelho evolui, nas horas seguintes, com dor desproporcional, parestesia progressiva e tensão importante à palpação da loja anterior da perna. Qual a hipótese diagnóstica mais provável e a conduta correta?",
+      "alternativas": [
+        "Trombose venosa profunda; anticoagulação plena",
+        "Síndrome compartimental aguda; fasciotomia de urgência",
+        "Neuropraxia do nervo fibular; observação clínica",
+        "Celulite pós-traumática; antibioticoterapia oral"
+      ],
+      "correta": 1,
+      "comentario": "A associação de dor desproporcional, parestesia progressiva e tensão à palpação da loja muscular após trauma de joelho com potencial lesão vascular é altamente sugestiva de síndrome compartimental aguda, uma emergência cirúrgica que requer fasciotomia imediata para evitar necrose muscular e neurológica irreversível. A luxação do joelho é fator de risco reconhecido para síndrome compartimental da perna, especialmente com componente vascular ou reperfusão após correção de isquemia.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-030",
+      "tema": "Multiligamentar - papel da RM",
+      "enunciado": "Qual exame de imagem é considerado padrão para o mapeamento detalhado das estruturas ligamentares, meniscais e condrais lesadas antes do planejamento cirúrgico de uma lesão multiligamentar do joelho, uma vez descartada lesão vascular?",
+      "alternativas": [
+        "Radiografia simples isoladamente",
+        "Ressonância magnética",
+        "Ultrassonografia de partes moles",
+        "Cintilografia óssea"
+      ],
+      "correta": 1,
+      "comentario": "A ressonância magnética é o exame de escolha para o mapeamento detalhado das estruturas ligamentares (cruzados, colaterais, canto posterolateral), meniscais e da cartilagem articular em lesões multiligamentares do joelho, fornecendo informações essenciais para o planejamento cirúrgico. A radiografia simples continua importante para avaliar fraturas associadas e avulsões ósseas, mas não substitui a RM na avaliação de partes moles.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-031",
+      "tema": "Menisco - vascularização",
+      "enunciado": "Em relação à vascularização meniscal, qual afirmação está correta e orienta a decisão entre sutura e meniscectomia?",
+      "alternativas": [
+        "A zona periférica ('vermelha-vermelha') é avascular e não cicatriza",
+        "A zona central ('branca-branca') é avascular, com baixo potencial de cicatrização após sutura",
+        "Todo o menisco é igualmente vascularizado em qualquer idade",
+        "A vascularização meniscal aumenta progressivamente com a idade"
+      ],
+      "correta": 1,
+      "comentario": "O menisco apresenta padrão de vascularização decrescente do periférico para o central: a zona 'vermelha-vermelha' é bem vascularizada e tem bom potencial de cicatrização após sutura; a zona 'vermelha-branca' tem vascularização parcial; e a zona 'branca-branca' é avascular, nutrida por difusão do líquido sinovial, com baixo potencial de cicatrização, sendo geralmente tratada por meniscectomia parcial quando sintomática. A vascularização periférica diminui ainda mais com a idade, reduzindo o potencial de cicatrização em pacientes mais velhos.",
+      "referencia": "Netter's Concise Orthopaedic Anatomy",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-032",
+      "tema": "Menisco - lesão em alça de balde",
+      "enunciado": "Paciente jovem apresenta bloqueio articular agudo do joelho, com incapacidade de extensão completa, após entorse durante atividade esportiva. Qual tipo de lesão meniscal é mais classicamente associado a esse quadro?",
+      "alternativas": [
+        "Lesão degenerativa horizontal",
+        "Lesão em alça de balde (bucket-handle) com fragmento luxado para a incisura intercondilar",
+        "Lesão radial da raiz anterior",
+        "Cisto meniscal assintomático"
+      ],
+      "correta": 1,
+      "comentario": "A lesão meniscal em 'alça de balde' ocorre quando um fragmento longitudinal do menisco se desloca para dentro da incisura intercondilar, causando bloqueio mecânico à extensão completa do joelho. É mais comum em pacientes jovens após trauma agudo (frequentemente associada à lesão do LCA) e geralmente requer tratamento cirúrgico com redução do fragmento e sutura meniscal quando o tecido é viável, ou meniscectomia parcial em casos irreparáveis.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-033",
+      "tema": "Menisco discoide - conduta",
+      "enunciado": "Criança de 8 anos apresenta estalidos indolores recorrentes no joelho lateral e, ocasionalmente, sensação de ressalto, sem história de trauma significativo. RM confirma menisco lateral discoide. Qual a conduta mais apropriada em caso de menisco discoide assintomático (achado incidental)?",
+      "alternativas": [
+        "Meniscectomia total profilática",
+        "Observação clínica, sem necessidade de intervenção cirúrgica",
+        "Saucerização artroscópica obrigatória independentemente de sintomas",
+        "Meniscectomia subtotal com reconstrução meniscal imediata"
+      ],
+      "correta": 1,
+      "comentario": "O menisco discoide assintomático, frequentemente achado incidental, não requer tratamento cirúrgico e deve ser acompanhado clinicamente. Quando sintomático, a conduta cirúrgica preferida é a saucerização artroscópica (remodelação para formato semilunar), preservando a maior quantidade possível de tecido meniscal periférico, associada a sutura da porção instável quando presente, evitando a meniscectomia total, que aumenta o risco de artrose precoce.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-034",
+      "tema": "Menisco - consequências da meniscectomia total",
+      "enunciado": "Qual é a principal consequência biomecânica a longo prazo da meniscectomia total, quando comparada à meniscectomia parcial ou à sutura meniscal?",
+      "alternativas": [
+        "Melhora da congruência articular e redução do risco de artrose",
+        "Aumento da pressão de contato tibiofemoral e progressão acelerada da osteoartrose (síndrome de Fairbank)",
+        "Ausência de qualquer repercussão biomecânica relevante",
+        "Redução da carga axial transmitida ao compartimento correspondente"
+      ],
+      "correta": 1,
+      "comentario": "A meniscectomia total reduz drasticamente a área de contato tibiofemoral, aumentando significativamente a pressão de contato no compartimento correspondente, o que acelera a degeneração da cartilagem articular e leva à síndrome descrita por Fairbank. Por isso, a tendência atual é preservar o máximo de tecido meniscal possível, priorizando meniscectomias parciais seletivas e reparos meniscais sempre que tecnicamente viáveis.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-035",
+      "tema": "Menisco - indicação de sutura",
+      "enunciado": "Paciente de 22 anos apresenta lesão longitudinal vertical do menisco medial, localizada na zona periférica ('vermelha-vermelha'), com menos de 2 cm de extensão, associada a reconstrução concomitante do LCA. Qual a conduta mais indicada?",
+      "alternativas": [
+        "Meniscectomia parcial isolada",
+        "Sutura meniscal, aproveitando o ambiente biológico favorável da reconstrução concomitante do LCA",
+        "Deixar sem tratamento, pois lesões periféricas cicatrizam espontaneamente sem intervenção",
+        "Meniscectomia total do compartimento medial"
+      ],
+      "correta": 1,
+      "comentario": "Lesões meniscais longitudinais na zona periférica vascularizada têm excelente indicação e prognóstico para sutura meniscal, preservando a função biomecânica do menisco. Esse prognóstico é ainda mais favorável em pacientes jovens e na vigência de reconstrução concomitante do LCA, situação que proporciona um ambiente biológico mais propício à cicatrização, com sangramento intra-articular rico em fatores de crescimento.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-036",
+      "tema": "Menisco - lesão degenerativa em idoso",
+      "enunciado": "Paciente de 58 anos, com dor medial insidiosa no joelho sem trauma agudo, RM evidenciando lesão degenerativa horizontal do menisco medial e alterações condrais leves associadas, sem bloqueio mecânico. Qual a conduta inicial mais apropriada?",
+      "alternativas": [
+        "Meniscectomia parcial artroscópica imediata",
+        "Tratamento conservador inicial (fisioterapia, anti-inflamatórios, fortalecimento muscular)",
+        "Sutura meniscal",
+        "Artroplastia total do joelho"
+      ],
+      "correta": 1,
+      "comentario": "Lesões meniscais degenerativas em pacientes de meia-idade/idosos, sem bloqueio mecânico verdadeiro, frequentemente estão associadas a processo degenerativo articular preexistente e respondem bem ao tratamento conservador inicial. Estudos randomizados mostraram resultados equivalentes entre meniscectomia parcial artroscópica e tratamento conservador/fisioterapia nesse perfil, reservando a cirurgia para sintomas mecânicos refratários após falha do tratamento conservador.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-037",
+      "tema": "Menisco - transplante meniscal",
+      "enunciado": "Paciente de 28 anos, submetido previamente a meniscectomia total medial, apresenta dor compartimental medial persistente, sem artrose avançada (Kellgren-Lawrence I-II) e com alinhamento neutro do membro. Qual opção de tratamento pode ser considerada para essa condição, além de medidas conservadoras?",
+      "alternativas": [
+        "Artroplastia total do joelho",
+        "Transplante de menisco (aloenxerto meniscal)",
+        "Artrodese do joelho",
+        "Osteotomia tibial de adição medial"
+      ],
+      "correta": 1,
+      "comentario": "O transplante de menisco por aloenxerto é uma opção para pacientes jovens, sintomáticos, previamente submetidos à meniscectomia, sem artrose avançada e com alinhamento adequado do membro (ou corrigido concomitantemente por osteotomia, se necessário), visando reduzir a dor compartimental e potencialmente retardar a progressão da degeneração articular. Não é indicado em artrose avançada, instabilidade ligamentar não corrigida ou desvio axial significativo não corrigido.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-038",
+      "tema": "Menisco - cisto meniscal",
+      "enunciado": "Paciente apresenta massa palpável na interlinha articular lateral do joelho, associada a dor localizada, sem instabilidade. RM evidencia lesão meniscal horizontal ('clivagem horizontal') associada a cisto meniscal. Qual a relação fisiopatológica entre esses achados?",
+      "alternativas": [
+        "O cisto meniscal é sempre uma lesão primária, sem relação com lesão meniscal intrassubstancial",
+        "Cistos meniscais frequentemente se comunicam com lesões de clivagem horizontal, através das quais o líquido sinovial extravasa e se acumula perifericamente",
+        "Cistos meniscais ocorrem exclusivamente no menisco medial",
+        "Cistos meniscais indicam necessariamente lesão do LCA associada"
+      ],
+      "correta": 1,
+      "comentario": "Os cistos meniscais, mais comuns no menisco lateral, geralmente se comunicam com uma lesão meniscal de clivagem horizontal, através da qual o líquido sinovial é impulsionado sob pressão para o tecido periarticular, formando uma coleção cística palpável. O tratamento geralmente envolve o desbridamento artroscópico da lesão meniscal associada com descompressão do cisto, sendo a excisão isolada do cisto associada a maior taxa de recidiva.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "JOE-039",
+      "tema": "Menisco - técnicas de sutura",
+      "enunciado": "Em relação às técnicas de sutura meniscal, qual afirmação está correta?",
+      "alternativas": [
+        "A técnica 'inside-out' utiliza dispositivos totalmente artroscópicos, sem necessidade de incisão acessória",
+        "A técnica 'all-inside' moderna emprega implantes específicos que dispensam incisão acessória posterior, sendo útil especialmente para lesões do corno posterior",
+        "A técnica 'outside-in' é a mais indicada para lesões do corno posterior do menisco lateral",
+        "A sutura meniscal só pode ser realizada por via aberta, sem técnicas artroscópicas"
+      ],
+      "correta": 1,
+      "comentario": "A técnica 'all-inside' moderna utiliza implantes específicos (âncoras com sutura) inseridos totalmente por via artroscópica, sem necessidade de incisão acessória posterior, sendo particularmente útil para lesões do corno posterior dos meniscos. A técnica 'inside-out' requer incisão acessória posteromedial ou posterolateral para recuperar as agulhas/suturas, sendo considerada padrão-ouro histórico em resistência da sutura, mas com maior risco de lesão neurovascular na incisão acessória.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "JOE-040",
+      "tema": "Menisco - ligamentos meniscofemorais",
+      "enunciado": "O corno posterior do menisco lateral apresenta relação anatômica com ligamentos meniscofemorais (ligamentos de Humphry e Wrisberg), que se inserem, respectivamente, anterior e posteriormente a qual estrutura?",
+      "alternativas": [
+        "Ligamento colateral medial",
+        "Ligamento cruzado posterior (LCP)",
+        "Tendão do bíceps femoral",
+        "Ligamento colateral lateral"
+      ],
+      "correta": 1,
+      "comentario": "Os ligamentos meniscofemorais, ligamento de Humphry (anterior ao LCP) e ligamento de Wrisberg (posterior ao LCP), conectam o corno posterior do menisco lateral ao côndilo femoral medial, contribuindo para a estabilização dinâmica do menisco lateral durante a flexão do joelho. O conhecimento dessas estruturas é relevante na avaliação artroscópica e na cirurgia de reconstrução do LCP, para evitar confusão diagnóstica com fragmentos meniscais.",
+      "referencia": "Netter's Concise Orthopaedic Anatomy",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-041",
+      "tema": "Menisco - fatores prognósticos da sutura",
+      "enunciado": "Qual dos seguintes fatores está associado a MENOR taxa de sucesso (cicatrização) da sutura meniscal?",
+      "alternativas": [
+        "Reparo concomitante à reconstrução do LCA",
+        "Lesão localizada na zona periférica vascularizada",
+        "Lesão crônica com mais de 3 meses de evolução e extensão maior que 3 cm",
+        "Paciente jovem, abaixo de 30 anos"
+      ],
+      "correta": 2,
+      "comentario": "Lesões meniscais crônicas (mais de 3 meses de evolução), de longa extensão (maior que 3 cm) e localizadas em zonas avasculares apresentam menor taxa de cicatrização após sutura, devido à degeneração das bordas da lesão e ao pobre potencial de reparo biológico. Fatores associados a melhor prognóstico incluem lesões agudas, periféricas, pacientes jovens e reparo concomitante à reconstrução do LCA.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-042",
+      "tema": "Menisco - lesão de raiz e sinais na RM",
+      "enunciado": "Qual achado na ressonância magnética é sugestivo de lesão completa da raiz meniscal posterior, mesmo na ausência de visualização direta da ruptura radial?",
+      "alternativas": [
+        "Sinal do 'corno vazio' ou extrusão meniscal maior que 3 mm no corte coronal",
+        "Aumento da espessura do ligamento colateral medial",
+        "Edema ósseo isolado no côndilo femoral lateral",
+        "Presença de derrame articular isolado"
+      ],
+      "correta": 0,
+      "comentario": "A extrusão meniscal (deslocamento do corpo meniscal para além da margem do platô tibial) maior que 3 mm no corte coronal da RM, associada ao sinal do 'corno vazio' (ausência de tecido meniscal na região habitual da raiz no corte sagital), é altamente sugestiva de lesão completa da raiz meniscal, mesmo quando a ruptura radial não é claramente visualizada. Esse achado deve alertar para investigação artroscópica dirigida da raiz meniscal correspondente.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "JOE-043",
+      "tema": "Cartilagem - classificação de Outerbridge",
+      "enunciado": "Na classificação de Outerbridge para lesões condrais, uma lesão grau III é caracterizada por:",
+      "alternativas": [
+        "Amolecimento e edema da cartilagem, sem fissuras",
+        "Fissuras e fragmentação da cartilagem, com profundidade que não expõe o osso subcondral",
+        "Exposição completa do osso subcondral",
+        "Cartilagem macroscopicamente normal"
+      ],
+      "correta": 1,
+      "comentario": "Na classificação de Outerbridge, o grau I corresponde a amolecimento/edema da cartilagem, o grau II a fissuras/fragmentação superficial, o grau III a fissuras e fragmentação profunda que não atinge o osso subcondral, e o grau IV à exposição completa do osso subcondral. Essa classificação orienta a decisão terapêutica entre condroplastia, microfratura, técnicas de reparo ou restauração da cartilagem.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-044",
+      "tema": "Cartilagem - indicação de microfratura",
+      "enunciado": "A técnica de microfratura para lesões condrais focais é mais indicada em qual cenário?",
+      "alternativas": [
+        "Lesões pequenas (menores que 2-4 cm²), de espessura total, em pacientes jovens com boa capacidade de reabilitação",
+        "Lesões extensas (maiores que 6 cm²) em pacientes idosos com artrose difusa",
+        "Lesões condrais grau I de Outerbridge",
+        "Lesões associadas a instabilidade patelofemoral não corrigida"
+      ],
+      "correta": 0,
+      "comentario": "A microfratura é indicada preferencialmente para lesões condrais focais de espessura total, de pequeno a médio porte (geralmente menores que 2-4 cm²), em pacientes jovens, com bom potencial de reabilitação e capacidade de aderir ao protocolo pós-operatório de descarga parcial prolongada. A técnica estimula a formação de fibrocartilagem, biomecanicamente inferior à cartilagem hialina original, sendo menos indicada para lesões grandes ou pacientes de alta demanda funcional a longo prazo.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-045",
+      "tema": "OCD - sinais de instabilidade na RM",
+      "enunciado": "Adolescente de 14 anos apresenta dor no joelho relacionada à atividade física, com RM evidenciando lesão de osteocondrite dissecante no côndilo femoral medial, com halo de líquido de alta intensidade de sinal envolvendo completamente o fragmento na interface osso-cartilagem. Esse achado indica:",
+      "alternativas": [
+        "Lesão estável, com bom potencial de tratamento conservador",
+        "Lesão instável, com risco significativo de soltura do fragmento",
+        "Ausência de osteocondrite dissecante verdadeira",
+        "Consolidação completa da lesão"
+      ],
+      "correta": 1,
+      "comentario": "A presença de um halo de líquido de alta intensidade de sinal em T2, circundando completamente a interface entre o fragmento osteocondral e o osso subjacente, é sinal de instabilidade na RM, sugerindo separação do fragmento e risco de progressão para corpo livre intra-articular. Esse achado, junto com outros critérios (cistos subcondrais, linha de fratura visível), orienta a decisão por tratamento cirúrgico (fixação do fragmento) em vez de conservador.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-046",
+      "tema": "OCD juvenil - tratamento conservador",
+      "enunciado": "Paciente de 11 anos, com fises abertas, apresenta lesão de osteocondrite dissecante estável (sem sinais de instabilidade na RM) no côndilo femoral. Qual a conduta inicial mais apropriada?",
+      "alternativas": [
+        "Cirurgia de fixação imediata do fragmento",
+        "Tratamento conservador com restrição de atividades de impacto e descarga parcial de peso, com reavaliação seriada",
+        "Artroplastia unicompartimental",
+        "Meniscectomia total profilática"
+      ],
+      "correta": 1,
+      "comentario": "Em pacientes esqueleticamente imaturos com lesões de osteocondrite dissecante estáveis, o tratamento inicial é conservador, com restrição de atividades de impacto, possível descarga parcial de peso e reavaliação clínica e de imagem seriada, já que essas lesões têm potencial de cicatrização espontânea significativamente maior do que em pacientes com fises fechadas. A cirurgia é reservada para lesões instáveis, sintomáticas refratárias ao tratamento conservador, ou pacientes com fise já fechada.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-047",
+      "tema": "Cartilagem - mosaicoplastia",
+      "enunciado": "Qual é a principal vantagem do transplante osteocondral autólogo (mosaicoplastia) em relação à microfratura no tratamento de lesões condrais focais?",
+      "alternativas": [
+        "Transfere cartilagem hialina viva com osso subcondral, em vez de estimular fibrocartilagem",
+        "Não requer sítio doador, eliminando morbidade adicional",
+        "É indicado preferencialmente para lesões maiores que 10 cm²",
+        "Dispensa qualquer período de restrição de carga no pós-operatório"
+      ],
+      "correta": 0,
+      "comentario": "A mosaicoplastia transfere cilindros de cartilagem hialina viva junto com osso subcondral de uma área de menor carga para o defeito, preservando as propriedades biomecânicas superiores da cartilagem hialina, ao contrário da microfratura, que estimula a formação de fibrocartilagem biomecanicamente inferior. Sua principal limitação é a morbidade do sítio doador e a restrição de tamanho da lesão tratável (geralmente até 2-4 cm²), sendo lesões maiores mais bem tratadas por ACI ou aloenxerto osteocondral.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "JOE-048",
+      "tema": "Cartilagem - implante de condrócitos autólogos",
+      "enunciado": "Paciente jovem apresenta lesão condral focal extensa (5 cm²) na tróclea femoral, sem alinhamento anormal ou instabilidade patelar. Qual técnica de reparo/restauração cartilaginosa é mais adequada para essa extensão de lesão?",
+      "alternativas": [
+        "Microfratura isolada",
+        "Implante de condrócitos autólogos (ACI) ou técnicas de nova geração (MACI)",
+        "Desbridamento e lavagem artroscópica isolados",
+        "Meniscectomia parcial associada"
+      ],
+      "correta": 1,
+      "comentario": "Para lesões condrais focais extensas (geralmente maiores que 2-4 cm²), o implante de condrócitos autólogos (ACI), incluindo suas variantes de nova geração baseadas em matriz (MACI), é técnica de restauração cartilaginosa adequada, pois permite o preenchimento de defeitos maiores com cartilagem hialina-like, sem a limitação de sítio doador da mosaicoplastia. É importante corrigir fatores biomecânicos associados, como desalinhamento ou instabilidade patelar, para não comprometer o resultado.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-049",
+      "tema": "Cartilagem - aloenxerto osteocondral",
+      "enunciado": "Paciente com lesão osteocondral extensa e profunda (envolvendo perda óssea subcondral significativa) no côndilo femoral, decorrente de necrose avascular pós-traumática, é candidato a qual técnica de reconstrução?",
+      "alternativas": [
+        "Microfratura isolada",
+        "Aloenxerto osteocondral fresco",
+        "Sutura meniscal",
+        "Injeção intra-articular de corticoide isolada"
+      ],
+      "correta": 1,
+      "comentario": "O aloenxerto osteocondral fresco é indicado para lesões osteocondrais extensas e profundas, com perda óssea subcondral significativa, situações em que técnicas que dependem de estimulação da medula óssea ou transferência autóloga de pequeno volume são insuficientes. Essa técnica permite a reconstrução de grandes volumes ósseos e cartilaginosos com material estruturalmente semelhante ao tecido nativo, sem a morbidade de sítio doador associada aos enxertos autólogos.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-050",
+      "tema": "OCD - localização mais comum",
+      "enunciado": "Qual é a localização mais frequente da osteocondrite dissecante no joelho?",
+      "alternativas": [
+        "Face lateral do côndilo femoral lateral",
+        "Face lateral do côndilo femoral medial (região clássica)",
+        "Tróclea femoral",
+        "Platô tibial medial"
+      ],
+      "correta": 1,
+      "comentario": "A localização mais comum da osteocondrite dissecante no joelho é a face lateral do côndilo femoral medial, correspondendo à área de contato com a espinha tibial, representando a grande maioria dos casos clássicos descritos. Outras localizações possíveis, porém menos frequentes, incluem o côndilo femoral lateral e a tróclea femoral. A etiologia é multifatorial, envolvendo microtraumas repetitivos e fatores vasculares locais.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-051",
+      "tema": "Patelofemoral - função do MPFL",
+      "enunciado": "O ligamento patelofemoral medial (MPFL) é considerado o principal restritor estático contra a luxação lateral da patela. Em qual arco de movimento ele exerce essa função de forma mais relevante?",
+      "alternativas": [
+        "Entre 90° e 120° de flexão, quando a patela já está encaixada no sulco troclear profundo",
+        "Nos primeiros 0° a 30° de flexão, antes da patela se engajar completamente no sulco troclear",
+        "Apenas em extensão completa acima de -10°",
+        "Durante toda a amplitude de movimento de forma equivalente"
+      ],
+      "correta": 1,
+      "comentario": "O MPFL é o principal restritor estático (responsável por cerca de 50-60% da força de contenção) contra a translação lateral da patela, atuando de forma mais crítica nos primeiros graus de flexão (0-30°), antes que a patela se engaje completamente no sulco troclear, momento em que a congruência óssea troclear passa a assumir o papel estabilizador predominante. Por isso, sua lesão (geralmente na primeira luxação patelar) é o principal alvo de reconstrução cirúrgica em casos de instabilidade recorrente.",
+      "referencia": "Netter's Concise Orthopaedic Anatomy",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-052",
+      "tema": "Patelofemoral - fatores de risco anatômicos",
+      "enunciado": "Qual dos seguintes é um fator de risco anatômico reconhecido para instabilidade patelofemoral recorrente?",
+      "alternativas": [
+        "Sulco troclear profundo e bem definido",
+        "Displasia troclear (sulco raso ou convexo)",
+        "Patela baixa (patela infera)",
+        "Ângulo Q reduzido"
+      ],
+      "correta": 1,
+      "comentario": "A displasia troclear, caracterizada por um sulco troclear raso, plano ou até convexo, é um dos principais fatores de risco anatômicos para instabilidade patelofemoral recorrente, pois reduz a contenção óssea da patela durante a flexão inicial do joelho. Outros fatores de risco incluem patela alta, aumento da distância TT-TG, aumento do ângulo Q e frouxidão ligamentar generalizada.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-053",
+      "tema": "Patelofemoral - distância TT-TG",
+      "enunciado": "A distância entre a tuberosidade tibial anterior e o sulco troclear (TT-TG), medida por tomografia computadorizada ou RM, é um parâmetro utilizado na avaliação de instabilidade patelofemoral. Qual valor é geralmente considerado indicativo de necessidade de osteotomia de medialização da tuberosidade tibial associada à reconstrução do MPFL?",
+      "alternativas": [
+        "TT-TG menor que 10 mm",
+        "TT-TG maior que 20 mm",
+        "TT-TG negativo",
+        "TT-TG não tem relevância clínica ou cirúrgica"
+      ],
+      "correta": 1,
+      "comentario": "Um valor de TT-TG maior que 20 mm é geralmente considerado indicativo relevante de desalinhamento do mecanismo extensor, associado a maior risco de falha se apenas a reconstrução isolada do MPFL for realizada, motivando a associação de osteotomia de medialização da tuberosidade tibial anterior ao procedimento, para corrigir o vetor de tração do aparelho extensor. Valores intermediários (entre 15-20 mm) são avaliados de forma individualizada.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-054",
+      "tema": "Patelofemoral - primeira luxação",
+      "enunciado": "Paciente de 16 anos sofre sua primeira luxação patelar traumática, sem fatores de risco anatômicos maiores (TT-TG normal, tróclea pouco displásica) e sem fragmento osteocondral livre significativo. Qual a conduta inicial mais apropriada?",
+      "alternativas": [
+        "Reconstrução cirúrgica imediata do MPFL",
+        "Tratamento conservador inicial, com imobilização breve, fisioterapia e fortalecimento do quadríceps",
+        "Osteotomia de medialização da tuberosidade tibial imediata",
+        "Artroplastia patelofemoral"
+      ],
+      "correta": 1,
+      "comentario": "Na primeira luxação patelar traumática, na ausência de fatores de risco anatômicos maiores ou fragmentos osteocondrais livres significativos, o tratamento inicial é conservador, com imobilização breve, controle de dor/derrame e fisioterapia com fortalecimento do quadríceps (especialmente vasto medial oblíquo). A cirurgia é reservada para instabilidade recorrente ou presença de fatores de risco anatômicos significativos/lesões condrais associadas.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-055",
+      "tema": "Patelofemoral - limitações do lateral release",
+      "enunciado": "Qual afirmação sobre a liberação lateral isolada (lateral release) no tratamento da instabilidade patelofemoral é correta?",
+      "alternativas": [
+        "É o procedimento de escolha isolado para instabilidade patelar recorrente com insuficiência do MPFL",
+        "Isoladamente, não corrige a insuficiência do MPFL e tem indicação restrita a casos selecionados de báscula/inclinação patelar excessiva sem instabilidade franca",
+        "Corrige de forma definitiva o aumento do TT-TG",
+        "Está associada a menor taxa de complicações do que a reconstrução do MPFL"
+      ],
+      "correta": 1,
+      "comentario": "A liberação lateral isolada não trata a causa primária da instabilidade patelar recorrente (insuficiência do MPFL), sendo seu uso isolado atualmente restrito a casos selecionados de inclinação patelar excessiva (tilt) sem verdadeira instabilidade translacional. Quando utilizada isoladamente em instabilidade franca, está associada a altas taxas de falha e pode inclusive piorar a instabilidade medial iatrogênica, sendo a reconstrução do MPFL o procedimento central no tratamento cirúrgico.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "JOE-056",
+      "tema": "Patelofemoral - índice de Caton-Deschamps",
+      "enunciado": "Qual método radiográfico é comumente utilizado para avaliar a altura patelar (patela alta ou baixa)?",
+      "alternativas": [
+        "Ângulo de Insall-Salvati apenas em RM axial",
+        "Índice de Caton-Deschamps em radiografia de perfil do joelho",
+        "Ângulo Q clínico",
+        "Distância TT-TG em tomografia"
+      ],
+      "correta": 1,
+      "comentario": "O índice de Caton-Deschamps, calculado em radiografia de perfil do joelho, é um dos métodos mais utilizados para avaliar a altura patelar, sendo valores elevados (geralmente maiores que 1,2) indicativos de patela alta, fator de risco reconhecido para instabilidade patelofemoral. O índice de Insall-Salvati é outro método relacionado, calculado de forma diferente (relação entre comprimento do tendão patelar e comprimento da patela).",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-057",
+      "tema": "Patelofemoral - trocleoplastia",
+      "enunciado": "Paciente com instabilidade patelofemoral recorrente apresenta displasia troclear grave (tipo C ou D de Dejour, com 'cruzamento' evidente e esporão troclear proeminente na radiografia em perfil). Qual procedimento cirúrgico complementar pode ser considerado, além da reconstrução do MPFL, nesse cenário?",
+      "alternativas": [
+        "Meniscectomia lateral",
+        "Trocleoplastia",
+        "Osteotomia de Maquet isolada",
+        "Artrodese patelofemoral"
+      ],
+      "correta": 1,
+      "comentario": "Em casos de displasia troclear grave (tipos C e D de Dejour), com sulco troclear convexo ou proeminência significativa, a reconstrução isolada do MPFL pode não ser suficiente para controlar a instabilidade, devido à ausência de contenção óssea adequada. Nesses casos selecionados, a trocleoplastia, que remodela cirurgicamente o sulco troclear, pode ser considerada como procedimento complementar. Trata-se de cirurgia de alta complexidade técnica, geralmente reservada a centros especializados, dado o risco de complicações condrais.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "JOE-058",
+      "tema": "Patelofemoral - fratura osteocondral associada",
+      "enunciado": "Adolescente sofre luxação patelar aguda durante atividade esportiva, com redução espontânea. Ao exame, apresenta derrame articular volumoso e dor à palpação da faceta medial da patela. Qual complicação deve ser ativamente investigada por RM nesse contexto?",
+      "alternativas": [
+        "Ruptura do tendão patelar",
+        "Fratura osteocondral por cisalhamento (patela medial ou côndilo femoral lateral) com possível corpo livre intra-articular",
+        "Lesão isolada do LCP",
+        "Síndrome compartimental da perna"
+      ],
+      "correta": 1,
+      "comentario": "A luxação patelar aguda pode causar fratura osteocondral por cisalhamento durante o evento de luxação/redução, tipicamente envolvendo a faceta medial da patela ou o aspecto lateral do côndilo femoral lateral, gerando fragmento osteocondral que pode se soltar e formar corpo livre intra-articular. O derrame articular volumoso (frequentemente hemartrose) deve levantar essa suspeita, sendo a RM o exame de escolha para identificação do fragmento e planejamento do tratamento.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-059",
+      "tema": "SDPF - fisiopatologia",
+      "enunciado": "A síndrome da dor patelofemoral (SDPF) é uma das causas mais comuns de dor anterior no joelho em adultos jovens ativos. Qual é o principal mecanismo fisiopatológico proposto para essa condição?",
+      "alternativas": [
+        "Ruptura completa do tendão patelar",
+        "Sobrecarga do mecanismo extensor por desequilíbrio de forças (frequentemente relacionado a fraqueza do quadríceps, especialmente vasto medial oblíquo, e alterações biomecânicas do membro)",
+        "Infecção crônica da articulação patelofemoral",
+        "Necrose avascular da patela"
+      ],
+      "correta": 1,
+      "comentario": "A síndrome da dor patelofemoral é considerada multifatorial, envolvendo sobrecarga do mecanismo extensor por desequilíbrio de forças musculares (frequentemente fraqueza relativa do vasto medial oblíquo em relação ao vasto lateral), alterações biomecânicas do membro inferior (como fraqueza de abdutores/rotadores externos de quadril, levando a valgo dinâmico) e fatores de treinamento. O diagnóstico é predominantemente clínico, por exclusão de outras causas de dor anterior.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-060",
+      "tema": "SDPF - tratamento de primeira linha",
+      "enunciado": "Qual é a abordagem terapêutica de primeira linha para a síndrome da dor patelofemoral?",
+      "alternativas": [
+        "Artroscopia diagnóstica precoce em todos os casos",
+        "Programa de reabilitação com fortalecimento do quadríceps e da musculatura do quadril (glúteo médio/rotadores externos), correção biomecânica e modificação de atividades",
+        "Infiltração intra-articular de corticoide como primeira opção",
+        "Liberação lateral cirúrgica de rotina"
+      ],
+      "correta": 1,
+      "comentario": "O tratamento de primeira linha para a síndrome da dor patelofemoral é conservador, baseado em programa de reabilitação estruturado com fortalecimento do quadríceps e da musculatura proximal do quadril, correção de alterações biomecânicas, modificação temporária de atividades agravantes e, quando indicado, órteses ou taping patelar. A cirurgia tem papel muito limitado e é reservada para casos refratários com anormalidade estrutural específica identificada.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-061",
+      "tema": "SDPF vs instabilidade - sinal de apreensão",
+      "enunciado": "Qual achado de exame físico é mais específico para diferenciar instabilidade patelofemoral de síndrome de dor patelofemoral sem instabilidade?",
+      "alternativas": [
+        "Dor à compressão patelar (teste de Clarke)",
+        "Sinal de apreensão patelar (apreensão ao deslocar lateralmente a patela com o joelho semi-fletido)",
+        "Crepitação patelofemoral durante o movimento",
+        "Dor ao subir escadas"
+      ],
+      "correta": 1,
+      "comentario": "O sinal de apreensão patelar, no qual o paciente demonstra apreensão/resistência voluntária ao deslocamento lateral passivo da patela, é achado específico de instabilidade patelofemoral. Ele diferencia essa condição da síndrome de dor patelofemoral sem instabilidade, na qual predominam dor difusa anterior, crepitação e dor à compressão patelar. Nessa última condição, tipicamente não há apreensão ao estresse lateral da patela.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-062",
+      "tema": "SDPF - relação com condromalácia",
+      "enunciado": "Qual afirmação sobre a relação entre condromalácia patelar e síndrome da dor patelofemoral (SDPF) está correta?",
+      "alternativas": [
+        "São termos sinônimos e sempre coexistem",
+        "A condromalácia patelar é um achado anatomopatológico/de imagem de amolecimento cartilaginoso, que pode ou não estar presente e correlacionar-se com os sintomas da SDPF",
+        "A presença de condromalácia patelar confirma sempre a causa da dor anterior do joelho",
+        "A SDPF só pode ser diagnosticada quando há condromalácia comprovada por artroscopia"
+      ],
+      "correta": 1,
+      "comentario": "A condromalácia patelar é termo anatomopatológico/descritivo de imagem referente ao amolecimento e degeneração da cartilagem da faceta patelar, podendo estar presente ou ausente em pacientes com síndrome de dor patelofemoral, sendo a correlação entre o grau de condromalácia e a intensidade dos sintomas frequentemente fraca. A SDPF é primariamente um diagnóstico clínico funcional, não dependendo de confirmação artroscópica ou de imagem.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-063",
+      "tema": "SDPF - valgo dinâmico e quadril",
+      "enunciado": "Em atletas do sexo feminino com síndrome de dor patelofemoral, um padrão biomecânico frequentemente identificado durante atividades de agachamento ou aterrissagem de salto é o valgo dinâmico do joelho. Qual déficit muscular proximal está mais associado a esse padrão?",
+      "alternativas": [
+        "Fraqueza do músculo tibial posterior",
+        "Fraqueza dos músculos abdutores e rotadores externos do quadril (glúteo médio e glúteo máximo)",
+        "Fraqueza isolada do músculo sóleo",
+        "Fraqueza do músculo poplíteo"
+      ],
+      "correta": 1,
+      "comentario": "A fraqueza dos músculos abdutores e rotadores externos do quadril, particularmente glúteo médio e glúteo máximo, está associada ao padrão de valgo dinâmico do joelho durante atividades funcionais, resultando em aumento do estresse lateral sobre a articulação patelofemoral. Por isso, programas de reabilitação para essa condição frequentemente incluem fortalecimento proximal do quadril, além do fortalecimento local do quadríceps.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-064",
+      "tema": "SDPF - limitações do teste de Clarke",
+      "enunciado": "O teste de compressão patelar (teste de Clarke), embora tradicionalmente utilizado na avaliação da dor patelofemoral, apresenta qual limitação reconhecida na literatura atual?",
+      "alternativas": [
+        "Alta sensibilidade e especificidade comprovadas em todos os estudos",
+        "Baixa especificidade, podendo ser positivo (doloroso) mesmo em joelhos assintomáticos, limitando seu valor diagnóstico isolado",
+        "Só pode ser realizado sob anestesia geral",
+        "É exclusivo para o diagnóstico de lesão meniscal"
+      ],
+      "correta": 1,
+      "comentario": "O teste de compressão patelar apresenta baixa especificidade, podendo desencadear dor mesmo em indivíduos assintomáticos ou com outras causas de dor anterior do joelho, o que limita seu valor como teste diagnóstico isolado. O diagnóstico da SDPF permanece fundamentalmente clínico, baseado na história (dor relacionada a subir/descer escadas, agachar, sentar por tempo prolongado) associada ao exame físico global e à exclusão de outras causas estruturais.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-065",
+      "tema": "Artrose - tratamento de primeira linha",
+      "enunciado": "Qual é a abordagem terapêutica de primeira linha, recomendada por diretrizes internacionais, para o tratamento da osteoartrose sintomática do joelho em estágio inicial a moderado?",
+      "alternativas": [
+        "Artroplastia total do joelho",
+        "Medidas conservadoras: perda de peso, exercícios de fortalecimento/condicionamento e educação do paciente",
+        "Infiltração intra-articular de ácido hialurônico como primeira opção isolada",
+        "Osteotomia tibial de rotina, independentemente do alinhamento"
+      ],
+      "correta": 1,
+      "comentario": "As diretrizes atuais (como as da OARSI e AAOS) recomendam como primeira linha de tratamento para osteoartrose sintomática do joelho as medidas conservadoras não farmacológicas: perda de peso em pacientes com sobrepeso/obesidade, programas de exercício e educação do paciente sobre a doença. Medidas farmacológicas e infiltrações são consideradas adjuvantes, sendo o tratamento cirúrgico reservado para casos refratários com impacto funcional significativo.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-066",
+      "tema": "Osteotomia - indicação clássica da HTO",
+      "enunciado": "A osteotomia tibial valgizante alta (HTO) é indicada classicamente em qual perfil de paciente com artrose do joelho?",
+      "alternativas": [
+        "Paciente idoso, sedentário, com artrose tricompartimental avançada",
+        "Paciente jovem/ativo, com artrose unicompartimental medial isolada e desvio em varo, sem instabilidade ligamentar significativa",
+        "Paciente com artrose patelofemoral isolada exclusivamente",
+        "Paciente com deformidade em valgo do joelho"
+      ],
+      "correta": 1,
+      "comentario": "A osteotomia tibial valgizante alta (HTO) é classicamente indicada para pacientes jovens e ativos (geralmente menores de 60 anos), com artrose unicompartimental medial isolada associada a desvio em varo do membro. É necessário que não haja instabilidade ligamentar significativa nem artrose avançada nos demais compartimentos. O objetivo do procedimento é transferir a carga do compartimento medial degenerado para o compartimento lateral mais preservado.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-067",
+      "tema": "Osteotomia - indicação da DFO",
+      "enunciado": "Paciente de 45 anos, ativo, apresenta artrose unicompartimental lateral do joelho associada a deformidade em valgo constitucional. Qual procedimento cirúrgico de preservação articular é mais indicado nesse cenário?",
+      "alternativas": [
+        "Osteotomia tibial valgizante alta (HTO)",
+        "Osteotomia femoral distal de varização (DFO)",
+        "Artroplastia total do joelho de rotina",
+        "Osteotomia tibial de adição lateral"
+      ],
+      "correta": 1,
+      "comentario": "Na artrose unicompartimental lateral associada a deformidade em valgo de origem femoral, a osteotomia femoral distal de varização (DFO) é o procedimento de preservação articular preferido. Ela corrige a deformidade na sua origem anatômica, o fêmur distal, sem gerar obliquidade excessiva da linha articular. Essa obliquidade indesejada ocorreria se uma osteotomia tibial fosse utilizada para corrigir uma deformidade cuja origem é femoral.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-068",
+      "tema": "Osteotomia - ponto de Fujisawa",
+      "enunciado": "Na osteotomia tibial valgizante alta para artrose medial, o ponto de Fujisawa é utilizado como referência para o planejamento do grau de correção do eixo mecânico. Esse ponto corresponde a:",
+      "alternativas": [
+        "Passagem do eixo mecânico pelo centro exato do platô tibial (50% da largura)",
+        "Passagem do eixo mecânico por aproximadamente 62-66% da largura do platô tibial, a partir da borda medial, transferindo levemente a carga para o compartimento lateral",
+        "Passagem do eixo mecânico pela borda medial do platô tibial (0%)",
+        "Manutenção do eixo mecânico inalterado em relação ao pré-operatório"
+      ],
+      "correta": 1,
+      "comentario": "O ponto de Fujisawa corresponde à passagem do eixo mecânico por aproximadamente 62-66% da largura do platô tibial (medido da borda medial para a lateral), correspondendo a um leve valgo de correção que transfere a carga predominantemente para o compartimento lateral relativamente preservado, sem hipercorreção excessiva. A hipocorreção é uma das principais causas de falha e recidiva dos sintomas após HTO.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "JOE-069",
+      "tema": "Osteotomia - abertura medial vs fechamento lateral",
+      "enunciado": "Em relação às técnicas de osteotomia tibial alta valgizante, qual é uma vantagem reconhecida da técnica de abertura medial (open wedge) em comparação com a técnica de fechamento lateral (closing wedge)?",
+      "alternativas": [
+        "Menor risco de lesão do nervo fibular comum, por não requerer abordagem próxima à cabeça da fíbula",
+        "Consolidação óssea mais rápida em todos os casos",
+        "Ausência de necessidade de enxerto ósseo ou substituto ósseo",
+        "Menor alteração do slope tibial"
+      ],
+      "correta": 0,
+      "comentario": "A técnica de abertura medial evita a dissecção próxima à cabeça da fíbula e ao nervo fibular comum, reduzindo o risco de lesão neurológica dessa estrutura em comparação com a técnica de fechamento lateral, que requer osteotomia da fíbula ou da articulação tibiofibular proximal. Por outro lado, a abertura medial frequentemente requer preenchimento do defeito ósseo e pode aumentar inadvertidamente o slope tibial posterior se não for tecnicamente bem executada.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-070",
+      "tema": "Osteotomia - contraindicações",
+      "enunciado": "Qual das seguintes condições é considerada contraindicação relativa/absoluta à realização de osteotomia tibial valgizante alta (HTO) para tratamento de artrose medial?",
+      "alternativas": [
+        "Amplitude de movimento completa e preservada",
+        "Artrose tricompartimental avançada ou perda significativa de amplitude de movimento (flexo maior que 15°)",
+        "Idade entre 40 e 55 anos",
+        "Desvio em varo isolado do compartimento medial"
+      ],
+      "correta": 1,
+      "comentario": "A presença de artrose tricompartimental avançada e a perda importante de amplitude de movimento (contratura em flexo maior que 15°) são contraindicações relativas a absolutas à HTO, pois o procedimento não corrige a degeneração em outros compartimentos e uma rigidez articular importante compromete o resultado funcional. A idade jovem/meia-idade e o desvio em varo isolado do compartimento medial são, ao contrário, características favoráveis à indicação.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-071",
+      "tema": "Artrose - infiltrações intra-articulares",
+      "enunciado": "Em relação ao uso de infiltrações intra-articulares no tratamento da osteoartrose do joelho, qual afirmação é mais consistente com a evidência atual?",
+      "alternativas": [
+        "O ácido hialurônico tem eficácia superior e consensual em todas as diretrizes, sendo recomendado de rotina",
+        "Os corticoides intra-articulares podem proporcionar alívio de curto prazo, mas seu uso repetido e frequente é motivo de preocupação quanto a possíveis efeitos deletérios sobre a cartilagem",
+        "Infiltrações intra-articulares substituem completamente a necessidade de exercícios terapêuticos",
+        "O plasma rico em plaquetas (PRP) tem eficácia inquestionável e uniformemente recomendada por todas as diretrizes principais"
+      ],
+      "correta": 1,
+      "comentario": "Os corticoides intra-articulares podem proporcionar alívio sintomático de curto prazo na osteoartrose do joelho, mas há preocupação crescente, sustentada por alguns estudos, quanto a possíveis efeitos deletérios da administração repetida e frequente sobre a cartilagem articular e progressão da doença, motivo pelo qual seu uso deve ser criterioso e não substitui as medidas de base. O ácido hialurônico e o PRP têm evidências heterogêneas e controversas entre diferentes diretrizes.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "JOE-072",
+      "tema": "Osteotomia vs UKA - decisão por idade/atividade",
+      "enunciado": "Paciente de 38 anos, fisicamente ativo, trabalhador braçal, com artrose unicompartimental medial isolada e desvio em varo moderado, procura tratamento cirúrgico definitivo para preservação articular. Em comparação com a artroplastia unicompartimental do joelho (UKA), qual é uma vantagem reconhecida da osteotomia tibial nesse perfil de paciente?",
+      "alternativas": [
+        "Recuperação pós-operatória mais rápida que a UKA",
+        "Preservação do estoque ósseo e da articulação nativa, permitindo maior tolerância a atividades de impacto e trabalho pesado, sem os limites de desgaste de um implante protético",
+        "Menor tempo cirúrgico em todos os casos",
+        "Ausência de necessidade de reabilitação pós-operatória"
+      ],
+      "correta": 1,
+      "comentario": "Em pacientes jovens, ativos e com demanda funcional elevada, a osteotomia tibial preserva o estoque ósseo e a articulação nativa, permitindo tolerância a cargas e impactos que poderiam acelerar o desgaste e afrouxamento de um implante protético, postergando a necessidade de artroplastia para uma fase posterior da vida. Em contrapartida, a recuperação da HTO tende a ser mais lenta e o alívio da dor menos previsível no curto prazo em comparação com a UKA.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-073",
+      "tema": "ATJ - alinhamento mecânico neutro",
+      "enunciado": "No conceito clássico de alinhamento mecânico neutro para artroplastia total do joelho (ATJ), o eixo mecânico do membro deve passar, idealmente, por qual ponto?",
+      "alternativas": [
+        "Pela borda medial do platô tibial",
+        "Pelo centro (ou próximo ao centro) da articulação do joelho, resultando em ângulo mecânico de aproximadamente 0°",
+        "Pela borda lateral do platô tibial",
+        "Não há recomendação de alinhamento na técnica clássica"
+      ],
+      "correta": 1,
+      "comentario": "No conceito clássico de alinhamento mecânico neutro, a artroplastia total do joelho busca posicionar os componentes de modo que o eixo mecânico do membro passe pelo centro da articulação do joelho, resultando em ângulo mecânico de aproximadamente 0°, distribuindo a carga de forma equilibrada entre os compartimentos medial e lateral. Esse conceito tem sido debatido, com o surgimento de filosofias alternativas como o alinhamento cinemático.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-074",
+      "tema": "ATJ - alinhamento cinemático",
+      "enunciado": "Em relação ao conceito de alinhamento cinemático (kinematic alignment) na artroplastia total do joelho, qual afirmação está correta?",
+      "alternativas": [
+        "Busca sempre corrigir o eixo do membro para exatamente 0° de alinhamento mecânico neutro, independentemente da anatomia prévia",
+        "Busca restaurar os eixos de rotação articular pré-artrósicos nativos do paciente, respeitando a anatomia individual, mesmo que resulte em pequeno desvio do alinhamento mecânico neutro clássico",
+        "É uma técnica exclusiva para artroplastia unicompartimental, sem aplicação na ATJ total",
+        "Elimina completamente a necessidade de balanceamento de partes moles durante a cirurgia"
+      ],
+      "correta": 1,
+      "comentario": "O alinhamento cinemático busca restaurar os eixos de rotação articular tridimensionais nativos do paciente, posicionando os componentes de forma a reproduzir a anatomia individual, o que pode resultar em alinhamento final ligeiramente diferente do alinhamento mecânico neutro clássico. Essa filosofia contrasta com o alinhamento mecânico tradicional e tem sido estudada em ensaios comparativos, com resultados funcionais promissores em alguns estudos, embora ainda existam controvérsias sobre sobrevida do implante a longo prazo.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-075",
+      "tema": "ATJ - técnica de gap balancing",
+      "enunciado": "Na técnica de 'gap balancing' (balanceamento de espaços) durante a artroplastia total do joelho, o objetivo principal é:",
+      "alternativas": [
+        "Realizar os cortes ósseos de forma totalmente independente do balanço ligamentar",
+        "Obter espaços em flexão e extensão iguais e retangulares (balanceados medial-lateralmente) através do ajuste dos cortes ósseos guiado pela tensão ligamentar",
+        "Priorizar exclusivamente a referência de rotação femoral pelo epicôndilo",
+        "Eliminar completamente a necessidade de liberação de partes moles"
+      ],
+      "correta": 1,
+      "comentario": "A técnica de 'gap balancing' busca obter espaços em flexão e extensão iguais, simétricos e retangulares. Para isso, utiliza dispositivos de tensionamento ligamentar que guiam o corte femoral, incluindo a definição da rotação femoral. Essa abordagem contrasta com a técnica de 'referência anatômica' (measured resection), que baseia os cortes em referências ósseas anatômicas e realiza o balanceamento ligamentar de forma secundária.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-076",
+      "tema": "ATJ - causas de revisão precoce",
+      "enunciado": "Qual é uma das principais causas de revisão precoce (primeiros anos) da artroplastia total do joelho?",
+      "alternativas": [
+        "Desgaste do polietileno por uso prolongado",
+        "Infecção periprotética",
+        "Osteólise tardia relacionada a partículas de desgaste",
+        "Fratura periprotética por osteoporose senil isolada"
+      ],
+      "correta": 1,
+      "comentario": "A infecção periprotética é uma das principais causas de revisão precoce da artroplastia total do joelho, ao lado de instabilidade e rigidez, enquanto causas como desgaste do polietileno e osteólise relacionada a partículas tendem a se manifestar mais tardiamente. O diagnóstico precoce e o tratamento adequado da infecção periprotética são essenciais para o sucesso do tratamento, dado o impacto funcional de revisões tardias.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-077",
+      "tema": "ATJ - critérios diagnósticos de infecção periprotética",
+      "enunciado": "Qual dos seguintes é considerado um critério maior (definitivo) para o diagnóstico de infecção articular periprotética, segundo os critérios da International Consensus Meeting (ICM)/MSIS?",
+      "alternativas": [
+        "PCR sérica elevada isoladamente",
+        "Presença de dois cultivos periprotéticos positivos para o mesmo microrganismo",
+        "Dor articular isolada sem outros achados",
+        "Velocidade de hemossedimentação (VHS) elevada isoladamente"
+      ],
+      "correta": 1,
+      "comentario": "Segundo os critérios do International Consensus Meeting (ICM)/Musculoskeletal Infection Society (MSIS), critérios maiores incluem a presença de fístula comunicante com a prótese ou o isolamento do mesmo microrganismo em duas ou mais culturas periprotéticas separadas. Marcadores inflamatórios séricos isolados e sintomas clínicos isolados são critérios menores, que contribuem para um escore diagnóstico combinado, mas não confirmam isoladamente o diagnóstico.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "JOE-078",
+      "tema": "ATJ - infecção aguda e DAIR",
+      "enunciado": "Paciente desenvolve quadro de infecção periprotética do joelho nas primeiras 3 semanas após a artroplastia, com componentes bem fixados à avaliação radiográfica e ausência de trajeto fistuloso crônico. Qual estratégia cirúrgica é mais apropriada nesse cenário?",
+      "alternativas": [
+        "Retirada dos componentes com colocação de espaçador de cimento com antibiótico (revisão em dois estágios)",
+        "Desbridamento cirúrgico com retenção dos componentes (DAIR) associado a troca do polietileno e antibioticoterapia prolongada",
+        "Amputação do membro",
+        "Apenas antibioticoterapia oral isolada, sem intervenção cirúrgica"
+      ],
+      "correta": 1,
+      "comentario": "Em infecções periprotéticas agudas, com componentes bem fixados e ausência de trajeto fistuloso crônico, a estratégia de desbridamento cirúrgico com retenção dos componentes (DAIR), associada à troca do inserto de polietileno e antibioticoterapia prolongada, é opção válida com boas taxas de sucesso quando os critérios de seleção são respeitados. A revisão em dois estágios é reservada para infecções crônicas, componentes soltos ou falha de DAIR prévio.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-079",
+      "tema": "ATJ - espaçador de cimento com antibiótico",
+      "enunciado": "Na revisão em dois estágios para tratamento de infecção periprotética crônica do joelho, qual é a função do espaçador de cimento impregnado com antibiótico colocado no primeiro estágio?",
+      "alternativas": [
+        "Substituir permanentemente a prótese definitiva",
+        "Fornecer liberação local de antibiótico, manter o espaço articular e permitir alguma função temporária enquanto se trata a infecção antes da reimplantação definitiva",
+        "Servir apenas como material de preenchimento sem função antimicrobiana",
+        "Fixar definitivamente os componentes protéticos"
+      ],
+      "correta": 1,
+      "comentario": "O espaçador de cimento impregnado com antibiótico, utilizado no primeiro estágio da revisão em dois tempos, tem a função de fornecer liberação local de altas concentrações de antibiótico diretamente no sítio da infecção. Além disso, mantém o espaço articular e permite alguma função temporária ao paciente durante o tratamento. A reimplantação da prótese definitiva é realizada apenas após um período de tratamento antibiótico sistêmico e confirmação laboratorial de erradicação da infecção.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-080",
+      "tema": "UKA - perfil ideal do paciente",
+      "enunciado": "Qual é o perfil ideal de paciente para indicação de artroplastia unicompartimental do joelho (UKA)?",
+      "alternativas": [
+        "Artrose tricompartimental avançada com instabilidade ligamentar",
+        "Artrose isolada de um único compartimento (geralmente medial), com ligamento cruzado anterior íntegro e deformidade angular corrigível/passiva, sem contratura fixa significativa",
+        "Paciente obeso mórbido com deformidade fixa em flexo de 30°",
+        "Artrite reumatoide com acometimento difuso da articulação"
+      ],
+      "correta": 1,
+      "comentario": "O perfil ideal para artroplastia unicompartimental do joelho inclui artrose isolada de um único compartimento, mais comumente o medial, com preservação do ligamento cruzado anterior, fundamental para a cinemática do joelho protetizado unicompartimentalmente. A deformidade angular deve ser passivamente corrigível, sem contratura fixa importante. A instabilidade ligamentar significativa e o acometimento inflamatório sistêmico difuso são condições que favorecem melhor a artroplastia total.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-081",
+      "tema": "UKA - complicação relativamente específica",
+      "enunciado": "Qual é uma complicação relativamente específica da artroplastia unicompartimental do joelho, em comparação com a artroplastia total?",
+      "alternativas": [
+        "Infecção periprotética, exclusivamente",
+        "Progressão da osteoartrose no compartimento não operado, podendo exigir conversão para artroplastia total",
+        "Luxação da prótese em qualquer direção",
+        "Fratura periprotética exclusiva do fêmur"
+      ],
+      "correta": 1,
+      "comentario": "Uma complicação relativamente específica da artroplastia unicompartimental é a progressão da osteoartrose no(s) compartimento(s) não operados, que pode eventualmente exigir conversão cirúrgica para artroplastia total do joelho. Outras complicações, como infecção, também ocorrem na UKA, mas em menor frequência absoluta do que na ATJ; a progressão de artrose nos demais compartimentos é problema conceitualmente próprio da abordagem unicompartimental.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "JOE-082",
+      "tema": "ATJ - fixação cimentada vs não cimentada",
+      "enunciado": "Em relação à fixação dos componentes na artroplastia total do joelho, qual afirmação é mais consistente com a prática e evidência atuais?",
+      "alternativas": [
+        "A fixação cimentada é historicamente o padrão-ouro, com resultados de longevidade bem estabelecidos a longo prazo",
+        "A fixação não cimentada é sempre superior e deve ser a primeira escolha em todos os pacientes",
+        "A fixação cimentada é contraindicada em pacientes idosos",
+        "A fixação não cimentada elimina completamente o risco de afrouxamento asséptico"
+      ],
+      "correta": 0,
+      "comentario": "A fixação cimentada continua sendo historicamente considerada o padrão-ouro na artroplastia total do joelho, com extensos dados de sobrevida a longo prazo. As técnicas de fixação não cimentada, com superfícies porosas que favorecem osteointegração, têm evoluído e apresentado resultados promissores em estudos recentes (especialmente em pacientes mais jovens com boa qualidade óssea), mas ainda não substituem de forma consensual a fixação cimentada em todos os perfis de pacientes.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-083",
+      "tema": "ATJ - rigidez e manipulação sob anestesia",
+      "enunciado": "Paciente evolui, 6 semanas após artroplastia total do joelho, com flexão máxima de apenas 70°, apesar de fisioterapia adequada, sem sinais de infecção. Qual conduta é mais apropriada nesse momento?",
+      "alternativas": [
+        "Aguardar indefinidamente sem intervenção, pois a rigidez sempre resolve espontaneamente",
+        "Considerar manipulação sob anestesia, geralmente indicada entre 6 semanas e 3 meses de pós-operatório, antes que a fibrose se torne mais estabelecida",
+        "Revisão cirúrgica completa da prótese imediatamente",
+        "Amputação do membro"
+      ],
+      "correta": 1,
+      "comentario": "A manipulação sob anestesia é opção terapêutica para rigidez pós-artroplastia total do joelho, considerada quando a amplitude de movimento permanece significativamente limitada apesar de fisioterapia adequada, sendo mais eficaz em janela de tempo específica (tipicamente entre 6 semanas e 3 meses), antes que a fibrose periarticular se torne mais estabelecida e menos responsiva. Após esse período, liberação artroscópica de aderências ou revisão cirúrgica podem ser consideradas.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "JOE-084",
+      "tema": "ATJ - profilaxia de TEV",
+      "enunciado": "Em relação à profilaxia de tromboembolismo venoso após artroplastia total do joelho, qual afirmação está correta?",
+      "alternativas": [
+        "A profilaxia farmacológica é contraindicada em todos os pacientes submetidos a ATJ",
+        "A profilaxia (mecânica e/ou farmacológica) é rotineiramente recomendada, com a escolha do agente e duração individualizada conforme o risco do paciente",
+        "Apenas a mobilização precoce, sem qualquer outra medida, é suficiente e recomendada universalmente",
+        "A aspirina nunca é uma opção aceitável de profilaxia farmacológica"
+      ],
+      "correta": 1,
+      "comentario": "A profilaxia de tromboembolismo venoso (mecânica, como compressão pneumática intermitente, e/ou farmacológica, incluindo aspirina, heparinas de baixo peso molecular ou anticoagulantes orais diretos) é rotineiramente recomendada após artroplastia total do joelho, dado o risco aumentado de trombose venosa profunda e embolia pulmonar. A escolha do agente e a duração devem ser individualizadas conforme o perfil de risco tromboembólico e hemorrágico, sendo a aspirina opção aceitável validada para pacientes de risco padrão.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-085",
+      "tema": "ATJ - navegação e robótica",
+      "enunciado": "Qual é o principal benefício demonstrado do uso de tecnologias assistidas por computador (navegação ou robótica) na artroplastia total do joelho?",
+      "alternativas": [
+        "Redução comprovada e definitiva da taxa de infecção periprotética",
+        "Maior precisão no posicionamento dos componentes e no alinhamento do membro, com evidência ainda em evolução quanto ao impacto em desfechos funcionais e de sobrevida do implante a longo prazo",
+        "Eliminação completa da necessidade de balanceamento ligamentar",
+        "Redução do tempo cirúrgico em todos os casos"
+      ],
+      "correta": 1,
+      "comentario": "As tecnologias assistidas por computador têm demonstrado maior precisão e reprodutibilidade no posicionamento dos componentes e no alinhamento final do membro, reduzindo outliers de alinhamento em comparação com técnicas manuais tradicionais. No entanto, a evidência quanto à tradução dessa maior precisão em melhores desfechos funcionais clinicamente relevantes e maior sobrevida do implante a longo prazo ainda está em evolução.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-086",
+      "tema": "ATJ - fratura periprotética supracondiliana",
+      "enunciado": "Paciente idosa, portadora de artroplastia total do joelho há 5 anos, sofre queda com fratura supracondiliana do fêmur próxima aos componentes protéticos, porém com o componente femoral bem fixado à avaliação radiográfica. Qual é a conduta cirúrgica geralmente mais indicada nesse cenário?",
+      "alternativas": [
+        "Revisão completa da artroplastia com troca do componente femoral, independentemente da fixação",
+        "Osteossíntese da fratura (placa bloqueada ou haste retrógrada intramedular), preservando o componente protético bem fixado",
+        "Tratamento exclusivamente conservador com imobilização gessada prolongada em todos os casos",
+        "Amputação transfemoral"
+      ],
+      "correta": 1,
+      "comentario": "Nas fraturas periprotéticas supracondilianas do fêmur com o componente femoral bem fixado, a conduta preferida é a osteossíntese da fratura (placa bloqueada laterofemoral ou haste intramedular retrógrada, quando o desenho protético permite), preservando o componente protético íntegro e evitando a maior morbidade de uma revisão protética completa. A revisão com componentes de revisão é reservada para casos com afrouxamento/soltura do componente femoral associado à fratura.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "JOE-087",
+      "tema": "ATJ - controvérsia do resurfacing patelar",
+      "enunciado": "Em relação ao resurfacing (substituição) patelar de rotina durante a artroplastia total do joelho, qual afirmação reflete melhor o estado atual do conhecimento?",
+      "alternativas": [
+        "É consensualmente indicado em 100% dos casos, sem exceções, em todas as diretrizes internacionais",
+        "Permanece um tema controverso, com estudos mostrando resultados comparáveis entre substituir e não substituir a patela em populações selecionadas, sendo a decisão frequentemente individualizada",
+        "É absolutamente contraindicado em qualquer circunstância",
+        "Deve ser sempre evitado em pacientes com osteoartrose primária"
+      ],
+      "correta": 1,
+      "comentario": "O resurfacing patelar de rotina permanece tema controverso na literatura ortopédica, com diversos estudos e metanálises mostrando resultados funcionais e taxas de dor anterior comparáveis entre pacientes submetidos à substituição patelar versus preservação da patela nativa, especialmente com bom manejo do trilhamento patelar e desenho troclear adequado do implante femoral. A decisão é frequentemente individualizada, considerando qualidade da cartilagem remanescente e alinhamento do mecanismo extensor.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-088",
+      "tema": "ATJ - instabilidade em flexão",
+      "enunciado": "Paciente apresenta, após artroplastia total do joelho, sensação de instabilidade e 'falseio' predominantemente durante a flexão (por exemplo, ao descer escadas), com estabilidade adequada em extensão completa. Qual é a causa biomecânica mais provável desse quadro?",
+      "alternativas": [
+        "Espaço em flexão excessivamente maior que o espaço em extensão (desbalanceamento flexão-extensão)",
+        "Infecção periprotética isolada",
+        "Fratura periprotética do platô tibial",
+        "Luxação franca e completa da prótese"
+      ],
+      "correta": 0,
+      "comentario": "A instabilidade predominante em flexão, com estabilidade preservada em extensão, geralmente decorre de desbalanceamento entre os espaços em flexão e extensão, com o espaço em flexão excessivamente maior (frouxo), frequentemente relacionado a corte femoral distal excessivo, slope insuficiente ou tamanho/posicionamento inadequado do componente femoral. O diagnóstico envolve avaliação clínica e radiográfica/fluoroscópica cuidadosa, podendo requerer revisão cirúrgica para correção do balanceamento.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "JOE-089",
+      "tema": "ATJ - neuropraxia do fibular na correção de valgo grave",
+      "enunciado": "Paciente com deformidade em valgo grave e contratura em flexão significativa é submetido à correção cirúrgica com artroplastia total do joelho, apresentando no pós-operatório imediato déficit de dorsiflexão do tornozelo e hipoestesia no primeiro espaço interdigital. Qual é a causa mais provável desse achado?",
+      "alternativas": [
+        "Lesão do nervo tibial posterior",
+        "Neuropraxia do nervo fibular comum por estiramento, relacionada à correção aguda de deformidade em valgo grave associada a flexo",
+        "Infecção periprotética precoce",
+        "Trombose venosa profunda"
+      ],
+      "correta": 1,
+      "comentario": "A correção cirúrgica aguda de deformidades em valgo grave associadas a contratura em flexão significativa está associada a maior risco de neuropraxia do nervo fibular comum, por estiramento decorrente do alongamento relativo do membro e da correção do eixo, sendo esse nervo particularmente vulnerável por seu trajeto superficial ao redor do colo da fíbula. O tratamento geralmente é expectante, com órtese de apoio ao pé caído, já que a maioria dos casos apresenta recuperação espontânea parcial ou completa.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-090",
+      "tema": "ATJ bilateral - simultânea vs estagiada",
+      "enunciado": "Em relação à artroplastia total do joelho bilateral realizada no mesmo ato cirúrgico (simultânea) em comparação com a abordagem estagiada (em dois tempos cirúrgicos separados), qual afirmação é correta?",
+      "alternativas": [
+        "A abordagem simultânea está associada a menor risco de complicações cardiopulmonares e mortalidade perioperatória",
+        "A abordagem simultânea, embora reduza o tempo total de reabilitação e o número de internações, está associada a maior risco de complicações cardiopulmonares e mortalidade perioperatória, especialmente em pacientes com comorbidades significativas",
+        "A escolha entre as duas abordagens não tem qualquer relação com o perfil de risco do paciente",
+        "A abordagem estagiada é sempre contraindicada"
+      ],
+      "correta": 1,
+      "comentario": "A artroplastia total do joelho bilateral simultânea reduz o tempo total de reabilitação e o número de internações em comparação com a abordagem estagiada, mas está associada a maior risco de complicações cardiopulmonares (incluindo embolia gordurosa, eventos cardíacos) e maior mortalidade perioperatória, especialmente em pacientes com comorbidades cardiovasculares ou pulmonares significativas e idade avançada. A seleção cuidadosa de pacientes é fundamental quando se considera a abordagem simultânea.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-091",
+      "tema": "Tendinopatia patelar - localização típica",
+      "enunciado": "A tendinopatia patelar, popularmente conhecida como 'joelho do saltador' (jumper's knee), acomete mais frequentemente qual porção do tendão patelar?",
+      "alternativas": [
+        "Inserção distal no tubérculo tibial",
+        "Origem proximal, na inserção no polo inferior da patela",
+        "Porção média do tendão",
+        "Inserção do tendão quadricipital no polo superior da patela"
+      ],
+      "correta": 1,
+      "comentario": "A tendinopatia patelar acomete mais frequentemente a origem proximal do tendão, na sua inserção no polo inferior da patela, sendo condição comum em esportes que envolvem saltos repetitivos, daí o termo popular 'joelho do saltador'. A fisiopatologia envolve degeneração tendinosa por sobrecarga repetitiva (tendinose), mais do que um processo inflamatório clássico, influenciando as estratégias terapêuticas, com ênfase em exercícios excêntricos.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-092",
+      "tema": "Tendinopatia patelar - tratamento conservador",
+      "enunciado": "Qual é a modalidade de tratamento conservador com melhor evidência de eficácia para a tendinopatia patelar crônica?",
+      "alternativas": [
+        "Repouso absoluto prolongado sem qualquer exercício",
+        "Programa de exercícios excêntricos progressivos do quadríceps (por exemplo, protocolo em prancha declinada)",
+        "Imobilização gessada por 6 semanas",
+        "Infiltração intra-articular de corticoide de rotina"
+      ],
+      "correta": 1,
+      "comentario": "O programa de exercícios excêntricos progressivos do quadríceps, classicamente realizado em prancha declinada, apresenta a melhor evidência de eficácia no tratamento conservador da tendinopatia patelar crônica, promovendo remodelação do tecido tendinoso degenerado. O repouso absoluto prolongado e a imobilização não são recomendados; infiltrações de corticoide diretamente no tendão são geralmente evitadas pelo risco de enfraquecimento e ruptura tendinosa.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-093",
+      "tema": "Ruptura do tendão patelar - perfil epidemiológico",
+      "enunciado": "A ruptura completa do tendão patelar ocorre mais comumente em qual faixa etária e circunstância clínica?",
+      "alternativas": [
+        "Idosos com tendinopatia degenerativa preexistente, geralmente sem trauma significativo",
+        "Pacientes jovens, abaixo de 40 anos, geralmente durante atividade esportiva com contração excêntrica forçada do quadríceps",
+        "Exclusivamente em pacientes com doença renal crônica em diálise",
+        "Exclusivamente após uso de corticoide sistêmico prolongado"
+      ],
+      "correta": 1,
+      "comentario": "A ruptura completa do tendão patelar ocorre mais comumente em pacientes jovens (geralmente abaixo de 40 anos), tipicamente durante atividade esportiva envolvendo contração excêntrica forçada do quadríceps, muitas vezes sobre tendão previamente enfraquecido por tendinopatia crônica subclínica. Já a ruptura do tendão quadricipital ocorre mais tipicamente em pacientes mais idosos, frequentemente associada a comorbidades sistêmicas.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-094",
+      "tema": "Ruptura do tendão quadricipital - fatores de risco",
+      "enunciado": "Qual dos seguintes é um fator de risco sistêmico reconhecido para ruptura espontânea (ou por trauma de baixa energia) do tendão quadricipital?",
+      "alternativas": [
+        "Hipertensão arterial sistêmica isolada",
+        "Doença renal crônica em diálise",
+        "Asma brônquica controlada",
+        "Hipotireoidismo subclínico"
+      ],
+      "correta": 1,
+      "comentario": "A doença renal crônica, especialmente em pacientes em diálise, é fator de risco sistêmico reconhecido para ruptura espontânea ou por trauma de baixa energia do tendão quadricipital (e também do tendão patelar), relacionado a alterações metabólicas do colágeno, hiperparatireoidismo secundário e uso concomitante de corticoides. Outros fatores incluem diabetes mellitus, uso de corticoides sistêmicos, fluoroquinolonas e doenças do colágeno/conectivo.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-095",
+      "tema": "Aparelho extensor - diagnóstico clínico de ruptura",
+      "enunciado": "Paciente apresenta trauma no joelho e, ao exame físico, é incapaz de realizar extensão ativa contra a gravidade, com palpação de um defeito (gap) na topografia do tendão patelar. Qual é o diagnóstico mais provável e a conduta indicada?",
+      "alternativas": [
+        "Entorse leve de LCM; tratamento conservador com órtese",
+        "Ruptura completa do tendão patelar; indicação de reparo cirúrgico",
+        "Lesão meniscal isolada; artroscopia eletiva",
+        "Tendinopatia patelar crônica; fisioterapia isolada"
+      ],
+      "correta": 1,
+      "comentario": "A incapacidade de realizar extensão ativa do joelho contra a gravidade, associada à palpação de um defeito na topografia do tendão patelar, é altamente sugestiva de ruptura completa do tendão patelar, geralmente acompanhada de patela alta traumática. Essa lesão tem indicação de reparo cirúrgico, idealmente realizado precocemente, dentro de 2 a 3 semanas do trauma. O atraso no tratamento está associado à retração do tendão e a piores resultados funcionais.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "JOE-096",
+      "tema": "Tendão patelar - técnica de reparo",
+      "enunciado": "Na reparação cirúrgica aguda de uma ruptura completa do tendão patelar por avulsão do polo inferior da patela, qual técnica de fixação é classicamente utilizada?",
+      "alternativas": [
+        "Sutura simples de partes moles sem qualquer fixação óssea",
+        "Técnica de sutura transóssea através de túneis longitudinais na patela, com reforço frequentemente associado (cerclagem protetora)",
+        "Artroplastia patelofemoral",
+        "Ressecção completa da patela (patelectomia total) de rotina"
+      ],
+      "correta": 1,
+      "comentario": "A técnica clássica de reparo agudo da ruptura do tendão patelar por avulsão do polo inferior da patela envolve sutura transóssea. Fios são passados através de túneis longitudinais perfurados na patela, ancorando o tendão diretamente ao osso patelar. Esse reparo é frequentemente associado a uma cerclagem protetora, que protege a sutura durante a fase inicial de cicatrização e permite mobilização protegida mais precoce.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-097",
+      "tema": "Aparelho extensor - ruptura crônica negligenciada",
+      "enunciado": "Paciente apresenta ruptura crônica e negligenciada (mais de 6 semanas) do tendão patelar, com retração significativa do quadríceps e patela alta importante. Qual abordagem cirúrgica é geralmente necessária nesse cenário, em comparação com o reparo agudo simples?",
+      "alternativas": [
+        "Reparo primário simples idêntico ao de lesões agudas",
+        "Reconstrução com auxílio de enxerto (autólogo, como semitendíneo, ou aloenxerto) e técnicas de alongamento/liberação do mecanismo extensor retraído",
+        "Tratamento exclusivamente conservador com órtese permanente",
+        "Artrodese do joelho como primeira escolha"
+      ],
+      "correta": 1,
+      "comentario": "Nas rupturas crônicas e negligenciadas do tendão patelar, com retração significativa do complexo quadríceps-patela, o reparo primário simples geralmente não é possível devido à perda de comprimento efetivo do tendão. Nesses casos, é necessária reconstrução com auxílio de enxerto, autólogo ou aloenxerto, frequentemente associada a técnicas de liberação/alongamento de partes moles. Os resultados funcionais desses procedimentos são tipicamente inferiores aos obtidos em reparos agudos realizados precocemente.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "JOE-098",
+      "tema": "Fratura de patela - avaliação do mecanismo extensor",
+      "enunciado": "Homem de 55 anos sofre queda com apoio direto sobre o joelho fletido e desenvolve dor patelar, derrame e incapacidade de extensão ativa completa. A radiografia evidencia fratura transversa desviada da patela. Qual a conduta mais apropriada?",
+      "alternativas": [
+        "Tratamento conservador com imobilização em extensão, independentemente do desvio",
+        "Redução aberta e fixação interna (por exemplo, técnica de banda de tensão), restaurando a continuidade do mecanismo extensor",
+        "Patelectomia total de rotina em todas as fraturas transversas",
+        "Observação clínica sem intervenção, pois fraturas patelares consolidam espontaneamente sem tratamento"
+      ],
+      "correta": 1,
+      "comentario": "Fraturas da patela transversas com desvio significativo e/ou associadas a perda da extensão ativa (indicando descontinuidade do mecanismo extensor através da fratura) têm indicação de redução aberta e fixação interna, classicamente com técnica de banda de tensão, restaurando a congruência articular e a continuidade funcional do aparelho extensor. Fraturas não desviadas, com extensão ativa preservada, podem ser tratadas conservadoramente.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-099",
+      "tema": "Síndrome da banda iliotibial",
+      "enunciado": "Corredor de longa distância apresenta dor na face lateral do joelho, que piora tipicamente após determinada distância de corrida, com ponto doloroso localizado próximo ao epicôndilo femoral lateral. Qual é o diagnóstico mais provável e seu mecanismo fisiopatológico?",
+      "alternativas": [
+        "Lesão do menisco lateral; mecanismo de compressão meniscal",
+        "Síndrome da banda iliotibial; atrito/compressão repetitiva da banda sobre o epicôndilo femoral lateral durante a flexoextensão do joelho",
+        "Ruptura do LCL; instabilidade em varo",
+        "Bursite pré-patelar; trauma direto repetitivo"
+      ],
+      "correta": 1,
+      "comentario": "A síndrome da banda iliotibial é uma tendinopatia/entesopatia por sobrecarga, por atrito ou compressão repetitiva da banda iliotibial sobre o epicôndilo femoral lateral durante os movimentos repetidos de flexoextensão do joelho, comum em corredores de longa distância e ciclistas. O tratamento inicial é conservador, envolvendo modificação de treino, alongamento/liberação miofascial e fortalecimento da musculatura abdutora do quadril.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "JOE-100",
+      "tema": "Tendinopatia da pata de ganso",
+      "enunciado": "Paciente de 50 anos, sexo feminino, obesa, diabética, apresenta dor na face anteromedial da tíbia proximal, abaixo da interlinha articular, que piora ao subir escadas e à palpação local, sem derrame articular significativo nem instabilidade. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        "Ruptura do ligamento colateral medial",
+        "Tendinopatia/bursite da pata de ganso (pes anserinus)",
+        "Lesão do menisco medial com bloqueio mecânico",
+        "Fratura de estresse do platô tibial medial"
+      ],
+      "correta": 1,
+      "comentario": "A tendinopatia/bursite da pata de ganso, formada pela inserção conjunta dos tendões sartório, grácil e semitendíneo na face anteromedial da tíbia proximal, é causa comum de dor nessa topografia, especialmente em pacientes obesos, diabéticos, mulheres de meia-idade e indivíduos com desvio em valgo ou artrose medial associada. O diagnóstico é clínico, baseado na localização típica da dor, distinta da lesão meniscal que dói na própria interlinha, sendo o tratamento inicial conservador.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    }
+  ]
+}
