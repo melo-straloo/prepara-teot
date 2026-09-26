@@ -1,0 +1,1506 @@
+{
+  "area": "Trauma do Adulto — Membro Inferior",
+  "slug": "trauma-membro-inferior",
+  "questoes": [
+    {
+      "id": "TMI-001",
+      "tema": "Fratura do colo do fêmur — classificação de Garden",
+      "enunciado": "A classificação de Garden para as fraturas do colo do fêmur baseia-se principalmente em qual característica radiográfica?",
+      "alternativas": [
+        "No grau de cominuição do colo femoral",
+        "No grau de desvio da fratura e no alinhamento das trabéculas ósseas",
+        "Na angulação do traço de fratura em relação ao plano horizontal",
+        "Na presença ou ausência de fratura associada do acetábulo"
+      ],
+      "correta": 1,
+      "comentario": "A classificação de Garden (I a IV) avalia o desvio da fratura e o realinhamento das trabéculas ósseas da cabeça femoral em relação ao colo na radiografia em AP. Garden I é uma fratura incompleta ou em valgo impactada; Garden II é completa mas sem desvio; Garden III é completa com desvio parcial (trabéculas não alinhadas); Garden IV é completa com desvio total (trabéculas realinhadas em paralelo). Na prática, por baixa reprodutibilidade interobservador, muitos serviços simplificam em fraturas sem desvio (I/II) versus com desvio (III/IV). A cominuição do colo e a angulação do traço (Pauwels) são avaliadas por outras classificações.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-002",
+      "tema": "Fratura do colo do fêmur — classificação de Pauwels",
+      "enunciado": "Homem de 45 anos sofre queda de moto e apresenta fratura do colo femoral. A radiografia mostra traço de fratura com angulação de 65° em relação à horizontal. Sobre a classificação de Pauwels, é correto afirmar que:",
+      "alternativas": [
+        "Quanto mais vertical o traço de fratura, menor a força de cisalhamento sobre o foco",
+        "Fraturas Pauwels III, com traço mais vertical, estão associadas a maior força de cisalhamento e maior risco de falha da fixação",
+        "A classificação de Pauwels avalia exclusivamente o grau de desvio da cabeça femoral",
+        "Fraturas Pauwels I são consideradas biomecanicamente mais instáveis que as Pauwels III"
+      ],
+      "correta": 1,
+      "comentario": "A classificação de Pauwels estratifica as fraturas do colo femoral pelo ângulo do traço de fratura em relação à horizontal: tipo I (<30°), tipo II (30-50°) e tipo III (>50°). Quanto mais vertical o traço (Pauwels III), maiores são as forças de cisalhamento no foco de fratura durante a carga axial, favorecendo o deslizamento dos fragmentos e aumentando o risco de falha da fixação com parafusos canulados isolados. Por isso, fraturas Pauwels III em pacientes jovens frequentemente são consideradas para fixação com placa em lâmina/parafuso deslizante angulado ou associação de técnicas antirrotacionais. A classificação de Pauwels não avalia desvio da cabeça, que é objeto da classificação de Garden.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-003",
+      "tema": "Fratura do colo do fêmur em paciente jovem",
+      "enunciado": "Paciente de 28 anos, vítima de acidente motociclístico, apresenta fratura do colo femoral com desvio importante (Garden IV). Qual conduta é mais adequada visando reduzir o risco de necrose avascular da cabeça femoral?",
+      "alternativas": [
+        "Tratamento conservador com tração cutânea por 8 semanas",
+        "Redução e fixação interna de urgência, idealmente nas primeiras horas, com eventual capsulotomia para descompressão do hematoma intracapsular",
+        "Artroplastia total de quadril eletiva após 30 dias de tratamento clínico",
+        "Osteotomia valgizante primária sem redução da fratura"
+      ],
+      "correta": 1,
+      "comentario": "Em pacientes jovens, a preservação da cabeça femoral é prioritária, pois artroplastia nessa faixa etária tem pior sobrevida do implante a longo prazo. Recomenda-se redução anatômica e fixação interna o mais precocemente possível, já que o tamponamento por hematoma intracapsular pode comprimir os vasos retinaculares e agravar a isquemia da cabeça femoral; alguns autores defendem capsulotomia para aliviar essa pressão. O tratamento conservador não é indicado em fratura desviada e jovem, pois não restaura a anatomia nem permite mobilização precoce. Artroplastia primária não é a primeira escolha em pacientes jovens, sendo reservada para falha de tratamento ou necrose avascular estabelecida.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-004",
+      "tema": "Fratura do colo do fêmur no idoso",
+      "enunciado": "Paciente de 82 anos, previamente independente para atividades de vida diária, sofre queda da própria altura e é diagnosticada com fratura do colo femoral Garden III. Qual é a conduta mais recomendada?",
+      "alternativas": [
+        "Tratamento conservador com repouso no leito",
+        "Fixação interna com parafusos canulados isolados",
+        "Artroplastia (hemiartroplastia ou artroplastia total de quadril), permitindo carga precoce",
+        "Osteossíntese com haste cefalomedular longa"
+      ],
+      "correta": 2,
+      "comentario": "Em idosos com fratura do colo femoral desviada, a artroplastia (hemiartroplastia ou artroplastia total de quadril, a depender da demanda funcional e da presença de artrose prévia) é a conduta padrão, pois permite carga total imediata, reduz a taxa de reoperação por não-união ou necrose avascular e favorece retorno precoce à deambulação, fundamental para reduzir morbimortalidade nessa população. O tratamento conservador está associado a altas taxas de complicações sistêmicas por imobilismo. A fixação com parafusos canulados isoladamente tem alto risco de falha em fraturas desviadas de idosos, com taxas de reoperação relatadas superiores a 30-40%. Haste cefalomedular não é indicada para fraturas do colo femoral (intracapsulares).",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-005",
+      "tema": "Fratura do colo do fêmur sem desvio",
+      "enunciado": "Qual é o tratamento de escolha para uma fratura do colo femoral Garden I (impactada em valgo) em paciente de 70 anos, hígida?",
+      "alternativas": [
+        "Fixação interna percutânea com múltiplos parafusos canulados em configuração triangular",
+        "Hemiartroplastia bipolar imediata",
+        "Artroplastia total de quadril imediata",
+        "Tratamento puramente conservador sem imobilização, com carga total imediata"
+      ],
+      "correta": 0,
+      "comentario": "Fraturas Garden I e II (sem desvio ou minimamente desviadas/impactadas) têm bom prognóstico de consolidação e menor risco de necrose avascular quando comparadas às desviadas. A fixação percutânea com múltiplos parafusos canulados (geralmente três, em configuração triangular invertida) é o tratamento padrão, pois estabiliza o foco, permite carga parcial precoce e preserva a cabeça femoral nativa, sendo procedimento minimamente invasivo. Artroplastia primária não é necessária nesse cenário. O tratamento sem qualquer estabilização expõe a paciente ao risco de desvio secundário da fratura impactada.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-006",
+      "tema": "Artroplastia total versus hemiartroplastia no colo do fêmur",
+      "enunciado": "Paciente de 78 anos, ativa, sem comprometimento cognitivo, deambulava sem auxílio antes da queda, apresenta fratura do colo femoral desviada. Em comparação à hemiartroplastia, a artroplastia total de quadril nesse perfil de paciente está associada a:",
+      "alternativas": [
+        "Menor taxa de luxação e pior função a longo prazo",
+        "Melhor função e menor dor a longo prazo, porém com maior taxa de luxação em alguns estudos",
+        "Maior mortalidade perioperatória em todos os estudos comparativos",
+        "Ausência de qualquer diferença funcional comprovada em relação à hemiartroplastia"
+      ],
+      "correta": 1,
+      "comentario": "Em pacientes idosos ativos, cognitivamente íntegros e com boa expectativa funcional, a artroplastia total de quadril tende a proporcionar melhores escores funcionais e menor dor a longo prazo em comparação à hemiartroplastia, por evitar o atrito do implante contra a cartilagem acetabular nativa. Entretanto, alguns estudos randomizados mostram maior taxa de luxação com a artroplastia total, especialmente com vias de acesso posteriores e menor expertise cirúrgica. A hemiartroplastia costuma ser reservada a pacientes de menor demanda funcional, com comprometimento cognitivo ou comorbidades que aumentem o risco cirúrgico de um procedimento mais extenso. A mortalidade perioperatória entre as duas técnicas é semelhante na maioria dos estudos.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-007",
+      "tema": "Necrose avascular da cabeça femoral pós-fratura do colo",
+      "enunciado": "Qual fator está mais fortemente associado ao desenvolvimento de necrose avascular da cabeça femoral após fratura do colo do fêmur tratada com fixação interna?",
+      "alternativas": [
+        "Idade do paciente inferior a 40 anos",
+        "Grau de desvio inicial da fratura (Garden III/IV) e tempo até a redução",
+        "Uso de parafusos canulados de menor diâmetro",
+        "Realização de fisioterapia precoce no pós-operatório"
+      ],
+      "correta": 1,
+      "comentario": "O principal determinante do risco de necrose avascular da cabeça femoral após fratura do colo do fêmur é o grau de desvio inicial da fratura: fraturas Garden III e IV, por comprometerem mais extensamente os vasos retinaculares que suprem a cabeça femoral, apresentam risco de necrose avascular significativamente maior (podendo chegar a 20-30%) do que as fraturas sem desvio. O tempo até a redução também é discutido como fator de importância, embora com evidência menos robusta que o próprio grau de desvio. A idade jovem por si só não é fator de risco para necrose avascular (o jovem é preferencialmente tratado com fixação justamente pela boa perfusão potencial após redução anatômica). O diâmetro dos parafusos e a fisioterapia precoce não são determinantes reconhecidos de necrose avascular.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-008",
+      "tema": "Fratura basicervical do colo do fêmur",
+      "enunciado": "As fraturas basicervicais do colo do fêmur diferem das fraturas transcervicais típicas principalmente por:",
+      "alternativas": [
+        "Ocorrerem exclusivamente em pacientes com menos de 30 anos",
+        "Terem localização mais próxima à base do colo, comportando-se biomecanicamente de forma semelhante às fraturas extracapsulares, com maior instabilidade rotacional",
+        "Apresentarem sempre menor risco de necrose avascular que as fraturas subcapitais",
+        "Serem tratadas exclusivamente com tratamento conservador"
+      ],
+      "correta": 1,
+      "comentario": "As fraturas basicervicais ocorrem na base do colo femoral, próximas à transição com a região intertrocantérica, e por isso se comportam de forma mais semelhante às fraturas extracapsulares em termos de instabilidade rotacional e de cisalhamento, exigindo fixação que resista a essas forças (parafuso deslizante de quadril associado a parafuso antirrotacional, ou haste cefalomedular, a depender do padrão). O risco de necrose avascular nas basicervicais não é necessariamente menor do que nas subcapitais, pois ainda podem comprometer parcialmente a vascularização retinacular. Não há restrição etária para esse padrão de fratura, e o tratamento cirúrgico é preferido na maioria dos casos, dada a instabilidade inerente.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMI-009",
+      "tema": "Descompressão do hematoma intracapsular",
+      "enunciado": "Em relação à capsulotomia/aspiração do hematoma intracapsular em fraturas do colo do fêmur, é correto afirmar que:",
+      "alternativas": [
+        "É procedimento contraindicado por aumentar o risco de infecção articular",
+        "Tem como racional teórico reduzir a pressão intracapsular que comprimiria os vasos retinaculares, mas sua eficácia clínica em reduzir necrose avascular permanece controversa",
+        "É indicada apenas em fraturas Garden I sem desvio",
+        "Substitui a necessidade de fixação interna ou artroplastia"
+      ],
+      "correta": 1,
+      "comentario": "A elevação da pressão intracapsular pelo hematoma pós-fratura pode comprometer o fluxo sanguíneo retinacular para a cabeça femoral, sendo esse o racional teórico para aspiração/capsulotomia como medida adjuvante em fraturas do colo do fêmur, especialmente em pacientes jovens com fratura desviada. Contudo, a evidência clínica sobre redução efetiva da taxa de necrose avascular com esse procedimento ainda é controversa e não é unanimidade nas diretrizes. Não há contraindicação formal por risco infeccioso quando realizada de forma estéril, e o procedimento é complementar, nunca substituindo a redução e fixação (ou artroplastia) definitivas.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMI-010",
+      "tema": "Pseudartrose do colo do fêmur",
+      "enunciado": "Paciente jovem, 6 meses após fixação de fratura do colo femoral, apresenta dor inguinal persistente e imagem radiográfica de não-união sem sinais de necrose avascular da cabeça. Qual opção de tratamento é mais adequada nesse contexto?",
+      "alternativas": [
+        "Artroplastia total de quadril imediata, independentemente da idade",
+        "Osteotomia valgizante (Pauwels) associada a nova fixação, visando converter as forças de cisalhamento em compressão",
+        "Observação clínica isolada, sem nova intervenção",
+        "Ressecção da cabeça femoral (artroplastia de Girdlestone) como primeira opção"
+      ],
+      "correta": 1,
+      "comentario": "Em pacientes jovens com pseudartrose do colo femoral e cabeça viável (sem necrose avascular estabelecida), a osteotomia valgizante subtrocantérica (técnica de Pauwels) é uma opção clássica de preservação da articulação: ela reorienta o traço de fratura para um plano mais horizontal, convertendo as forças de cisalhamento em forças de compressão, favorecendo a consolidação. A artroplastia total de quadril é reservada para casos com necrose avascular estabelecida, degeneração articular ou falha de tentativas de preservação, especialmente em pacientes mais velhos. Observação isolada não é apropriada diante de não-união sintomática, e Girdlestone é procedimento de salvamento para infecção ou falhas múltiplas, não conduta inicial.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-011",
+      "tema": "Fraturas transtrocantéricas — estabilidade",
+      "enunciado": "Em relação às fraturas transtrocantéricas do fêmur, uma fratura é considerada estável quando:",
+      "alternativas": [
+        "Há cominuição da cortical posteromedial e do trocanter menor",
+        "O traço de fratura é em obliquidade reversa",
+        "Existe integridade da cortical posteromedial, permitindo contato ósseo adequado entre os fragmentos proximal e distal após redução",
+        "Há extensão do traço para a região subtrocantérica"
+      ],
+      "correta": 2,
+      "comentario": "A estabilidade de uma fratura transtrocantérica depende principalmente da integridade da cortical posteromedial (região do calcar/trocanter menor) e da parede lateral: quando preservada, permite bom contato ósseo entre os fragmentos após redução, resistindo às forças de carga em varo. Fraturas com cominuição do trocanter menor e da cortical posteromedial, traço em obliquidade reversa ou extensão subtrocantérica são consideradas instáveis, pois tendem a colapsar em varo e apresentam maior risco de falha de fixação com dispositivos que dependem de contato cortical.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-012",
+      "tema": "Parafuso deslizante de quadril (DHS) — indicação",
+      "enunciado": "Qual é a principal indicação do parafuso deslizante de quadril (DHS - dynamic hip screw) no tratamento das fraturas do fêmur proximal?",
+      "alternativas": [
+        "Fraturas subtrocantéricas com grande cominuição diafisária",
+        "Fraturas transtrocantéricas estáveis (AO/OTA 31-A1), com cortical posteromedial íntegra",
+        "Fraturas com traço em obliquidade reversa",
+        "Fraturas do colo do fêmur Garden IV em pacientes jovens"
+      ],
+      "correta": 1,
+      "comentario": "O DHS é biomecanicamente adequado para fraturas transtrocantéricas estáveis (AO/OTA 31-A1), nas quais a cortical posteromedial íntegra permite impactação controlada do foco de fratura sob carga, com o parafuso deslizando dentro da barril da placa. Em fraturas instáveis, com obliquidade reversa ou extensão subtrocantérica, o DHS apresenta braço de alavanca desfavorável e maior risco de falha (corte do parafuso, quebra da placa), sendo preferível a haste cefalomedular nesses casos por oferecer fixação intramedular com menor braço de alavanca. Fraturas do colo do fêmur (intracapsulares) não são tratadas com DHS isolado.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-013",
+      "tema": "Haste cefalomedular em fraturas instáveis",
+      "enunciado": "Paciente com fratura transtrocantérica com traço em obliquidade reversa (AO/OTA 31-A3). Qual é o implante biomecanicamente mais adequado?",
+      "alternativas": [
+        "Placa DHS de ângulo fixo de 135°",
+        "Parafusos canulados isolados",
+        "Haste cefalomedular (haste intramedular cefalomedular curta ou longa)",
+        "Fixador externo definitivo"
+      ],
+      "correta": 2,
+      "comentario": "Fraturas com obliquidade reversa são consideradas instáveis porque o traço favorece o deslizamento medial do fragmento distal sob a ação dos músculos adutores, gerando forças que o DHS não consegue neutralizar adequadamente (o parafuso desliza lateralmente sem controle da translação medial). A haste cefalomedular, por ser um dispositivo intramedular com menor braço de alavanca em relação ao eixo mecânico do fêmur, resiste melhor a essas forças, sendo o implante de escolha nesse padrão de fratura, assim como nas fraturas subtrocantéricas e nas transtrocantéricas muito instáveis. Parafusos canulados isolados não têm indicação nesse tipo de fratura extracapsular, e o fixador externo é reservado a situações de controle de danos.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-014",
+      "tema": "Fratura subtrocantérica — forças deformantes",
+      "enunciado": "Em uma fratura subtrocantérica do fêmur, o fragmento proximal tende a se deslocar em qual padrão, decorrente da ação muscular?",
+      "alternativas": [
+        "Flexão, abdução e rotação externa",
+        "Extensão, adução e rotação interna",
+        "Flexão, adução e rotação interna",
+        "Extensão, abdução e rotação externa"
+      ],
+      "correta": 0,
+      "comentario": "No fragmento proximal de uma fratura subtrocantérica, a ação do iliopsoas promove flexão, os glúteos médio e mínimo (inseridos no grande trocanter) promovem abdução, e os rotadores externos curtos promovem rotação externa, resultando no clássico padrão de flexão-abdução-rotação externa. O fragmento distal, por sua vez, tende a se deslocar em adução (pela ação dos adutores) e encurtamento (pela ação dos flexores e extensores do quadril). Esse conhecimento é fundamental para o planejamento da redução intraoperatória, muitas vezes exigindo manobras específicas ou auxílio de joystick percutâneo.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-015",
+      "tema": "Distância ponta-ápice (TAD)",
+      "enunciado": "Sobre a distância ponta-ápice (tip-apex distance - TAD) na fixação de fraturas transtrocantéricas com parafuso deslizante de quadril, é correto afirmar que:",
+      "alternativas": [
+        "Valores de TAD superiores a 25 mm estão associados a menor risco de corte do parafuso (cut-out)",
+        "TAD é medida somando a distância do parafuso à ponta da cabeça femoral nas incidências AP e perfil, corrigida pela magnificação radiográfica; valores acima de 25 mm aumentam o risco de cut-out",
+        "TAD não tem relação com a taxa de falha mecânica da fixação",
+        "TAD deve ser calculada apenas na incidência em perfil"
+      ],
+      "correta": 1,
+      "comentario": "A distância ponta-ápice, descrita por Baumgaertner, é calculada somando a distância entre a ponta do parafuso cefálico e o ápice da cabeça femoral nas radiografias em AP e em perfil, com correção para a magnificação radiográfica de cada incidência. Um TAD inferior a 25 mm está associado a menor risco de corte do parafuso (cut-out) através da cabeça femoral, sendo um parâmetro amplamente utilizado para avaliar a qualidade do posicionamento do implante cefálico em fraturas transtrocantéricas fixadas com DHS ou haste cefalomedular. TADs elevados refletem posicionamento excêntrico do parafuso (muito superior, muito periférico) e são um dos principais preditores de falha mecânica.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-016",
+      "tema": "Fratura em obliquidade reversa — comparação de implantes",
+      "enunciado": "Estudos biomecânicos e clínicos comparando DHS e haste cefalomedular em fraturas transtrocantéricas com obliquidade reversa demonstram que:",
+      "alternativas": [
+        "O DHS apresenta menores taxas de falha mecânica nesse padrão de fratura",
+        "Não há diferença de resultado entre os dois implantes nesse padrão específico",
+        "A haste cefalomedular apresenta menores taxas de falha de fixação e colapso em varo comparada ao DHS",
+        "Ambos os implantes são contraindicados, sendo a artroplastia a única opção viável"
+      ],
+      "correta": 2,
+      "comentario": "Fraturas em obliquidade reversa apresentam um traço que favorece a migração medial do fragmento distal, gerando forças de cisalhamento que o parafuso deslizante do DHS não controla adequadamente, resultando em taxas mais altas de falha de fixação, colapso em varo e perda de redução quando esse implante é utilizado. A haste cefalomedular, por seu posicionamento intramedular mais próximo ao eixo mecânico do fêmur, oferece maior estabilidade biomecânica nesse padrão específico, sendo a evidência clínica consistente com menor taxa de reoperação. A artroplastia primária não é a conduta padrão para esse tipo de fratura em pacientes sem doença articular prévia grave.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-017",
+      "tema": "Fatores de risco para corte do parafuso cefálico (cut-out)",
+      "enunciado": "São fatores de risco reconhecidos para o corte do parafuso cefálico (cut-out) após fixação de fratura transtrocantérica, EXCETO:",
+      "alternativas": [
+        "Posicionamento excêntrico do parafuso na cabeça femoral (TAD elevado)",
+        "Redução inadequada em varo",
+        "Osteoporose grave",
+        "Uso de haste cefalomedular curta em fratura estável AO/OTA 31-A1"
+      ],
+      "correta": 3,
+      "comentario": "O uso de haste cefalomedular curta em fratura estável não é, por si só, um fator de risco reconhecido para cut-out; pelo contrário, tanto DHS quanto hastes cefalomedulares apresentam bons resultados em fraturas estáveis quando bem posicionados. Os principais fatores de risco para corte do parafuso cefálico incluem posicionamento excêntrico do implante na cabeça femoral (TAD elevado, geralmente >25 mm), redução inadequada com varização residual, e qualidade óssea deficiente (osteoporose grave), que reduz a capacidade de ancoragem do parafuso no osso trabecular da cabeça femoral. Esses fatores devem ser ativamente evitados durante a cirurgia por meio de técnica cuidadosa de redução e posicionamento do implante.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-018",
+      "tema": "Fratura atípica de fêmur associada a bisfosfonatos",
+      "enunciado": "Mulher de 68 anos, em uso de alendronato por 8 anos, apresenta dor na coxa há semanas seguida de fratura subtrocantérica de baixa energia. A radiografia mostra traço transverso ou curto-oblíquo, com espessamento cortical lateral em bico (“beaking”) e mínima cominuição. Essa apresentação é característica de:",
+      "alternativas": [
+        "Fratura patológica por metástase óssea",
+        "Fratura atípica de fêmur associada ao uso prolongado de bisfosfonatos",
+        "Fratura por estresse em atleta jovem",
+        "Osteomielite crônica do fêmur"
+      ],
+      "correta": 1,
+      "comentario": "As fraturas atípicas de fêmur são associadas ao uso prolongado de bisfosfonatos (geralmente acima de 5 anos) e caracterizam-se por localização subtrocantérica ou diafisária, traço transverso ou curto-oblíquo com mínima cominuição, espessamento da cortical lateral (“beaking sign”), e frequentemente pródromo de dor na coxa semanas antes da fratura completa. É fundamental avaliar o fêmur contralateral, pois a bilateralidade é comum, e considerar a suspensão do bisfosfonato. O tratamento cirúrgico geralmente envolve haste cefalomedular, muitas vezes cobrindo todo o fêmur para proteger áreas de fragilidade cortical adicionais. O padrão radiográfico e o contexto clínico (uso prolongado de bisfosfonato, dor prodrômica) diferem do observado em metástases, fraturas de estresse do atleta ou osteomielite.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMI-019",
+      "tema": "Protocolo de carga pós-operatória",
+      "enunciado": "Em relação à carga pós-operatória após fixação de fratura transtrocantérica estável com haste cefalomedular em paciente idoso, a conduta atualmente mais aceita é:",
+      "alternativas": [
+        "Restrição absoluta de carga por 12 semanas",
+        "Carga total protegida (com auxílio de andador) permitida precocemente, conforme tolerância do paciente",
+        "Carga total proibida até consolidação radiográfica completa, geralmente após 6 meses",
+        "Carga apenas em piscina (hidroterapia) nas primeiras 8 semanas"
+      ],
+      "correta": 1,
+      "comentario": "Em pacientes idosos, a fixação estável de fraturas do fêmur proximal com implantes modernos (haste cefalomedular ou DHS bem posicionados em fraturas estáveis) permite a liberação de carga total protegida (com andador ou muletas, conforme equilíbrio do paciente) já nos primeiros dias de pós-operatório, sendo essa conduta associada a menor morbimortalidade por imobilismo, menor risco de trombose venosa profunda, pneumonia e perda de massa muscular. A restrição prolongada de carga em idosos está associada a piores desfechos gerais e não é mais recomendada como rotina quando a fixação é considerada estável.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-020",
+      "tema": "Malunião em varo após fixação transtrocantérica",
+      "enunciado": "Paciente evolui, seis meses após fixação de fratura transtrocantérica, com consolidação em varo significativo e encurtamento do membro. As principais consequências clínicas desse tipo de malunião incluem:",
+      "alternativas": [
+        "Alongamento do membro operado e melhora da força abdutora do quadril",
+        "Encurtamento do membro, insuficiência do mecanismo abdutor (marcha de Trendelenburg) e sobrecarga do compartimento lateral do joelho ipsilateral",
+        "Ausência de qualquer repercussão funcional, sendo achado puramente radiográfico",
+        "Aumento do offset femoral e melhora da estabilidade da marcha"
+      ],
+      "correta": 1,
+      "comentario": "A consolidação em varo após fratura transtrocantérica reduz o offset femoral e desloca medialmente o grande trocanter, diminuindo o braço de alavanca dos músculos abdutores do quadril (glúteo médio e mínimo), o que gera insuficiência funcional desse mecanismo, manifestada clinicamente pela marcha de Trendelenburg. Associam-se também encurtamento do membro operado e alteração do eixo mecânico do membro inferior, podendo sobrecarregar o compartimento lateral do joelho ipsilateral a longo prazo. Esse é um dos motivos pelos quais a obtenção de uma redução adequada (evitando varização) é um dos principais objetivos técnicos na fixação dessas fraturas.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMI-021",
+      "tema": "Tratamento padrão da fratura diafisária do fêmur",
+      "enunciado": "Qual é o tratamento padrão-ouro para uma fratura diafisária isolada e fechada do fêmur em adulto hemodinamicamente estável?",
+      "alternativas": [
+        "Tração esquelética prolongada seguida de gesso pelvipodálico",
+        "Haste intramedular anterógrada bloqueada",
+        "Placa em ponte por via de acesso lateral ampla",
+        "Fixador externo definitivo"
+      ],
+      "correta": 1,
+      "comentario": "A haste intramedular anterógrada bloqueada é considerada o tratamento padrão-ouro para fraturas diafisárias fechadas do fêmur em adultos hemodinamicamente estáveis, por oferecer fixação biomecanicamente robusta com carga de trabalho compartilhada, preservação da biologia de partes moles (técnica minimamente invasiva com fresagem intramedular) e possibilidade de carga precoce. Tração esquelética prolongada é uma opção histórica hoje reservada a contextos sem acesso a tratamento cirúrgico. Placa em ponte é reservada a situações específicas (fraturas periprotéticas, deformidades, canal medular estreito ou obstruído). Fixador externo definitivo não é ideal para fratura fechada isolada, sendo mais usado como controle de danos ou em fraturas expostas graves.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-022",
+      "tema": "Controle de danos em politraumatizado com fratura de fêmur",
+      "enunciado": "Paciente politraumatizado, instável hemodinamicamente, com fratura diafisária de fêmur e trauma torácico associado. A conduta cirúrgica inicial mais adequada para a fratura femoral é:",
+      "alternativas": [
+        "Haste intramedular fresada definitiva imediata",
+        "Fixação externa temporária (“damage control orthopaedics”), com conversão para haste intramedular após estabilização clínica",
+        "Tratamento conservador com tração até estabilização clínica completa",
+        "Osteossíntese com placa em ponte imediata sob anestesia geral prolongada"
+      ],
+      "correta": 1,
+      "comentario": "Em pacientes politraumatizados hemodinamicamente instáveis ou com lesão pulmonar significativa, o conceito de controle de danos ortopédico (“damage control orthopaedics”) preconiza a fixação externa temporária e rápida da fratura femoral, evitando um procedimento cirúrgico prolongado e a fresagem intramedular nesse momento, que poderia atuar como um “segundo insulto” e agravar a resposta inflamatória sistêmica e a disfunção pulmonar (risco de embolia gordurosa e piora da síndrome do desconforto respiratório agudo). Após estabilização clínica (geralmente em alguns dias), converte-se para fixação definitiva com haste intramedular. Tratamento conservador prolongado não é apropriado nesse contexto, pois atrasa a reabilitação e mantém risco de complicações relacionadas ao imobilismo.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-023",
+      "tema": "Síndrome da embolia gordurosa",
+      "enunciado": "Paciente jovem, vítima de fratura diafisária de fêmur, evolui 24-48 horas após o trauma com taquipneia, hipoxemia, confusão mental e exantema petequial em tórax e conjuntivas. O diagnóstico mais provável é:",
+      "alternativas": [
+        "Tromboembolismo pulmonar maciço",
+        "Síndrome da embolia gordurosa",
+        "Pneumonia aspirativa",
+        "Síndrome compartimental da coxa"
+      ],
+      "correta": 1,
+      "comentario": "A tríade clássica de hipoxemia, alterações do estado mental e exantema petequial (tipicamente em tórax, axilas e conjuntivas), surgindo tipicamente entre 24 e 72 horas após fratura de ossos longos (especialmente fêmur) ou instrumentação intramedular, é característica da síndrome da embolia gordurosa. Os critérios de Gurd e Wilson auxiliam no diagnóstico clínico, que permanece essencialmente de exclusão, com suporte respiratório sendo a base do tratamento. O tromboembolismo pulmonar pode cursar com hipoxemia e taquipneia, mas tipicamente não causa exantema petequial nem alteração do estado mental com esse padrão temporal. Pneumonia aspirativa e síndrome compartimental não explicam o quadro sistêmico e cutâneo descrito.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-024",
+      "tema": "Avaliação vascular em fratura distal do fêmur",
+      "enunciado": "Paciente com fratura da diáfise distal do fêmur associada a luxação do joelho ipsilateral apresenta pulsos distais palpáveis, porém assimétricos em relação ao membro contralateral. A conduta mais adequada é:",
+      "alternativas": [
+        "Considerar o exame normal e liberar o paciente sem investigação adicional",
+        "Calcular o índice tornozelo-braquial (ITB); se menor que 0,9, solicitar angiotomografia ou angiografia para investigar lesão da artéria poplítea",
+        "Realizar amputação profilática pela alta suspeita de lesão vascular",
+        "Aguardar 72 horas para reavaliação, pois lesões vasculares tardias são raras nesse contexto"
+      ],
+      "correta": 1,
+      "comentario": "Fraturas distais do fêmur, especialmente associadas à luxação do joelho, apresentam risco significativo de lesão da artéria poplítea, mesmo na presença de pulsos distais palpáveis (lesões intimais podem trombosar tardiamente). A presença de assimetria de pulsos deve motivar o cálculo do índice tornozelo-braquial (ITB); valores abaixo de 0,9 são indicação para investigação vascular complementar com angiotomografia ou arteriografia. A liberação sem investigação ou a conduta expectante por 72 horas expõem o paciente ao risco de isquemia prolongada e perda de membro. Amputação profilática sem confirmação diagnóstica não é conduta apropriada.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-025",
+      "tema": "Joelho flutuante (“floating knee”)",
+      "enunciado": "O termo “joelho flutuante” refere-se a qual combinação de lesões?",
+      "alternativas": [
+        "Fratura ipsilateral da diáfise do fêmur e da diáfise da tíbia",
+        "Fratura do platô tibial associada a lesão ligamentar do joelho contralateral",
+        "Luxação do joelho associada a fratura do colo do fêmur",
+        "Fratura bilateral da patela"
+      ],
+      "correta": 0,
+      "comentario": "O “joelho flutuante” é definido pela ocorrência simultânea de fraturas ipsilaterais da diáfise do fêmur e da diáfise da tíbia, deixando o segmento articular do joelho “flutuando” entre os dois focos de fratura, sem continuidade óssea estável acima e abaixo. Esse padrão está associado a trauma de alta energia, maior incidência de lesões associadas (ligamentares do joelho, vasculares, de partes moles) e exige avaliação cuidadosa da articulação do joelho, muitas vezes subestimada diante das fraturas mais evidentes. O tratamento geralmente envolve fixação cirúrgica de ambos os focos de fratura.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-026",
+      "tema": "Fresagem intramedular e não-união",
+      "enunciado": "Em relação à fresagem do canal medular durante a haste intramedular de fraturas fechadas da diáfise do fêmur, a evidência atual sugere que:",
+      "alternativas": [
+        "A fresagem aumenta a taxa de não-união em comparação a hastes não fresadas",
+        "A fresagem está associada a menor taxa de não-união e de falha do implante em fraturas fechadas, mas deve ser evitada em fraturas expostas graves pelo risco teórico de dano térmico e embólico adicional",
+        "Não há diferença alguma entre fresagem e não fresagem em qualquer contexto clínico",
+        "A fresagem é contraindicada em todas as fraturas diafisárias do fêmur"
+      ],
+      "correta": 1,
+      "comentario": "Em fraturas fechadas da diáfise do fêmur, a haste intramedular fresada está associada a menores taxas de não-união e de falha mecânica do implante (quebra de parafusos de bloqueio, por exemplo) em comparação com hastes não fresadas, pois permite uso de hastes de maior diâmetro com melhor contato endosteal e liberação de fatores osteogênicos locais. Em fraturas expostas graves ou em pacientes politraumatizados graves (controle de danos), muitos cirurgiões preferem evitar a fresagem pelo risco teórico de embolização de conteúdo medular e resposta inflamatória sistêmica adicional, embora essa questão ainda seja debatida na literatura. A afirmação de ausência completa de diferença ou de contraindicação universal da fresagem não reflete a evidência disponível.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMI-027",
+      "tema": "Fratura exposta de fêmur — classificação de Gustilo-Anderson",
+      "enunciado": "Paciente apresenta fratura exposta da diáfise do fêmur após acidente automobilístico, com ferida de 6 cm, contaminação moderada e cobertura de partes moles adequada, sem lesão vascular. Segundo a classificação de Gustilo-Anderson, essa lesão é classificada como:",
+      "alternativas": [
+        "Tipo I",
+        "Tipo II",
+        "Tipo IIIA",
+        "Tipo IIIC"
+      ],
+      "correta": 1,
+      "comentario": "A classificação de Gustilo-Anderson categoriza fraturas expostas conforme o tamanho da ferida, o grau de contaminação e o dano de partes moles: tipo I (ferida <1 cm, mínima contaminação), tipo II (ferida entre 1 e 10 cm, contaminação moderada, sem lesão extensa de partes moles), tipo IIIA (ferida extensa mas com cobertura de partes moles adequada, mesmo com alta energia ou cominuição), tipo IIIB (perda extensa de partes moles exigindo cobertura com retalho) e tipo IIIC (qualquer fratura exposta com lesão vascular que necessite reparo). O caso descrito, com ferida de 6 cm, contaminação moderada e sem lesão vascular ou perda extensa de partes moles, corresponde ao tipo II.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-028",
+      "tema": "Ponto de entrada da haste intramedular femoral",
+      "enunciado": "Em relação ao ponto de entrada da haste intramedular anterógrada do fêmur, a entrada trocantérica (na ponta do grande trocanter) em comparação à entrada piriforme apresenta como principal vantagem:",
+      "alternativas": [
+        "Maior risco de lesão da musculatura abdutora e do suprimento vascular da cabeça femoral",
+        "Facilidade técnica em decúbito dorsal, com menor risco de lesão da musculatura abdutora e do suprimento vascular retinacular da cabeça femoral",
+        "Necessidade obrigatória de decúbito lateral para sua realização",
+        "Contraindicação em pacientes obesos"
+      ],
+      "correta": 1,
+      "comentario": "O ponto de entrada trocantérico, localizado na ponta ou levemente medial ao grande trocanter, permite a introdução da haste com o paciente em decúbito dorsal, facilitando o posicionamento em mesa de tração comum e reduzindo o risco de lesão da musculatura abdutora (glúteo médio) e do suprimento vascular retinacular da cabeça femoral, quando comparado ao ponto de entrada piriforme (que exige acesso mais próximo ao centro da cabeça femoral, com risco teórico maior de lesão vascular caso a instrumentação seja excêntrica). O ponto de entrada trocantérico é especialmente útil em pacientes obesos, nos quais o acesso à fossa piriforme é tecnicamente mais difícil, ao contrário do que sugere a alternativa incorreta.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-029",
+      "tema": "Classificação AO/OTA do fêmur distal",
+      "enunciado": "A classificação AO/OTA das fraturas do fêmur distal (segmento 33) divide as fraturas em três tipos principais. Qual alternativa descreve corretamente essa divisão?",
+      "alternativas": [
+        "Tipo A (extra-articular), tipo B (articular parcial) e tipo C (articular completa)",
+        "Tipo A (articular completa), tipo B (extra-articular) e tipo C (articular parcial)",
+        "Tipo A (diafisária pura), tipo B (metafisária) e tipo C (epifisária)",
+        "A classificação AO/OTA não se aplica ao fêmur distal"
+      ],
+      "correta": 0,
+      "comentario": "A classificação AO/OTA para o segmento distal do fêmur (33) segue o padrão geral da classificação AO para ossos longos: tipo A representa fraturas extra-articulares (metafisárias, sem acometimento da superfície articular), tipo B representa fraturas articulares parciais (em que parte da superfície articular permanece em continuidade com a diáfise, como as fraturas de Hoffa), e tipo C representa fraturas articulares completas, com dissociação total entre a superfície articular e a diáfise. Cada tipo é subdividido em grupos e subgrupos conforme o grau de cominuição.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-030",
+      "tema": "Placa bloqueada no fêmur distal — princípios",
+      "enunciado": "Em relação à fixação com placa bloqueada (locked plating) em fraturas cominutivas do fêmur distal, é correto afirmar que:",
+      "alternativas": [
+        "O princípio biomecânico busca compressão absoluta interfragmentária em todos os fragmentos",
+        "A técnica de ponte (bridging) com redução indireta e preservação da biologia da zona de cominuição metafisária é preferida, permitindo consolidação por formação de calo",
+        "A placa bloqueada deve sempre ser inserida por via de acesso aberta ampla, expondo todo o foco de fratura",
+        "Placas bloqueadas são contraindicadas em ossos osteoporóticos"
+      ],
+      "correta": 1,
+      "comentario": "Em fraturas cominutivas metafisárias do fêmur distal, o princípio biomecânico preferido é a fixação em ponte (bridge plating), com redução indireta que restaura o comprimento, o alinhamento e a rotação sem expor ou manipular diretamente os fragmentos cominutivos intermediários, preservando seu suprimento sanguíneo e favorecendo a consolidação por formação de calo ósseo (consolidação secundária). A inserção pode ser feita por via minimamente invasiva (submuscular), sem necessidade de exposição ampla de todo o foco. Ao contrário do afirmado na alternativa incorreta, placas bloqueadas são particularmente úteis em osso osteoporótico, pois os parafusos bloqueados na placa funcionam como um dispositivo de fixação angularmente estável, menos dependente da qualidade óssea para ancoragem.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-031",
+      "tema": "Haste retrógrada no fêmur distal",
+      "enunciado": "A haste intramedular retrógrada é uma opção especialmente vantajosa em qual cenário de fratura do fêmur distal?",
+      "alternativas": [
+        "Fratura articular completa com grande cominuição intercondilar irredutível",
+        "Fratura extra-articular associada a fratura ipsilateral da diáfise do fêmur (joelho flutuante) ou em paciente obeso mórbido",
+        "Fratura de Hoffa isolada no plano coronal",
+        "Fratura periprotética após artroplastia total de joelho com componente femoral aberto anteriormente, sem espaço para a haste"
+      ],
+      "correta": 1,
+      "comentario": "A haste intramedular retrógrada é particularmente útil em fraturas extra-articulares (ou com padrão articular simples, passível de redução prévia com parafusos) do fêmur distal associadas a fratura ipsilateral da diáfise femoral (padrão de “joelho flutuante”), permitindo fixação de ambos os focos por via minimamente invasiva a partir do mesmo acesso articular, e também é vantajosa em pacientes obesos mórbidos, nos quais o acesso lateral extenso para placa é tecnicamente mais difícil e associado a maior morbidade de partes moles. Fraturas articulares muito cominutivas ou fraturas de Hoffa no plano coronal geralmente exigem fixação direta com parafusos e frequentemente placa, não sendo ideais para haste retrógrada isolada. Em fraturas periprotéticas com desenho de componente femoral fechado anteriormente (box design), a haste retrógrada é contraindicada por falta de espaço para a caixa intercondilar.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-032",
+      "tema": "Fratura de Hoffa",
+      "enunciado": "A fratura de Hoffa caracteriza-se por:",
+      "alternativas": [
+        "Traço de fratura no plano sagital do côndilo femoral",
+        "Traço de fratura no plano coronal, envolvendo um dos côndilos femorais (mais comumente o côndilo lateral)",
+        "Fratura isolada da patela com traço vertical",
+        "Avulsão do tubérculo tibial em adultos"
+      ],
+      "correta": 1,
+      "comentario": "A fratura de Hoffa é definida por um traço no plano coronal que acomete um dos côndilos femorais, mais frequentemente o côndilo lateral, sendo classificada como fratura articular parcial (tipo B na classificação AO/OTA). Por seu padrão de traço, é frequentemente subestimada em radiografias simples (especialmente em incidência AP), sendo a tomografia computadorizada fundamental para o diagnóstico e planejamento cirúrgico adequados. O tratamento geralmente envolve fixação com parafusos direcionados de posterior para anterior, muitas vezes complementados por placa de suporte posterior, dada a tendência de desvio posterior do fragmento sob ação do mecanismo extensor e da cápsula posterior.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-033",
+      "tema": "Fratura do fêmur distal com grande cominuição articular",
+      "enunciado": "Paciente com fratura articular completa e extensamente cominutiva do fêmur distal (AO/OTA 33-C3), em paciente jovem, de alta energia. A estratégia cirúrgica mais adequada envolve:",
+      "alternativas": [
+        "Redução da superfície articular com parafusos interfragmentários, seguida de fixação da metáfise/diáfise em ponte com placa, restaurando comprimento, alinhamento e rotação",
+        "Artroplastia total de joelho primária, independentemente da idade do paciente",
+        "Tratamento exclusivamente conservador com gesso cruropodálico",
+        "Amputação primária, pela extensão da cominuição"
+      ],
+      "correta": 0,
+      "comentario": "Nas fraturas articulares completas e cominutivas do fêmur distal, o princípio cirúrgico fundamental é reconstituir a congruência articular com redução anatômica e fixação com parafusos interfragmentários (compressão absoluta na superfície articular), seguida da fixação da região metafisária/diafisária cominutiva com técnica em ponte (compressão relativa), restaurando comprimento, alinhamento e rotação sem necessariamente expor todos os fragmentos intermediários. A artroplastia primária de joelho não é a conduta padrão em paciente jovem com fratura de alta energia, sendo reservada para casos excepcionais (fraturas irreconstrutíveis em pacientes idosos com artrose prévia grave). Tratamento conservador e amputação primária não são apropriados nesse cenário sem indicação absoluta.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMI-034",
+      "tema": "Avaliação vascular na fratura de fêmur distal",
+      "enunciado": "Em fraturas do fêmur distal com grande desvio, a artéria mais frequentemente em risco de lesão, por sua relação anatômica próxima ao osso na fossa poplítea, é:",
+      "alternativas": [
+        "Artéria femoral superficial",
+        "Artéria poplítea",
+        "Artéria tibial anterior",
+        "Artéria fibular"
+      ],
+      "correta": 1,
+      "comentario": "A artéria poplítea situa-se posteriormente ao fêmur distal, fixada proximalmente pelo hiato dos adutores e distalmente pelo arco do sóleo, o que limita sua mobilidade e a torna vulnerável a lesões por tração ou laceração direta em fraturas do fêmur distal com grande desvio posterior do fragmento distal, especialmente quando associadas à luxação do joelho. Por esse motivo, o exame vascular cuidadoso (pulsos, índice tornozelo-braquial) é mandatório nesse tipo de fratura. A artéria femoral superficial situa-se mais proximal e anteromedial na coxa, enquanto as artérias tibial anterior e fibular são ramos distais da poplítea, na perna.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-035",
+      "tema": "Malalinhamento após fixação do fêmur distal",
+      "enunciado": "Qual desvio de alinhamento é mais comumente observado após fixação minimamente invasiva com placa em ponte no fêmur distal, decorrente da ação muscular e da técnica de redução indireta?",
+      "alternativas": [
+        "Valgo e recurvato do fragmento distal",
+        "Varo e procurvato (extensão) do fragmento distal, além de possível rotação",
+        "Anteversão excessiva do colo femoral",
+        "Encurtamento do membro sem qualquer desvio angular"
+      ],
+      "correta": 1,
+      "comentario": "Após fixação minimamente invasiva com placa em ponte no fêmur distal, o desvio mais frequentemente relatado é a angulação em varo e em procurvato (extensão) do fragmento distal, decorrente da tração do gastrocnêmio (que traciona o fragmento distal posteriormente, gerando procurvato) e de técnicas de redução indireta que nem sempre corrigem adequadamente o plano coronal, favorecendo o varo. A rotação também deve ser cuidadosamente avaliada intraoperatoriamente (comparação de perfil cortical, técnica de sobreposição dos côndilos), pois é de difícil percepção radiográfica isolada. Esses desvios podem comprometer o eixo mecânico do membro e a função do joelho, exigindo atenção técnica redobrada durante a redução.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMI-036",
+      "tema": "Fratura do fêmur distal em osso osteoporótico",
+      "enunciado": "Paciente idosa, osteoporótica, com fratura extra-articular cominutiva do fêmur distal. Em relação à escolha do implante, é correto afirmar que:",
+      "alternativas": [
+        "Placas bloqueadas anatômicas laterais oferecem fixação angularmente estável, adequada para osso osteoporótico, permitindo carga protegida precoce",
+        "Placas não bloqueadas convencionais são preferíveis em osso osteoporótico por permitirem maior compressão interfragmentária",
+        "Fixação externa definitiva é sempre superior à fixação interna nesse contexto",
+        "O tratamento conservador com gesso é a primeira escolha em todos os idosos"
+      ],
+      "correta": 0,
+      "comentario": "Em pacientes idosos com osso osteoporótico, as placas bloqueadas anatômicas para o fêmur distal são a escolha preferencial, pois os parafusos bloqueados na placa criam uma construção angularmente estável, funcionando como um fixador interno que não depende exclusivamente do atrito osso-parafuso para manter a fixação — vantagem importante quando a densidade óssea trabecular está reduzida. Placas não bloqueadas convencionais dependem mais da qualidade óssea para compressão e ancoragem, apresentando maior risco de afrouxamento em osso osteoporótico. A fixação externa definitiva não é ideal para fraturas periarticulares complexas no longo prazo, e o tratamento conservador em idosos está associado a altas taxas de complicações pelo imobilismo prolongado.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-037",
+      "tema": "Fixação da fratura de patela — técnica de banda de tensão",
+      "enunciado": "Qual é o princípio biomecânico da técnica de banda de tensão (tension band wiring) no tratamento das fraturas transversas de patela?",
+      "alternativas": [
+        "Converter as forças de tensão geradas na face anterior da patela durante a flexão do joelho em forças de compressão na face articular posterior",
+        "Promover distração dos fragmentos para facilitar a consolidação",
+        "Substituir completamente a necessidade de reparo do retináculo patelar",
+        "Aplicar compressão exclusivamente na face anterior da patela, sem efeito na superfície articular"
+      ],
+      "correta": 0,
+      "comentario": "A técnica de banda de tensão utiliza fios longitudinais (geralmente parafusos canulados ou fios de Kirschner) associados a uma cerclagem em formato de “8” na face anterior da patela; durante a flexão do joelho, as forças de tensão que naturalmente ocorrem na face anterior da patela são convertidas, por meio dessa construção, em forças de compressão na superfície articular posterior, favorecendo a consolidação sob carga funcional e permitindo mobilização precoce do joelho. O reparo do retináculo medial e lateral, quando lesado, deve ser realizado de forma complementar à fixação óssea, e não é dispensado pela técnica de banda de tensão.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-038",
+      "tema": "Fratura de patela não desviada",
+      "enunciado": "Paciente com fratura de patela sem desvio (degrau articular <2 mm, diástase <3 mm) e capaz de realizar elevação ativa do membro em extensão (sem lag extensor). A conduta mais adequada é:",
+      "alternativas": [
+        "Fixação cirúrgica de urgência com banda de tensão",
+        "Tratamento conservador com imobilização em extensão e carga conforme tolerância, com mobilização progressiva",
+        "Patelectomia total profilática",
+        "Artroplastia patelofemoral"
+      ],
+      "correta": 1,
+      "comentario": "Fraturas de patela sem desvio significativo (degrau articular menor que 2-3 mm e diástase menor que 3 mm), com mecanismo extensor íntegro (paciente capaz de realizar elevação ativa do membro em extensão, sem lag extensor), podem ser tratadas de forma conservadora, com imobilização em extensão por algumas semanas e progressão gradual de carga e amplitude de movimento. A fixação cirúrgica é reservada a fraturas desviadas ou com comprometimento do mecanismo extensor. Patelectomia e artroplastia patelofemoral não têm indicação nesse contexto de fratura estável e não desviada.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-039",
+      "tema": "Ruptura do aparelho extensor — tendão quadricipital versus patelar",
+      "enunciado": "Em relação às rupturas do aparelho extensor do joelho, é correto afirmar que:",
+      "alternativas": [
+        "A ruptura do tendão patelar é mais comum em pacientes acima de 40 anos com comorbidades como diabetes e doença renal crônica",
+        "A ruptura do tendão quadricipital é mais comum em pacientes acima de 40 anos, frequentemente associada a doenças sistêmicas degenerativas do tendão, enquanto a ruptura do tendão patelar predomina em indivíduos mais jovens e atletas",
+        "Ambas as lesões ocorrem exclusivamente em atletas de alto rendimento",
+        "Não há diferença de faixa etária entre os dois tipos de lesão"
+      ],
+      "correta": 1,
+      "comentario": "Classicamente, a ruptura do tendão quadricipital ocorre mais frequentemente em pacientes acima de 40 anos, associada a fatores degenerativos e doenças sistêmicas que comprometem a qualidade do tecido tendíneo, como diabetes mellitus, doença renal crônica, uso crônico de corticosteroides e hiperparatireoidismo. Já a ruptura do tendão patelar predomina em indivíduos mais jovens, particularmente atletas, geralmente ocorrendo na transição tendão-osso (polo inferior da patela). Essa distinção etária e de fatores de risco é relevante para o diagnóstico diferencial diante de um paciente com incapacidade de extensão ativa do joelho após trauma.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-040",
+      "tema": "Avaliação do mecanismo extensor",
+      "enunciado": "O teste clínico mais importante para avaliar a integridade funcional do mecanismo extensor do joelho após suspeita de lesão (fratura de patela ou ruptura tendínea) é:",
+      "alternativas": [
+        "Teste de gaveta anterior",
+        "Capacidade de realizar elevação ativa do membro em extensão completa contra a gravidade (straight leg raise)",
+        "Teste de Lachman",
+        "Teste do estresse em varo"
+      ],
+      "correta": 1,
+      "comentario": "A capacidade de realizar elevação ativa do membro inferior em extensão completa contra a gravidade (straight leg raise) é o teste clínico fundamental para avaliar a integridade funcional do mecanismo extensor do joelho. A incapacidade de realizar esse movimento (extensor lag), na presença de fratura de patela ou suspeita de ruptura tendínea, indica descontinuidade do mecanismo extensor e é geralmente indicação de tratamento cirúrgico, independentemente do grau de desvio radiográfico. Os testes de gaveta anterior, Lachman e estresse em varo avaliam a estabilidade ligamentar do joelho (cruzado anterior e colateral medial, respectivamente), não o mecanismo extensor.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-041",
+      "tema": "Fratura cominutiva de patela — patelectomia parcial",
+      "enunciado": "Em fraturas gravemente cominutivas do polo distal da patela, quando a redução e fixação estável dos múltiplos fragmentos não são factíveis, uma opção de tratamento é:",
+      "alternativas": [
+        "Patelectomia total isolada, sem reparo adicional",
+        "Patelectomia parcial, com ressecção dos fragmentos não reconstituíveis e reinserção do tendão patelar remanescente à patela restante",
+        "Artrodese do joelho",
+        "Observação sem qualquer intervenção cirúrgica, independentemente do lag extensor"
+      ],
+      "correta": 1,
+      "comentario": "Nas fraturas gravemente cominutivas, tipicamente do polo distal (ou proximal) da patela, quando não é possível obter fixação estável de múltiplos fragmentos pequenos, a patelectomia parcial — com ressecção dos fragmentos irreconstrutíveis e reinserção do tendão patelar (ou quadricipital) diretamente à porção remanescente e viável da patela — é uma opção reconhecida, preservando parte da função de alavanca do mecanismo extensor. A patelectomia total é reservada a casos extremos de cominuição completa, sendo associada a maior perda de força de extensão, e não é a primeira escolha quando parte da patela pode ser preservada. Artrodese do joelho não é indicada para esse tipo de lesão isolada.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-042",
+      "tema": "Fratura em manga (sleeve fracture) da patela",
+      "enunciado": "A fratura em “manga” (sleeve fracture) da patela é uma lesão característica de qual grupo de pacientes?",
+      "alternativas": [
+        "Adultos idosos com osteoporose grave",
+        "Crianças e adolescentes, envolvendo avulsão de uma camada de cartilagem articular e periósteo do polo (geralmente inferior) da patela",
+        "Atletas adultos de alto rendimento com tendão patelar degenerado",
+        "Pacientes com artroplastia total de joelho prévia"
+      ],
+      "correta": 1,
+      "comentario": "A fratura em manga (sleeve fracture) é uma lesão característica da população pediátrica e adolescente, na qual ocorre avulsão de uma fina camada de cartilagem articular (frequentemente com um pequeno fragmento ósseo associado, por vezes de difícil visualização radiográfica) e periósteo do polo, mais comumente inferior, da patela, geralmente após trauma indireto com contração forçada do quadríceps. Embora seja um tópico mais associado ao trauma pediátrico, é importante reconhecê-la no diagnóstico diferencial de dor patelar pós-traumática em pacientes esqueleticamente imaturos, distinguindo-a das fraturas patelares típicas do adulto.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMI-043",
+      "tema": "Fratura vertical/marginal de patela",
+      "enunciado": "Fraturas verticais (sagitais) ou marginais da patela, sem envolvimento significativo da superfície articular de carga e sem comprometimento do mecanismo extensor, geralmente são tratadas com:",
+      "alternativas": [
+        "Fixação cirúrgica obrigatória com múltiplos parafusos",
+        "Tratamento conservador com imobilização e mobilização progressiva, dado o baixo impacto funcional sobre o mecanismo extensor",
+        "Patelectomia total",
+        "Osteotomia da tíbia proximal"
+      ],
+      "correta": 1,
+      "comentario": "Fraturas verticais (no plano sagital) ou marginais da patela, quando não comprometem significativamente a superfície articular de carga (área central da faceta patelar) nem o mecanismo extensor, geralmente evoluem bem com tratamento conservador, pois o braço de alavanca do quadríceps e do tendão patelar não é comprometido por esse tipo de traço, ao contrário das fraturas transversas desviadas. A fixação cirúrgica é reservada a casos com desvio significativo, incongruência articular relevante ou instabilidade associada. Patelectomia total e osteotomia tibial não têm indicação nesse contexto.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-044",
+      "tema": "Complicações da fixação com banda de tensão",
+      "enunciado": "Qual é a complicação mais frequentemente relatada após fixação de fratura de patela com técnica de banda de tensão metálica?",
+      "alternativas": [
+        "Necrose avascular da patela",
+        "Irritação de partes moles e necessidade de remoção do material de síntese por proeminência subcutânea",
+        "Síndrome compartimental da coxa",
+        "Lesão do nervo isquiático"
+      ],
+      "correta": 1,
+      "comentario": "A patela é um osso subcutâneo, e o material de síntese utilizado na técnica de banda de tensão (fios de Kirschner e cerclagem metálica) frequentemente causa irritação de partes moles superficiais, sendo a remoção eletiva do material de síntese, após consolidação, uma das reoperações mais comuns nesse contexto — podendo ocorrer em até 20-30% dos casos conforme diferentes séries. Necrose avascular da patela é uma complicação rara nesse contexto. Síndrome compartimental da coxa e lesão do nervo isquiático não são complicações típicas de fraturas ou da fixação da patela, estrutura anatomicamente distante desses compartimentos e trajeto nervoso.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-045",
+      "tema": "Classificação de Schatzker — visão geral",
+      "enunciado": "A classificação de Schatzker para fraturas do planalto tibial inclui seis tipos. Qual associação está correta?",
+      "alternativas": [
+        "Tipo I: fratura por cisão pura do planalto lateral, sem depressão, geralmente em pacientes jovens com osso de boa qualidade",
+        "Tipo IV: fratura isolada do planalto lateral com depressão pura, sem componente de cisão",
+        "Tipo VI: fratura por depressão isolada do planalto medial",
+        "Tipo II: fratura bicondilar com dissociação metafisário-diafisária"
+      ],
+      "correta": 0,
+      "comentario": "A classificação de Schatzker organiza as fraturas do planalto tibial em ordem crescente de energia e gravidade: tipo I é a fratura por cisão (split) pura do planalto lateral, sem depressão associada, típica de pacientes jovens com osso denso e trauma de maior energia relativa para gerar esse padrão; tipo II combina cisão e depressão do planalto lateral; tipo III é depressão pura do planalto lateral (mais comum em idosos osteoporóticos); tipo IV envolve o planalto medial (associado a trauma de maior energia e risco de lesão vascular/neurológica); tipo V é bicondilar; e tipo VI apresenta dissociação metafisário-diafisária, geralmente a mais grave e de maior energia.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-046",
+      "tema": "Schatzker II — tratamento",
+      "enunciado": "Paciente com fratura do planalto tibial Schatzker II (cisão e depressão lateral) com depressão articular de 8 mm. O tratamento cirúrgico geralmente envolve:",
+      "alternativas": [
+        "Elevação da superfície articular deprimida através de uma janela cortical metafisária, enxerto ósseo ou substituto ósseo no defeito subcondral, e fixação com placa de suporte lateral",
+        "Amputação primária, pela gravidade da lesão",
+        "Artroplastia total de joelho primária",
+        "Tratamento exclusivamente conservador, independentemente do grau de depressão"
+      ],
+      "correta": 0,
+      "comentario": "Nas fraturas Schatzker II com depressão articular significativa (geralmente considerada cirúrgica quando maior que 2-3 mm em paciente jovem/ativo), a técnica cirúrgica clássica envolve a criação de uma janela cortical metafisária (geralmente sob a área deprimida), elevação da superfície articular sob visualização direta ou fluoroscópica, preenchimento do defeito ósseo subcondral resultante com enxerto ósseo autólogo, aloenxerto ou substituto ósseo sintético, e fixação da cisão lateral com placa de suporte (buttress) para neutralizar as forças de cisalhamento. Artroplastia primária e amputação não são condutas apropriadas para esse padrão de fratura em paciente sem doença articular degenerativa avançada prévia.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-047",
+      "tema": "Fratura bicondilar do planalto tibial — protocolo estagiado",
+      "enunciado": "Paciente com fratura bicondilar do planalto tibial (Schatzker V/VI), de alta energia, com edema importante e flictenas na perna. A conduta cirúrgica inicial mais apropriada é:",
+      "alternativas": [
+        "Fixação definitiva com placas duplas imediata, independentemente do estado de partes moles",
+        "Fixação externa provisória (ponte do joelho) para estabilização temporária, com fixação definitiva postergada até melhora das condições de partes moles (sinal da prega cutânea)",
+        "Tratamento exclusivamente conservador com gesso cruropodálico",
+        "Amputação primária pela gravidade da lesão de partes moles"
+      ],
+      "correta": 1,
+      "comentario": "Fraturas bicondilares de alta energia do planalto tibial frequentemente cursam com lesão significativa de partes moles (edema importante, flictenas), o que contraindica a fixação definitiva imediata pelo alto risco de complicações de ferida operatória (deiscência, infecção). A conduta recomendada é a fixação externa provisória em ponte (spanning external fixator), estabilizando a fratura temporariamente e permitindo elevação do membro e resolução do edema, com fixação definitiva (geralmente com placas) postergada até que as condições de partes moles melhorem, classicamente avaliadas pelo reaparecimento do sinal da prega cutânea (wrinkle sign), o que costuma ocorrer entre 7 e 14 dias. Tratamento conservador definitivo e amputação primária não são apropriados nesse contexto sem indicação absoluta específica.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-048",
+      "tema": "Síndrome compartimental na fratura de planalto tibial",
+      "enunciado": "Qual padrão de fratura do planalto tibial está mais associado a risco elevado de síndrome compartimental da perna?",
+      "alternativas": [
+        "Schatzker I isolado, sem cominuição",
+        "Schatzker VI, com dissociação metafisário-diafisária e alta energia de trauma",
+        "Fratura por depressão pura isolada em paciente idoso osteoporótico",
+        "Fratura de baixa energia sem edema associado"
+      ],
+      "correta": 1,
+      "comentario": "Fraturas Schatzker VI, por envolverem dissociação metafisário-diafisária associada a trauma de alta energia, apresentam maior risco de lesão extensa de partes moles, sangramento significativo nos compartimentos da perna e, consequentemente, maior risco de síndrome compartimental aguda. A monitorização clínica cuidadosa (dor desproporcional, dor à extensão passiva dos dedos, parestesias) é fundamental nesse contexto, podendo ser complementada por medida da pressão intracompartimental em casos duvidosos ou em pacientes com rebaixamento do nível de consciência. Fraturas de baixo padrão de energia (Schatzker I ou III em idosos) apresentam risco proporcionalmente menor dessa complicação.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-049",
+      "tema": "Fratura do planalto tibial medial (Schatzker IV)",
+      "enunciado": "Fraturas do planalto tibial medial (Schatzker IV) são consideradas equivalentes a lesões de luxação do joelho, pois:",
+      "alternativas": [
+        "Ocorrem exclusivamente em pacientes idosos com osso osteoporótico",
+        "Resultam de trauma de alta energia e estão associadas a maior risco de lesão da artéria poplítea e de estruturas neurológicas (nervo fibular comum), exigindo avaliação vascular e neurológica cuidadosa",
+        "Nunca necessitam de avaliação vascular complementar",
+        "São sempre tratadas de forma conservadora, independentemente do desvio"
+      ],
+      "correta": 1,
+      "comentario": "As fraturas do planalto tibial medial (Schatzker IV), diferentemente das fraturas do planalto lateral (mais comuns e geralmente de menor energia relativa), resultam tipicamente de trauma de alta energia com importante componente de estresse em varo, sendo consideradas equivalentes funcionais a uma luxação do joelho reduzida espontaneamente. Por esse motivo, associam-se a risco significativamente maior de lesão da artéria poplítea e de estruturas neurológicas, especialmente o nervo fibular comum, exigindo exame vascular e neurológico minucioso (incluindo índice tornozelo-braquial) mesmo na ausência de sinais evidentes de isquemia. O tratamento cirúrgico é indicado na maioria dos casos devido à instabilidade e ao potencial de lesões associadas.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-050",
+      "tema": "Tomografia computadorizada no planejamento cirúrgico",
+      "enunciado": "Qual é o principal benefício da tomografia computadorizada no planejamento cirúrgico das fraturas do planalto tibial?",
+      "alternativas": [
+        "Substituir completamente a necessidade de radiografias simples",
+        "Definir com maior precisão o número, tamanho e localização dos fragmentos articulares, além do grau de depressão, auxiliando na escolha da via de acesso e da estratégia de redução",
+        "Avaliar exclusivamente a integridade dos ligamentos cruzados",
+        "Determinar apenas a presença de fratura patológica"
+      ],
+      "correta": 1,
+      "comentario": "A tomografia computadorizada, idealmente com reconstruções multiplanares (e tridimensionais quando disponíveis), permite caracterizar com muito mais precisão do que a radiografia simples o número e a localização exata dos fragmentos articulares, o grau real de depressão e cominuição, e a extensão para a região medial ou posterior do planalto — informações essenciais para o planejamento da via de acesso cirúrgica (anterolateral, posteromedial, posterior direta, entre outras) e da estratégia de redução e fixação. A avaliação ligamentar é mais bem realizada pela ressonância magnética, e a tomografia não define, isoladamente, a presença de fratura patológica, que depende de correlação clínica e, por vezes, biópsia.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-051",
+      "tema": "Lesão meniscal associada a fratura do planalto tibial",
+      "enunciado": "Em relação à associação entre fraturas do planalto tibial e lesões meniscais, é correto afirmar que:",
+      "alternativas": [
+        "Lesões meniscais são extremamente raras nesse contexto e não requerem avaliação intraoperatória",
+        "Lesões do menisco lateral são frequentemente associadas a fraturas do planalto tibial, especialmente nas do tipo lateral, devendo ser avaliadas e, quando possível, reparadas durante a cirurgia",
+        "O menisco medial é sempre o mais acometido, independentemente do tipo de fratura",
+        "A presença de lesão meniscal contraindica o tratamento cirúrgico da fratura"
+      ],
+      "correta": 1,
+      "comentario": "Lesões meniscais, especialmente do menisco lateral, são relativamente frequentes em associação com fraturas do planalto tibial, principalmente nas fraturas do compartimento lateral, podendo o menisco ficar interposto no foco de fratura ou apresentar lesões periféricas passíveis de reparo. A avaliação intraoperatória da integridade meniscal (por vezes com auxílio artroscópico) e o reparo, quando indicado, são importantes para a preservação da função e da biomecânica do joelho a longo prazo, reduzindo o risco de degeneração articular precoce. A presença de lesão meniscal não contraindica a fixação da fratura; pelo contrário, ambas costumam ser abordadas no mesmo tempo cirúrgico.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-052",
+      "tema": "Dupla placa versus placa lateral bloqueada em fratura bicondilar",
+      "enunciado": "Em fraturas bicondilares do planalto tibial com importante cominuição medial, a literatura atual sobre o uso de placa lateral bloqueada isolada versus dupla placa (medial e lateral) sugere que:",
+      "alternativas": [
+        "A placa lateral bloqueada isolada é sempre suficiente, independentemente do grau de cominuição e instabilidade medial",
+        "Em fraturas com cominuição medial significativa e instabilidade em varo, a fixação medial adicional (dupla placa) pode ser necessária para evitar colapso em varo, apesar do maior risco de morbidade de partes moles associado a duas incisões",
+        "A dupla placa está formalmente contraindicada em qualquer situação pelo alto risco de infecção",
+        "Fraturas bicondilares nunca necessitam de suporte medial, independentemente do padrão de fratura"
+      ],
+      "correta": 1,
+      "comentario": "Embora as placas laterais bloqueadas modernas ofereçam bom suporte biomecânico para muitas fraturas bicondilares, em situações de cominuição medial significativa, obliquidade do traço medial favorecendo colapso em varo, ou instabilidade residual após fixação lateral isolada, a adição de uma placa medial (dupla placa) pode ser necessária para neutralizar adequadamente essas forças e evitar perda de redução em varo. Essa decisão deve ponderar o benefício biomecânico contra o maior risco de morbidade de partes moles associado a duas incisões, sendo objeto de discussão individualizada caso a caso, sem contraindicação absoluta a nenhuma das duas estratégias.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMI-053",
+      "tema": "Correlação entre energia do trauma e padrão de Schatzker",
+      "enunciado": "Em relação à correlação entre energia do trauma e o padrão de fratura na classificação de Schatzker, é correto afirmar que:",
+      "alternativas": [
+        "Fraturas Schatzker I geralmente ocorrem em pacientes jovens com osso denso, exigindo trauma de maior energia para gerar o traço de cisão pura",
+        "Fraturas Schatzker III (depressão pura) são típicas de trauma de altíssima energia em pacientes jovens",
+        "Não existe qualquer correlação entre energia de trauma, idade e padrão de fratura na classificação de Schatzker",
+        "Fraturas Schatzker VI ocorrem predominantemente em idosos com quedas de baixa energia"
+      ],
+      "correta": 0,
+      "comentario": "Em ossos jovens e densos, é necessária maior energia de trauma para produzir uma fratura por cisão pura (Schatzker I), pois o osso trabecular subcondral mais resistente tende a resistir à depressão, favorecendo a propagação de um traço de cisão vertical. Já em pacientes idosos com osso osteoporótico, o osso trabecular subcondral menos denso cede mais facilmente à compressão axial, favorecendo o padrão de depressão pura (Schatzker III), mesmo com traumas de menor energia relativa. Fraturas Schatzker VI, de maior gravidade e dissociação metafisário-diafisária, geralmente resultam de trauma de alta energia (acidentes automobilísticos, quedas de grande altura), independentemente da faixa etária, embora sejam mais comuns em pacientes mais jovens envolvidos em traumas de alta energia.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-054",
+      "tema": "Reabilitação pós-operatória do planalto tibial",
+      "enunciado": "Após fixação cirúrgica de fratura do planalto tibial, a mobilização precoce do joelho (amplitude de movimento) é priorizada principalmente para:",
+      "alternativas": [
+        "Acelerar a consolidação óssea da metáfise",
+        "Prevenir rigidez articular e aderências intra-articulares, preservando a nutrição da cartilagem articular",
+        "Substituir a necessidade de fisioterapia formal",
+        "Permitir carga total imediata sobre o membro operado"
+      ],
+      "correta": 1,
+      "comentario": "A mobilização precoce da amplitude de movimento do joelho após fixação estável de fratura do planalto tibial é priorizada principalmente para prevenir rigidez articular (artrofibrose) e formação de aderências intra-articulares, além de favorecer a nutrição da cartilagem articular por meio do movimento articular, que promove a circulação do líquido sinovial. A consolidação óssea da região metafisária não depende diretamente da mobilidade articular, e sim da estabilidade da fixação e da biologia local. A mobilização precoce não substitui a fisioterapia formal, e a liberação de carga total é uma decisão separada, geralmente mais tardia, que depende da estabilidade da fixação e da evolução radiográfica de consolidação.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-055",
+      "tema": "Tratamento padrão da fratura diafisária da tíbia",
+      "enunciado": "Qual é o tratamento cirúrgico padrão-ouro para fraturas diafisárias fechadas da tíbia em adultos, quando indicado tratamento operatório?",
+      "alternativas": [
+        "Placa em compressão por via de acesso aberta ampla",
+        "Haste intramedular bloqueada",
+        "Fixador externo definitivo circular",
+        "Parafusos interfragmentários isolados, sem neutralização adicional"
+      ],
+      "correta": 1,
+      "comentario": "A haste intramedular bloqueada é considerada o tratamento cirúrgico padrão-ouro para fraturas diafisárias fechadas da tíbia em adultos, oferecendo fixação biomecanicamente estável com preservação relativa da biologia de partes moles (inserção minimamente invasiva), possibilidade de carga precoce e boas taxas de consolidação. A placa por via aberta é reservada a situações específicas (fraturas muito proximais ou distais, próximas às articulações, onde a haste não oferece fixação adequada). O fixador externo definitivo é mais utilizado em fraturas expostas graves com grande perda de partes moles ou como controle de danos. Parafusos isolados sem neutralização não oferecem estabilidade suficiente para fraturas diafisárias na maioria dos casos.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-056",
+      "tema": "Síndrome compartimental da perna — sinais clínicos",
+      "enunciado": "Qual é o sinal clínico mais precoce e sensível para o diagnóstico de síndrome compartimental aguda da perna após fratura da tíbia?",
+      "alternativas": [
+        "Ausência de pulso distal (pulselessness)",
+        "Dor desproporcional ao trauma e dor exacerbada à extensão passiva dos dedos/tornozelo",
+        "Palidez do membro",
+        "Paralisia motora distal estabelecida"
+      ],
+      "correta": 1,
+      "comentario": "A dor desproporcional à gravidade aparente da lesão, e particularmente a dor exacerbada pela extensão passiva dos dedos ou do tornozelo (estiramento da musculatura do compartimento acometido), é o sinal clínico mais precoce e sensível para o diagnóstico de síndrome compartimental aguda, devendo levantar alta suspeita mesmo antes do surgimento de outros sinais. Os demais sinais listados na tríade clássica dos “5 P's” (pulselessness, pallor, paralysis, além de paresthesia e poikilothermia) são, em geral, sinais tardios que indicam isquemia já estabelecida e dano neuromuscular potencialmente irreversível, não devendo ser aguardados para o diagnóstico e tratamento (fasciotomia de urgência).",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-057",
+      "tema": "Dor anterior de joelho após haste tibial",
+      "enunciado": "Qual é a complicação mais comumente relatada em longo prazo após haste intramedular anterógrada da tíbia?",
+      "alternativas": [
+        "Lesão do nervo isquiático",
+        "Dor anterior do joelho, relacionada ao ponto de entrada da haste",
+        "Necrose avascular do platô tibial",
+        "Síndrome do túnel do carpo"
+      ],
+      "correta": 1,
+      "comentario": "A dor anterior de joelho é a complicação mais frequentemente relatada em longo prazo após haste intramedular anterógrada da tíbia, podendo acometer até 40-50% dos pacientes em algumas séries, com etiologia multifatorial (lesão do tendão patelar ou do coxim gorduroso de Hoffa durante o acesso, proeminência do parafuso proximal de bloqueio, entre outros fatores). Essa complicação, embora geralmente não incapacitante, tem impacto relevante na satisfação do paciente e é objeto de estudo para diferentes vias de acesso (transtendão versus paratendão versus suprapatelar) visando sua redução. As demais opções não são complicações características da haste tibial.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-058",
+      "tema": "Fratura segmentar da tíbia",
+      "enunciado": "Uma fratura segmentar da tíbia é definida por:",
+      "alternativas": [
+        "Fratura única, transversa, sem cominuição",
+        "Presença de dois focos de fratura distintos ao longo da diáfise, isolando um segmento ósseo intermediário",
+        "Fratura exclusivamente da região metafisária proximal",
+        "Fratura associada a lesão do nervo fibular comum"
+      ],
+      "correta": 1,
+      "comentario": "A fratura segmentar caracteriza-se pela presença de dois traços de fratura distintos e separados ao longo da diáfise do osso longo, isolando um segmento ósseo intermediário entre os dois focos. Esse padrão está associado a trauma de maior energia e apresenta desafios específicos de tratamento, incluindo maior dificuldade de fixação estável (especialmente do segmento intermediário, que pode ter suprimento sanguíneo comprometido) e taxas mais elevadas de retardo de consolidação ou não-união em comparação com fraturas de traço único. A haste intramedular é geralmente o tratamento de escolha, buscando estabilizar ambos os focos simultaneamente.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-059",
+      "tema": "Fratura exposta grave da tíbia — Gustilo IIIB",
+      "enunciado": "Paciente com fratura exposta da diáfise tibial, Gustilo-Anderson tipo IIIB, com extensa perda de partes moles expondo o osso. A conduta multidisciplinar mais apropriada envolve:",
+      "alternativas": [
+        "Fechamento primário da ferida sem desbridamento, seguido de gesso",
+        "Desbridamento cirúrgico precoce e agressivo, estabilização óssea (geralmente fixador externo inicial ou haste, conforme protocolo do serviço) e cobertura de partes moles com retalho (local ou microcirúrgico), em abordagem combinada com a cirurgia plástica",
+        "Amputação primária obrigatória em todos os casos IIIB",
+        "Tratamento exclusivamente com antibioticoterapia oral ambulatorial, sem intervenção cirúrgica"
+      ],
+      "correta": 1,
+      "comentario": "Fraturas expostas Gustilo-Anderson tipo IIIB, por definição, apresentam perda extensa de partes moles com exposição óssea que não permite cobertura primária simples, exigindo desbridamento cirúrgico precoce e agressivo de todo tecido desvitalizado e contaminado, estabilização esquelética (com fixador externo temporário ou definitivo, ou haste intramedular conforme o protocolo e as condições locais) e cobertura de partes moles com retalho local ou microcirúrgico (livre), em abordagem conjunta com a equipe de cirurgia plástica, idealmente dentro de uma janela de tempo que minimize o risco de infecção. A amputação primária não é obrigatória em todos os casos IIIB, sendo reservada a lesões com critérios de gravidade adicionais (lesão vascular associada não reconstrutível, isquemia prolongada, entre outros, avaliados por escores como o MESS). O manejo exclusivamente ambulatorial é inadequado para essa gravidade de lesão.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-060",
+      "tema": "Retardo de consolidação da tíbia — fatores de risco",
+      "enunciado": "São fatores de risco reconhecidos para retardo de consolidação (delayed union) em fraturas diafisárias da tíbia, EXCETO:",
+      "alternativas": [
+        "Tabagismo",
+        "Fratura exposta com grande perda de partes moles",
+        "Cominuição extensa e desvio inicial significativo",
+        "Uso de haste intramedular fresada em fratura fechada simples"
+      ],
+      "correta": 3,
+      "comentario": "O uso de haste intramedular fresada em fraturas fechadas simples da tíbia não é um fator de risco para retardo de consolidação; ao contrário, a fresagem em fraturas fechadas está associada a boas taxas de consolidação na maioria das séries. Fatores de risco reconhecidos para retardo de consolidação e não-união na tíbia incluem tabagismo (por efeito vasoconstritor e prejuízo à angiogênese), fraturas expostas com grande perda de partes moles e comprometimento vascular local, além de fraturas com cominuição extensa e grande desvio inicial, que refletem maior energia de trauma e maior dano ao suprimento sanguíneo endosteal e perióstico.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-061",
+      "tema": "Fratura do terço distal da tíbia — escolha do implante",
+      "enunciado": "Em fraturas do terço distal da diáfise da tíbia, próximas à região metafisária, um desafio técnico da haste intramedular é:",
+      "alternativas": [
+        "A impossibilidade absoluta de uso de haste nessa localização",
+        "A maior propensão a malalinhamento (valgo, procurvato ou recurvato) devido ao alargamento do canal medular nessa região, podendo ser mitigada com uso de parafusos de bloqueio adicionais (“poller screws”) e técnica cuidadosa de redução",
+        "A ausência de qualquer risco de malalinhamento nessa região, ao contrário da diáfise proximal",
+        "A obrigatoriedade de amputação nesse padrão de fratura"
+      ],
+      "correta": 1,
+      "comentario": "Fraturas do terço distal da tíbia, próximas à metáfise, representam um desafio para a fixação com haste intramedular devido ao alargamento progressivo do canal medular nessa região, o que reduz o contato entre a haste e o osso cortical e favorece malalinhamentos residuais (valgo, varo, procurvato ou recurvato). Técnicas para mitigar esse problema incluem o uso de parafusos de bloqueio auxiliares posicionados estrategicamente no canal medular (blocking screws ou “poller screws”), que direcionam a passagem da haste e ajudam a manter a redução, além de técnica cuidadosa de redução antes e durante a introdução da haste. A haste ainda pode ser utilizada nessa localização, sendo uma opção viável quando bem planejada; a placa é uma alternativa em casos selecionados.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMI-062",
+      "tema": "Tolerância de malalinhamento após haste tibial",
+      "enunciado": "Em relação aos limites aceitáveis de malalinhamento residual após fixação de fratura diafisária da tíbia com haste intramedular, geralmente são considerados aceitáveis desvios angulares de até:",
+      "alternativas": [
+        "Até 20° em qualquer plano, sem repercussão funcional",
+        "Aproximadamente 5° de variação angular (varo/valgo e procurvato/recurvato) e desvio rotacional mínimo, para evitar sobrecarga articular assimétrica no joelho e tornozelo",
+        "Não existe limite aceitável; qualquer desvio angular exige nova cirurgia",
+        "Até 45° de rotação externa residual, sem necessidade de correção"
+      ],
+      "correta": 1,
+      "comentario": "De forma geral, aceita-se um desvio angular residual de aproximadamente 5° (em varo/valgo e procurvato/recurvato) e um desvio rotacional mínimo (geralmente também próximo a 5-10°, dependendo do segmento) após a fixação de fraturas diafisárias da tíbia, pois desvios maiores que isso podem gerar sobrecarga assimétrica nas articulações do joelho e tornozelo, favorecendo degeneração articular precoce e alterações de marcha. Desvios angulares e rotacionais maiores que esses limites geralmente são considerados inaceitáveis e podem exigir correção cirúrgica (osteotomia) se sintomáticos. Não existe uma tolerância de 20° ou 45° como aceitável na prática clínica padrão.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMI-063",
+      "tema": "Fasciotomia da perna — técnica de duas incisões",
+      "enunciado": "Na fasciotomia da perna por técnica de duas incisões para tratamento de síndrome compartimental, o objetivo é a descompressão de quantos compartimentos musculares?",
+      "alternativas": [
+        "Dois compartimentos",
+        "Três compartimentos",
+        "Quatro compartimentos (anterior, lateral, posterior superficial e posterior profundo)",
+        "Cinco compartimentos"
+      ],
+      "correta": 2,
+      "comentario": "A perna possui quatro compartimentos musculares: anterior, lateral, posterior superficial e posterior profundo. A técnica de fasciotomia por duas incisões (uma incisão anterolateral, para descompressão dos compartimentos anterior e lateral, e uma incisão posteromedial, para descompressão dos compartimentos posterior superficial e profundo) é amplamente utilizada por permitir a descompressão completa dos quatro compartimentos com preservação de uma ponte de pele adequada entre as incisões, reduzindo o risco de necrose cutânea em comparação com técnicas de incisão única ou perifibular.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-064",
+      "tema": "Classificação de Rüedi-Allgower",
+      "enunciado": "A classificação de Rüedi-Allgower para fraturas do pilão tibial baseia-se principalmente em:",
+      "alternativas": [
+        "No mecanismo de trauma exclusivamente (rotacional versus axial)",
+        "No grau de desvio da superfície articular e no grau de cominuição metafisária",
+        "Na presença ou ausência de fratura associada da fíbula",
+        "Na idade do paciente no momento do trauma"
+      ],
+      "correta": 1,
+      "comentario": "A classificação de Rüedi-Allgower estratifica as fraturas do pilão tibial em três tipos, com base no grau de desvio da superfície articular e na cominuição metafisária: tipo I (fratura articular sem desvio significativo), tipo II (fratura articular com desvio, porém sem grande cominuição) e tipo III (fratura articular com desvio significativo e importante cominuição metafisária, associada a maior lesão de partes moles e pior prognóstico). Embora o mecanismo de trauma (axial de alta energia versus rotacional de baixa energia) esteja frequentemente correlacionado com a gravidade da lesão, a classificação em si baseia-se nos achados radiográficos de desvio e cominuição.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-065",
+      "tema": "Protocolo estagiado no pilão tibial",
+      "enunciado": "Paciente com fratura de pilão tibial de alta energia, com edema importante e flictenas hemorrágicas. A conduta cirúrgica inicial recomendada é:",
+      "alternativas": [
+        "Redução aberta e fixação interna definitiva imediata com placa, independentemente do estado de partes moles",
+        "Fixação externa provisória (ponte) associada, quando indicado, à fixação da fíbula, com fixação definitiva do pilão postergada até melhora das condições de partes moles",
+        "Amputação primária transtibial",
+        "Tratamento exclusivamente conservador com gesso, mesmo em fraturas desviadas"
+      ],
+      "correta": 1,
+      "comentario": "Nas fraturas de pilão tibial de alta energia, especialmente com lesão significativa de partes moles (edema importante, flictenas), a conduta padrão é a fixação externa provisória em ponte (spanning external fixator), frequentemente associada à fixação da fíbula (quando fraturada) para auxiliar na restauração do comprimento e do alinhamento geral, postergando a fixação definitiva da tíbia distal até que as condições de partes moles melhorem (geralmente avaliadas pelo sinal da prega cutânea), o que reduz significativamente o risco de complicações graves de ferida operatória, como deiscência e infecção profunda. A fixação definitiva imediata em partes moles comprometidas está associada a taxas inaceitavelmente altas de complicações.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-066",
+      "tema": "Timing cirúrgico no pilão tibial",
+      "enunciado": "O principal motivo para postergar a fixação definitiva das fraturas de pilão tibial de alta energia até a melhora do estado de partes moles é:",
+      "alternativas": [
+        "Reduzir o tempo de internação hospitalar",
+        "Diminuir o risco de complicações graves de ferida operatória, como deiscência e infecção profunda, em um segmento com cobertura de partes moles naturalmente precária",
+        "Facilitar a liberação de carga precoce",
+        "Eliminar a necessidade de tomografia computadorizada pré-operatória"
+      ],
+      "correta": 1,
+      "comentario": "A região do pilão tibial apresenta cobertura de partes moles naturalmente precária (pele fina, pouco tecido subcutâneo, vascularização relativamente limitada), tornando essa área especialmente vulnerável a complicações de ferida operatória quando a cirurgia definitiva é realizada em um contexto de edema importante e comprometimento de partes moles decorrente do trauma de alta energia. A espera pela melhora desse estado (avaliada pelo sinal da prega cutânea, geralmente entre 7 e 21 dias) reduz significativamente o risco de deiscência de ferida e infecção profunda, complicações potencialmente devastadoras nessa topografia. Esse protocolo não visa reduzir o tempo de internação (que pode inclusive aumentar) nem eliminar a necessidade de tomografia, que segue indicada para o planejamento cirúrgico detalhado.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-067",
+      "tema": "Mecanismo de trauma no pilão tibial",
+      "enunciado": "Em relação ao mecanismo de trauma nas fraturas de pilão tibial, é correto afirmar que:",
+      "alternativas": [
+        "Fraturas de baixa energia (mecanismo rotacional, como em quedas com o pé fixo, tipo “bota de esqui”) tendem a apresentar menor cominuição do que as de alta energia (queda de altura, acidente automobilístico) por carga axial",
+        "Não existe relação entre o mecanismo de trauma e o grau de cominuição da fratura",
+        "Fraturas de alta energia sempre poupam a superfície articular",
+        "O mecanismo rotacional de baixa energia está associado a pior prognóstico que o mecanismo axial de alta energia"
+      ],
+      "correta": 0,
+      "comentario": "Fraturas de pilão tibial decorrentes de mecanismo rotacional de baixa energia (classicamente descritas como fratura em “bota de esqui”, com o pé fixo sofrendo torção) tendem a apresentar padrões de fratura mais simples, com menor cominuição e menor lesão de partes moles associada, geralmente com melhor prognóstico funcional. Já as fraturas decorrentes de trauma axial de alta energia (queda de altura significativa, acidentes automobilísticos), com carga de compressão direta do tálus contra o pilão tibial, tendem a apresentar cominuição extensa da superfície articular e da metáfise, além de lesão de partes moles mais grave, associando-se a pior prognóstico funcional e maior taxa de complicações.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-068",
+      "tema": "Papel da fixação da fíbula no pilão tibial",
+      "enunciado": "Qual é o papel da fixação da fíbula (quando fraturada) no tratamento das fraturas de pilão tibial?",
+      "alternativas": [
+        "Não tem qualquer utilidade e deve ser sempre evitada",
+        "Auxilia na restauração do comprimento e do alinhamento geral do membro, servindo como um “molde” (template) que facilita a redução subsequente da tíbia, especialmente na fase de fixação externa provisória",
+        "Substitui completamente a necessidade de fixação da tíbia",
+        "Deve ser realizada apenas em um segundo tempo cirúrgico, nunca simultaneamente ao fixador externo"
+      ],
+      "correta": 1,
+      "comentario": "A fixação da fíbula, quando fraturada em associação a fraturas do pilão tibial, auxilia na restauração do comprimento e do alinhamento rotacional geral do membro, funcionando como um “molde” ou referência estrutural que facilita a redução subsequente da tíbia — sendo frequentemente realizada já no tempo cirúrgico inicial, em conjunto com a fixação externa provisória da tíbia. Evidentemente, a fixação da fíbula não substitui a necessidade de tratamento definitivo da superfície articular tibial, que é o principal determinante do prognóstico funcional a longo prazo. A afirmação de que deve ser sempre evitada ou postergada para um segundo tempo não reflete a prática padrão.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-069",
+      "tema": "Complicações de ferida no pilão tibial",
+      "enunciado": "A complicação de ferida operatória mais temida após fixação definitiva de fratura de pilão tibial, especialmente quando realizada precocemente em partes moles comprometidas, é:",
+      "alternativas": [
+        "Rigidez do quadril ipsilateral",
+        "Deiscência de ferida operatória com exposição de material de síntese e infecção profunda",
+        "Trombose venosa profunda do membro superior contralateral",
+        "Lesão do nervo mediano"
+      ],
+      "correta": 1,
+      "comentario": "A deiscência de ferida operatória, com possível exposição de material de síntese e evolução para infecção profunda, é a complicação mais temida e mais frequentemente discutida na literatura sobre fraturas de pilão tibial, justamente pela precariedade da cobertura de partes moles nessa região e pela alta energia do trauma envolvido na maioria dos casos. Essa é a principal razão para a adoção do protocolo estagiado de tratamento (fixação externa provisória seguida de fixação definitiva tardia), que busca minimizar justamente esse risco. As demais opções não são complicações características e diretamente relacionadas a essa topografia de fratura.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-070",
+      "tema": "Importância da redução articular no pilão tibial",
+      "enunciado": "Em relação ao prognóstico funcional a longo prazo das fraturas de pilão tibial, a literatura demonstra que o principal determinante é:",
+      "alternativas": [
+        "A qualidade da redução da superfície articular da tíbia distal",
+        "O tipo de implante utilizado (placa versus fixador externo definitivo), independentemente da redução obtida",
+        "A idade do paciente, exclusivamente",
+        "O tempo total de internação hospitalar"
+      ],
+      "correta": 0,
+      "comentario": "A qualidade da redução da superfície articular da tíbia distal é reconhecida como o principal determinante do prognóstico funcional a longo prazo nas fraturas de pilão tibial, estando diretamente relacionada ao risco de desenvolvimento de artrose pós-traumática do tornozelo. Uma redução anatômica ou próxima disso, com restauração da congruência articular, reduz significativamente o risco dessa complicação tardia, mesmo em fraturas inicialmente muito cominutivas e de alta energia. O tipo de implante e o tempo de internação, isoladamente, não são os principais determinantes do resultado funcional, embora a escolha do implante deva ser adequada ao contexto clínico e de partes moles.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-071",
+      "tema": "Artrodese primária do tornozelo em pilão tibial grave",
+      "enunciado": "Em qual cenário a artrodese primária do tornozelo pode ser considerada uma opção de tratamento para fratura de pilão tibial, em vez da redução aberta e fixação interna?",
+      "alternativas": [
+        "Em qualquer fratura de pilão tibial, independentemente da gravidade, como conduta padrão",
+        "Em fraturas com cominuição articular extrema e destruição da cartilagem, tornando a reconstrução articular funcional inviável, especialmente em pacientes com baixa demanda funcional",
+        "Exclusivamente em pacientes jovens e atletas de alto rendimento",
+        "Apenas quando não há cominuição metafisária associada"
+      ],
+      "correta": 1,
+      "comentario": "A artrodese primária do tornozelo pode ser considerada uma opção de tratamento em casos excepcionais de fraturas de pilão tibial com cominuição articular extrema e destruição significativa da cartilagem articular, nos quais a reconstrução de uma superfície articular funcional é considerada inviável ou pouco provável de proporcionar bom resultado funcional, especialmente em pacientes com baixa demanda funcional ou comorbidades significativas. Essa não é a conduta padrão para a maioria das fraturas de pilão tibial, que geralmente se beneficiam de tentativa de preservação articular com redução aberta e fixação interna, sobretudo em pacientes jovens e ativos, nos quais a artrodese primária tende a ser evitada pelo impacto funcional a longo prazo.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMI-072",
+      "tema": "Classificação de Weber",
+      "enunciado": "A classificação de Weber para fraturas maleolares laterais baseia-se em qual referência anatômica?",
+      "alternativas": [
+        "Na altura do traço de fratura da fíbula em relação à sindesmose tibiofibular",
+        "No grau de desvio do maléolo medial",
+        "Na presença de fratura associada do processo posterior do tálus",
+        "No número de maléolos fraturados"
+      ],
+      "correta": 0,
+      "comentario": "A classificação de Weber (AO) categoriza as fraturas do maléolo lateral (fíbula distal) conforme a altura do traço de fratura em relação ao nível da sindesmose tibiofibular: tipo A (fratura abaixo do nível da sindesmose, geralmente estável, com sindesmose preservada), tipo B (fratura no nível da sindesmose, com estabilidade variável, podendo haver lesão parcial da sindesmose) e tipo C (fratura acima do nível da sindesmose, com maior probabilidade de lesão significativa da sindesmose e da membrana interóssea, geralmente instável). Essa classificação é amplamente utilizada por sua simplicidade e correlação com a necessidade de avaliação da sindesmose.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-073",
+      "tema": "Lauge-Hansen — supinação-rotação externa",
+      "enunciado": "Na sequência de lesões descrita pela classificação de Lauge-Hansen para o mecanismo de supinação-rotação externa (SER), a primeira estrutura lesada é:",
+      "alternativas": [
+        "O maléolo medial ou o ligamento deltoide",
+        "O ligamento tibiofibular anterior (AITFL) ou uma avulsão óssea correspondente na tíbia ou fíbula",
+        "O ligamento tibiofibular posterior ou o maléolo posterior",
+        "A membrana interóssea proximal"
+      ],
+      "correta": 1,
+      "comentario": "No mecanismo de supinação-rotação externa (SER), o mais comum na prática clínica, a sequência de lesões de Lauge-Hansen progride em quatro estágios: estágio 1 — lesão do ligamento tibiofibular anterior (AITFL) ou avulsão óssea correspondente (na tíbia ou na fíbula); estágio 2 — fratura espiral curta-oblíqua da fíbula distal, no nível da sindesmose (correspondendo a uma fratura Weber B); estágio 3 — lesão do ligamento tibiofibular posterior ou fratura do maléolo posterior; estágio 4 — lesão do ligamento deltoide ou fratura do maléolo medial. Esse conhecimento sequencial auxilia na compreensão do grau de instabilidade e na busca ativa de lesões associadas menos evidentes radiograficamente.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-074",
+      "tema": "Diagnóstico de lesão da sindesmose",
+      "enunciado": "Qual achado radiográfico é sugestivo de lesão da sindesmose tibiofibular distal?",
+      "alternativas": [
+        "Redução do espaço claro tibiofibular para menos de 4 mm",
+        "Aumento do espaço claro tibiofibular (tibiofibular clear space) acima de 6 mm, medido 1 cm acima da superfície articular tibial",
+        "Presença de osso trígono",
+        "Ângulo de Böhler reduzido"
+      ],
+      "correta": 1,
+      "comentario": "O aumento do espaço claro tibiofibular (tibiofibular clear space) acima de 6 mm, medido tipicamente 1 cm acima da superfície articular da tíbia distal na incidência AP ou em mortise, é um dos principais parâmetros radiográficos sugestivos de lesão da sindesmose tibiofibular distal, refletindo diástase entre a tíbia e a fíbula. Outros parâmetros incluem a redução da sobreposição tibiofibular (tibiofibular overlap) e o aumento do espaço claro medial. O osso trígono é uma variante anatômica do processo posterior do tálus, sem relação direta com lesão sindesmótica, e o ângulo de Böhler é utilizado na avaliação de fraturas do calcâneo, não do tornozelo.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-075",
+      "tema": "Fixação da sindesmose em fratura Weber C",
+      "enunciado": "Paciente com fratura Weber C do tornozelo (traço da fíbula acima do nível da sindesmose), com instabilidade sindesmótica confirmada intraoperatoriamente pelo teste do gancho (hook test). A conduta adequada, além da fixação da fratura maleolar, é:",
+      "alternativas": [
+        "Não é necessária nenhuma fixação adicional, pois a fixação maleolar isolada estabiliza a sindesmose",
+        "Fixação da sindesmose com parafuso(s) transindesmótico(s) ou dispositivo de sutura elástica (suture button), após redução anatômica da fíbula no encaixe da incisura tibial",
+        "Artrodese primária da sindesmose",
+        "Imobilização gessada isolada, sem qualquer procedimento cirúrgico adicional"
+      ],
+      "correta": 1,
+      "comentario": "Fraturas Weber C, por definição, envolvem traço da fíbula acima do nível da sindesmose, associando-se com alta frequência à lesão significativa do complexo sindesmótico e da membrana interóssea. Quando a instabilidade sindesmótica é confirmada intraoperatoriamente (por exemplo, pelo teste do gancho externo ou pelo teste de rotação externa sob fluoroscopia), após a redução anatômica da fíbula na incisura tibial, procede-se à fixação da sindesmose, seja com parafuso(s) transindesmótico(s) (posicionados com angulação de aproximadamente 25-30° em direção anteromedial, paralelos à articulação tibiotalar) ou com dispositivos de sutura elástica (suture button), que permitem certa micromobilidade fisiológica da sindesmose. A ausência de fixação sindesmótica diante de instabilidade confirmada expõe o paciente a risco de diástase residual e artrose pós-traumática.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-076",
+      "tema": "Fratura de Maisonneuve",
+      "enunciado": "Paciente apresenta dor e edema no tornozelo após entorse em rotação externa, com radiografia do tornozelo sem fratura evidente, porém com dor à palpação da região proximal da perna. A hipótese diagnóstica mais provável, que deve ser ativamente investigada com radiografia de toda a perna, é:",
+      "alternativas": [
+        "Fratura de estresse da tíbia proximal, sem relação com o tornozelo",
+        "Fratura de Maisonneuve — fratura proximal da fíbula associada a lesão da sindesmose e do ligamento deltoide/maléolo medial",
+        "Síndrome compartimental crônica do exercício",
+        "Osteocondrite dissecante do tálus"
+      ],
+      "correta": 1,
+      "comentario": "A fratura de Maisonneuve caracteriza-se por uma fratura da fíbula proximal (frequentemente no colo ou terço proximal), associada a lesão da membrana interóssea, da sindesmose tibiofibular distal e, geralmente, do ligamento deltoide ou fratura do maléolo medial, resultante de mecanismo de rotação externa e pronação. Como a fratura fibular proximal pode não ser visível nas radiografias padrão do tornozelo, é fundamental palpar toda a extensão da fíbula em pacientes com entorse significativa de tornozelo e sinais de instabilidade medial, solicitando radiografia de toda a perna (incluindo joelho) quando há dor ou suspeita de fratura proximal. O reconhecimento dessa lesão é crucial, pois a sindesmose instável exige tratamento cirúrgico específico, independentemente da fratura fibular proximal, que geralmente não necessita de fixação direta.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-077",
+      "tema": "Fratura bimaleolar instável — indicação cirúrgica",
+      "enunciado": "Paciente com fratura bimaleolar do tornozelo (maléolos medial e lateral), com desvio evidente na radiografia inicial. A conduta mais adequada é:",
+      "alternativas": [
+        "Tratamento conservador com gesso, independentemente do desvio, pois fraturas bimaleolares são intrinsecamente estáveis",
+        "Redução aberta e fixação interna, pois fraturas bimaleolares desviadas são consideradas intrinsecamente instáveis e necessitam de restauração anatômica da mortalha do tornozelo",
+        "Amputação, pela gravidade da lesão",
+        "Observação clínica sem qualquer intervenção, aguardando consolidação espontânea"
+      ],
+      "correta": 1,
+      "comentario": "Fraturas bimaleolares (acometendo os maléolos medial e lateral) e trimaleolares (incluindo também o maléolo posterior) são consideradas intrinsecamente instáveis, pois o acometimento de duas ou mais colunas de sustentação da mortalha do tornozelo compromete a congruência articular sob carga. Quando há desvio, a conduta padrão é a redução aberta e fixação interna, buscando restaurar a anatomia da mortalha tibiotalar-fibular com a maior precisão possível, já que mesmo pequenos desvios residuais (1-2 mm de deslocamento talar lateral) podem alterar significativamente a área de contato articular e favorecer artrose pós-traumática precoce. O tratamento conservador é reservado a fraturas estáveis, não desviadas ou minimamente desviadas.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-078",
+      "tema": "Fixação do maléolo posterior",
+      "enunciado": "Em relação à indicação de fixação cirúrgica do fragmento do maléolo posterior em fraturas trimaleolares, um critério frequentemente utilizado é:",
+      "alternativas": [
+        "Fixar sempre que o fragmento posterior for menor que 5% da superfície articular",
+        "Considerar fixação quando o fragmento envolve aproximadamente 25 a 30% ou mais da superfície articular da tíbia distal, ou quando há instabilidade residual da mortalha após fixação dos demais maléolos",
+        "Nunca fixar o maléolo posterior, independentemente do tamanho do fragmento",
+        "Fixar exclusivamente por via de acesso anterior direta, sem outra opção técnica"
+      ],
+      "correta": 1,
+      "comentario": "Um dos critérios clássicos utilizados para indicar a fixação cirúrgica do fragmento do maléolo posterior em fraturas trimaleolares é o tamanho relativo do fragmento em relação à superfície articular da tíbia distal, com valores de corte historicamente citados em torno de 25 a 30% (embora esse critério tenha sido questionado e refinado por estudos mais recentes que também consideram fatores como grau de desvio, cominuição e estabilidade da sindesmose). Além do tamanho, a persistência de instabilidade da mortalha ou incongruência articular após a fixação dos demais maléolos também é indicação para fixação do maléolo posterior. A via de acesso pode variar (posterolateral direta é frequentemente preferida para fixação com placa de suporte, mas parafusos anteroposteriores percutâneos também são utilizados).",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-079",
+      "tema": "Radiografias em estresse no tornozelo",
+      "enunciado": "As radiografias em estresse (estresse em rotação externa ou estresse em gravidade) no tornozelo são utilizadas principalmente para:",
+      "alternativas": [
+        "Confirmar a presença de fratura do maléolo lateral, quando esta já é evidente na radiografia simples",
+        "Avaliar a estabilidade da mortalha do tornozelo e detectar instabilidade oculta, especialmente em fraturas isoladas do maléolo lateral (Weber B) com suspeita de lesão do complexo deltóideo",
+        "Diagnosticar fraturas do calcâneo",
+        "Substituir a necessidade de tomografia computadorizada em todos os casos de fratura de tornozelo"
+      ],
+      "correta": 1,
+      "comentario": "As radiografias em estresse (seja com estresse manual em rotação externa, seja a técnica de estresse em gravidade, na qual o peso do próprio pé pendente é utilizado) são úteis para avaliar a estabilidade da mortalha do tornozelo em fraturas isoladas do maléolo lateral (Weber B), nas quais há dúvida sobre a integridade do complexo ligamentar deltóideo profundo. O aumento do espaço claro medial sob estresse sugere instabilidade e lesão significativa do deltóideo, indicando tratamento cirúrgico mesmo na ausência de fratura do maléolo medial. Essas radiografias não têm papel na avaliação de fraturas do calcâneo nem substituem a tomografia computadorizada, que é mais útil para avaliação de fraturas articulares complexas (como o próprio calcâneo ou o pilão tibial).",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-080",
+      "tema": "Espaço claro medial",
+      "enunciado": "O aumento do espaço claro medial (medial clear space) na radiografia do tornozelo, tipicamente acima de 4-5 mm, é sugestivo de:",
+      "alternativas": [
+        "Fratura isolada do maléolo lateral sem qualquer repercussão de estabilidade",
+        "Lesão do ligamento deltoide, com possível instabilidade medial da mortalha do tornozelo",
+        "Osteoartrose primária do tornozelo",
+        "Lesão isolada do tendão do calcâneo (Aquiles)"
+      ],
+      "correta": 1,
+      "comentario": "O espaço claro medial (medial clear space), medido entre a superfície medial do tálus e o maléolo medial na radiografia em mortise, quando aumentado (tipicamente acima de 4-5 mm, ou assimétrico em relação ao espaço articular superior tibiotalar), é sugestivo de lesão do ligamento deltoide, com consequente instabilidade medial da mortalha do tornozelo, mesmo na ausência de fratura óssea do maléolo medial. Esse achado é particularmente relevante em fraturas isoladas do maléolo lateral, nas quais a presença de instabilidade medial (evidenciada radiograficamente ou por estresse) muda a conduta terapêutica para tratamento cirúrgico. Não tem relação direta com osteoartrose primária ou lesão do tendão do calcâneo.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-081",
+      "tema": "Parafuso sindesmótico versus suture button",
+      "enunciado": "Em relação à comparação entre parafuso transindesmótico metálico e dispositivo de sutura elástica (suture button) para fixação da sindesmose do tornozelo, é correto afirmar que:",
+      "alternativas": [
+        "O parafuso metálico permite micromovimento fisiológico da sindesmose, enquanto o suture button impede completamente qualquer movimento",
+        "O dispositivo de sutura elástica permite maior micromovimento fisiológico da sindesmose (fixação dinâmica) e, em algumas séries, associa-se a menor necessidade de remoção de material comparado ao parafuso metálico rígido",
+        "Não existe diferença biomecânica entre os dois dispositivos",
+        "O suture button está formalmente contraindicado em qualquer lesão aguda da sindesmose"
+      ],
+      "correta": 1,
+      "comentario": "O dispositivo de sutura elástica (suture button, como o sistema TightRope) permite maior micromovimento fisiológico da articulação tibiofibular distal durante a dorsiflexão do tornozelo (fixação considerada mais “dinâmica”), em contraste com o parafuso transindesmótico metálico tradicional, que promove fixação mais rígida e, por vezes, necessita de remoção eletiva antes da carga total ou por quebra/afrouxamento sintomático. Diversas séries clínicas e revisões sistemáticas sugerem resultados funcionais comparáveis ou potencialmente favoráveis ao suture button, com menor taxa de reoperação para remoção de material, embora a escolha ainda dependa de fatores como custo, disponibilidade e preferência do cirurgião. O suture button é amplamente utilizado também em lesões agudas da sindesmose, não sendo contraindicado nesse contexto.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMI-082",
+      "tema": "Deslocamento talar na radiografia em mortise",
+      "enunciado": "Um deslocamento lateral do tálus de apenas 1 mm em relação à mortalha do tornozelo, na radiografia em incidência de mortise, pode resultar em qual repercussão biomecânica?",
+      "alternativas": [
+        "Nenhuma repercussão clínica relevante, mesmo a longo prazo",
+        "Redução significativa da área de contato tibiotalar (redução relatada de até 40% em alguns estudos biomecânicos), predispondo a sobrecarga articular focal e artrose pós-traumática precoce",
+        "Aumento proporcional da área de contato articular, sendo um achado benéfico",
+        "Correção espontânea sem necessidade de qualquer intervenção, independentemente do grau de desvio residual"
+      ],
+      "correta": 1,
+      "comentario": "Estudos biomecânicos clássicos (como os de Ramsey e Hamilton) demonstraram que mesmo pequenos graus de deslocamento lateral do tálus em relação à mortalha do tornozelo (da ordem de 1 mm) podem reduzir significativamente a área de contato articular tibiotalar (redução relatada de até 40% em alguns modelos experimentais), concentrando as forças de carga em uma área articular menor e predispondo à sobrecarga focal da cartilagem e ao desenvolvimento de artrose pós-traumática precoce. Esse conceito fundamenta a busca por redução anatômica precisa da mortalha do tornozelo no tratamento cirúrgico das fraturas maleolares, mesmo diante de desvios aparentemente pequenos.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-083",
+      "tema": "Fratura de tornozelo em paciente diabético neuropático",
+      "enunciado": "Paciente diabético com neuropatia periférica grave apresenta fratura bimaleolar desviada do tornozelo. Em relação ao manejo desse paciente, é correto afirmar que:",
+      "alternativas": [
+        "O tratamento deve seguir exatamente o mesmo protocolo de um paciente não diabético, sem qualquer adaptação",
+        "Há maior risco de complicações de consolidação, infecção e desenvolvimento de artropatia de Charcot, podendo-se considerar imobilização prolongada, fixação mais robusta (com técnicas como parafusos transarticulares/hastes fixas ou placas com maior número de pontos de fixação) e retardo maior na progressão de carga",
+        "A cirurgia é sempre contraindicada em pacientes diabéticos com neuropatia",
+        "O risco de pseudoartrose é menor em diabéticos neuropáticos comparado a não diabéticos"
+      ],
+      "correta": 1,
+      "comentario": "Pacientes diabéticos, especialmente com neuropatia periférica associada, apresentam risco significativamente maior de complicações após fraturas de tornozelo, incluindo infecção, retardo de consolidação, perda de fixação e desenvolvimento de artropatia de Charcot secundária ao trauma. Por esse motivo, muitos cirurgiões adotam estratégias de fixação mais robustas do que o habitual (maior número de pontos de fixação, parafusos transarticulares ou placas de maior comprimento, por vezes com técnica de “fixação estendida” além da fratura), além de período mais prolongado de imobilização e retardo na progressão de carga em comparação com pacientes não diabéticos. A cirurgia não é contraindicada de forma absoluta, mas exige planejamento individualizado e vigilância pós-operatória mais rigorosa.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMI-084",
+      "tema": "Classificação de Hawkins",
+      "enunciado": "A classificação de Hawkins para fraturas do colo do tálus baseia-se em:",
+      "alternativas": [
+        "No grau de desvio e no envolvimento das articulações subtalar, tibiotalar e talonavicular",
+        "No mecanismo de trauma exclusivamente (axial versus rotacional)",
+        "Na presença de fratura associada do calcâneo",
+        "No tempo decorrido entre o trauma e o atendimento médico"
+      ],
+      "correta": 0,
+      "comentario": "A classificação de Hawkins para fraturas do colo do tálus baseia-se no grau de desvio da fratura e no envolvimento articular associado: tipo I (fratura sem desvio do colo, sem subluxação/luxação articular), tipo II (fratura com subluxação ou luxação da articulação subtalar), tipo III (fratura com luxação das articulações subtalar e tibiotalar) e tipo IV, posteriormente adicionado por Canale e Kelly (fratura com luxação adicional da articulação talonavicular). Essa classificação tem importante valor prognóstico quanto ao risco de necrose avascular do corpo do tálus, que aumenta progressivamente do tipo I ao tipo IV.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-085",
+      "tema": "Sinal de Hawkins",
+      "enunciado": "O “sinal de Hawkins”, observado em radiografia do tornozelo realizada entre 6 e 8 semanas após fratura do colo do tálus, refere-se a:",
+      "alternativas": [
+        "Uma linha de esclerose subcondral no corpo do tálus, indicando necrose avascular estabelecida",
+        "Uma linha de lucência subcondral no corpo do tálus, indicando reabsorção óssea por desuso em osso vascularizado, sendo sinal de bom prognóstico (ausência de necrose avascular)",
+        "Uma fratura associada do maléolo medial",
+        "Um sinal exclusivamente clínico, sem correlato radiográfico"
+      ],
+      "correta": 1,
+      "comentario": "O sinal de Hawkins corresponde a uma linha de lucência (rarefação) subcondral observada no corpo do tálus na radiografia realizada entre 6 e 8 semanas após a fratura, refletindo reabsorção óssea por desuso que ocorre apenas em osso que mantém suprimento sanguíneo adequado (osso vascularizado responde à descarga de peso com remodelação, enquanto osso necrótico avascular não apresenta essa resposta). Portanto, a presença do sinal de Hawkins é um indicador de bom prognóstico, sugerindo baixa probabilidade de necrose avascular do corpo do tálus; sua ausência, entretanto, não confirma necrose avascular de forma definitiva, exigindo acompanhamento radiográfico adicional ou ressonância magnética para confirmação.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-086",
+      "tema": "Necrose avascular do tálus e classificação de Hawkins",
+      "enunciado": "Em relação ao risco de necrose avascular do corpo do tálus conforme o tipo de fratura do colo na classificação de Hawkins, é correto afirmar que:",
+      "alternativas": [
+        "O risco é semelhante entre todos os tipos (I a IV), independentemente do grau de desvio",
+        "O risco aumenta progressivamente do tipo I (baixo risco) até o tipo IV (risco próximo de 100%), acompanhando o grau de desvio e comprometimento vascular",
+        "O tipo I apresenta o maior risco de necrose avascular, por ser o mais comum",
+        "A necrose avascular do tálus não tem relação com o grau de desvio da fratura"
+      ],
+      "correta": 1,
+      "comentario": "Existe uma relação direta bem estabelecida entre o tipo de fratura na classificação de Hawkins e o risco de necrose avascular do corpo do tálus: o tipo I (fratura sem desvio) apresenta risco baixo, estimado entre 0 e 15%; o tipo II (com subluxação/luxação subtalar) apresenta risco intermediário, em torno de 20 a 50%; o tipo III (luxação subtalar e tibiotalar) apresenta risco elevado, entre 80 e 100%; e o tipo IV (adicionando luxação talonavicular) apresenta risco próximo de 100%. Essa progressão reflete o comprometimento progressivo dos vasos retinaculares que suprem o corpo do tálus (principalmente ramos da artéria do canal do tarso) à medida que aumenta o grau de desvio e de luxação articular associada.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-087",
+      "tema": "Fratura desviada do colo do tálus como emergência",
+      "enunciado": "Fraturas desviadas do colo do tálus (Hawkins II, III ou IV) são frequentemente consideradas uma emergência ortopédica relativa, justificando redução urgente, principalmente pelo risco de:",
+      "alternativas": [
+        "Infecção sistêmica disseminada",
+        "Necrose de pele por tensão local e agravamento da lesão vascular do corpo do tálus pela compressão prolongada dos tecidos moles e vasos retinaculares",
+        "Trombose venosa profunda proximal",
+        "Fratura patológica secundária"
+      ],
+      "correta": 1,
+      "comentario": "Fraturas desviadas do colo do tálus, especialmente com luxação associada (Hawkins II, III ou IV), podem causar tensão significativa sobre a pele sobrejacente (risco de necrose cutânea e conversão em fratura exposta) e compressão prolongada dos tecidos moles e dos vasos retinaculares que suprem o corpo do tálus, agravando a lesão vascular já comprometida pelo trauma inicial. Por esses motivos, a redução (fechada ou aberta, quando a fechada não é bem-sucedida) deve ser realizada o mais rapidamente possível, sendo considerada uma emergência ortopédica relativa, análoga em urgência a uma luxação articular importante. As demais alternativas não representam o principal racional para a urgência nesse contexto.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-088",
+      "tema": "Suprimento vascular do tálus",
+      "enunciado": "A principal artéria responsável pelo suprimento sanguíneo do corpo do tálus é:",
+      "alternativas": [
+        "Artéria tibial anterior isoladamente",
+        "Artéria do canal do tarso (tarsal canal artery), ramo da artéria tibial posterior",
+        "Artéria fibular isoladamente, sem contribuição de outros vasos",
+        "Artéria femoral profunda"
+      ],
+      "correta": 1,
+      "comentario": "O corpo do tálus recebe seu principal suprimento sanguíneo através da artéria do canal do tarso (tarsal canal artery), um ramo da artéria tibial posterior que entra no tálus pelo canal do tarso e forma uma anastomose importante com ramos da artéria fibular (através da artéria sinusal do tarso) e da artéria dorsal do pé (ramo da tibial anterior), constituindo um anel vascular extraósseo que supre o tálus de forma predominantemente retrógrada (de distal para proximal). Esse padrão de suprimento vascular retrógrado explica por que fraturas do colo do tálus, especialmente as desviadas, comprometem significativamente a perfusão do corpo, que depende justamente dos vasos que atravessam a região do colo.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMI-089",
+      "tema": "Classificação de Sanders para fraturas do calcâneo",
+      "enunciado": "A classificação de Sanders para fraturas do calcâneo é baseada em:",
+      "alternativas": [
+        "Radiografias simples em incidências anteroposterior e perfil",
+        "Cortes de tomografia computadorizada no plano coronal, avaliando o número de fragmentos da faceta articular posterior (subtalar)",
+        "Ressonância magnética, avaliando lesões de partes moles associadas",
+        "Cintilografia óssea, avaliando a viabilidade do osso"
+      ],
+      "correta": 1,
+      "comentario": "A classificação de Sanders é baseada em cortes de tomografia computadorizada no plano coronal, no ponto de maior largura da faceta articular posterior (subtalar) do calcâneo, categorizando as fraturas conforme o número de fragmentos articulares: tipo I (fratura não desviada, independentemente do número de traços), tipo II (fratura em dois fragmentos da faceta posterior), tipo III (três fragmentos) e tipo IV (quatro ou mais fragmentos, extremamente cominutiva, com pior prognóstico). Essa classificação, ao utilizar tomografia, permite avaliação muito mais precisa da superfície articular do que as radiografias simples, sendo padrão para planejamento cirúrgico e discussão prognóstica das fraturas intra-articulares do calcâneo.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-090",
+      "tema": "Ângulo de Böhler",
+      "enunciado": "O ângulo de Böhler, utilizado na avaliação radiográfica das fraturas do calcâneo, é considerado reduzido (sugestivo de colapso articular) quando está abaixo de aproximadamente:",
+      "alternativas": [
+        "10°",
+        "20°",
+        "60°",
+        "90°"
+      ],
+      "correta": 1,
+      "comentario": "O ângulo de Böhler é formado por duas linhas traçadas na radiografia em perfil do calcâneo: uma da borda superior da tuberosidade posterior até o ponto mais alto da faceta articular posterior, e outra desse ponto até a borda anterior do processo anterior do calcâneo. O valor normal situa-se entre aproximadamente 20° e 40°; valores abaixo de 20° sugerem colapso da faceta articular posterior, achado característico de fraturas do calcâneo com afundamento articular, sendo um parâmetro simples e amplamente utilizado tanto no diagnóstico inicial (radiografia simples) quanto na avaliação do resultado da redução cirúrgica.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-091",
+      "tema": "Timing cirúrgico na fratura de calcâneo",
+      "enunciado": "Em relação ao momento ideal para a cirurgia de fraturas intra-articulares desviadas do calcâneo, a conduta geralmente recomendada é:",
+      "alternativas": [
+        "Operar imediatamente, nas primeiras 24 horas, independentemente do estado de partes moles",
+        "Aguardar a melhora do edema e das partes moles, geralmente entre 7 e 14 dias, orientando-se pelo reaparecimento do sinal da prega cutânea (wrinkle sign)",
+        "Aguardar no mínimo 3 meses antes de qualquer intervenção cirúrgica",
+        "O momento cirúrgico não tem qualquer relação com o risco de complicações de ferida operatória"
+      ],
+      "correta": 1,
+      "comentario": "Fraturas intra-articulares desviadas do calcâneo cursam tipicamente com edema importante e, frequentemente, flictenas, que aumentam significativamente o risco de complicações de ferida operatória (deiscência, necrose de borda cutânea, infecção) quando a cirurgia é realizada precocemente em partes moles comprometidas — problema historicamente associado à via de acesso lateral extensa clássica. Por esse motivo, recomenda-se aguardar a melhora do edema, geralmente entre 7 e 14 dias após o trauma, orientando-se clinicamente pelo reaparecimento do sinal da prega cutânea (wrinkle sign) na região lateral do calcâneo/tornozelo, antes de proceder à fixação definitiva. Aguardar por período excessivamente longo (meses) não é apropriado, pois dificulta a redução adequada da fratura consolidada.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-092",
+      "tema": "Luxação subtalar",
+      "enunciado": "Em relação à luxação subtalar (luxação simultânea das articulações talocalcânea e talonavicular, com preservação da articulação tibiotalar), é correto afirmar que:",
+      "alternativas": [
+        "É sempre uma lesão isolada, sem associação com fraturas osteocondrais ou de partes moles",
+        "Pode estar associada a fraturas osteocondrais do tálus, fraturas do processo lateral ou posterior do tálus, e eventualmente configurar lesão exposta, exigindo avaliação cuidadosa após a redução",
+        "Não necessita de redução urgente, podendo ser tratada eletivamente após semanas",
+        "Ocorre exclusivamente por mecanismo de baixa energia em pacientes idosos osteoporóticos"
+      ],
+      "correta": 1,
+      "comentario": "A luxação subtalar, embora possa ocorrer isoladamente, frequentemente se associa a fraturas osteocondrais do tálus, fraturas do processo lateral ou posterior do tálus, fraturas maleolares e, em casos de trauma de maior energia, pode configurar lesão exposta (mais comumente nas luxações mediais, com a cabeça do tálus perfurando a pele). Por isso, mesmo após redução (geralmente fechada, sob sedação ou anestesia), é fundamental reavaliação radiográfica cuidadosa (e frequentemente tomográfica) para identificar lesões associadas. A redução deve ser realizada em caráter de urgência, pela tensão excessiva sobre pele, vasos e estruturas neurais na região, sendo mais comum em pacientes jovens envolvidos em trauma de moderada a alta energia, e não em idosos osteoporóticos por mecanismo de baixa energia.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMI-093",
+      "tema": "Tratamento conservador versus cirúrgico do calcâneo",
+      "enunciado": "Em relação à controvérsia histórica sobre tratamento conservador versus cirúrgico (redução aberta e fixação interna) das fraturas intra-articulares desviadas do calcâneo, é correto afirmar que:",
+      "alternativas": [
+        "A evidência atual é unânime e conclusiva a favor do tratamento cirúrgico em absolutamente todos os casos",
+        "Estudos randomizados de grande porte (como o estudo multicêntrico canadense) não demonstraram superioridade clara e uniforme do tratamento cirúrgico sobre o conservador em todos os desfechos, mantendo a decisão terapêutica dependente de fatores individuais como padrão de fratura (Sanders), demanda funcional, tabagismo e experiência do serviço",
+        "O tratamento conservador é sempre superior ao cirúrgico nas fraturas intra-articulares do calcâneo",
+        "A classificação de Sanders não tem qualquer relação com a decisão entre tratamento conservador e cirúrgico"
+      ],
+      "correta": 1,
+      "comentario": "O tratamento das fraturas intra-articulares desviadas do calcâneo permanece controverso na literatura ortopédica: estudos randomizados multicêntricos de grande porte (como o Canadian Orthopaedic Trauma Society Trial) não demonstraram superioridade uniforme e consistente do tratamento cirúrgico sobre o conservador em todos os desfechos avaliados, embora subgrupos específicos (pacientes jovens, não tabagistas, com fraturas menos cominutivas, sexo feminino, trabalhadores não relacionados a indenização trabalhista) possam se beneficiar mais do tratamento cirúrgico. A decisão terapêutica, portanto, deve ser individualizada, considerando o padrão de fratura pela classificação de Sanders, a demanda funcional do paciente, comorbidades (especialmente tabagismo, fator de risco para complicações de ferida) e a experiência do serviço com o tratamento cirúrgico dessas fraturas complexas.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª edição",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMI-094",
+      "tema": "Mecanismo de lesão de Lisfranc e sinal do fleck",
+      "enunciado": "Em relação à lesão da articulação tarsometatarsal (Lisfranc), é correto afirmar que:",
+      "alternativas": [
+        "Ocorre exclusivamente por trauma direto de alta energia (esmagamento), nunca por mecanismo indireto",
+        "Pode ocorrer tanto por mecanismo direto (esmagamento) quanto indireto (carga axial sobre o pé em flexão plantar, como em uma queda com o pé fixo), sendo o “sinal do fleck” (pequeno fragmento ósseo avulsionado entre a base do segundo metatarsal e o cuneiforme medial) um achado radiográfico sugestivo",
+        "É sempre evidente nas radiografias simples convencionais sem carga, sem necessidade de exames adicionais",
+        "Não tem qualquer relação com lesões ligamentares, sendo exclusivamente uma lesão óssea"
+      ],
+      "correta": 1,
+      "comentario": "A lesão de Lisfranc (articulação tarsometatarsal) pode resultar tanto de mecanismo direto (esmagamento do mediopé) quanto indireto (carga axial sobre o pé em flexão plantar e leve rotação, como em quedas com o pé fixo ou trauma esportivo), sendo esse último mecanismo frequentemente subdiagnosticado por gerar lesões mais sutis. O “sinal do fleck” — um pequeno fragmento ósseo avulsionado, tipicamente localizado entre a base do segundo metatarsal e o cuneiforme medial — corresponde à avulsão do ligamento de Lisfranc (ligamento interósseo entre o cuneiforme medial e a base do segundo metatarsal) e é um achado radiográfico clássico sugestivo dessa lesão, mesmo quando o desalinhamento articular franco não é evidente. Lesões puramente ligamentares, sem fratura associada, também ocorrem e podem ser ainda mais difíceis de diagnosticar.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-095",
+      "tema": "Radiografias com carga no diagnóstico de Lisfranc",
+      "enunciado": "Paciente com suspeita clínica de lesão de Lisfranc (dor e edema no mediopé após trauma torcional), porém radiografias simples sem carga aparentemente normais. A conduta mais adequada é:",
+      "alternativas": [
+        "Descartar a lesão definitivamente, sem necessidade de exames adicionais",
+        "Solicitar radiografias com carga (em pé) do pé acometido, eventualmente comparativas com o pé contralateral, pois a diástase entre o primeiro e o segundo metatarsal pode se tornar evidente apenas sob estresse axial",
+        "Solicitar cintilografia óssea como exame de primeira linha",
+        "Indicar amputação transmetatársica imediata, dada a alta suspeita clínica"
+      ],
+      "correta": 1,
+      "comentario": "Lesões sutis da articulação de Lisfranc, especialmente as puramente ligamentares ou com mínimo desvio ósseo, podem não ser evidentes em radiografias simples realizadas sem carga, pois a instabilidade se manifesta principalmente sob estresse axial (apoio do peso corporal). Por isso, diante de suspeita clínica persistente (dor à palpação da região tarsometatarsal, edema plantar, equimose plantar característica) com radiografias sem carga inconclusivas, deve-se solicitar radiografias com carga (em pé), eventualmente comparativas com o pé contralateral, que podem revelar diástase entre a base do primeiro e do segundo metatarsal não visível nas incidências sem carga. A tomografia computadorizada também é útil para melhor caracterização óssea. A cintilografia não é exame de primeira linha nesse contexto, e a amputação não tem qualquer indicação nessa fase diagnóstica.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-096",
+      "tema": "Artrodese primária versus fixação em Lisfranc",
+      "enunciado": "Em relação ao tratamento cirúrgico das lesões de Lisfranc, estudos comparativos sugerem que:",
+      "alternativas": [
+        "A redução aberta com fixação interna (com placas e/ou parafusos) é sempre superior à artrodese primária, em qualquer padrão de lesão",
+        "Em lesões predominantemente ligamentares (sem grande componente de fratura articular), a artrodese primária das articulações tarsometatarsais mediais pode apresentar resultados funcionais comparáveis ou superiores à fixação interna isolada, com menor necessidade de reoperação para remoção de material ou artrodese tardia por artrose pós-traumática",
+        "A artrodese primária é formalmente contraindicada em qualquer situação de lesão de Lisfranc",
+        "O tratamento conservador com bota gessada é a conduta padrão para lesões de Lisfranc com diástase confirmada"
+      ],
+      "correta": 1,
+      "comentario": "Estudos comparativos, incluindo ensaios randomizados, sugerem que em lesões de Lisfranc predominantemente ligamentares (sem grande componente de fratura articular associada), a artrodese primária das articulações tarsometatarsais mediais (primeira, segunda e terceira) pode apresentar resultados funcionais comparáveis ou até superiores à redução aberta com fixação interna isolada, com a vantagem de menor necessidade de reoperação (seja para remoção de material sintomático, seja para artrodese tardia decorrente de artrose pós-traumática, complicação relativamente comum nessa lesão). Em lesões com componente de fratura articular significativo, a fixação interna com preservação articular ainda é frequentemente preferida. O tratamento conservador não é apropriado diante de diástase confirmada, dada a instabilidade e o risco de degeneração articular progressiva.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMI-097",
+      "tema": "Consequências da lesão de Lisfranc não diagnosticada",
+      "enunciado": "O não reconhecimento e tratamento adequado e precoce de uma lesão de Lisfranc pode resultar em qual complicação tardia mais característica?",
+      "alternativas": [
+        "Necrose avascular do tálus",
+        "Colapso progressivo do arco longitudinal medial do pé, deformidade em pé plano valgo adquirido e artrose pós-traumática das articulações tarsometatarsais, com dor crônica e limitação funcional",
+        "Síndrome do túnel do tarso aguda, sem qualquer relação com deformidade estrutural",
+        "Fratura de estresse do calcâneo contralateral"
+      ],
+      "correta": 1,
+      "comentario": "A lesão de Lisfranc não diagnosticada ou inadequadamente tratada evolui frequentemente com instabilidade crônica da região tarsometatarsal, levando ao colapso progressivo do arco longitudinal medial do pé, desenvolvimento de deformidade em pé plano valgo adquirido, e artrose pós-traumática das articulações tarsometatarsais acometidas, resultando em dor crônica, limitação funcional significativa e, por vezes, necessidade de artrodese tardia como tratamento de resgate. Esse é um dos principais motivos pelos quais o diagnóstico precoce (incluindo a busca ativa por lesões sutis com radiografias com carga, quando necessário) é fundamental nesse tipo de lesão, frequentemente subestimada no atendimento inicial ao trauma.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-098",
+      "tema": "Classificação de Vancouver — visão geral",
+      "enunciado": "A classificação de Vancouver para fraturas periprotéticas do fêmur após artroplastia total de quadril baseia-se em três parâmetros principais. Quais são eles?",
+      "alternativas": [
+        "Localização da fratura em relação à ponta da haste femoral, fixação (estabilidade) do componente femoral, e qualidade do estoque ósseo remanescente",
+        "Idade do paciente, tempo desde a artroplastia primária e tipo de via de acesso cirúrgico utilizada na artroplastia original",
+        "Presença ou ausência de infecção periprotética, exclusivamente",
+        "Tipo de material do componente femoral (metal versus cerâmica)"
+      ],
+      "correta": 0,
+      "comentario": "A classificação de Vancouver estratifica as fraturas periprotéticas do fêmur após artroplastia total de quadril considerando três parâmetros fundamentais: a localização da fratura em relação à ponta da haste femoral (tipo A - na região trocantérica; tipo B - ao redor ou logo abaixo da ponta da haste; tipo C - bem distal à ponta da haste, sem interferir na fixação do componente), a estabilidade (fixação) do componente femoral (subdividindo o tipo B em B1 - haste estável, B2 - haste solta com bom estoque ósseo, e B3 - haste solta com estoque ósseo insuficiente), e a qualidade do estoque ósseo remanescente. Essa classificação orienta diretamente a escolha entre osteossíntese isolada e revisão da artroplastia.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMI-099",
+      "tema": "Vancouver tipo B2",
+      "enunciado": "Paciente com fratura periprotética do fêmur classificada como Vancouver B2 (fratura ao redor da ponta da haste, com componente femoral instável/solto, porém com estoque ósseo adequado). A conduta cirúrgica mais apropriada é:",
+      "alternativas": [
+        "Osteossíntese isolada com placa, mantendo a haste femoral original em posição",
+        "Revisão da artroplastia com troca do componente femoral por haste de revisão que ultrapasse o foco de fratura, associada à fixação da fratura quando necessário",
+        "Tratamento exclusivamente conservador, com restrição de carga prolongada",
+        "Artrodese do quadril como primeira opção"
+      ],
+      "correta": 1,
+      "comentario": "Nas fraturas Vancouver B2, o componente femoral está solto (instável), portanto a osteossíntese isolada mantendo a haste original não trataria a causa subjacente de falha (afrouxamento do implante) e estaria fadada a insucesso mecânico. A conduta apropriada é a revisão da artroplastia, substituindo o componente femoral por uma haste de revisão que ultrapasse o foco de fratura, obtendo fixação distal estável em osso não comprometido, frequentemente associada a cerclagens ou outros métodos auxiliares de fixação do foco de fratura. O estoque ósseo adequado (que distingue B2 de B3) permite essa reconstrução com hastes de revisão de fixação diafisária distal, sem necessidade de reconstrução extensa com enxerto estrutural ou próteses tumorais, reservadas aos casos B3.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMI-100",
+      "tema": "Vancouver tipo B1",
+      "enunciado": "Paciente com fratura periprotética Vancouver B1 (fratura ao redor da ponta da haste, componente femoral estável/bem fixado). O tratamento cirúrgico de escolha é:",
+      "alternativas": [
+        "Revisão obrigatória da artroplastia, com troca do componente femoral, independentemente da estabilidade",
+        "Redução aberta e fixação interna da fratura (com placa e parafusos, associados a cerclagens quando necessário), preservando a haste femoral original, que se encontra bem fixada",
+        "Tratamento exclusivamente conservador com tração esquelética prolongada",
+        "Amputação, pela complexidade do quadro periprotético"
+      ],
+      "correta": 1,
+      "comentario": "Nas fraturas Vancouver B1, o componente femoral encontra-se bem fixado (estável), de modo que não há indicação de revisão da artroplastia — o problema é essencialmente uma fratura ao redor de um implante estável, tratada como tal. A conduta padrão é a redução aberta e fixação interna da fratura, tipicamente com placa (frequentemente placa bloqueada, contornando a haste femoral com parafusos unicorticais na região onde a haste ocupa o canal medular e bicorticais distalmente) associada a cerclagens ou parafusos de bloqueio quando necessário, preservando a haste femoral original bem fixada. A revisão da artroplastia, o tratamento conservador prolongado e a amputação não são apropriados nesse contexto de componente estável.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª edição",
+      "dificuldade": "media"
+    }
+  ]
+}
