@@ -540,7 +540,7 @@
       "correta": 3,
       "comentario": "A ascensão da cabeça umeral com contato acromioumeral é característica da artropatia do manguito rotador (por perda do manguito superior), e não da artrose glenoumeral primária, na qual o manguito costuma estar preservado e a cabeça umeral permanece centrada verticalmente. Na artrose primária são típicos a redução do espaço articular, osteófitos marginais inferiores (goat's beard) e frequentemente erosão glenoidal posterior com subluxação posterior da cabeça umeral, achado importante no planejamento da artroplastia (manejo da retroversão glenoidal).",
       "referencia": "Campbell's Operative Orthopaedics",
-      "dificuldade": "dificil"
+      "dificuldade": "media"
     },
     {
       "id": "OCM-037",
@@ -825,7 +825,7 @@
       "correta": 0,
       "comentario": "Devido às limitações mecânicas dos componentes protéticos do cotovelo e ao risco de afrouxamento asséptico e fratura periprotética sob cargas elevadas, recomenda-se restrição permanente de levantamento de peso: geralmente não mais que 1 kg de forma repetitiva e até cerca de 5 kg de forma esporádica/isolada, o que reforça por que essa cirurgia é preferencialmente indicada para pacientes de baixa demanda funcional.",
       "referencia": "Campbell's Operative Orthopaedics",
-      "dificuldade": "dificil"
+      "dificuldade": "media"
     },
     {
       "id": "OCM-056",
@@ -1065,7 +1065,7 @@
       "correta": 0,
       "comentario": "Estudos biomecânicos demonstram que suturas de núcleo com maior número de fios cruzando o sítio de reparo (4, 6 ou mais fios) aumentam a resistência tênsil inicial em comparação a técnicas de 2 fios (como Kessler modificado), permitindo protocolos de mobilização ativa precoce mais seguros, com potencial redução de aderências e de ruptura do reparo. A sutura epitendínea circunferencial complementar aumenta ainda mais a resistência e melhora o deslizamento do tendão, sendo parte importante da técnica atual, não dispensável.",
       "referencia": "Campbell's Operative Orthopaedics",
-      "dificuldade": "dificil"
+      "dificuldade": "media"
     },
     {
       "id": "OCM-072",
@@ -1260,7 +1260,7 @@
       "correta": 0,
       "comentario": "A contratura da articulação metacarpofalângica (MCF) geralmente responde bem à correção cirúrgica, com boa recuperação da extensão. Já a contratura crônica e significativa da articulação interfalângica proximal (IFP) tem prognóstico cirúrgico mais reservado, com maior dificuldade de correção completa, maior risco de lesão de estruturas neurovasculares durante a dissecção (pela distorção anatômica causada pelos cordões, especialmente o cordão espiral) e maior taxa de recidiva da contratura residual, mesmo após cirurgia tecnicamente bem executada.",
       "referencia": "Campbell's Operative Orthopaedics",
-      "dificuldade": "dificil"
+      "dificuldade": "media"
     },
     {
       "id": "OCM-085",
@@ -1380,7 +1380,7 @@
       "correta": 0,
       "comentario": "No padrão SLAC (Scapholunate Advanced Collapse), a progressão da artrose segue tipicamente uma sequência: inicialmente a articulação entre o estiloide radial e o escafoide (radioescafoide/estiloide), seguida pela articulação escafocapitato e, por fim, a articulação capitolunar, enquanto a articulação radiolunar classicamente é poupada até estágios bem avançados, pois a cartilagem do semilunar mantém relação relativamente preservada com o rádio mesmo com a instabilidade carpal, sendo esse padrão relevante no planejamento cirúrgico de procedimentos como carpectomia proximal seletiva versus artrodeses parciais.",
       "referencia": "Campbell's Operative Orthopaedics",
-      "dificuldade": "dificil"
+      "dificuldade": "media"
     },
     {
       "id": "OCM-093",

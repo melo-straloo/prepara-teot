@@ -1,0 +1,1506 @@
+{
+  "area": "Ortopedia Pediátrica",
+  "slug": "ortopedia-pediatrica",
+  "questoes": [
+    {
+      "id": "PED-001",
+      "tema": "Displasia do desenvolvimento do quadril",
+      "enunciado": "Recém-nascida a termo, primeira filha, parto pélvico, é examinada na alta hospitalar. Ao exame, o examinador flexiona e abduz os quadris enquanto aplica leve pressão anterior sobre o trocanter maior, percebendo um ressalto de redução da cabeça femoral no acetábulo. Esse achado corresponde a qual manobra e ao que ela indica?",
+      "alternativas": [
+        "Manobra de Ortolani positiva, indicando quadril luxado que se reduz ao exame",
+        "Manobra de Barlow positiva, indicando quadril estável que se luxa ao exame",
+        "Sinal de Galeazzi positivo, indicando discrepância de comprimento dos membros",
+        "Manobra de Klisic, indicando quadril normal"
+      ],
+      "correta": 0,
+      "comentario": "A manobra de Ortolani parte do quadril luxado e, com flexão e abdução associadas à elevação do trocanter (dedo médio empurrando anteriormente), reduz a cabeça femoral no acetábulo, produzindo um ressalto perceptível ('clunk' de entrada). A manobra de Barlow é o oposto: parte do quadril reduzido e, com adução e pressão posterior, tenta luxá-lo. O sinal de Galeazzi avalia assimetria de altura dos joelhos com quadris e joelhos fletidos, sugerindo luxação unilateral ou discrepância de comprimento. Recém-nascidos de parto pélvico e primogênitas são fatores de risco clássicos para displasia do desenvolvimento do quadril (DDH), reforçando a importância do exame seriado.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "PED-002",
+      "tema": "Displasia do desenvolvimento do quadril",
+      "enunciado": "Lactente de 3 meses é encaminhada para avaliação de possível displasia de quadril. Qual dos seguintes é o exame de imagem mais apropriado nessa idade para avaliação inicial do quadril?",
+      "alternativas": [
+        "Radiografia simples de bacia em AP",
+        "Ultrassonografia de quadril pelo método de Graf",
+        "Tomografia computadorizada de quadris",
+        "Ressonância magnética de quadris sem sedação"
+      ],
+      "correta": 1,
+      "comentario": "Antes da ossificação significativa da epífise femoral proximal (que ocorre entre 4 e 6 meses), a cabeça femoral é predominantemente cartilaginosa e não é bem visualizada na radiografia simples. A ultrassonografia, pelo método de Graf, permite avaliar a morfologia acetabular (ângulo alfa) e a cobertura da cabeça femoral, sendo o exame de escolha até cerca de 4-6 meses de vida. Após essa idade, com maior ossificação, a radiografia em AP de bacia torna-se mais confiável. TC e RM não são exames de triagem de rotina para DDH.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "PED-003",
+      "tema": "Displasia do desenvolvimento do quadril",
+      "enunciado": "No método de Graf de classificação ultrassonográfica do quadril infantil, um quadril tipo IIc apresenta qual característica em relação ao ângulo alfa e ao risco de descentralização?",
+      "alternativas": [
+        "Ângulo alfa maior que 60 graus, quadril maduro e estável",
+        "Ângulo alfa entre 43 e 49 graus, considerado criticamente displásico com risco de descentralização",
+        "Ângulo alfa menor que 43 graus, quadril já luxado",
+        "Ângulo beta menor que 55 graus, quadril fisiologicamente imaturo do recém-nascido"
+      ],
+      "correta": 1,
+      "comentario": "Na classificação de Graf, o tipo IIc corresponde a um quadril criticamente displásico, com ângulo alfa entre 43 e 49 graus, no limite entre um quadril ainda passível de tratamento conservador e um quadril com risco iminente de descentralização, exigindo tratamento imediato (geralmente com suspensório de Pavlik). Ângulos alfa acima de 60 graus caracterizam o tipo I (normal/maduro). Valores menores que 43 graus, associados a cobertura óssea insuficiente, aproximam-se dos tipos D, III e IV, que representam subluxação e luxação franca.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "PED-004",
+      "tema": "Displasia do desenvolvimento do quadril",
+      "enunciado": "Lactente de 2 meses com quadril esquerdo classificado como Graf IIc é tratada com suspensório de Pavlik. Qual princípio biomecânico fundamenta o uso desse dispositivo?",
+      "alternativas": [
+        "Manter o quadril em extensão e adução forçadas para estabilizar a cápsula",
+        "Manter o quadril em flexão de aproximadamente 90-100 graus e abdução dentro da 'zona segura', permitindo redução e estímulo ao desenvolvimento acetabular",
+        "Imobilizar o quadril em rotação interna máxima para reduzir a anteversão femoral",
+        "Promover abdução forçada acima de 90 graus para acelerar a ossificação acetabular"
+      ],
+      "correta": 1,
+      "comentario": "O suspensório de Pavlik posiciona os quadris em flexão de cerca de 90-100 graus e abdução moderada, dentro da chamada zona segura de Ramsey, permitindo a redução espontânea da cabeça femoral e estimulando o desenvolvimento normal do acetábulo pela pressão concêntrica da cabeça femoral centrada. A abdução forçada acima de 90 graus deve ser evitada, pois aumenta o risco de necrose avascular da cabeça femoral por compressão dos vasos retinaculares. O dispositivo é dinâmico, permitindo algum movimento ativo da criança.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-005",
+      "tema": "Displasia do desenvolvimento do quadril",
+      "enunciado": "Em qual das situações abaixo o uso do suspensório de Pavlik é considerado contraindicado ou de baixa probabilidade de sucesso?",
+      "alternativas": [
+        "Quadril Graf IIc em lactente de 6 semanas",
+        "Quadril Ortolani positivo (redutível) em recém-nascido de 3 semanas",
+        "Luxação teratológica de quadril associada a artrogripose",
+        "Quadril Graf IIa em lactente de 4 semanas com fator de risco familiar"
+      ],
+      "correta": 2,
+      "comentario": "As luxações teratológicas, que ocorrem em associação a doenças neuromusculares ou síndromes (como artrogripose múltipla congênita), envolvem contratura de partes moles e rigidez articular estabelecidas intraútero, tornando a redução por suspensório de Pavlik ineficaz e potencialmente prejudicial, pois a tentativa forçada de manter a posição pode causar necrose avascular sem conseguir a redução. Nesses casos, geralmente é necessária redução aberta. Já os quadris Ortolani positivos e Graf IIc/IIa típicos, sem doença neuromuscular associada, respondem bem ao Pavlik quando iniciado precocemente.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-006",
+      "tema": "Displasia do desenvolvimento do quadril",
+      "enunciado": "Criança de 14 meses com diagnóstico tardio de luxação do quadril direito é submetida a tentativa de redução incruenta sob anestesia geral, seguida de artrografia confirmando redução concêntrica, e imobilização em gesso pelvipodálico (spica). Qual é a principal preocupação relacionada à posição de imobilização escolhida?",
+      "alternativas": [
+        "Abdução excessiva acima de 60 graus aumenta o risco de necrose avascular da cabeça femoral",
+        "A posição em extensão completa dos quadris é obrigatória para manter a redução",
+        "A rotação externa máxima do quadril deve ser sempre evitada, independentemente da estabilidade",
+        "O gesso deve ser mantido apenas com o quadril operado imobilizado, deixando o contralateral livre"
+      ],
+      "correta": 0,
+      "comentario": "Após redução incruenta, o quadril deve ser imobilizado na chamada 'posição humana' (flexão de cerca de 100 graus e abdução moderada, tipicamente 40-55 graus), evitando abdução excessiva (>60 graus), que compromete o suprimento sanguíneo da cabeça femoral pelos vasos circunflexos e retinaculares, aumentando o risco de necrose avascular. A avaliação artrográfica intraoperatória confirma a redução concêntrica e ajuda a definir a posição de maior estabilidade com menor abdução necessária (zona de segurança de Ramsey).",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-007",
+      "tema": "Displasia do desenvolvimento do quadril",
+      "enunciado": "Qual das alternativas abaixo NÃO é considerada fator de risco clássico para displasia do desenvolvimento do quadril?",
+      "alternativas": [
+        "Sexo feminino",
+        "Apresentação pélvica",
+        "História familiar positiva",
+        "Prematuridade extrema"
+      ],
+      "correta": 3,
+      "comentario": "Os fatores de risco clássicos para DDH incluem sexo feminino (relação de aproximadamente 4-6:1 em relação aos meninos, por maior sensibilidade ao relaxina materna), apresentação pélvica, história familiar positiva, primogenitura, oligoidrâmnio e swaddling (enfaixamento) com quadris em extensão. Curiosamente, a prematuridade não é fator de risco relevante isolado para DDH; ao contrário, bebês prematuros tendem a ter menor incidência, possivelmente por menor exposição ao ambiente intrauterino apertado do terceiro trimestre a termo.",
+      "referencia": "Lovell & Winter's Pediatric Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "PED-008",
+      "tema": "Displasia do desenvolvimento do quadril",
+      "enunciado": "Criança de 20 meses com luxação de quadril não tratada é submetida a redução aberta pela via anteromedial ou anterolateral. Durante o procedimento, qual estrutura é classicamente identificada como obstáculo à redução concêntrica e deve ser seccionada ou removida?",
+      "alternativas": [
+        "O ligamento redondo hipertrofiado e o pulvinar",
+        "O nervo ciático",
+        "O músculo piriforme",
+        "O tendão do quadríceps"
+      ],
+      "correta": 0,
+      "comentario": "Em luxações não tratadas, diversas estruturas de partes moles podem bloquear a redução concêntrica, incluindo o ligamento redondo hipertrófico, o pulvinar (tecido fibrogorduroso que preenche o acetábulo), a cápsula articular constrita ('em ampulheta') e o lábio invertido (limbus). Durante a redução aberta, essas estruturas são identificadas e removidas ou liberadas para permitir o assentamento concêntrico da cabeça femoral no acetábulo verdadeiro. O músculo iliopsoas tenso também pode ser alongado, mas não é a estrutura intra-articular obstrutiva.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "PED-009",
+      "tema": "Displasia do desenvolvimento do quadril",
+      "enunciado": "No exame físico de rotina do recém-nascido, qual achado isoladamente é considerado o mais específico para suspeita de luxação de quadril, mesmo quando as manobras de Ortolani e Barlow já não são mais tão sensíveis (após 2-3 meses de idade)?",
+      "alternativas": [
+        "Assimetria de pregas cutâneas da coxa",
+        "Limitação da abdução do quadril afetado",
+        "Choro ao manuseio do quadril",
+        "Assimetria de comprimento dos braços"
+      ],
+      "correta": 1,
+      "comentario": "Após os primeiros meses de vida, a contratura muscular progressiva torna as manobras de Ortolani e Barlow menos sensíveis, pois o quadril luxado se torna mais fixo. Nessa fase, a limitação da abdução do quadril afetado (geralmente menor que 60 graus, ou assimetria evidente entre os lados) é o achado clínico mais confiável e específico para sugerir luxação. A assimetria de pregas cutâneas tem baixa especificidade, pois ocorre também em quadris normais. O choro ao manuseio é inespecífico.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-010",
+      "tema": "Displasia do desenvolvimento do quadril",
+      "enunciado": "Sobre o rastreamento ultrassonográfico universal versus seletivo para DDH, qual afirmativa está correta segundo a literatura consolidada em ortopedia pediátrica?",
+      "alternativas": [
+        "O rastreamento universal com ultrassom em todos os recém-nascidos reduz de forma comprovada e custo-efetiva a taxa de cirurgia tardia em todas as populações",
+        "O rastreamento seletivo, direcionado a lactentes com fatores de risco (pélvico, história familiar, sexo feminino) ou exame físico suspeito, é a estratégia mais amplamente adotada",
+        "A radiografia simples ao nascimento é o método de rastreamento recomendado internacionalmente",
+        "Nenhum método de imagem deve ser utilizado antes de 6 meses de idade, independentemente do exame físico"
+      ],
+      "correta": 1,
+      "comentario": "A maioria das diretrizes internacionais recomenda o rastreamento seletivo por ultrassonografia, direcionado a recém-nascidos com fatores de risco (apresentação pélvica, história familiar positiva, sexo feminino associado a outro fator) ou com exame físico alterado (Ortolani/Barlow positivos, limitação de abdução), em vez de ultrassom universal em toda a população, cuja relação custo-efetividade e impacto em desfechos clínicos permanecem controversos, com risco de sobretratamento de displasias que resolveriam espontaneamente. A radiografia simples não é útil ao nascimento devido à cartilagem não ossificada.",
+      "referencia": "Lovell & Winter's Pediatric Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "PED-011",
+      "tema": "Doença de Legg-Calvé-Perthes",
+      "enunciado": "Menino de 6 anos apresenta claudicação insidiosa e dor leve em região inguinal e joelho ipsilateral há 2 meses, sem febre. Radiografia de bacia mostra achatamento e aumento de densidade da epífise femoral proximal direita, com fragmentação. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        "Sinovite transitória do quadril",
+        "Doença de Legg-Calvé-Perthes",
+        "Epifisiólise femoral proximal",
+        "Artrite séptica do quadril"
+      ],
+      "correta": 1,
+      "comentario": "A doença de Legg-Calvé-Perthes é uma osteonecrose idiopática da epífise femoral proximal que acomete predominantemente meninos entre 4 e 8 anos, com claudicação insidiosa, dor referida para região inguinal, coxa ou joelho, e ausência de sinais sistêmicos de infecção. Radiograficamente, observa-se sequência de esclerose, fragmentação, reossificação e remodelação da cabeça femoral. A sinovite transitória tem curso agudo e autolimitado sem alterações radiográficas da epífise; a epifisiólise ocorre em adolescentes obesos; a artrite séptica cursa com febre e toxemia.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "PED-012",
+      "tema": "Doença de Legg-Calvé-Perthes",
+      "enunciado": "Na classificação de Herring (pilar lateral) para a doença de Legg-Calvé-Perthes, o grupo B é definido por qual critério radiográfico na fase de fragmentação?",
+      "alternativas": [
+        "Colapso completo do pilar lateral, com perda total de altura",
+        "Manutenção de mais de 50% da altura do pilar lateral da epífise",
+        "Pilar lateral com altura entre 0 e 50%, com colapso moderado",
+        "Ausência de qualquer alteração no pilar lateral"
+      ],
+      "correta": 1,
+      "comentario": "A classificação de Herring avalia a altura do pilar lateral (terço lateral) da epífise femoral na radiografia em AP durante a fase de fragmentação. No grupo A, não há perda de altura do pilar lateral. No grupo B, mantém-se mais de 50% da altura do pilar lateral. No grupo B/C border (limítrofe), a altura é de exatamente 50% com características mistas. No grupo C, há perda de mais de 50% da altura do pilar lateral. Essa classificação é um dos principais fatores prognósticos e norteia decisões terapêuticas, especialmente em crianças acima de 8 anos.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-013",
+      "tema": "Doença de Legg-Calvé-Perthes",
+      "enunciado": "Qual fator é reconhecidamente o de maior peso prognóstico desfavorável na doença de Legg-Calvé-Perthes?",
+      "alternativas": [
+        "Sexo masculino",
+        "Idade de início acima de 8 anos",
+        "Envolvimento do quadril esquerdo",
+        "Ausência de história familiar"
+      ],
+      "correta": 1,
+      "comentario": "A idade de início é um dos fatores prognósticos mais consistentes na doença de Perthes: crianças diagnosticadas antes dos 6 anos tendem a ter melhor remodelação e prognóstico mais favorável, dado o maior potencial de crescimento e remodelação da cabeça femoral; já o início após os 8 anos está associado a pior prognóstico funcional e maior risco de incongruência articular residual, artrose precoce e necessidade de intervenção cirúrgica. O sexo masculino é mais comumente acometido, mas por si só não define pior prognóstico quando comparado ao raro caso feminino, que classicamente tem pior desfecho relativo pela maturidade esquelética mais avançada na mesma idade cronológica.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-014",
+      "tema": "Doença de Legg-Calvé-Perthes",
+      "enunciado": "O princípio terapêutico de 'contenção' (containment) na doença de Legg-Calvé-Perthes tem como objetivo principal:",
+      "alternativas": [
+        "Imobilizar completamente o quadril em extensão para evitar qualquer carga",
+        "Manter a cabeça femoral amolecida contida dentro do acetábulo, usando este como molde para uma remodelação esférica congruente",
+        "Acelerar a reossificação por meio de estimulação elétrica óssea",
+        "Promover a luxação controlada do quadril para aliviar a pressão intra-articular"
+      ],
+      "correta": 1,
+      "comentario": "Durante a fase ativa da doença, a cabeça femoral encontra-se amolecida e vulnerável à deformação. O princípio da contenção busca manter essa cabeça femoral bem coberta e centrada dentro do acetábulo (que atua como um molde), seja por meios posicionais (órteses de abdução), seja cirúrgicos (osteotomia femoral varizante ou osteotomia pélvica, como a de Salter), favorecendo uma remodelação mais esférica e congruente da cabeça durante as fases de fragmentação e reossificação, reduzindo o risco de deformidade residual (coxa magna, cabeça em forma de cogumelo).",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-015",
+      "tema": "Doença de Legg-Calvé-Perthes",
+      "enunciado": "Menina de 5 anos com Perthes bilateral é avaliada quanto a diagnósticos diferenciais que podem simular a doença radiologicamente. Qual das condições abaixo deve ser especialmente investigada em casos de acometimento bilateral e simultâneo?",
+      "alternativas": [
+        "Displasia epifisária múltipla (displasia espondiloepifisária)",
+        "Sinovite transitória do quadril",
+        "Osteocondrite dissecante do joelho",
+        "Fratura de estresse do colo femoral"
+      ],
+      "correta": 0,
+      "comentario": "Embora a doença de Perthes possa ocasionalmente ser bilateral (cerca de 10-12% dos casos, geralmente assíncrona), o acometimento bilateral simultâneo e simétrico deve levantar suspeita de uma displasia esquelética subjacente, como a displasia epifisária múltipla ou a displasia espondiloepifisária, hipotireoidismo, ou hemoglobinopatias (anemia falciforme), que podem produzir alterações epifisárias semelhantes ('pseudo-Perthes'). Nesses casos, investigação adicional com radiografias de coluna, outras articulações e exames laboratoriais é recomendada antes de firmar o diagnóstico de Perthes idiopático bilateral verdadeiro.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "PED-016",
+      "tema": "Doença de Legg-Calvé-Perthes",
+      "enunciado": "As fases evolutivas radiográficas clássicas da doença de Legg-Calvé-Perthes, na ordem cronológica correta, são:",
+      "alternativas": [
+        "Fragmentação, necrose, reossificação, remodelação",
+        "Necrose (esclerose), fragmentação, reossificação, remodelação",
+        "Reossificação, necrose, fragmentação, remodelação",
+        "Remodelação, fragmentação, necrose, reossificação"
+      ],
+      "correta": 1,
+      "comentario": "A doença de Perthes evolui classicamente em quatro fases descritas por Waldenström: a fase de necrose (ou esclerose/densificação), em que a epífise se torna radiopaca e diminuída de tamanho pela interrupção do suprimento sanguíneo; a fase de fragmentação, com áreas radiolúcidas e reabsorção óssea, período de maior vulnerabilidade à deformação; a fase de reossificação, com formação de novo osso subcondral; e a fase de remodelação, que pode se estender até a maturidade esquelética, determinando a forma final da cabeça femoral.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "PED-017",
+      "tema": "Doença de Legg-Calvé-Perthes",
+      "enunciado": "Criança de 7 anos, Herring grupo C, é tratada cirurgicamente com osteotomia varizante femoral. No pós-operatório tardio, desenvolve quadro de abdução limitada e dor, com radiografia mostrando que a porção lateral extrusa da cabeça femoral impacta contra a borda acetabular durante a abdução. Esse fenômeno é conhecido como:",
+      "alternativas": [
+        "Coxa vara residual",
+        "Abdução em dobradiça (hinge abduction)",
+        "Necrose avascular pós-osteotomia",
+        "Condrólise"
+      ],
+      "correta": 1,
+      "comentario": "A 'hinge abduction' (abdução em dobradiça) ocorre quando uma porção extrusa e deformada da cabeça femoral, geralmente lateral, impacta contra a borda acetabular durante a tentativa de abdução do quadril, funcionando como um fulcro que impede a centralização adequada e causa dor e limitação de movimento. É uma complicação da deformidade residual da cabeça femoral na doença de Perthes e pode exigir tratamento cirúrgico específico, como osteotomia de valgização, para reposicionar a área congruente da cabeça em contato com o acetábulo.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "PED-018",
+      "tema": "Doença de Legg-Calvé-Perthes",
+      "enunciado": "Qual das opções abaixo é considerada tratamento inicial apropriado para uma criança de 4 anos com doença de Perthes, Herring grupo A, sem sinais de 'quadril em risco'?",
+      "alternativas": [
+        "Osteotomia pélvica de Salter imediata",
+        "Observação clínica com fisioterapia de manutenção de amplitude de movimento",
+        "Artrodese do quadril",
+        "Tração cutânea prolongada por 6 meses"
+      ],
+      "correta": 1,
+      "comentario": "Crianças jovens (geralmente menores de 6 anos) com Perthes classificada como Herring A costumam ter excelente prognóstico com tratamento conservador, baseado em observação clínica seriada, manutenção da amplitude de movimento por fisioterapia e, eventualmente, restrição de atividades de impacto durante a fase ativa da doença. A cirurgia de contenção (osteotomias) é reservada para crianças mais velhas (tipicamente acima de 8 anos) ou com classificações mais graves (Herring B ou B/C border) e sinais de 'quadril em risco' (subluxação lateral, sinal de Gage, calcificação lateral à epífise).",
+      "referencia": "Lovell & Winter's Pediatric Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "PED-019",
+      "tema": "Doença de Legg-Calvé-Perthes",
+      "enunciado": "Os chamados 'sinais de cabeça em risco' (head-at-risk signs) descritos por Catterall incluem todos os seguintes, EXCETO:",
+      "alternativas": [
+        "Sinal de Gage (área radiolúcida em forma de V na porção lateral da epífise/metáfise)",
+        "Calcificação lateral à epífise",
+        "Subluxação lateral da cabeça femoral",
+        "Fusão precoce da cartilagem trirradiada"
+      ],
+      "correta": 3,
+      "comentario": "Os sinais de 'cabeça em risco' descritos por Catterall incluem o sinal de Gage, a calcificação lateral à epífise, a subluxação lateral progressiva da cabeça femoral, a horizontalização da placa de crescimento (fise) e a presença de reação metafisária difusa. Esses sinais indicam maior risco de deformação da cabeça femoral e podem influenciar a decisão de tratamento cirúrgico de contenção. A fusão precoce da cartilagem trirradiada não faz parte desses critérios; trata-se de um achado relacionado a outras condições, como algumas complicações pós-traumáticas do acetábulo.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "PED-020",
+      "tema": "Doença de Legg-Calvé-Perthes",
+      "enunciado": "Um menino de 6 anos com diagnóstico de Perthes unilateral apresenta amplitude de movimento preservada, sem sinais de cabeça em risco. Em relação ao prognóstico a longo prazo, qual afirmativa é mais correta?",
+      "alternativas": [
+        "O prognóstico é uniformemente ruim, independentemente da idade e da classificação radiográfica",
+        "Crianças com idade de início mais jovem e boa amplitude de movimento tendem a ter melhor remodelação e resultado funcional na vida adulta",
+        "A doença sempre evolui para artroplastia total de quadril antes dos 40 anos",
+        "O resultado funcional depende exclusivamente do lado acometido (direito versus esquerdo)"
+      ],
+      "correta": 1,
+      "comentario": "De forma geral, o prognóstico da doença de Legg-Calvé-Perthes é multifatorial, mas a idade de início mais jovem (esqueleto mais imaturo com maior potencial remodelador), a manutenção de boa amplitude de movimento durante o curso da doença e uma classificação radiográfica mais favorável (Herring A ou grau leve de Catterall) estão associadas a melhores resultados funcionais e menor risco de artrose precoce na vida adulta. O lado acometido não tem relação prognóstica reconhecida.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-021",
+      "tema": "Epifisiólise femoral proximal",
+      "enunciado": "Adolescente de 13 anos, obeso, sexo masculino, apresenta dor em joelho direito há 3 semanas, sem trauma referido, com claudicação progressiva. Ao exame, a rotação interna do quadril direito está limitada e associada à rotação externa obrigatória do membro durante a flexão do quadril. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        "Osteocondrite dissecante do joelho",
+        "Epifisiólise femoral proximal (SCFE)",
+        "Doença de Osgood-Schlatter",
+        "Sinovite transitória do quadril"
+      ],
+      "correta": 1,
+      "comentario": "O quadro descrito é clássico de epifisiólise femoral proximal (slipped capital femoral epiphysis, SCFE): adolescente obeso, com dor referida ao joelho (inervação comum pelo nervo obturatório) e limitação característica da rotação interna do quadril, associada ao sinal de rotação externa obrigatória durante a flexão passiva do quadril (sinal de Drehmann). É a doença do quadril mais comum na adolescência e requer avaliação radiográfica imediata (incidências AP e perfil de Lauenstein/rã) para confirmação e tratamento cirúrgico precoce.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "PED-022",
+      "tema": "Epifisiólise femoral proximal",
+      "enunciado": "Segundo a classificação de estabilidade de Loder para epifisiólise femoral proximal, um escorregamento é classificado como 'instável' quando:",
+      "alternativas": [
+        "A criança consegue deambular, com ou sem muletas, mesmo com dor",
+        "A criança não consegue deambular ou apoiar o membro afetado, mesmo com auxílio de muletas, devido à dor intensa",
+        "O ângulo de escorregamento é maior que 50 graus na radiografia em perfil",
+        "Há histórico de sintomas por mais de 3 semanas"
+      ],
+      "correta": 1,
+      "comentario": "A classificação de Loder é clinicamente baseada na capacidade de deambulação: escorregamentos 'estáveis' são aqueles em que o paciente consegue caminhar, com ou sem apoio de muletas, independentemente da duração dos sintomas; escorregamentos 'instáveis' são aqueles em que a dor é tão intensa que a criança não consegue deambular ou sustentar peso no membro afetado, mesmo com muletas. Essa distinção tem grande importância prognóstica, pois os escorregamentos instáveis apresentam risco muito maior de necrose avascular da cabeça femoral (podendo chegar a 20-50%) comparado aos estáveis (risco próximo de zero).",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-023",
+      "tema": "Epifisiólise femoral proximal",
+      "enunciado": "Na avaliação radiográfica de um adolescente com suspeita de epifisiólise femoral proximal leve, a linha de Klein é traçada:",
+      "alternativas": [
+        "Ao longo da borda superior do colo femoral na incidência AP, devendo normalmente interceptar uma porção da epífise femoral lateralmente",
+        "Perpendicular ao eixo longitudinal do fêmur na incidência em perfil",
+        "Ao longo da borda inferior do acetábulo, para avaliar displasia acetabular",
+        "Entre as duas cristas ilíacas, para avaliar discrepância de comprimento dos membros"
+      ],
+      "correta": 0,
+      "comentario": "A linha de Klein é traçada ao longo da borda superior (ou lateral) do colo femoral na radiografia em AP de bacia; normalmente, essa linha deve interceptar uma pequena porção lateral da epífise femoral capital. Quando o escorregamento ocorre (a epífise desliza posterior e inferiormente em relação ao colo), a linha de Klein passa a interceptar menos epífise ou nenhuma porção dela do lado acometido comparado ao lado contralateral normal — esse é o chamado sinal de Trethowan, útil para identificar escorregamentos sutis, especialmente na fase pré-deslizamento ou em graus leves.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-024",
+      "tema": "Epifisiólise femoral proximal",
+      "enunciado": "Qual é o tratamento padrão-ouro para a epifisiólise femoral proximal estável, de grau leve a moderado?",
+      "alternativas": [
+        "Redução aberta com osteotomia intertrocantérica imediata",
+        "Fixação in situ com parafuso canulado único centrado na epífise",
+        "Tratamento conservador com repouso e restrição de carga por 6 semanas",
+        "Artrodese precoce do quadril"
+      ],
+      "correta": 1,
+      "comentario": "O tratamento padrão para epifisiólise femoral proximal estável é a fixação in situ percutânea com um único parafuso canulado, posicionado centralmente na epífise femoral, perpendicular à fise, sem tentativa de redução forçada do escorregamento (que aumenta o risco de necrose avascular). O objetivo é estabilizar a fise e prevenir progressão do escorregamento, preservando o remodelamento natural que costuma ocorrer com o crescimento. O tratamento conservador sem fixação não é indicado, pelo alto risco de progressão do escorregamento.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "PED-025",
+      "tema": "Epifisiólise femoral proximal",
+      "enunciado": "Em relação à epifisiólise femoral proximal instável, qual das afirmativas está correta quanto ao risco de complicações?",
+      "alternativas": [
+        "O risco de necrose avascular da cabeça femoral é semelhante entre casos estáveis e instáveis",
+        "Casos instáveis apresentam risco significativamente maior de necrose avascular, podendo ultrapassar 20-50%, comparado a um risco próximo de zero nos casos estáveis",
+        "A condrólise é mais comum em casos estáveis do que instáveis",
+        "Não há diferença de prognóstico entre os subtipos, apenas na necessidade de internação hospitalar"
+      ],
+      "correta": 1,
+      "comentario": "Os escorregamentos instáveis (aqueles em que o paciente não consegue deambular ou sustentar peso) carregam um risco substancialmente maior de necrose avascular da cabeça femoral, que pode variar de 20 a 50% na literatura, provavelmente relacionado à lesão dos vasos retinaculares que suprem a epífise no momento do deslizamento agudo. Já nos casos estáveis, esse risco é próximo de zero quando tratados adequadamente com fixação in situ sem manipulação forçada. Essa diferença de prognóstico reforça a importância da classificação de estabilidade na tomada de decisão terapêutica e no aconselhamento familiar.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-026",
+      "tema": "Epifisiólise femoral proximal",
+      "enunciado": "Sobre a fixação profilática do quadril contralateral assintomático em pacientes com epifisiólise femoral proximal unilateral, é correto afirmar que:",
+      "alternativas": [
+        "É universalmente contraindicada em qualquer situação",
+        "É rotineiramente recomendada para todos os pacientes, independentemente da idade e de fatores de risco",
+        "Pode ser considerada em pacientes com fatores de risco para bilateralidade, como doenças endócrinas/metabólicas de base (hipotireoidismo, insuficiência renal crônica) ou idade óssea muito jovem",
+        "Deve ser feita apenas após a confirmação radiográfica de escorregamento contralateral"
+      ],
+      "correta": 2,
+      "comentario": "A fixação profilática do quadril contralateral é tema controverso, mas geralmente considerada em situações de maior risco de escorregamento bilateral subsequente, como pacientes com doenças endócrinas ou metabólicas subjacentes (hipotireoidismo, insuficiência renal crônica com osteodistrofia renal, deficiência de hormônio de crescimento), idade óssea muito jovem no momento do diagnóstico, ou impossibilidade de seguimento clínico-radiográfico adequado. Não é uma prática universal em todos os pacientes, dado que a maioria dos casos de escorregamento contralateral, quando ocorre, pode ser detectada e tratada a tempo com seguimento clínico regular.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "PED-027",
+      "tema": "Epifisiólise femoral proximal",
+      "enunciado": "A condrólise, uma complicação da epifisiólise femoral proximal, é caracterizada por:",
+      "alternativas": [
+        "Necrose avascular localizada apenas na epífise femoral",
+        "Perda progressiva e rápida da cartilagem articular do quadril, levando à rigidez dolorosa",
+        "Infecção bacteriana da articulação do quadril",
+        "Fratura do parafuso de fixação"
+      ],
+      "correta": 1,
+      "comentario": "A condrólise é definida como a perda rápida e progressiva do espaço articular por destruição da cartilagem articular do quadril, resultando em dor, rigidez e limitação funcional importante. Sua etiologia não é totalmente esclarecida, mas está associada a fatores como penetração intra-articular do material de síntese, imobilização prolongada e possivelmente componente autoimune. É uma complicação distinta da necrose avascular, embora ambas possam coexistir e apresentar desfechos funcionais desfavoráveis semelhantes a longo prazo.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-028",
+      "tema": "Epifisiólise femoral proximal",
+      "enunciado": "Um adolescente com epifisiólise femoral proximal crônica e moderada apresenta deformidade residual em flexão, adução e rotação externa do fêmur proximal após consolidação da fise. Essa deformidade pode levar, a médio prazo, a qual complicação mecânica do quadril?",
+      "alternativas": [
+        "Impacto femoroacetabular do tipo came (cam impingement)",
+        "Necrose avascular tardia isolada, sem relação mecânica",
+        "Luxação congênita recidivante do quadril",
+        "Osteocondrite dissecante do acetábulo"
+      ],
+      "correta": 0,
+      "comentario": "A deformidade residual da epifisiólise femoral proximal, com a metáfise femoral proeminente anterossuperiormente em relação à cabeça deslocada posteriormente, cria uma morfologia semelhante a um 'came' (excêntrica, não esférica) na transição cabeça-colo. Essa deformidade provoca impacto femoroacetabular do tipo came durante a flexão e rotação interna do quadril, podendo levar a lesões labiais, condrais e artrose precoce se não corrigida. Osteotomias corretivas (como a de Imhäuser) podem ser indicadas em deformidades residuais significativas para restaurar a relação anatômica cabeça-colo.",
+      "referencia": "Lovell & Winter's Pediatric Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "PED-029",
+      "tema": "Epifisiólise femoral proximal",
+      "enunciado": "Qual grupo populacional apresenta maior incidência de epifisiólise femoral proximal?",
+      "alternativas": [
+        "Meninas pré-púberes magras",
+        "Meninos obesos em fase de estirão de crescimento puberal",
+        "Lactentes de ambos os sexos",
+        "Idosos com osteoporose"
+      ],
+      "correta": 1,
+      "comentario": "A epifisiólise femoral proximal acomete predominantemente adolescentes do sexo masculino, obesos, durante o estirão de crescimento puberal (tipicamente entre 11 e 14 anos nos meninos e um pouco mais cedo nas meninas). O excesso de peso corporal aumenta as forças de cisalhamento sobre a fise proximal do fêmur, que nessa fase encontra-se relativamente mais oblíqua e vulnerável. Alterações hormonais (hipotireoidismo, deficiência de hormônio de crescimento, hipogonadismo) também estão associadas, especialmente em casos atípicos (pacientes mais jovens ou de peso normal).",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "PED-030",
+      "tema": "Epifisiólise femoral proximal",
+      "enunciado": "Um adolescente apresenta epifisiólise femoral proximal instável há 12 horas, com incapacidade de deambular. A conduta cirúrgica mais apropriada, considerando o risco de necrose avascular, é:",
+      "alternativas": [
+        "Redução aberta forçada com manipulação vigorosa para correção anatômica completa antes da fixação",
+        "Fixação in situ percutânea com parafuso único, sem tentativa de redução forçada, podendo-se aceitar redução suave e posicional (por exemplo, em mesa de tração) em casos selecionados",
+        "Tração cutânea prolongada por 4 a 6 semanas antes de qualquer procedimento cirúrgico",
+        "Aguardar a maturidade esquelética completa antes de qualquer intervenção"
+      ],
+      "correta": 1,
+      "comentario": "Nos casos instáveis, a conduta cirúrgica de urgência é a fixação in situ com parafuso único, evitando manipulações forçadas ou redução aberta agressiva, que aumentam significativamente o risco de necrose avascular ao lesar os vasos retinaculares já comprometidos pelo próprio evento agudo do escorregamento. Alguma redução suave e posicional (por exemplo, com o paciente em mesa de tração, sem manipulação forçada) é aceitável em determinados protocolos, mas o princípio central é evitar forçar a redução anatômica completa, priorizando a estabilização precoce da fise.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "PED-031",
+      "tema": "Pé torto congênito e método de Ponseti",
+      "enunciado": "O pé torto congênito idiopático (equinovaro) apresenta classicamente quatro componentes de deformidade. Assinale a alternativa que os descreve corretamente:",
+      "alternativas": [
+        "Cavo, adução do antepé, varo do retropé e equino do tornozelo",
+        "Valgo do retropé, abdução do antepé, calcâneo e cavo plantar",
+        "Pronação do antepé, valgo do calcâneo, dorsiflexão do tornozelo e abdução",
+        "Cavo dorsal, valgo do retropé, rotação externa da tíbia e calcâneo"
+      ],
+      "correta": 0,
+      "comentario": "O pé torto congênito idiopático (talipes equinovarus) é caracterizado pela associação de quatro componentes: cavo (elevação do arco longitudinal medial, por pronação relativa do antepé em relação ao retropé), adução do antepé (metatarso aduzido em relação ao retropé), varo do retropé (calcâneo invertido) e equino do tornozelo (flexão plantar fixa, por encurtamento do tendão de Aquiles). O acrônimo mnemônico CAVE (cavus, adductus, varus, equinus) é amplamente utilizado para lembrar essa combinação de deformidades.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "PED-032",
+      "tema": "Pé torto congênito e método de Ponseti",
+      "enunciado": "No método de Ponseti para tratamento do pé torto congênito, qual é a sequência correta de correção das deformidades por meio de gessos seriados?",
+      "alternativas": [
+        "Corrige-se primeiro o equino isoladamente, depois o cavo, depois o varo e por último a adução",
+        "Corrige-se primeiro o cavo (alinhando o antepé com o retropé), depois adução e varo simultaneamente por supinação/abdução em torno da cabeça do tálus, e o equino é corrigido por último, geralmente com tenotomia percutânea do Aquiles",
+        "Todos os componentes são corrigidos simultaneamente em um único gesso, sem sequência específica",
+        "Corrige-se primeiro o varo do retropé isoladamente com gesso abaixo do joelho"
+      ],
+      "correta": 1,
+      "comentario": "No método de Ponseti, a primeira etapa é corrigir o cavo, elevando o primeiro raio e alinhando o antepé com o retropé (supinando levemente o antepé). Em seguida, a adução e o varo são corrigidos simultaneamente por meio de manipulação em abdução do pé, usando a cabeça do tálus como fulcro (contrapressão), evitando pronar o antepé. O equino é o último componente a ser corrigido, e frequentemente requer tenotomia percutânea do tendão de Aquiles, pois raramente se corrige apenas com manipulação e gesso, pela rigidez do encurtamento do tríceps sural.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-033",
+      "tema": "Pé torto congênito e método de Ponseti",
+      "enunciado": "O escore de Pirani, utilizado na avaliação e acompanhamento do tratamento do pé torto congênito, avalia um total de quantos escores parciais, e cada um pode variar entre quais valores?",
+      "alternativas": [
+        "Três escores do mediopé e três do retropé, cada um variando de 0 a 1 (total de 0 a 6)",
+        "Seis escores, cada um variando de 0 a 1 (total de 0 a 6), divididos igualmente entre escore do mediopé/antepé e escore do retropé",
+        "Dez escores binários, totalizando 0 a 10",
+        "Um único escore global de 0 a 4"
+      ],
+      "correta": 1,
+      "comentario": "O escore de Pirani avalia seis sinais clínicos, divididos em três componentes do mediopé/antepé (curvatura da borda lateral do pé, presença de prega medial e cobertura da cabeça do tálus) e três componentes do retropé (rigidez do equino, presença de prega posterior e ausência de calcanhar palpável), cada um pontuado como 0 (normal), 0,5 (moderadamente anormal) ou 1 (gravemente anormal), totalizando um escore que varia de 0 a 6. É uma ferramenta útil para quantificar a gravidade inicial e monitorar a resposta ao tratamento com gessos seriados.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-034",
+      "tema": "Pé torto congênito e método de Ponseti",
+      "enunciado": "Após correção bem-sucedida do pé torto congênito pelo método de Ponseti, qual é a conduta padrão para prevenção de recidiva?",
+      "alternativas": [
+        "Suspensão de qualquer tratamento adicional, já que a correção é definitiva",
+        "Uso de órtese de abdução do pé (tipo Denis Browne/Mitchell-Ponseti) em tempo integral por cerca de 3 meses, seguido de uso noturno e em sonecas até aproximadamente os 4 anos de idade",
+        "Gesso pelvipodálico contínuo por mais 2 anos",
+        "Uso de calçado ortopédico rígido bilateral sem qualquer barra de abdução"
+      ],
+      "correta": 1,
+      "comentario": "Após a correção inicial com gessos seriados e, quando necessário, tenotomia do Aquiles, a manutenção do resultado depende criticamente do uso de órtese de abdução do pé com barra (tipo Denis Browne ou Mitchell-Ponseti), inicialmente em tempo integral (cerca de 23 horas/dia) por aproximadamente 3 meses, seguida de uso apenas durante sonecas e à noite até em torno dos 4 anos de idade. A não adesão ao uso da órtese é a principal causa de recidiva da deformidade no método de Ponseti.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "PED-035",
+      "tema": "Pé torto congênito e método de Ponseti",
+      "enunciado": "Criança de 3 anos, tratada previamente por Ponseti para pé torto congênito, apresenta recidiva com supinação dinâmica do pé durante a marcha, sem outras deformidades fixas associadas. Qual é a conduta cirúrgica mais apropriada nesse cenário?",
+      "alternativas": [
+        "Artrodese tríplice imediata",
+        "Transferência do tendão tibial anterior para o cuboide ou terceiro cuneiforme",
+        "Osteotomia calcânea de alongamento lateral isolada",
+        "Amputação transtibial"
+      ],
+      "correta": 1,
+      "comentario": "A supinação dinâmica recidivante do pé, frequentemente observada em crianças maiores (geralmente acima de 2,5-3 anos) após tratamento inicial bem-sucedido pelo método de Ponseti, decorre de um desequilíbrio muscular em que o tibial anterior permanece ativo predominantemente na fase de balanço sem antagonista adequado. O tratamento cirúrgico padrão é a transferência do tendão tibial anterior para o cuboide (ou terceiro cuneiforme), reequilibrando as forças musculares sobre o pé, sendo uma cirurgia de partes moles relativamente simples e eficaz nesse cenário específico, sem necessidade de procedimentos ósseos mais invasivos como a artrodese tríplice.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "PED-036",
+      "tema": "Pé torto congênito e método de Ponseti",
+      "enunciado": "Pés tortos associados a condições como artrogripose múltipla congênita ou mielomeningocele são classificados como:",
+      "alternativas": [
+        "Pés tortos idiopáticos típicos, tratados exatamente da mesma forma que os pés tortos isolados",
+        "Pés tortos atípicos/complexos ou sindrômicos, geralmente mais rígidos e com maior taxa de recidiva, frequentemente exigindo abordagem modificada ou cirúrgica mais precoce",
+        "Uma variante benigna sem necessidade de tratamento",
+        "Exclusivamente uma deformidade postural transitória"
+      ],
+      "correta": 1,
+      "comentario": "Pés tortos associados a doenças neuromusculares (mielomeningocele, artrogripose) ou síndromes genéticas são classificados como atípicos, complexos ou não idiopáticos, apresentando geralmente maior rigidez, resposta mais limitada ao método de Ponseti clássico e maior taxa de recidiva. Embora os princípios gerais do método de Ponseti possam ser aplicados com adaptações, esses casos frequentemente necessitam de abordagens modificadas, maior número de gessos, e têm maior probabilidade de necessitar intervenção cirúrgica mais extensa e precoce comparados aos pés tortos idiopáticos isolados.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-037",
+      "tema": "Pé torto congênito e método de Ponseti",
+      "enunciado": "A tenotomia percutânea do tendão de Aquiles no método de Ponseti é geralmente indicada quando:",
+      "alternativas": [
+        "O escore de Pirani do retropé é zero desde o início do tratamento",
+        "Após a correção do cavo, adução e varo, persiste dorsiflexão do tornozelo menor que 10-15 graus, indicando equino residual rígido",
+        "Antes de iniciar qualquer gesso, como primeira etapa do tratamento",
+        "Apenas em crianças acima de 5 anos de idade"
+      ],
+      "correta": 1,
+      "comentario": "Após a correção adequada do cavo, adução e varo por meio dos gessos seriados, a maioria dos pés tortos idiopáticos ainda apresenta equino residual pela rigidez do tendão de Aquiles. Quando a dorsiflexão passiva do tornozelo permanece limitada (tipicamente menor que 10-15 graus) após essa correção, está indicada a tenotomia percutânea do tendão de Aquiles, um procedimento ambulatorial simples, seguida de um último gesso por cerca de 3 semanas para consolidar a correção do equino antes de iniciar o uso da órtese de abdução.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-038",
+      "tema": "Pé torto congênito e método de Ponseti",
+      "enunciado": "Antes do advento e popularização do método de Ponseti, o tratamento predominante do pé torto congênito envolvia liberação cirúrgica extensa de partes moles na infância. Qual é a principal desvantagem a longo prazo associada a essa abordagem cirúrgica extensa, quando comparada ao método de Ponseti?",
+      "alternativas": [
+        "Maior custo do tratamento conservador em relação ao cirúrgico",
+        "Maior incidência de rigidez articular, cicatriz extensa e pé doloroso/artrósico na vida adulta ('pé torto supercorrigido' ou rígido pós-cirúrgico)",
+        "Ausência de qualquer diferença de desfecho funcional entre os métodos",
+        "Necessidade obrigatória de amputação em todos os casos operados"
+      ],
+      "correta": 1,
+      "comentario": "A liberação cirúrgica extensa de partes moles, historicamente utilizada antes da disseminação do método de Ponseti, está associada a maior formação de cicatriz e fibrose periarticular, resultando frequentemente em rigidez articular, pé mais fraco e doloroso, e maior incidência de artrose degenerativa na vida adulta, mesmo quando a correção inicial da deformidade parecia satisfatória. O método de Ponseti, ao corrigir a deformidade por manipulação e gesso seriado com tenotomia percutânea mínima, preserva melhor a mobilidade articular e a função do pé a longo prazo, sendo hoje considerado o padrão-ouro mundial.",
+      "referencia": "Lovell & Winter's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-039",
+      "tema": "Deformidades do pé na infância",
+      "enunciado": "Lactente de 4 meses apresenta antepé aduzido flexível (redutível passivamente até a linha média), com retropé neutro e sem equino. Qual é a conduta mais apropriada?",
+      "alternativas": [
+        "Cirurgia de liberação de partes moles imediata",
+        "Observação, já que a maioria dos casos de metatarso aduto flexível resolve espontaneamente até os 2-3 anos de idade",
+        "Gesso pelvipodálico seriado por 6 meses",
+        "Uso de sapato ortopédico rígido invertido por 2 anos"
+      ],
+      "correta": 1,
+      "comentario": "O metatarso aduto é a deformidade congênita do pé mais comum, geralmente decorrente de posicionamento intrauterino, e na maioria dos casos é flexível (redutível passivamente). A grande maioria resolve espontaneamente até os 2-3 anos de idade sem necessidade de tratamento específico, sendo a observação clínica a conduta apropriada nos casos flexíveis. Manipulação e gesso seriado podem ser considerados em casos mais rígidos ou que não mostram resolução espontânea, mas cirurgia é raramente necessária e reservada a casos residuais sintomáticos em crianças mais velhas.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "PED-040",
+      "tema": "Deformidades do pé na infância",
+      "enunciado": "Recém-nascido apresenta pé com dorsiflexão excessiva e eversão, sendo possível tocar passivamente o dorso do pé na face anterior da perna, mas com flexão plantar e inversão passiva preservadas. Esse quadro é mais compatível com:",
+      "alternativas": [
+        "Tálus vertical congênito",
+        "Pé calcaneovalgo postural, geralmente por posicionamento intrauterino, com resolução espontânea esperada",
+        "Pé torto equinovaro",
+        "Paralisia do nervo fibular comum"
+      ],
+      "correta": 1,
+      "comentario": "O pé calcaneovalgo postural é uma deformidade comum ao nascimento, geralmente atribuída ao posicionamento intrauterino, caracterizada por dorsiflexão e eversão excessivas do pé, mas com mobilidade passiva preservada em todos os sentidos (incluindo boa flexão plantar e inversão passivas), diferenciando-o do tálus vertical congênito, no qual há uma luxação rígida talonavicular com bloqueio da flexão plantar. O pé calcaneovalgo postural tipicamente resolve espontaneamente em poucos meses, sem necessidade de tratamento específico além de eventual orientação de alongamento passivo.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-041",
+      "tema": "Deformidades do pé na infância",
+      "enunciado": "O tálus vertical congênito é classicamente descrito radiograficamente como um pé em 'mata-borrão' (rocker-bottom foot), com luxação dorsal fixa da articulação talonavicular. Essa condição está frequentemente associada a:",
+      "alternativas": [
+        "Nenhuma outra anomalia associada, sendo sempre idiopática e isolada",
+        "Doenças neuromusculares (mielomeningocele, artrogripose) e síndromes cromossômicas",
+        "Exclusivamente prematuridade extrema",
+        "Diabetes gestacional materna isoladamente"
+      ],
+      "correta": 1,
+      "comentario": "O tálus vertical congênito, embora possa ser idiopático em até 50% dos casos, frequentemente está associado a condições neuromusculares (mielomeningocele, artrogripose múltipla congênita) e anomalias cromossômicas ou síndromes genéticas. Por isso, diante desse diagnóstico, é importante investigar ativamente doenças de base associadas. Radiograficamente, o pé assume o aspecto de 'mata-borrão' (rocker-bottom), com o tálus verticalizado e a luxação dorsal fixa do navicular sobre a cabeça talar.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-042",
+      "tema": "Deformidades do pé na infância",
+      "enunciado": "O método de Dobbs para tratamento do tálus vertical congênito é frequentemente descrito como um 'Ponseti reverso'. Isso significa que:",
+      "alternativas": [
+        "Utiliza gessos seriados para reduzir gradualmente a luxação talonavicular, seguidos de fixação percutânea da articulação e tenotomia percutânea do Aquiles, de forma análoga (porém em direção oposta) ao método de Ponseti para pé torto",
+        "É idêntico ao método de Ponseti, aplicado sem qualquer modificação",
+        "Consiste exclusivamente em cirurgia aberta extensa sem qualquer manipulação prévia",
+        "Utiliza apenas órteses noturnas, sem qualquer gessamento"
+      ],
+      "correta": 0,
+      "comentario": "O método de Dobbs aplica princípios semelhantes ao de Ponseti, porém em direção corretiva oposta: gessos seriados são usados para manipular gradualmente o pé, reduzindo a luxação talonavicular (em vez de corrigir aduzido/varo/equino como no pé torto), seguidos por fixação percutânea temporária da articulação talonavicular reduzida com um fio de Kirschner e, frequentemente, tenotomia percutânea do tendão de Aquiles para corrigir o componente de equino associado do retropé. Esse método minimamente invasivo substituiu, na maioria dos centros, a correção cirúrgica aberta extensa historicamente utilizada.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "PED-043",
+      "tema": "Deformidades do pé na infância",
+      "enunciado": "Criança de 6 anos, assintomática, é trazida pelos pais preocupados com 'pé chato'. Ao exame, o arco longitudinal medial desaparece em carga mas reaparece quando a criança fica na ponta dos pés (teste do calcanhar único ou de Jack positivo). Qual é a conduta mais apropriada?",
+      "alternativas": [
+        "Confecção imediata de órtese plantar rígida sob medida",
+        "Tranquilização dos pais, já que se trata de pé plano flexível fisiológico, comum na infância e geralmente assintomático",
+        "Artrodese subtalar preventiva",
+        "Investigação obrigatória de coalizão tarsal com tomografia computadorizada"
+      ],
+      "correta": 1,
+      "comentario": "O pé plano flexível é um achado extremamente comum e geralmente fisiológico na infância, caracterizado por perda do arco longitudinal medial em carga, mas com reconstituição do arco quando o pé fica sem carga ou durante a manobra de elevação do hálux (teste de Jack) ou ao ficar na ponta dos pés (heel-rise test), indicando flexibilidade da articulação subtalar. Na ausência de dor, rigidez ou limitação funcional, não há indicação de tratamento específico, e órteses não alteram a história natural do arco plantar, embora possam ser usadas para conforto sintomático quando há queixas.",
+      "referencia": "Lovell & Winter's Pediatric Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "PED-044",
+      "tema": "Deformidades do pé na infância",
+      "enunciado": "Adolescente de 12 anos apresenta pé plano rígido e doloroso, com limitação da mobilidade subtalar e espasmo dos músculos fibulares ao exame (pé plano espástico fibular). Essa apresentação é mais sugestiva de:",
+      "alternativas": [
+        "Pé plano flexível fisiológico",
+        "Coalizão tarsal (calcaneonavicular ou talocalcaneana)",
+        "Metatarso aduto residual",
+        "Doença de Sever"
+      ],
+      "correta": 1,
+      "comentario": "A coalizão tarsal (fusão óssea, cartilaginosa ou fibrosa entre ossos do tarso, mais comumente calcaneonavicular ou talocalcaneana) tipicamente se manifesta na segunda década de vida (quando a coalizão fibrocartilaginosa começa a ossificar), causando pé plano rígido, doloroso, com limitação da mobilidade subtalar e espasmo protetor dos músculos fibulares (pé plano espástico fibular), diferentemente do pé plano flexível fisiológico, que é indolor e flexível desde a infância. A investigação radiográfica (incidência oblíqua para coalizão calcaneonavicular) e tomografia computadorizada auxiliam no diagnóstico e planejamento terapêutico.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-045",
+      "tema": "Deformidades do pé na infância",
+      "enunciado": "Na avaliação de um pé plano em uma criança, o teste da elevação do hálux em pé (teste de Jack) é utilizado para:",
+      "alternativas": [
+        "Avaliar a força do músculo tibial posterior isoladamente",
+        "Diferenciar pé plano flexível de pé plano rígido, observando se o arco longitudinal medial se reconstitui com a dorsiflexão passiva do hálux",
+        "Diagnosticar especificamente coalizão tarsal por imagem",
+        "Medir o ângulo de progressão da marcha"
+      ],
+      "correta": 1,
+      "comentario": "O teste de Jack (ou windlass test) consiste em dorsifletir passivamente o hálux com a criança em posição ortostática, apoiando o peso no pé. Em um pé plano flexível, essa manobra tensiona a fáscia plantar pelo mecanismo de windlass e reconstitui o arco longitudinal medial, confirmando a flexibilidade da deformidade. Em pés planos rígidos (como na coalizão tarsal ou tálus vertical), o arco não se reconstitui com essa manobra, ajudando a diferenciar as duas condições clinicamente antes mesmo de exames de imagem.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-046",
+      "tema": "Deformidades do pé na infância",
+      "enunciado": "Sobre o uso de palmilhas e órteses no tratamento do pé plano flexível assintomático em crianças, a literatura atual indica que:",
+      "alternativas": [
+        "São obrigatórias em todas as crianças com pé plano para evitar deformidade progressiva na vida adulta",
+        "Não alteram comprovadamente a evolução natural do arco longitudinal medial, sendo reservadas para alívio sintomático em casos selecionados com desconforto",
+        "Devem ser usadas por pelo menos 10 anos ininterruptos para correção estrutural",
+        "São contraindicadas mesmo em casos sintomáticos"
+      ],
+      "correta": 1,
+      "comentario": "Estudos de seguimento de longo prazo não demonstraram que o uso de palmilhas ou órteses altere a evolução natural do arco longitudinal medial em crianças com pé plano flexível assintomático; a maioria desenvolve arco plantar adequado com o crescimento, independentemente do uso desses dispositivos. Seu uso pode ser considerado para alívio sintomático em crianças com desconforto associado a atividades físicas prolongadas, mas não deve ser indicado rotineiramente como medida 'corretiva' ou preventiva em pés assintomáticos.",
+      "referencia": "Lovell & Winter's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-047",
+      "tema": "Deformidades angulares e rotacionais",
+      "enunciado": "Criança de 18 meses, hígida, apresenta geno varo simétrico e leve ao exame, sem outras alterações. Os pais estão preocupados. Qual é a conduta mais apropriada?",
+      "alternativas": [
+        "Encaminhamento imediato para osteotomia corretiva",
+        "Tranquilização dos pais, pois o geno varo fisiológico é comum até os 2 anos de idade e tende a se corrigir espontaneamente, evoluindo depois para geno valgo fisiológico",
+        "Uso de órtese noturna de joelho por 3 anos",
+        "Investigação obrigatória para raquitismo em todos os casos, independentemente de outros achados"
+      ],
+      "correta": 1,
+      "comentario": "O geno varo é um achado fisiológico comum em lactentes e crianças pequenas, geralmente presente até cerca de 2 anos de idade, refletindo o padrão normal de desenvolvimento angular do membro inferior, que evolui espontaneamente para alinhamento neutro por volta dos 18-24 meses e depois para um geno valgo fisiológico transitório entre 3 e 4 anos, antes de estabilizar no alinhamento adulto por volta dos 7 anos. Na ausência de sinais de alarme (assimetria importante, progressão além dos 2-3 anos, baixa estatura, deformidade unilateral isolada), a observação clínica seriada é a conduta apropriada.",
+      "referencia": "Lovell & Winter's Pediatric Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "PED-048",
+      "tema": "Deformidades angulares e rotacionais",
+      "enunciado": "Criança de 3 anos, obesa, com marcha precoce (andou antes dos 10 meses), apresenta geno varo progressivo e assimétrico, mais acentuado à esquerda, com proeminência da metáfise tibial medial. Qual é a hipótese diagnóstica mais provável?",
+      "alternativas": [
+        "Geno varo fisiológico do lactente",
+        "Doença de Blount (tíbia vara patológica)",
+        "Raquitismo carencial",
+        "Displasia epifisária múltipla"
+      ],
+      "correta": 1,
+      "comentario": "A doença de Blount (tíbia vara patológica), na sua forma infantil, tipicamente acomete crianças obesas com marcha precoce, entre 1 e 3 anos de idade, causando geno varo progressivo, muitas vezes assimétrico ou unilateral, associado a alterações radiográficas características na metáfise tibial proximal medial (fragmentação, irregularidade e formação de bico ósseo - beaking). Diferencia-se do geno varo fisiológico pela progressão além dos 2-3 anos, assimetria e gravidade, sendo fundamental o diagnóstico diferencial radiográfico pela classificação de Langenskiöld.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-049",
+      "tema": "Deformidades angulares e rotacionais",
+      "enunciado": "A classificação de Langenskiöld para a doença de Blount avalia a progressão radiográfica da deformidade metafisária tibial proximal em estágios. Estágios mais avançados (V e VI) são caracterizados por:",
+      "alternativas": [
+        "Discreta irregularidade metafisária medial, sem outras alterações",
+        "Formação de uma barra óssea (ponte) fisária medial, com risco de fechamento fisário precoce e deformidade progressiva grave",
+        "Ausência total de qualquer alteração radiográfica",
+        "Fratura aguda da metáfise tibial"
+      ],
+      "correta": 1,
+      "comentario": "A classificação de Langenskiöld descreve seis estágios progressivos de gravidade radiográfica na doença de Blount, desde alterações metafisárias leves e reversíveis nos estágios iniciais (I e II) até estágios avançados (V e VI), nos quais se observa formação de uma barra óssea fisária medial (ponte epifisária), levando a fechamento fisário parcial precoce e deformidade progressiva grave e de difícil correção, frequentemente exigindo intervenção cirúrgica mais complexa, incluindo eventual ressecção da barra fisária associada a osteotomia corretiva.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "PED-050",
+      "tema": "Deformidades angulares e rotacionais",
+      "enunciado": "Em relação ao tratamento da doença de Blount infantil (Langenskiöld I-III) em criança menor de 3 anos, qual é a conduta inicial mais apropriada?",
+      "alternativas": [
+        "Osteotomia tibial corretiva imediata em todos os casos",
+        "Tentativa de órtese de joelho-tornozelo-pé (KAFO) em extensão e valgo, especialmente em estágios iniciais",
+        "Epifisiodese medial imediata",
+        "Amputação do membro"
+      ],
+      "correta": 1,
+      "comentario": "Em crianças menores de 3 anos com doença de Blount infantil em estágios iniciais de Langenskiöld (I a III), pode-se tentar tratamento conservador com órtese joelho-tornozelo-pé (KAFO), buscando neutralizar as forças de compressão medial e permitir reversão do processo patológico na fise. Em casos que progridem apesar do tratamento conservador, ou em estágios mais avançados, a osteotomia tibial corretiva de valgização é indicada, idealmente antes dos 4 anos de idade para reduzir o risco de recidiva e de lesão fisária permanente.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-051",
+      "tema": "Deformidades angulares e rotacionais",
+      "enunciado": "Adolescente de 13 anos, obeso, apresenta geno varo unilateral progressivo. Esse quadro corresponde à forma adolescente da doença de Blount, que se diferencia da forma infantil principalmente por:",
+      "alternativas": [
+        "Ser bilateral e simétrica na quase totalidade dos casos",
+        "Ocorrer em crianças mais velhas (geralmente após os 10 anos), ser tipicamente menos grave radiograficamente, porém de correção mais difícil devido à proximidade da maturidade esquelética",
+        "Não ter associação com obesidade",
+        "Responder sempre bem a tratamento apenas com órtese"
+      ],
+      "correta": 1,
+      "comentario": "A forma adolescente da doença de Blount (tíbia vara do adolescente) ocorre em crianças mais velhas, geralmente após os 10 anos, fortemente associada à obesidade, e costuma ser unilateral e menos grave radiograficamente em comparação com a forma infantil. Entretanto, sua correção pode ser tecnicamente mais desafiadora, pois a criança está mais próxima da maturidade esquelética, com menor potencial de correção espontânea remanescente e maior massa corporal exercendo forças deformantes contínuas, geralmente exigindo tratamento cirúrgico (osteotomia ou hemiepifisiodese guiada) em vez de órtese.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-052",
+      "tema": "Deformidades angulares e rotacionais",
+      "enunciado": "Criança de 4 anos apresenta geno valgo bilateral e simétrico, com distância intermaleolar de cerca de 6 cm, sem outras queixas. Essa apresentação é mais compatível com:",
+      "alternativas": [
+        "Geno valgo patológico exigindo cirurgia imediata",
+        "Geno valgo fisiológico, que tipicamente atinge seu pico entre 3 e 4 anos de idade e se resolve espontaneamente até os 7 anos",
+        "Doença de Blount",
+        "Raquitismo hipofosfatêmico"
+      ],
+      "correta": 1,
+      "comentario": "O geno valgo fisiológico é uma fase normal do desenvolvimento angular do membro inferior, atingindo seu pico de angulação por volta dos 3-4 anos de idade, com resolução espontânea gradual até aproximadamente os 6-7 anos, quando o alinhamento se aproxima do padrão adulto. Distância intermaleolar de até cerca de 8 cm é geralmente considerada dentro do espectro fisiológico nessa faixa etária. Sinais de alarme para geno valgo patológico incluem assimetria importante, progressão além dos 7 anos, baixa estatura ou geno valgo muito acentuado (distância intermaleolar maior que 10 cm).",
+      "referencia": "Lovell & Winter's Pediatric Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "PED-053",
+      "tema": "Deformidades angulares e rotacionais",
+      "enunciado": "Uma mãe traz sua filha de 3 anos por notar que ela 'anda com os pés para dentro'. Ao exame, observa-se aumento da rotação interna do quadril (rotação interna de 80 graus e rotação externa de apenas 10 graus, com a criança em decúbito ventral), sem outras alterações rotacionais na tíbia ou no pé. Qual é a causa mais provável da marcha em rotação interna nessa criança?",
+      "alternativas": [
+        "Metatarso aduto residual",
+        "Anteversão femoral excessiva",
+        "Torção tibial interna isolada",
+        "Torção tibial externa"
+      ],
+      "correta": 1,
+      "comentario": "A anteversão femoral excessiva é a causa mais comum de marcha em rotação interna em crianças na faixa dos 3 a 6 anos de idade, caracterizada ao exame físico por aumento acentuado da rotação interna do quadril (frequentemente maior que 70 graus) com redução proporcional da rotação externa, medidas com a criança em decúbito ventral e joelhos fletidos a 90 graus. A grande maioria dos casos resolve espontaneamente com o crescimento, sem necessidade de órteses ou cirurgia, sendo a observação a conduta padrão na ausência de deformidade funcionalmente incapacitante e persistente após os 8-10 anos.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-054",
+      "tema": "Deformidades angulares e rotacionais",
+      "enunciado": "Em relação à avaliação da torção tibial interna em crianças pequenas, qual medida clínica é utilizada para quantificar essa deformidade rotacional?",
+      "alternativas": [
+        "Ângulo de Wiberg",
+        "Ângulo coxa-pé (thigh-foot angle), medido com a criança em decúbito ventral e joelho fletido a 90 graus",
+        "Índice acetabular",
+        "Ângulo de Cobb"
+      ],
+      "correta": 1,
+      "comentario": "O ângulo coxa-pé (thigh-foot angle) é a medida clínica padrão para avaliar a rotação tibial, obtido com a criança em decúbito ventral, joelho fletido a 90 graus, comparando o eixo longitudinal da coxa com o eixo do pé (do calcanhar ao segundo dedo), visto de cima. Valores negativos (pé em rotação interna em relação à coxa) indicam torção tibial interna, comum em lactentes e crianças pequenas, geralmente de resolução espontânea com o crescimento, sem necessidade de tratamento ortopédico específico com órteses, que não demonstraram eficácia em alterar a história natural.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-055",
+      "tema": "Deformidades angulares e rotacionais",
+      "enunciado": "Uma criança de 2 anos apresenta arqueamento importante e progressivo das pernas, com baixa estatura, alargamento das metáfises de punhos e joelhos, e história de baixa exposição solar e dieta restritiva. Antes de firmar diagnóstico de doença de Blount, qual investigação laboratorial é fundamental para excluir uma causa metabólica de geno varo patológico?",
+      "alternativas": [
+        "Hemograma completo isoladamente",
+        "Dosagem de cálcio, fósforo, fosfatase alcalina e vitamina D (25-OH-vitamina D), para investigar raquitismo",
+        "Velocidade de hemossedimentação apenas",
+        "Cultura de líquido sinovial"
+      ],
+      "correta": 1,
+      "comentario": "Diante de um quadro de geno varo patológico associado a baixa estatura, alargamento metafisário generalizado (não apenas medial e proximal como na Blount) e fatores de risco nutricionais, é fundamental excluir raquitismo (carencial ou hipofosfatêmico) por meio da dosagem de cálcio, fósforo, fosfatase alcalina e 25-OH-vitamina D, já que essa condição sistêmica exige tratamento clínico específico (reposição de vitamina D e minerais), diferentemente da doença de Blount, que é uma alteração mecânica localizada na fise tibial proximal medial sem base metabólica sistêmica.",
+      "referencia": "Lovell & Winter's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-056",
+      "tema": "Deformidades angulares e rotacionais",
+      "enunciado": "Sobre a evolução natural das deformidades torsionais e angulares mais comuns na infância, é correto afirmar que, em ordem cronológica aproximada de manifestação predominante:",
+      "alternativas": [
+        "Metatarso aduto (recém-nascido) → torção tibial interna (lactente/toddler) → anteversão femoral (pré-escolar), com resolução espontânea esperada na grande maioria dos casos",
+        "Anteversão femoral (recém-nascido) → metatarso aduto (adolescente) → torção tibial (idoso)",
+        "Todas as deformidades rotacionais surgem simultaneamente aos 10 anos de idade",
+        "Torção tibial externa é a causa mais comum de marcha em rotação interna em qualquer idade"
+      ],
+      "correta": 0,
+      "comentario": "Didaticamente, as causas mais comuns de marcha com rotação interna seguem um padrão etário: metatarso aduto é mais comumente identificado ao nascimento e nos primeiros meses; a torção tibial interna é a causa predominante de marcha em rotação interna em lactentes e crianças que iniciam a marcha (toddlers); já a anteversão femoral excessiva se torna a causa mais evidente em crianças pré-escolares, entre 3 e 6 anos. A grande maioria dessas condições representa variações do desenvolvimento normal e resolve espontaneamente com o crescimento, sem necessidade de órteses, palmilhas ou cirurgia na maior parte dos casos.",
+      "referencia": "Lovell & Winter's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-057",
+      "tema": "Discrepância de comprimento dos membros",
+      "enunciado": "Criança de 8 anos apresenta discrepância de comprimento dos membros inferiores de 1,5 cm, sem etiologia identificável além de leve hemi-hipertrofia constitucional. Qual é a conduta mais apropriada para essa discrepância?",
+      "alternativas": [
+        "Epifisiodese imediata do membro mais longo",
+        "Observação clínica, já que discrepâncias menores que 2 cm geralmente são bem toleradas e não exigem tratamento cirúrgico",
+        "Alongamento ósseo do membro mais curto por fixador externo",
+        "Amputação do membro mais curto"
+      ],
+      "correta": 1,
+      "comentario": "Discrepâncias de comprimento dos membros inferiores menores que cerca de 2 cm na maturidade esquelética são geralmente bem toleradas funcionalmente, sem necessidade de intervenção cirúrgica, podendo eventualmente ser manejadas apenas com palmilha compensatória se sintomáticas. O tratamento cirúrgico (epifisiodese ou alongamento) é reservado para discrepâncias previstas maiores, geralmente acima de 2 cm, com decisão baseada na discrepância projetada na maturidade esquelética, não apenas na medida atual.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "PED-058",
+      "tema": "Discrepância de comprimento dos membros",
+      "enunciado": "Para prever a discrepância final de comprimento dos membros na maturidade esquelética em uma criança com fechamento fisário assimétrico devido a uma fratura prévia, qual método é classicamente utilizado, baseando-se em gráficos de crescimento remanescente por idade?",
+      "alternativas": [
+        "Método do multiplicador (multiplier method) de Paley ou o gráfico de linha reta de Moseley",
+        "Índice de Cobb",
+        "Classificação de Salter-Harris isoladamente, sem necessidade de outros cálculos",
+        "Ângulo de Wiberg"
+      ],
+      "correta": 0,
+      "comentario": "O método do multiplicador de Paley e o gráfico de linha reta (straight-line graph) de Moseley são ferramentas clássicas para prever a discrepância de comprimento dos membros na maturidade esquelética, a partir de medições seriadas do comprimento dos membros em diferentes idades, considerando o crescimento remanescente esperado das fises envolvidas. Esses métodos auxiliam no planejamento do momento ideal para intervenções como epifisiodese, calculando a discrepância projetada final, aspecto fundamental para a decisão terapêutica correta.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "PED-059",
+      "tema": "Discrepância de comprimento dos membros",
+      "enunciado": "Menino de 10 anos apresenta discrepância de comprimento dos membros inferiores com projeção de 3 cm na maturidade esquelética, sem outras deformidades associadas. Qual é a opção terapêutica cirúrgica mais simples e amplamente utilizada nesse cenário, envolvendo o membro mais longo?",
+      "alternativas": [
+        "Alongamento do membro mais curto por fixador externo circular",
+        "Epifisiodese (ablação fisária) percutânea ou por grampos/placa em ponte no membro mais longo, interrompendo seu crescimento remanescente",
+        "Osteotomia de encurtamento agudo do fêmur do membro mais longo em adulto jovem",
+        "Artrodese do joelho do membro mais longo"
+      ],
+      "correta": 1,
+      "comentario": "Para discrepâncias projetadas entre aproximadamente 2 e 5 cm, a epifisiodese (ablação cirúrgica percutânea da fise, como na técnica de Bowen/Green ou Phemister) ou o bloqueio temporário reversível com placas em ponte ou grampos (técnica de crescimento guiado, 'growth modulation') no membro mais longo é a opção terapêutica mais simples e amplamente utilizada, interrompendo ou retardando seu crescimento remanescente para permitir que o membro mais curto o alcance ao final do crescimento. O momento ideal da cirurgia é calculado a partir da discrepância projetada e da idade óssea da criança.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-060",
+      "tema": "Discrepância de comprimento dos membros",
+      "enunciado": "Em relação ao alongamento ósseo por distração osteogênica (técnica de Ilizarov e variantes), qual é a taxa de distração diária clássica recomendada para minimizar complicações como consolidação prematura ou lesão de partes moles?",
+      "alternativas": [
+        "Cerca de 1 mm por dia, geralmente dividido em 4 incrementos de 0,25 mm",
+        "10 mm por dia em incremento único",
+        "5 cm por semana em incremento único diário",
+        "Não há taxa padronizada; deve-se distrair o máximo possível no menor tempo"
+      ],
+      "correta": 0,
+      "comentario": "A taxa clássica de distração na técnica de Ilizarov (e variantes como fixadores híbridos ou hastes intramedulares motorizadas) é de aproximadamente 1 mm por dia, geralmente fracionada em pequenos incrementos (por exemplo, 4 vezes 0,25 mm ao dia), buscando equilíbrio entre estímulo adequado à formação de novo osso (osteogênese por distração) e tempo suficiente para adaptação das partes moles (pele, nervos, vasos, músculos) ao alongamento progressivo, minimizando complicações como consolidação prematura do calo (se muito lenta) ou lesão neurovascular e formação inadequada de osso (se muito rápida).",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-061",
+      "tema": "Discrepância de comprimento dos membros",
+      "enunciado": "Qual das seguintes é uma causa congênita clássica de discrepância de comprimento dos membros inferiores, associada frequentemente a deficiência do ligamento cruzado e instabilidade do joelho?",
+      "alternativas": [
+        "Osteomielite prévia da fise distal do fêmur",
+        "Hemimelia fibular congênita (deficiência longitudinal da fíbula)",
+        "Fratura de Salter-Harris tipo I do rádio distal",
+        "Epifisiólise femoral proximal"
+      ],
+      "correta": 1,
+      "comentario": "A hemimelia fibular congênita (deficiência longitudinal da fíbula) é uma causa congênita clássica de discrepância de comprimento dos membros inferiores, frequentemente associada a outras anormalidades ipsilaterais, como deficiência ou ausência do ligamento cruzado anterior, instabilidade do joelho, deformidades do pé (ausência de raios laterais) e encurtamento femoral associado. O grau de encurtamento e as deformidades associadas variam amplamente, orientando desde tratamento conservador até amputação de Syme/Boyd associada a prótese, dependendo da gravidade do caso.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "PED-062",
+      "tema": "Discrepância de comprimento dos membros",
+      "enunciado": "Menina de 12 anos com discrepância projetada de 6 cm na maturidade esquelética, decorrente de sequela de osteomielite da fise femoral distal na infância, é candidata a qual estratégia terapêutica mais apropriada?",
+      "alternativas": [
+        "Uso exclusivo de palmilha compensatória permanente, sem qualquer procedimento cirúrgico",
+        "Alongamento ósseo do membro afetado por fixador externo ou haste intramedular motorizada, eventualmente combinado com epifisiodese contralateral",
+        "Epifisiodese isolada do membro mais longo, sem alongamento",
+        "Amputação do membro afetado"
+      ],
+      "correta": 1,
+      "comentario": "Para discrepâncias projetadas maiores que aproximadamente 5 cm, a epifisiodese isolada geralmente não é suficiente, pois exigiria interromper o crescimento do membro contralateral de forma excessiva, comprometendo a estatura final. Nesses casos, o alongamento ósseo do membro mais curto (por fixador externo circular/monolateral ou, mais modernamente, por hastes intramedulares motorizadas telescópicas) é a estratégia mais apropriada, podendo ser combinado com epifisiodese contralateral programada para equalizar os membros ao final do crescimento, minimizando a magnitude total de alongamento necessária.",
+      "referencia": "Lovell & Winter's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-063",
+      "tema": "Osteogênese imperfeita e displasias esqueléticas",
+      "enunciado": "Lactente apresenta múltiplas fraturas de repetição com trauma mínimo, escleróticas azuladas e história familiar de fraturas frequentes na infância com estatura final próxima da normal. Qual é o diagnóstico mais provável e sua base genética?",
+      "alternativas": [
+        "Osteogênese imperfeita tipo I, por mutação em genes do colágeno tipo I (COL1A1/COL1A2), geralmente com herança autossômica dominante",
+        "Acondroplasia, por mutação no gene FGFR3",
+        "Raquitismo hipofosfatêmico ligado ao X",
+        "Displasia diastrófica, por mutação no gene DTDST"
+      ],
+      "correta": 0,
+      "comentario": "A osteogênese imperfeita tipo I, a forma mais leve e comum segundo a classificação de Sillence, decorre tipicamente de mutações que reduzem a quantidade (mas não necessariamente a qualidade) do colágeno tipo I produzido, por alterações nos genes COL1A1 ou COL1A2, com herança autossômica dominante. Caracteriza-se por fraturas de repetição com trauma mínimo, escleróticas azuladas características, estatura próxima do normal e ausência ou discreta dentinogênese imperfeita, diferenciando-a das formas mais graves (tipos III e IV), que apresentam maior deformidade óssea e baixa estatura.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "PED-064",
+      "tema": "Osteogênese imperfeita e displasias esqueléticas",
+      "enunciado": "Além das fraturas de repetição e escleróticas azuladas, quais outras manifestações clínicas são classicamente associadas à osteogênese imperfeita?",
+      "alternativas": [
+        "Dentinogênese imperfeita e perda auditiva neurossensorial/condutiva progressiva",
+        "Retinopatia diabética e neuropatia periférica",
+        "Hipertrofia muscular generalizada e força excessiva",
+        "Ausência completa de qualquer manifestação extraesquelética"
+      ],
+      "correta": 0,
+      "comentario": "A osteogênese imperfeita é uma doença sistêmica do tecido conjuntivo, não restrita ao osso, podendo cursar com dentinogênese imperfeita (dentes opalescentes, frágeis, com desgaste precoce), perda auditiva progressiva (por otosclerose ou anormalidades da cadeia ossicular), frouxidão ligamentar, hérnias, e em casos mais graves, deformidades torácicas com comprometimento respiratório. O reconhecimento dessas manifestações extraesqueléticas é importante para o manejo multidisciplinar da doença, além do tratamento ortopédico das fraturas e deformidades ósseas.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-065",
+      "tema": "Osteogênese imperfeita e displasias esqueléticas",
+      "enunciado": "No tratamento medicamentoso da osteogênese imperfeita moderada a grave, qual classe de fármacos é amplamente utilizada para reduzir a frequência de fraturas e a dor óssea, por meio da inibição da reabsorção osteoclástica?",
+      "alternativas": [
+        "Corticosteroides sistêmicos em altas doses contínuas",
+        "Bisfosfonatos (como o pamidronato endovenoso cíclico)",
+        "Antibióticos betalactâmicos profiláticos",
+        "Anti-inflamatórios não esteroidais em uso crônico isolado"
+      ],
+      "correta": 1,
+      "comentario": "Os bisfosfonatos, especialmente o pamidronato endovenoso administrado em ciclos, são amplamente utilizados no tratamento da osteogênese imperfeita moderada a grave, atuando pela inibição da reabsorção óssea osteoclástica, o que aumenta a densidade mineral óssea, reduz a frequência de fraturas e melhora a dor óssea crônica, embora não corrijam o defeito primário de qualidade do colágeno. O tratamento medicamentoso é complementado por abordagem ortopédica (hastes intramedulares telescópicas para prevenir e tratar deformidades/fraturas de ossos longos) e reabilitação multidisciplinar.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-066",
+      "tema": "Osteogênese imperfeita e displasias esqueléticas",
+      "enunciado": "Nas fraturas de repetição de ossos longos em crianças com osteogênese imperfeita grave, qual tipo de implante cirúrgico é preferido para prevenir deformidades progressivas e permitir crescimento longitudinal contínuo do osso?",
+      "alternativas": [
+        "Placas rígidas bloqueadas convencionais, não telescópicas",
+        "Hastes intramedulares telescópicas (como Bailey-Dubow ou Fassier-Duval), que se alongam com o crescimento ósseo",
+        "Fixador externo permanente por toda a infância",
+        "Nenhum implante; apenas gesso repetido a cada fratura"
+      ],
+      "correta": 1,
+      "comentario": "As hastes intramedulares telescópicas, como os sistemas de Bailey-Dubow ou, mais modernamente, Fassier-Duval, são o implante de escolha para ossos longos gravemente acometidos na osteogênese imperfeita, pois possuem um mecanismo telescópico que permite alongamento progressivo acompanhando o crescimento ósseo da criança, evitando a necessidade de trocas cirúrgicas repetidas que seriam exigidas por hastes rígidas de comprimento fixo, além de fornecer suporte interno contínuo que previne a recorrência de deformidades angulares e novas fraturas nos ossos frágeis.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "PED-067",
+      "tema": "Osteogênese imperfeita e displasias esqueléticas",
+      "enunciado": "A acondroplasia, a forma mais comum de nanismo rizomélico, decorre de mutação em qual gene, e qual é o padrão de herança predominante nos casos observados?",
+      "alternativas": [
+        "Mutação de ganho de função no gene FGFR3, autossômica dominante, sendo a maioria dos casos decorrente de mutação nova (de novo)",
+        "Mutação de perda de função no gene COL1A1, autossômica recessiva",
+        "Deleção completa do cromossomo 21",
+        "Mutação no gene SHOX, ligada ao X"
+      ],
+      "correta": 0,
+      "comentario": "A acondroplasia é causada por uma mutação de ganho de função no gene FGFR3 (receptor 3 do fator de crescimento de fibroblastos), que leva à inibição excessiva da proliferação de condrócitos na fise, resultando em ossificação endocondral deficiente e encurtamento ósseo predominantemente rizomélico (segmentos proximais dos membros, como braço e coxa). A herança é autossômica dominante, mas a maioria dos casos (cerca de 80%) resulta de mutação nova (de novo), já que a maioria dos pais afetados tem estatura normal.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-068",
+      "tema": "Osteogênese imperfeita e displasias esqueléticas",
+      "enunciado": "Criança com acondroplasia apresenta hipotonia, atraso do desenvolvimento motor e sinais de mielopatia cervical progressiva (hiper-reflexia, clônus). Qual complicação anatômica potencialmente grave da acondroplasia deve ser investigada com urgência?",
+      "alternativas": [
+        "Estenose do forame magno, com compressão do tronco encefálico/medula cervical alta",
+        "Osteossarcoma de fêmur distal",
+        "Necrose avascular bilateral do quadril",
+        "Escoliose torácica leve isolada"
+      ],
+      "correta": 0,
+      "comentario": "Crianças com acondroplasia podem apresentar estenose do forame magno, decorrente da ossificação endocondral anormal da base do crânio, levando à compressão do tronco encefálico e da medula cervical alta. Essa complicação pode se manifestar com hipotonia, atraso do desenvolvimento motor, apneia central, hiper-reflexia e clônus, sendo potencialmente grave e associada a risco de morte súbita em casos graves não reconhecidos. A investigação com ressonância magnética da transição craniocervical é indicada diante de sinais neurológicos sugestivos, podendo ser necessária descompressão cirúrgica.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "PED-069",
+      "tema": "Osteogênese imperfeita e displasias esqueléticas",
+      "enunciado": "Ao diferenciar displasia espondiloepifisária de displasia epifisária múltipla, qual característica é mais típica da forma espondiloepifisária?",
+      "alternativas": [
+        "Acometimento predominante ou exclusivo das epífises dos ossos longos, sem comprometimento vertebral",
+        "Comprometimento significativo da coluna vertebral (vértebras achatadas - platispondilia) associado ao acometimento epifisário, com maior impacto na estatura do tronco",
+        "Ausência completa de qualquer alteração esquelética radiográfica",
+        "Restrição isolada às falanges das mãos"
+      ],
+      "correta": 1,
+      "comentario": "Como o próprio nome indica, a displasia espondiloepifisária compromete tanto a coluna vertebral (spondylo-, com vértebras achatadas/platispondilia) quanto as epífises dos ossos longos (-epifisária), resultando tipicamente em baixa estatura desproporcional com tronco curto (nanismo de tronco curto). Já a displasia epifisária múltipla acomete predominantemente as epífises dos ossos longos, com relativa preservação vertebral e impacto menos acentuado na estatura do tronco, podendo se manifestar clinicamente com dor articular e alterações radiográficas que simulam doença de Perthes bilateral quando acomete os quadris.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "PED-070",
+      "tema": "Osteogênese imperfeita e displasias esqueléticas",
+      "enunciado": "A osteocondromatose múltipla hereditária (exostose múltipla hereditária/diáfise aclásica) caracteriza-se por múltiplos osteocondromas, geralmente próximos às fises de ossos longos. Qual é a principal preocupação a longo prazo que justifica o seguimento clínico desses pacientes na vida adulta?",
+      "alternativas": [
+        "Risco aumentado, embora ainda baixo, de transformação maligna para condrossarcoma em um dos osteocondromas",
+        "Certeza de transformação maligna em 100% dos casos antes dos 18 anos",
+        "Ausência de qualquer risco de malignização, dispensando seguimento",
+        "Necessidade obrigatória de amputação profilática de todos os membros acometidos"
+      ],
+      "correta": 0,
+      "comentario": "Pacientes com osteocondromatose múltipla hereditária (geralmente por mutações nos genes EXT1 ou EXT2, de herança autossômica dominante) apresentam risco aumentado, embora ainda relativamente baixo (estimado entre 1% e 5% ao longo da vida), de transformação maligna de um dos osteocondromas em condrossarcoma secundário, geralmente na vida adulta. Por esse motivo, esses pacientes devem ser acompanhados clinicamente a longo prazo, com atenção a sinais de alerta como crescimento de uma lesão após a maturidade esquelética, dor nova ou espessamento da capa cartilaginosa em exames de imagem, além do manejo ortopédico das deformidades angulares e discrepâncias de comprimento associadas.",
+      "referencia": "Lovell & Winter's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-071",
+      "tema": "Paralisia cerebral",
+      "enunciado": "O Sistema de Classificação da Função Motora Grossa (GMFCS) para paralisia cerebral classifica a função motora em níveis de I a V. O nível I corresponde a:",
+      "alternativas": [
+        "Criança sem qualquer meio de locomoção independente, totalmente dependente de cadeira de rodas com suporte postural extenso",
+        "Criança que anda sem limitações significativas em ambientes domésticos e comunitários, podendo apresentar dificuldades apenas em atividades motoras mais complexas (correr, saltar)",
+        "Criança que necessita de dispositivo manual de mobilidade em todos os ambientes",
+        "Criança que se autolocomove apenas com cadeira de rodas motorizada"
+      ],
+      "correta": 1,
+      "comentario": "O GMFCS classifica a função motora grossa em cinco níveis, do I (mais funcional) ao V (mais comprometido). O nível I descreve crianças que deambulam sem limitações significativas em casa, na escola e na comunidade, podendo ter alguma dificuldade em habilidades motoras mais avançadas, como correr ou saltar, mas sem necessidade de dispositivos auxiliares. Já o nível V corresponde a crianças com controle limitado de movimento voluntário e que dependem totalmente de tecnologia assistiva e apoio físico de terceiros para qualquer mobilidade, incluindo controle de cabeça e tronco.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "PED-072",
+      "tema": "Paralisia cerebral",
+      "enunciado": "Programas de vigilância do quadril em crianças com paralisia cerebral (hip surveillance) recomendam radiografias seriadas de bacia, com maior frequência em crianças de GMFCS mais grave, principalmente para monitorar qual parâmetro radiográfico?",
+      "alternativas": [
+        "Índice acetabular isoladamente em todos os casos, sem outras medidas",
+        "Percentual de migração (migration percentage) da cabeça femoral em relação ao acetábulo",
+        "Ângulo de Cobb da coluna torácica",
+        "Ângulo alfa de Graf"
+      ],
+      "correta": 1,
+      "comentario": "O percentual de migração (migration percentage), descrito por Reimers, é o principal parâmetro radiográfico monitorado nos programas de vigilância do quadril em crianças com paralisia cerebral, medindo o grau de cobertura da cabeça femoral pelo acetábulo em radiografia AP de bacia. Valores progressivamente maiores indicam subluxação progressiva do quadril, um problema comum e evitável em crianças com espasticidade, especialmente aquelas com GMFCS III a V, que têm maior risco de luxação do quadril ao longo do tempo se não monitoradas e tratadas precocemente (fisioterapia, toxina botulínica, cirurgia de partes moles ou óssea).",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-073",
+      "tema": "Paralisia cerebral",
+      "enunciado": "Criança de 5 anos com paralisia cerebral espástica diplégica, GMFCS III, apresenta migração progressiva do quadril direito (percentual de migração de 35%) apesar de fisioterapia regular. Qual é a conduta cirúrgica mais apropriada nessa fase, antes de uma subluxação mais avançada?",
+      "alternativas": [
+        "Artroplastia total de quadril imediata",
+        "Tenotomia/alongamento dos músculos adutores (e eventualmente iliopsoas), para reduzir as forças deformantes espásticas sobre o quadril em risco",
+        "Amputação do membro",
+        "Osteotomia de Chiari isolada, sem qualquer procedimento de partes moles"
+      ],
+      "correta": 1,
+      "comentario": "Em fases iniciais de subluxação progressiva do quadril espástico (migração percentual entre aproximadamente 30-40%, antes de uma subluxação mais avançada), o procedimento cirúrgico de escolha costuma ser a liberação/alongamento dos músculos adutores (e frequentemente do iliopsoas), visando reduzir o desequilíbrio de forças musculares espásticas que tracionam a cabeça femoral lateralmente e superiormente, prevenindo a progressão para subluxação ou luxação mais avançada, que exigiria posteriormente procedimentos ósseos mais complexos (osteotomias femorais e/ou pélvicas de reconstrução).",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-074",
+      "tema": "Paralisia cerebral",
+      "enunciado": "A marcha em tesoura (scissoring gait), frequentemente observada em crianças com paralisia cerebral espástica, decorre principalmente de:",
+      "alternativas": [
+        "Fraqueza isolada do quadríceps femoral",
+        "Espasticidade excessiva dos músculos adutores do quadril, levando à adução e cruzamento das pernas durante a marcha",
+        "Contratura isolada do tendão de Aquiles",
+        "Paralisia do nervo fibular comum bilateral"
+      ],
+      "correta": 1,
+      "comentario": "A marcha em tesoura é um padrão característico observado em crianças com paralisia cerebral espástica (especialmente diplegia), decorrente do excesso de tônus e espasticidade dos músculos adutores do quadril, que provoca adução exagerada das coxas durante a marcha, levando ao cruzamento das pernas ('em tesoura') a cada passo. Esse padrão pode comprometer o equilíbrio e a eficiência da marcha, sendo abordado com fisioterapia, toxina botulínica nos adutores e, em casos persistentes, tenotomia cirúrgica dos adutores.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "PED-075",
+      "tema": "Paralisia cerebral",
+      "enunciado": "Adolescente com paralisia cerebral espástica apresenta padrão de marcha agachada (crouch gait), com flexão excessiva de quadris e joelhos durante a fase de apoio. Entre as causas mais associadas a esse padrão, destaca-se:",
+      "alternativas": [
+        "Encurtamento isolado do tendão de Aquiles com equino fixo rígido",
+        "Contratura/espasticidade dos músculos isquiotibiais associada a fraqueza dos flexores plantares do tornozelo (frequentemente secundária a alongamentos excessivos prévios do Aquiles)",
+        "Hipertonia isolada do quadríceps sem qualquer outro componente",
+        "Anteversão femoral isolada sem qualquer outro fator"
+      ],
+      "correta": 1,
+      "comentario": "A marcha agachada (crouch gait) é frequentemente multifatorial, mas está classicamente associada à contratura ou espasticidade dos músculos isquiotibiais (que limita a extensão do joelho) combinada com fraqueza relativa dos flexores plantares do tornozelo (frequentemente iatrogênica, secundária a alongamentos excessivos ou repetidos do tendão de Aquiles ao longo da infância), o que compromete o mecanismo de alavanca do tornozelo necessário para a extensão do joelho durante a fase de apoio, resultando em um padrão de marcha com flexão persistente de quadris e joelhos, progressivamente mais incapacitante se não corrigido.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "PED-076",
+      "tema": "Paralisia cerebral",
+      "enunciado": "Para diferenciar contratura do gastrocnêmio isolada de contratura combinada de gastrocnêmio e sóleo em uma criança com equino espástico do tornozelo, qual manobra clínica é utilizada?",
+      "alternativas": [
+        "Teste de Thomas",
+        "Teste de Silfverskiöld (avaliação da dorsiflexão do tornozelo com o joelho estendido versus fletido)",
+        "Teste de Ober",
+        "Sinal de Trendelenburg"
+      ],
+      "correta": 1,
+      "comentario": "O teste de Silfverskiöld avalia a amplitude de dorsiflexão passiva do tornozelo com o joelho em extensão completa (posição que tensiona o gastrocnêmio, que cruza o joelho) e depois com o joelho fletido a 90 graus (posição que relaxa o gastrocnêmio, isolando a contribuição do sóleo). Se a dorsiflexão melhora significativamente com o joelho fletido, a contratura é predominantemente do gastrocnêmio (contratura isolada); se a limitação persiste em ambas as posições, sugere contratura combinada do complexo gastrocsóleo, o que direciona a escolha do procedimento cirúrgico de alongamento (recessão isolada do gastrocnêmio versus alongamento do tendão calcâneo).",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-077",
+      "tema": "Paralisia cerebral",
+      "enunciado": "Em relação à classificação topográfica e funcional da paralisia cerebral, a forma 'diplegia espástica' é caracterizada por:",
+      "alternativas": [
+        "Acometimento predominante dos quatro membros, com comprometimento mais grave dos membros superiores do que dos inferiores",
+        "Acometimento predominante dos membros inferiores, com comprometimento mais leve ou mínimo dos membros superiores, frequentemente associada a prematuridade e leucomalácia periventricular",
+        "Acometimento exclusivo de um hemicorpo",
+        "Ausência de qualquer componente espástico, predominando movimentos coreoatetóticos"
+      ],
+      "correta": 1,
+      "comentario": "A diplegia espástica é caracterizada pelo acometimento predominante dos membros inferiores, com envolvimento mais leve, mínimo ou ausente dos membros superiores, sendo classicamente associada a prematuridade e leucomalácia periventricular, uma lesão da substância branca periventricular que afeta preferencialmente as fibras motoras que controlam os membros inferiores devido à sua topografia anatômica no trajeto da cápsula interna. Diferencia-se da tetraplegia (quadriplegia) espástica, em que os quatro membros são comprometidos de forma mais equivalente ou com predomínio dos membros superiores, e da hemiplegia, que acomete um hemicorpo.",
+      "referencia": "Lovell & Winter's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-078",
+      "tema": "Paralisia cerebral",
+      "enunciado": "A toxina botulínica tipo A é amplamente utilizada no manejo da espasticidade focal em crianças com paralisia cerebral. Qual é a principal limitação dessa terapia, que justifica sua indicação preferencial em crianças mais jovens e com espasticidade dinâmica (ainda sem contratura fixa estabelecida)?",
+      "alternativas": [
+        "Seu efeito é permanente e irreversível, corrigindo definitivamente a espasticidade",
+        "Seu efeito é temporário (tipicamente 3 a 6 meses), não corrigindo contraturas fixas já estabelecidas, sendo mais eficaz em componentes dinâmicos e reversíveis da espasticidade",
+        "É contraindicada em qualquer criança abaixo de 10 anos",
+        "Deve ser aplicada exclusivamente por via oral"
+      ],
+      "correta": 1,
+      "comentario": "A toxina botulínica tipo A promove um bloqueio temporário e reversível da transmissão neuromuscular, com efeito clínico que dura tipicamente entre 3 e 6 meses, sendo eficaz principalmente sobre o componente dinâmico e ainda reversível da espasticidade muscular. Não tem efeito sobre contraturas fixas musculotendíneas já estabelecidas, que requerem outras intervenções (alongamento cirúrgico, gessos seriados). Por isso, é preferencialmente indicada em crianças mais jovens, antes do desenvolvimento de contraturas fixas, frequentemente associada a fisioterapia intensiva e uso de órteses durante a janela de efeito da toxina.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-079",
+      "tema": "Mielomeningocele",
+      "enunciado": "Criança com mielomeningocele e nível neurológico funcional em L4 (quadríceps funcionante, sem função de glúteo médio ou máximo) apresenta risco aumentado de qual deformidade progressiva do quadril?",
+      "alternativas": [
+        "Deformidade fixa em abdução do quadril, sem risco de luxação",
+        "Contratura em flexão do quadril com subluxação/luxação progressiva, por desequilíbrio entre flexores/adutores ativos e ausência de extensores/abdutores funcionantes",
+        "Genu recurvatum isolado do joelho, sem qualquer alteração de quadril",
+        "Pé plano valgo isolado, sem qualquer risco de quadril"
+      ],
+      "correta": 1,
+      "comentario": "Em níveis neurológicos como L4, os flexores e adutores do quadril (inervados por níveis lombares mais altos, como o iliopsoas e adutores) frequentemente mantêm função ativa, enquanto os extensores (glúteo máximo) e abdutores (glúteo médio) permanecem paralisados por dependerem de níveis sacrais/lombares mais baixos. Esse desequilíbrio muscular predispõe à contratura progressiva em flexão do quadril e favorece a subluxação ou luxação progressiva da cabeça femoral ao longo do crescimento, sendo um problema clássico de manejo ortopédico na mielomeningocele nesse nível.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "PED-080",
+      "tema": "Mielomeningocele",
+      "enunciado": "Criança com mielomeningocele apresenta edema, calor e eritema em torno do joelho após imobilização gessada recente para tratamento de uma fratura, sem febre significativa e sem dor referida (devido à anestesia da região). Esse quadro é mais compatível com:",
+      "alternativas": [
+        "Osteomielite bacteriana aguda",
+        "Fratura neuropática em consolidação, com resposta inflamatória local exuberante típica em áreas com sensibilidade comprometida",
+        "Artrite séptica do joelho",
+        "Trombose venosa profunda isolada"
+      ],
+      "correta": 1,
+      "comentario": "Crianças com mielomeningocele têm sensibilidade comprometida nos membros inferiores (dependendo do nível da lesão) e osso osteoporótico por desuso, tornando-as suscetíveis a fraturas que passam despercebidas inicialmente (por ausência de dor) e que evoluem com uma resposta inflamatória local exuberante durante a consolidação (calor, edema, eritema, às vezes até febre baixa), podendo simular clinicamente um quadro infeccioso (osteomielite ou artrite séptica). O diagnóstico diferencial cuidadoso, com radiografias, é fundamental para evitar investigações e tratamentos desnecessários voltados para infecção quando se trata, na verdade, de uma fratura neuropática em consolidação.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "PED-081",
+      "tema": "Mielomeningocele",
+      "enunciado": "O pé torto associado à mielomeningocele, quando comparado ao pé torto idiopático, apresenta classicamente qual característica que impacta o tratamento?",
+      "alternativas": [
+        "É sempre mais flexível e responde melhor ao método de Ponseti do que o pé torto idiopático",
+        "É tipicamente mais rígido, com maior taxa de recidiva, devido ao desequilíbrio muscular neurológico persistente e à ausência de sensibilidade protetora",
+        "Nunca necessita de qualquer tipo de tratamento",
+        "Ocorre exclusivamente em nível neurológico sacral baixo"
+      ],
+      "correta": 1,
+      "comentario": "O pé torto neurogênico associado à mielomeningocele tende a ser mais rígido e apresenta maior taxa de recidiva em comparação ao pé torto idiopático, mesmo quando tratado inicialmente pelo método de Ponseti (que pode ser tentado, com adaptações), devido ao desequilíbrio muscular persistente decorrente da paralisia parcial e ao contínuo crescimento assimétrico das forças musculares ativas remanescentes. Além disso, a ausência de sensibilidade protetora exige cuidados especiais durante o uso de gessos e órteses, para evitar lesões cutâneas por pressão que passariam despercebidas pela criança.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-082",
+      "tema": "Mielomeningocele",
+      "enunciado": "Em relação ao tratamento da luxação do quadril em crianças com mielomeningocele e nível neurológico torácico alto (sem qualquer função motora funcional nos membros inferiores), qual é a conduta geralmente mais aceita atualmente?",
+      "alternativas": [
+        "Redução cirúrgica agressiva obrigatória em todos os casos, independentemente do nível neurológico",
+        "Frequentemente não se opera a luxação em si, priorizando manter a mobilidade articular e prevenir contraturas, já que o quadril luxado tende a ser indolor e não compromete significativamente a função de deambulação (geralmente já limitada ou ausente nesse nível)",
+        "Amputação bilateral dos membros inferiores",
+        "Artrodese bilateral do quadril em todos os casos"
+      ],
+      "correta": 1,
+      "comentario": "Em crianças com mielomeningocele de nível neurológico torácico alto (sem função motora relevante nos membros inferiores), a luxação do quadril, quando presente, é frequentemente indolor e não compromete significativamente a função, já que a capacidade de deambulação nesse nível é geralmente muito limitada ou inexistente, dependendo primariamente de órteses extensas e dispositivos assistivos. Por isso, a tendência atual é não submeter essas crianças a cirurgias extensas de redução do quadril, priorizando a prevenção de contraturas e a manutenção de mobilidade articular passiva para facilitar cuidados de higiene e posicionamento, reservando intervenções cirúrgicas mais agressivas para níveis neurológicos mais baixos, com maior potencial de deambulação funcional.",
+      "referencia": "Lovell & Winter's Pediatric Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "PED-083",
+      "tema": "Torcicolo congênito",
+      "enunciado": "Recém-nascido de 3 semanas, parto pélvico, apresenta massa palpável fusiforme no terço médio do músculo esternocleidomastóideo direito, com inclinação da cabeça para a direita e rotação do queixo para a esquerda. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        "Torcicolo muscular congênito",
+        "Síndrome de Klippel-Feil",
+        "Torcicolo ocular por paralisia do nervo troclear",
+        "Tumor cervical maligno primário"
+      ],
+      "correta": 0,
+      "comentario": "O torcicolo muscular congênito é a causa mais comum de torcicolo no recém-nascido, caracterizado pela presença de uma massa fibrótica fusiforme (chamada 'tumor do esternocleidomastóideo'), geralmente palpável no terço médio ou inferior do músculo entre a segunda e a quarta semana de vida, associada à inclinação da cabeça para o lado acometido e rotação do queixo para o lado oposto, decorrente de encurtamento/fibrose do músculo esternocleidomastóideo. Está associado a fatores de posicionamento intrauterino (apresentação pélvica, gestação múltipla) e deve motivar rastreamento para displasia do desenvolvimento do quadril associada.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "PED-084",
+      "tema": "Torcicolo congênito",
+      "enunciado": "Diante do diagnóstico de torcicolo muscular congênito em um lactente, qual outra condição musculoesquelética deve ser ativamente pesquisada, pela associação epidemiológica reconhecida?",
+      "alternativas": [
+        "Displasia do desenvolvimento do quadril",
+        "Osteogênese imperfeita",
+        "Doença de Legg-Calvé-Perthes",
+        "Epifisiólise femoral proximal"
+      ],
+      "correta": 0,
+      "comentario": "Há uma associação epidemiológica bem estabelecida entre torcicolo muscular congênito e displasia do desenvolvimento do quadril, possivelmente relacionada a fatores mecânicos intrauterinos comuns (como apresentação pélvica e restrição de espaço intrauterino) que predispõem a ambas as condições simultaneamente. Por esse motivo, todo lactente diagnosticado com torcicolo muscular congênito deve ser cuidadosamente examinado quanto à estabilidade dos quadris, com investigação por ultrassonografia quando houver dúvida clínica ou fatores de risco adicionais, para não perder a janela de tratamento precoce da displasia.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-085",
+      "tema": "Torcicolo congênito",
+      "enunciado": "O tratamento de primeira linha para o torcicolo muscular congênito diagnosticado precocemente, antes de 1 ano de idade, é:",
+      "alternativas": [
+        "Cirurgia de liberação do esternocleidomastóideo imediatamente ao diagnóstico",
+        "Fisioterapia com alongamento passivo do músculo esternocleidomastóideo e orientações posturais/ambientais",
+        "Uso de colar cervical rígido contínuo por 2 anos",
+        "Toxina botulínica isolada, sem qualquer fisioterapia associada"
+      ],
+      "correta": 1,
+      "comentario": "O tratamento de primeira linha para o torcicolo muscular congênito, especialmente quando diagnosticado precocemente (idealmente nos primeiros meses de vida), consiste em fisioterapia com exercícios de alongamento passivo do músculo esternocleidomastóideo encurtado, associada a orientações posturais e ambientais (como posicionamento de brinquedos e do berço para estimular a rotação ativa da cabeça para o lado oposto). A grande maioria dos casos responde bem a essa abordagem conservadora quando iniciada precocemente, sendo a cirurgia reservada para casos refratários que persistem além de 1 a 2 anos de idade, com deformidade residual significativa.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "PED-086",
+      "tema": "Torcicolo congênito",
+      "enunciado": "Lactente de 4 meses apresenta torcicolo, porém sem massa palpável no esternocleidomastóideo e sem melhora com fisioterapia, associado a nistagmo e preferência postural apenas quando acordado. Esse quadro levanta suspeita de qual diagnóstico diferencial importante do torcicolo muscular congênito?",
+      "alternativas": [
+        "Torcicolo ocular, por disfunção da musculatura extraocular (por exemplo, paralisia do nervo troclear)",
+        "Torcicolo muscular congênito típico",
+        "Displasia do desenvolvimento do quadril isolada",
+        "Osgood-Schlatter"
+      ],
+      "correta": 0,
+      "comentario": "A ausência de massa palpável no esternocleidomastóideo, a falta de resposta à fisioterapia direcionada e a presença de sinais oculares associados (como nistagmo, estrabismo ou preferência postural que desaparece durante o sono) devem levantar suspeita de torcicolo ocular, decorrente de disfunções da musculatura extraocular (por exemplo, paralisia do nervo troclear ou estrabismo), no qual a inclinação da cabeça é uma postura compensatória para otimizar a visão binocular e minimizar diplopia. Outros diagnósticos diferenciais importantes de torcicolo não muscular incluem anomalias vertebrais cervicais (síndrome de Klippel-Feil), massas ou tumores da fossa posterior e refluxo gastroesofágico (síndrome de Sandifer), todos exigindo investigação direcionada quando os achados típicos do torcicolo muscular congênito estão ausentes.",
+      "referencia": "Lovell & Winter's Pediatric Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "PED-087",
+      "tema": "Sinovite transitória e artrite séptica do quadril",
+      "enunciado": "Criança de 4 anos apresenta claudicação e dor em quadril direito há 2 dias, com temperatura axilar de 37,4°C, consegue deambular com discreta claudicação, VHS de 15 mm/h e leucócitos de 9.500/mm³. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        "Artrite séptica do quadril",
+        "Sinovite transitória do quadril",
+        "Osteomielite do fêmur proximal",
+        "Doença de Legg-Calvé-Perthes em fase aguda"
+      ],
+      "correta": 1,
+      "comentario": "O quadro descrito, com febre baixa ou ausente, capacidade de deambulação preservada (ainda que com claudicação), VHS e leucometria normais ou discretamente alterados, é mais compatível com sinovite transitória do quadril, a causa mais comum de dor e claudicação aguda do quadril em crianças pequenas, geralmente autolimitada e frequentemente precedida por infecção viral de vias aéreas superiores. Os critérios de Kocher (febre maior que 38,5°C, incapacidade de sustentar peso, VHS maior que 40 mm/h e leucometria maior que 12.000/mm³) ajudam a diferenciar esse quadro benigno da artrite séptica, mais grave.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "PED-088",
+      "tema": "Sinovite transitória e artrite séptica do quadril",
+      "enunciado": "Os critérios clínicos e laboratoriais de Kocher para diferenciação entre artrite séptica e sinovite transitória do quadril em crianças incluem todos os seguintes, EXCETO:",
+      "alternativas": [
+        "Incapacidade de sustentar peso no membro afetado",
+        "Temperatura maior que 38,5°C",
+        "Velocidade de hemossedimentação (VHS) maior que 40 mm/h",
+        "Proteína C reativa (PCR) maior que 20 mg/L"
+      ],
+      "correta": 3,
+      "comentario": "Os critérios originais de Kocher para predição de artrite séptica do quadril incluem quatro variáveis: febre maior que 38,5°C, incapacidade de sustentar peso no membro afetado, velocidade de hemossedimentação (VHS) maior que 40 mm/h e contagem de leucócitos séricos maior que 12.000/mm³. A proteína C reativa (PCR) não fazia parte dos critérios originais de Kocher, mas foi posteriormente incorporada em modelos preditivos modificados (como o de Caird e colaboradores), que acrescentaram a PCR maior que 20 mg/L como quinto critério, aumentando a acurácia diagnóstica do modelo preditivo.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-089",
+      "tema": "Sinovite transitória e artrite séptica do quadril",
+      "enunciado": "Segundo o modelo original de Kocher, uma criança que apresenta todos os quatro critérios (febre >38,5°C, incapacidade de sustentar peso, VHS>40 e leucometria>12.000) tem qual probabilidade estimada de artrite séptica do quadril?",
+      "alternativas": [
+        "Menos de 5%",
+        "Aproximadamente 50%",
+        "Acima de 90% (probabilidade muito alta)",
+        "Exatamente 0%, pois os critérios excluem infecção"
+      ],
+      "correta": 2,
+      "comentario": "No modelo preditivo original de Kocher, a presença de todos os quatro critérios (febre maior que 38,5°C, incapacidade de sustentar peso, VHS maior que 40 mm/h e leucometria maior que 12.000/mm³) está associada a uma probabilidade estimada de artrite séptica do quadril superior a 90%, indicando altíssima suspeita e justificando avaliação urgente para aspiração articular e provável drenagem cirúrgica. A presença de nenhum critério associa-se a probabilidade muito baixa, enquanto a presença de 2 ou 3 critérios coloca o paciente em uma zona de risco intermediário, exigindo avaliação clínica individualizada complementar, muitas vezes com auxílio de exames de imagem (ultrassonografia, ressonância magnética) e reavaliação seriada.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "PED-090",
+      "tema": "Sinovite transitória e artrite séptica do quadril",
+      "enunciado": "Qual é o microrganismo mais frequentemente implicado como agente etiológico da artrite séptica do quadril em crianças maiores de 2-4 anos, de forma geral?",
+      "alternativas": [
+        "Staphylococcus aureus",
+        "Mycobacterium tuberculosis",
+        "Neisseria gonorrhoeae",
+        "Candida albicans"
+      ],
+      "correta": 0,
+      "comentario": "O Staphylococcus aureus é o agente etiológico mais comum da artrite séptica em crianças de forma geral, incluindo o quadril, em praticamente todas as faixas etárias pediátricas além do período neonatal. Em crianças menores de 4 anos, a Kingella kingae tem ganhado reconhecimento crescente como agente etiológico relevante, frequentemente subdiagnosticado por métodos de cultura convencionais, sendo mais bem identificada por técnicas de PCR. Streptococcus pyogenes e Streptococcus pneumoniae também são agentes relevantes, enquanto microrganismos incomuns (Neisseria gonorrhoeae, micobactérias) são considerados em contextos epidemiológicos específicos.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "PED-091",
+      "tema": "Sinovite transitória e artrite séptica do quadril",
+      "enunciado": "Diante de forte suspeita clínica de artrite séptica do quadril em uma criança, com critérios de Kocher elevados, qual é a conduta definitiva mais apropriada, além do início de antibioticoterapia?",
+      "alternativas": [
+        "Observação clínica ambulatorial por 72 horas antes de qualquer intervenção",
+        "Aspiração articular guiada por imagem para análise do líquido sinovial e, se confirmada infecção, drenagem cirúrgica (artrotomia ou artroscopia) urgente do quadril",
+        "Uso exclusivo de anti-inflamatórios não esteroidais, sem necessidade de antibiótico",
+        "Imobilização gessada isolada, sem qualquer procedimento invasivo"
+      ],
+      "correta": 1,
+      "comentario": "Diante de forte suspeita de artrite séptica do quadril, a conduta definitiva envolve aspiração articular (idealmente guiada por ultrassonografia ou fluoroscopia) para confirmação diagnóstica com análise do líquido sinovial (celularidade, Gram, cultura), seguida de drenagem cirúrgica urgente (artrotomia aberta ou artroscopia) quando confirmada infecção, associada a antibioticoterapia endovenosa empírica de amplo espectro, ajustada posteriormente conforme resultado de cultura. A urgência do tratamento decorre do risco de necrose avascular da cabeça femoral e destruição condral irreversível causadas pela pressão intra-articular aumentada e por enzimas proteolíticas bacterianas, especialmente relevante no quadril pela vascularização epifisária intra-articular vulnerável.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-092",
+      "tema": "Sinovite transitória e artrite séptica do quadril",
+      "enunciado": "Qual exame de imagem é particularmente útil para identificar derrame articular no quadril de uma criança com suspeita de artrite séptica, além de guiar a aspiração articular?",
+      "alternativas": [
+        "Radiografia simples de bacia isoladamente, sempre suficiente para diagnóstico",
+        "Ultrassonografia do quadril",
+        "Radiografia de tórax",
+        "Densitometria óssea"
+      ],
+      "correta": 1,
+      "comentario": "A ultrassonografia do quadril é um exame rápido, disponível à beira do leito e sem radiação, particularmente sensível para detectar derrame articular no quadril, sendo amplamente utilizada tanto para confirmar a presença de líquido intra-articular (que sugere processo inflamatório/infeccioso, embora não diferencie etiologia por si só) quanto para guiar a aspiração articular com maior segurança e precisão. A radiografia simples pode mostrar sinais indiretos sutis (como alargamento do espaço articular ou deslocamento de planos gordurosos), mas tem menor sensibilidade para derrames pequenos comparada à ultrassonografia.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-093",
+      "tema": "Sinovite transitória e artrite séptica do quadril",
+      "enunciado": "A ressonância magnética é particularmente útil na avaliação de crianças com suspeita de artrite séptica do quadril quando se deseja investigar concomitantemente:",
+      "alternativas": [
+        "Osteomielite associada da metáfise ou epífise femoral proximal adjacente",
+        "Fratura de estresse do colo femoral contralateral",
+        "Displasia acetabular residual",
+        "Anteversão femoral excessiva"
+      ],
+      "correta": 0,
+      "comentario": "A ressonância magnética é um exame de alta sensibilidade para identificar edema ósseo e coleções associadas, sendo particularmente útil quando há suspeita concomitante de osteomielite da metáfise ou epífise femoral proximal adjacente à articulação do quadril, condição que pode coexistir com a artrite séptica (osteoartrite), especialmente em lactentes e crianças pequenas, nos quais vasos transfisários ainda permitem comunicação entre metáfise e epífise. A identificação de osteomielite associada pode alterar a extensão do tratamento cirúrgico e a duração da antibioticoterapia necessária.",
+      "referencia": "Lovell & Winter's Pediatric Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "PED-094",
+      "tema": "Sinovite transitória e artrite séptica do quadril",
+      "enunciado": "Após tratamento conservador (repouso e anti-inflamatórios) para sinovite transitória do quadril, uma criança de 5 anos apresenta resolução completa dos sintomas em 7 dias. Qual é a orientação mais apropriada em relação ao seguimento?",
+      "alternativas": [
+        "Nenhum seguimento é necessário, pois a sinovite transitória nunca recidiva nem tem relação com outras doenças do quadril",
+        "Orientar os pais sobre a possibilidade de recidiva (que ocorre em uma minoria de casos) e sobre a raríssima associação temporal com o desenvolvimento subsequente de doença de Legg-Calvé-Perthes, justificando reavaliação se os sintomas recorrerem ou persistirem",
+        "Indicar artroscopia de quadril de rotina para todos os casos tratados",
+        "Iniciar bisfosfonato profilático para prevenir Perthes"
+      ],
+      "correta": 1,
+      "comentario": "Embora a sinovite transitória do quadril seja uma condição benigna e autolimitada na grande maioria dos casos, é importante orientar a família sobre a possibilidade de recidiva (relatada em uma minoria dos pacientes) e sobre a associação, ainda que rara, entre sinovite transitória e o desenvolvimento subsequente de doença de Legg-Calvé-Perthes em uma pequena proporção de crianças, o que justifica orientação para retorno médico caso os sintomas persistam além do esperado (geralmente resolvem em até 1-2 semanas) ou recorram, permitindo investigação radiográfica adicional se necessário.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-095",
+      "tema": "Osteocondrites e apofisites de tração",
+      "enunciado": "Adolescente de 13 anos, praticante de basquete, apresenta dor e proeminência dolorosa na tuberosidade anterior da tíbia, piorada com atividade física e agachamentos, sem sinais sistêmicos. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        "Doença de Osgood-Schlatter",
+        "Doença de Sever",
+        "Doença de Köhler",
+        "Osteocondrite dissecante do joelho"
+      ],
+      "correta": 0,
+      "comentario": "A doença de Osgood-Schlatter é uma apofisite de tração da tuberosidade anterior da tíbia, decorrente de microtraumas repetitivos pela tração do tendão patelar durante atividades físicas de impacto e agachamentos, comum em adolescentes ativos durante o estirão de crescimento (tipicamente entre 10 e 15 anos). Caracteriza-se por dor localizada e proeminência óssea sensível na tuberosidade tibial anterior, piorando com atividade e aliviando com repouso, sendo uma condição autolimitada que geralmente resolve com a maturidade esquelética, tratada conservadoramente com modificação de atividades, alongamento do quadríceps e, se necessário, imobilização temporária em casos mais sintomáticos.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "PED-096",
+      "tema": "Osteocondrites e apofisites de tração",
+      "enunciado": "Criança de 9 anos, corredora, apresenta dor no calcanhar, mais intensa ao correr e pular, com dor à compressão látero-medial do calcâneo, sem edema significativo ou sinais inflamatórios sistêmicos. Qual é o diagnóstico mais provável e a conduta inicial recomendada?",
+      "alternativas": [
+        "Doença de Sever (apofisite calcânea), tratada com repouso relativo, alongamento do tríceps sural e uso de calcanheira/palmilha de amortecimento",
+        "Fratura de estresse do calcâneo, exigindo imobilização gessada por 8 semanas",
+        "Osteomielite do calcâneo, exigindo antibioticoterapia endovenosa imediata",
+        "Tendinite do tibial posterior"
+      ],
+      "correta": 0,
+      "comentario": "A doença de Sever é uma apofisite de tração do calcâneo, comum em crianças e pré-adolescentes ativos (geralmente entre 8 e 12 anos), especialmente na fase de crescimento rápido, associada a atividades de impacto repetitivo (corrida, saltos). O achado característico é a dor à compressão látero-medial do calcâneo (squeeze test), sem sinais sistêmicos de infecção. O tratamento é conservador, com repouso relativo de atividades de impacto, alongamento do tríceps sural, uso de calcanheira de amortecimento ou palmilha com elevação do calcanhar, sendo uma condição autolimitada que resolve com a fusão da apófise calcânea.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "PED-097",
+      "tema": "Osteocondrites e apofisites de tração",
+      "enunciado": "Menino de 5 anos apresenta claudicação intermitente e dor leve no mediopé, com radiografia mostrando esclerose e achatamento do osso navicular do tarso, sem história de trauma agudo. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        "Doença de Köhler (osteocondrose do navicular tarsal)",
+        "Doença de Freiberg",
+        "Doença de Panner",
+        "Doença de Blount"
+      ],
+      "correta": 0,
+      "comentario": "A doença de Köhler é uma osteonecrose idiopática autolimitada do osso navicular do tarso, mais comum em meninos entre 4 e 7 anos, manifestando-se com dor leve a moderada no mediopé, claudicação intermitente e, radiograficamente, esclerose, achatamento e fragmentação do navicular. É uma condição benigna e autolimitada, geralmente tratada de forma conservadora com modificação de atividades, uso de palmilha de suporte do arco e, em casos mais sintomáticos, imobilização gessada temporária por curto período, com bom prognóstico funcional e reconstituição radiográfica do osso ao longo do tempo.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-098",
+      "tema": "Osteocondrites e apofisites de tração",
+      "enunciado": "Adolescente do sexo feminino, 13 anos, apresenta dor localizada na região da cabeça do segundo metatarso, piorada ao uso de sapatos de salto ou atividades com apoio prolongado no antepé, com radiografia mostrando achatamento e esclerose da cabeça do segundo metatarso. Esse quadro é compatível com:",
+      "alternativas": [
+        "Doença de Freiberg (osteonecrose da cabeça do segundo ou terceiro metatarso)",
+        "Doença de Sever",
+        "Fratura de estresse do calcâneo",
+        "Neuroma de Morton"
+      ],
+      "correta": 0,
+      "comentario": "A doença de Freiberg é uma osteonecrose da cabeça de um metatarsiano, mais frequentemente o segundo (podendo também acometer o terceiro), predominando em adolescentes do sexo feminino, geralmente associada a sobrecarga mecânica repetitiva sobre o antepé (uso de calçados de salto alto, atividades esportivas de impacto no antepé). Radiograficamente observa-se achatamento, esclerose e eventual fragmentação da cabeça metatarsal acometida. O tratamento inicial é conservador, com modificação de atividades e calçados, órteses de descarga do antepé, reservando-se cirurgia para casos refratários com dor persistente e alterações degenerativas articulares.",
+      "referencia": "Lovell & Winter's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "PED-099",
+      "tema": "Osteocondrites e apofisites de tração",
+      "enunciado": "Criança de 8 anos apresenta dor lateral no cotovelo, com radiografia mostrando esclerose e irregularidade do núcleo de ossificação do capítulo umeral, sem fragmentação significativa nem corpos livres intra-articulares. Esse quadro é mais compatível com:",
+      "alternativas": [
+        "Doença de Panner (osteocondrose do capítulo umeral)",
+        "Osteocondrite dissecante do capítulo umeral",
+        "Epicondilite lateral do cotovelo do adulto",
+        "Fratura do côndilo lateral do úmero"
+      ],
+      "correta": 0,
+      "comentario": "A doença de Panner é uma osteonecrose idiopática autolimitada do núcleo de ossificação do capítulo umeral, tipicamente acometendo crianças mais jovens (entre 5 e 10 anos), caracterizada por esclerose e irregularidade radiográfica do capítulo, geralmente sem fragmentação significativa ou formação de corpos livres intra-articulares, diferentemente da osteocondrite dissecante do capítulo umeral, que acomete adolescentes mais velhos (geralmente acima de 10-12 anos), frequentemente atletas de arremesso, e pode evoluir com fragmentação, instabilidade da lesão e formação de corpos livres intra-articulares, exigindo por vezes tratamento cirúrgico. A doença de Panner, por sua vez, geralmente tem excelente prognóstico com tratamento conservador.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "PED-100",
+      "tema": "Osteocondrites e apofisites de tração",
+      "enunciado": "Adolescente de 11 anos, ativo, apresenta dor localizada no polo inferior da patela, piorada com atividades de salto e corrida, com radiografia mostrando fragmentação e irregularidade do polo inferior da patela, sem outras alterações. Esse quadro é mais compatível com:",
+      "alternativas": [
+        "Doença de Sinding-Larsen-Johansson (apofisite de tração do polo inferior da patela)",
+        "Doença de Osgood-Schlatter",
+        "Condromalácia patelar do adulto",
+        "Luxação recidivante de patela"
+      ],
+      "correta": 0,
+      "comentario": "A doença de Sinding-Larsen-Johansson é uma apofisite de tração localizada no polo inferior da patela, no ponto de origem do tendão patelar, decorrente de microtraumas repetitivos por tração excessiva durante atividades de salto e corrida em adolescentes ativos, sendo considerada um análogo anatômico da doença de Osgood-Schlatter, porém localizado na patela em vez da tuberosidade tibial. O quadro clínico e radiográfico (fragmentação e irregularidade do polo inferior da patela) é semelhante em fisiopatologia à Osgood-Schlatter, e o tratamento também é conservador, com modificação de atividades, alongamento do quadríceps e uso eventual de faixa infrapatelar, com resolução esperada ao final do crescimento.",
+      "referencia": "Tachdjian's Pediatric Orthopaedics",
+      "dificuldade": "media"
+    }
+  ]
+}
