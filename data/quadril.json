@@ -19,7 +19,7 @@
     },
     {
       "id": "QUA-002",
-      "tema": "Impacto femoroacetafural",
+      "tema": "Impacto femoroacetabular",
       "enunciado": "Radiografia em incidência de Dunn modificada de um paciente com dor inguinal mostra perda do off-set entre a cabeça e o colo femoral, com aspecto de 'cabo de pistola' (pistol-grip deformity). Esse achado é característico de qual tipo de impacto femoroacetabular?",
       "alternativas": [
         "Impacto tipo pincer puro",
@@ -135,7 +135,7 @@
       "correta": 1,
       "comentario": "O alfa-ângulo quantifica a assimetria da junção cabeça-colo: traça-se um círculo que melhor se ajusta à cabeça femoral e mede-se o ângulo entre o eixo do colo e a linha que liga o centro da cabeça ao ponto em que o contorno ósseo ultrapassa esse círculo. Valores acima de 55-60° (a depender da incidência) sugerem deformidade tipo CAM, mas o diagnóstico de impacto é clínico-radiográfico, não apenas radiográfico isolado, já que a deformidade pode ser assintomática em parte da população.",
       "referencia": "Campbell's Operative Orthopaedics",
-      "dificuldade": "media"
+      "dificuldade": "facil"
     },
     {
       "id": "QUA-010",
@@ -185,21 +185,6 @@
     {
       "id": "QUA-013",
       "tema": "Impacto femoroacetabular",
-      "enunciado": "Em relação à via de acesso cirúrgica aberta clássica descrita por Ganz (luxação cirúrgica segura do quadril) para tratamento de IFA complexo, qual é o princípio fundamental que permite a preservação vascular da cabeça femoral?",
-      "alternativas": [
-        "Osteotomia trocantérica digástrica preservando o pedículo posterior (artéria circunflexa femoral medial) através do tendão do obturador externo",
-        "Secção completa dos músculos rotadores externos curtos",
-        "Abordagem anterior direta com capsulotomia extensa sem osteotomia trocantérica",
-        "Ligadura proposital da artéria circunflexa femoral lateral"
-      ],
-      "correta": 0,
-      "comentario": "A técnica de luxação cirúrgica segura descrita por Ganz utiliza uma osteotomia trocantérica digástrica (flip osteotomy) que mantém a inserção dos músculos glúteo médio/mínimo e vasto lateral em continuidade, preservando o pedículo vascular posterior — a artéria circunflexa femoral medial — que trafega próximo ao tendão do obturador externo. Isso permite ampla exposição articular com baixo risco de osteonecrose, sendo referência histórica para o tratamento aberto de deformidades complexas de IFA.",
-      "referencia": "Campbell's Operative Orthopaedics",
-      "dificuldade": "dificil"
-    },
-    {
-      "id": "QUA-014",
-      "tema": "Impacto femoroacetabular",
       "enunciado": "Paciente com impacto tipo CAM é submetido à artroscopia de quadril. No pós-operatório imediato, qual orientação de reabilitação é geralmente recomendada para proteger o reparo labral e a osteoplastia?",
       "alternativas": [
         "Carga total imediata e retorno ao esporte em 1 semana",
@@ -213,7 +198,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-015",
+      "id": "QUA-014",
       "tema": "Impacto femoroacetabular",
       "enunciado": "Qual é a principal limitação da classificação de Tönnis na avaliação pré-operatória de pacientes com impacto femoroacetabular candidatos à preservação articular?",
       "alternativas": [
@@ -228,7 +213,7 @@
       "dificuldade": "dificil"
     },
     {
-      "id": "QUA-016",
+      "id": "QUA-015",
       "tema": "Impacto femoroacetabular",
       "enunciado": "Um homem de 35 anos com IFA tipo CAM leve e cobertura acetabular normal apresenta dor articular ocasional, sem limitação funcional significativa e sem sinais de artrose na radiografia. Qual é a conduta inicial mais apropriada?",
       "alternativas": [
@@ -243,7 +228,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-017",
+      "id": "QUA-016",
       "tema": "Displasia do quadril no adulto",
       "enunciado": "Mulher de 26 anos com dor inguinal e claudicação leve. Radiografia de bacia mostra ângulo centro-borda lateral de Wiberg de 12°. Esse achado é compatível com qual diagnóstico?",
       "alternativas": [
@@ -258,7 +243,7 @@
       "dificuldade": "facil"
     },
     {
-      "id": "QUA-018",
+      "id": "QUA-017",
       "tema": "Displasia do quadril no adulto",
       "enunciado": "Qual índice radiográfico avalia a inclinação do teto acetabular (obliquidade) e é utilizado tanto em crianças quanto, de forma adaptada, na avaliação de displasia residual do adulto?",
       "alternativas": [
@@ -270,10 +255,10 @@
       "correta": 0,
       "comentario": "O índice acetabular (ou ângulo do teto acetabular/ângulo de Tönnis) mede a obliquidade do teto acetabular em relação a uma linha horizontal de referência, sendo fundamental na avaliação da displasia do desenvolvimento do quadril e de sua repercussão residual no adulto. O índice de Böhler é usado no calcâneo, o ângulo de Baumann no cotovelo pediátrico e o ângulo de Cobb na avaliação de escoliose.",
       "referencia": "Campbell's Operative Orthopaedics",
-      "dificuldade": "media"
+      "dificuldade": "facil"
     },
     {
-      "id": "QUA-019",
+      "id": "QUA-018",
       "tema": "Displasia do quadril no adulto",
       "enunciado": "Mulher de 24 anos com displasia acetabular sintomática (CE lateral de 15°), sem artrose (Tönnis 0), com boa congruência articular e cartilagem preservada na RM. Qual é o tratamento cirúrgico de escolha para redirecionar a cobertura acetabular e preservar a articulação nativa?",
       "alternativas": [
@@ -288,7 +273,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-020",
+      "id": "QUA-019",
       "tema": "Displasia do quadril no adulto",
       "enunciado": "Qual é a principal vantagem da osteotomia periacetabular de Bernese em comparação a outras osteotomias pélvicas mais antigas no tratamento da displasia do adulto jovem?",
       "alternativas": [
@@ -303,7 +288,7 @@
       "dificuldade": "dificil"
     },
     {
-      "id": "QUA-021",
+      "id": "QUA-020",
       "tema": "Displasia do quadril no adulto",
       "enunciado": "Homem de 45 anos com displasia acetabular não tratada na infância evolui com dor crônica e radiografia mostrando Tönnis grau 3, com colapso articular avançado. Nesse estágio, qual é a conduta mais apropriada?",
       "alternativas": [
@@ -318,7 +303,7 @@
       "dificuldade": "facil"
     },
     {
-      "id": "QUA-022",
+      "id": "QUA-021",
       "tema": "Displasia do quadril no adulto",
       "enunciado": "Durante o planejamento de uma artroplastia total do quadril em paciente com displasia de Crowe tipo IV (luxação alta), qual é uma preocupação técnica importante relacionada ao comprimento do membro e às estruturas neurovasculares?",
       "alternativas": [
@@ -333,7 +318,7 @@
       "dificuldade": "dificil"
     },
     {
-      "id": "QUA-023",
+      "id": "QUA-022",
       "tema": "Displasia do quadril no adulto",
       "enunciado": "Na classificação de Crowe para displasia do quadril no adulto, o grau é determinado principalmente por qual parâmetro?",
       "alternativas": [
@@ -348,7 +333,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-024",
+      "id": "QUA-023",
       "tema": "Displasia do quadril no adulto",
       "enunciado": "Qual achado é característico do quadril displásico do adulto quando comparado ao quadril normal, relevante para o planejamento de componentes acetabulares na artroplastia?",
       "alternativas": [
@@ -363,7 +348,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-025",
+      "id": "QUA-024",
       "tema": "Displasia do quadril no adulto",
       "enunciado": "Sobre a osteotomia periacetabular de Bernese, qual estrutura neurovascular está em risco durante a osteotomia isquiática e deve ser cuidadosamente protegida?",
       "alternativas": [
@@ -378,7 +363,7 @@
       "dificuldade": "dificil"
     },
     {
-      "id": "QUA-026",
+      "id": "QUA-025",
       "tema": "Displasia do quadril no adulto",
       "enunciado": "Mulher de 30 anos com displasia leve bilateral (CE de 18° à direita) é assintomática e realiza corrida recreativa. Radiografia sem sinais de artrose. Qual é a conduta mais adequada neste momento?",
       "alternativas": [
@@ -393,7 +378,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-027",
+      "id": "QUA-026",
       "tema": "Osteonecrose da cabeça femoral",
       "enunciado": "Qual das opções a seguir é o fator de risco mais classicamente associado à osteonecrose atraumática da cabeça femoral?",
       "alternativas": [
@@ -408,7 +393,7 @@
       "dificuldade": "facil"
     },
     {
-      "id": "QUA-028",
+      "id": "QUA-027",
       "tema": "Osteonecrose da cabeça femoral",
       "enunciado": "Paciente com osteonecrose da cabeça femoral apresenta radiografia normal, porém RM evidencia lesão em banda subcondral com edema ósseo, sem colapso da cabeça femoral. Segundo a classificação de Ficat e Arlet modificada, esse estágio corresponde a:",
       "alternativas": [
@@ -423,7 +408,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-029",
+      "id": "QUA-028",
       "tema": "Osteonecrose da cabeça femoral",
       "enunciado": "Qual achado radiográfico define o estágio III de Ficat e Arlet na osteonecrose da cabeça femoral?",
       "alternativas": [
@@ -438,7 +423,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-030",
+      "id": "QUA-029",
       "tema": "Osteonecrose da cabeça femoral",
       "enunciado": "Homem de 34 anos com osteonecrose bilateral da cabeça femoral, Ficat I-II, sem colapso, área de acometimento pequena a média (segundo classificação de extensão), com dor moderada. Qual é a opção terapêutica cirúrgica mais indicada nesse estágio para tentar preservar a articulação?",
       "alternativas": [
@@ -453,7 +438,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-031",
+      "id": "QUA-030",
       "tema": "Osteonecrose da cabeça femoral",
       "enunciado": "Qual é o principal determinante prognóstico relacionado ao risco de colapso da cabeça femoral na osteonecrose, além do estágio de Ficat/ARCO?",
       "alternativas": [
@@ -468,7 +453,7 @@
       "dificuldade": "dificil"
     },
     {
-      "id": "QUA-032",
+      "id": "QUA-031",
       "tema": "Osteonecrose da cabeça femoral",
       "enunciado": "Em relação à classificação ARCO (Association Research Circulation Osseous) para osteonecrose da cabeça femoral, qual é a principal diferença em relação à classificação de Ficat e Arlet original?",
       "alternativas": [
@@ -483,7 +468,7 @@
       "dificuldade": "dificil"
     },
     {
-      "id": "QUA-033",
+      "id": "QUA-032",
       "tema": "Osteonecrose da cabeça femoral",
       "enunciado": "Paciente com osteonecrose Ficat IV bilateral, com achatamento importante da cabeça femoral, estreitamento do espaço articular e dor incapacitante. Qual é o tratamento definitivo mais indicado?",
       "alternativas": [
@@ -498,7 +483,7 @@
       "dificuldade": "facil"
     },
     {
-      "id": "QUA-034",
+      "id": "QUA-033",
       "tema": "Osteonecrose da cabeça femoral",
       "enunciado": "Qual doença hematológica é classicamente associada a maior risco de osteonecrose da cabeça femoral, frequentemente bilateral e em pacientes jovens?",
       "alternativas": [
@@ -513,7 +498,7 @@
       "dificuldade": "facil"
     },
     {
-      "id": "QUA-035",
+      "id": "QUA-034",
       "tema": "Osteonecrose da cabeça femoral",
       "enunciado": "Sobre a fisiopatologia da osteonecrose induzida por corticosteroides, qual mecanismo é mais aceito atualmente?",
       "alternativas": [
@@ -528,7 +513,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-036",
+      "id": "QUA-035",
       "tema": "Osteonecrose da cabeça femoral",
       "enunciado": "Homem de 40 anos, mergulhador profissional, desenvolve osteonecrose bilateral da cabeça femoral. Qual é o mecanismo fisiopatológico mais provável relacionado à sua atividade?",
       "alternativas": [
@@ -543,7 +528,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-037",
+      "id": "QUA-036",
       "tema": "Osteonecrose da cabeça femoral",
       "enunciado": "Em relação à descompressão do núcleo (core decompression) para osteonecrose pré-colapso, qual afirmação está correta quanto aos resultados esperados?",
       "alternativas": [
@@ -558,7 +543,7 @@
       "dificuldade": "dificil"
     },
     {
-      "id": "QUA-038",
+      "id": "QUA-037",
       "tema": "Osteonecrose da cabeça femoral",
       "enunciado": "Paciente jovem com osteonecrose segmentar pequena, Ficat II, localizada na porção medial (não relacionada à área principal de carga), assintomática, descoberta em investigação de dor no quadril contralateral. Qual conduta é mais apropriada?",
       "alternativas": [
@@ -573,7 +558,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-039",
+      "id": "QUA-038",
       "tema": "Artrose do quadril",
       "enunciado": "Qual é o achado radiográfico clássico de osteoartrose do quadril em incidência AP de bacia?",
       "alternativas": [
@@ -588,7 +573,7 @@
       "dificuldade": "facil"
     },
     {
-      "id": "QUA-040",
+      "id": "QUA-039",
       "tema": "Artrose do quadril",
       "enunciado": "Homem de 58 anos com dor inguinal mecânica leve a moderada, rigidez matinal breve e radiografia com Kellgren-Lawrence grau 2. Qual é a conduta inicial mais adequada antes de considerar tratamento cirúrgico?",
       "alternativas": [
@@ -603,7 +588,7 @@
       "dificuldade": "facil"
     },
     {
-      "id": "QUA-041",
+      "id": "QUA-040",
       "tema": "Artrose do quadril",
       "enunciado": "Qual das seguintes opções NÃO é considerada uma medida de tratamento conservador estabelecida para osteoartrose do quadril sintomática?",
       "alternativas": [
@@ -618,7 +603,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-042",
+      "id": "QUA-041",
       "tema": "Artrose do quadril",
       "enunciado": "Em qual escala é feita a graduação radiográfica clássica da osteoartrose, amplamente utilizada também no quadril?",
       "alternativas": [
@@ -633,7 +618,7 @@
       "dificuldade": "facil"
     },
     {
-      "id": "QUA-043",
+      "id": "QUA-042",
       "tema": "Artrose do quadril",
       "enunciado": "Mulher de 62 anos com osteoartrose secundária a displasia leve, dor moderada há 2 anos, sem resposta adequada a fisioterapia e analgésicos, mas ainda com função aceitável e Kellgren-Lawrence grau 2. Antes de indicar artroplastia, qual alternativa pode ser considerada para alívio temporário da dor?",
       "alternativas": [
@@ -648,7 +633,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-044",
+      "id": "QUA-043",
       "tema": "Artrose do quadril",
       "enunciado": "Sobre a diferenciação entre dor articular (intra-articular) e dor trocantérica lateral em pacientes idosos com queixa de dor no quadril, qual característica favorece origem intra-articular (artrose)?",
       "alternativas": [
@@ -663,7 +648,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-045",
+      "id": "QUA-044",
       "tema": "Artrose do quadril",
       "enunciado": "Qual é o principal objetivo funcional da fisioterapia no manejo conservador da osteoartrose do quadril?",
       "alternativas": [
@@ -678,7 +663,7 @@
       "dificuldade": "facil"
     },
     {
-      "id": "QUA-046",
+      "id": "QUA-045",
       "tema": "Artrose do quadril",
       "enunciado": "Homem de 70 anos com osteoartrose grave do quadril (Kellgren-Lawrence grau 4), dor incapacitante em repouso e à noite, falha de tratamento conservador prolongado. Qual é a conduta mais apropriada?",
       "alternativas": [
@@ -693,7 +678,7 @@
       "dificuldade": "facil"
     },
     {
-      "id": "QUA-047",
+      "id": "QUA-046",
       "tema": "Artroplastia total do quadril - técnica",
       "enunciado": "Durante uma artroplastia total do quadril por via posterolateral (Moore/Southern), qual nervo está classicamente em maior risco de lesão?",
       "alternativas": [
@@ -708,7 +693,7 @@
       "dificuldade": "facil"
     },
     {
-      "id": "QUA-048",
+      "id": "QUA-047",
       "tema": "Artroplastia total do quadril - técnica",
       "enunciado": "Qual nervo está em maior risco durante a via de acesso anterolateral direta (Watson-Jones/Hardinge) à ATQ, relacionado à dissecção do intervalo entre tensor da fáscia lata e glúteo médio?",
       "alternativas": [
@@ -723,7 +708,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-049",
+      "id": "QUA-048",
       "tema": "Artroplastia total do quadril - técnica",
       "enunciado": "Na via de acesso anterior direta (Smith-Petersen) para ATQ, qual estrutura nervosa sensitiva está mais frequentemente em risco de lesão ou neuropraxia?",
       "alternativas": [
@@ -738,7 +723,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-050",
+      "id": "QUA-049",
       "tema": "Artroplastia total do quadril - técnica",
       "enunciado": "Qual das vias de acesso para ATQ é classicamente associada à maior taxa de luxação pós-operatória quando a cápsula posterior e os rotadores externos curtos não são reparados adequadamente?",
       "alternativas": [
@@ -753,7 +738,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-051",
+      "id": "QUA-050",
       "tema": "Artroplastia total do quadril - técnica",
       "enunciado": "Sobre pares tribológicos em artroplastia total do quadril, qual combinação apresenta a menor taxa de desgaste linear e volumétrico em estudos in vitro, sendo frequentemente indicada em pacientes jovens e ativos, apesar do risco de ruído articular (squeaking)?",
       "alternativas": [
@@ -765,10 +750,10 @@
       "correta": 1,
       "comentario": "O par cerâmica-cerâmica apresenta as menores taxas de desgaste linear e volumétrico entre os pares tribológicos disponíveis, devido à excelente molhabilidade, dureza e baixa rugosidade superficial da cerâmica, sendo frequentemente considerado para pacientes jovens e ativos com maior expectativa de uso do implante. Seu principal inconveniente é o risco (ainda que baixo) de fratura do componente cerâmico e de ruído articular (squeaking), além de custo mais elevado.",
       "referencia": "Campbell's Operative Orthopaedics",
-      "dificuldade": "media"
+      "dificuldade": "facil"
     },
     {
-      "id": "QUA-052",
+      "id": "QUA-051",
       "tema": "Artroplastia total do quadril - técnica",
       "enunciado": "Qual é a principal vantagem do polietileno altamente reticulado (highly cross-linked polyethylene) em relação ao polietileno convencional em artroplastia total do quadril?",
       "alternativas": [
@@ -783,7 +768,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-053",
+      "id": "QUA-052",
       "tema": "Artroplastia total do quadril - técnica",
       "enunciado": "Em relação à fixação de componentes na artroplastia total do quadril, qual afirmação está correta sobre a fixação cimentada versus não cimentada do componente femoral?",
       "alternativas": [
@@ -798,7 +783,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-054",
+      "id": "QUA-053",
       "tema": "Artroplastia total do quadril - técnica",
       "enunciado": "No planejamento pré-operatório radiográfico (templating) de uma ATQ primária, qual é um dos principais objetivos ao definir o tamanho e posicionamento dos componentes?",
       "alternativas": [
@@ -813,7 +798,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-055",
+      "id": "QUA-054",
       "tema": "Artroplastia total do quadril - técnica",
       "enunciado": "Qual é a posição-alvo classicamente recomendada (zona segura de Lewinnek) para inclinação (abdução) e anteversão do componente acetabular na ATQ, visando reduzir o risco de luxação e desgaste excessivo?",
       "alternativas": [
@@ -825,10 +810,10 @@
       "correta": 1,
       "comentario": "A zona segura clássica descrita por Lewinnek recomenda inclinação (abdução) do componente acetabular de aproximadamente 40° (±10°) e anteversão de aproximadamente 15° (±10°), valores associados a menor risco de luxação, impacto (impingement) e desgaste excessivo do polietileno. Embora estudos mais recentes questionem a aplicabilidade universal dessa 'zona segura' (dado o conceito de equilíbrio espinopélvico), ela permanece uma referência histórica fundamental no posicionamento acetabular.",
       "referencia": "Campbell's Operative Orthopaedics",
-      "dificuldade": "media"
+      "dificuldade": "facil"
     },
     {
-      "id": "QUA-056",
+      "id": "QUA-055",
       "tema": "Artroplastia total do quadril - técnica",
       "enunciado": "Homem de 68 anos será submetido à ATQ primária por osteoartrose. Possui espondilite anquilosante com fusão lombar e retroversão pélvica funcional ao sentar. Qual conceito biomecânico deve ser especialmente considerado no planejamento do posicionamento acetabular nesse paciente?",
       "alternativas": [
@@ -843,7 +828,7 @@
       "dificuldade": "dificil"
     },
     {
-      "id": "QUA-057",
+      "id": "QUA-056",
       "tema": "Artroplastia total do quadril - técnica",
       "enunciado": "Qual é a principal razão para preferir hastes femorais não cimentadas de fixação metafisária/diafisária em pacientes jovens submetidos à ATQ primária?",
       "alternativas": [
@@ -858,7 +843,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-058",
+      "id": "QUA-057",
       "tema": "Artroplastia total do quadril - técnica",
       "enunciado": "Durante a via posterolateral, além do nervo isquiático, qual outra estrutura relevante deve ser identificada e protegida durante a dissecção dos rotadores externos curtos, para evitar sangramento significativo?",
       "alternativas": [
@@ -873,7 +858,7 @@
       "dificuldade": "dificil"
     },
     {
-      "id": "QUA-059",
+      "id": "QUA-058",
       "tema": "Artroplastia total do quadril - técnica",
       "enunciado": "Qual é uma vantagem frequentemente citada da via de acesso anterior direta (Smith-Petersen/DAA) em relação à via posterolateral, sobretudo no período pós-operatório precoce?",
       "alternativas": [
@@ -888,7 +873,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-060",
+      "id": "QUA-059",
       "tema": "Artroplastia total do quadril - técnica",
       "enunciado": "Em relação ao offset femoral na artroplastia total do quadril, qual é a consequência funcional de um offset insuficiente (menor que o nativo)?",
       "alternativas": [
@@ -903,7 +888,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-061",
+      "id": "QUA-060",
       "tema": "Artroplastia total do quadril - técnica",
       "enunciado": "Um paciente com fratura do colo do fêmur deslocada (Garden III) e 78 anos, previamente independente e ativo, sem demência, é candidato à artroplastia. Qual opção de tratamento cirúrgico é geralmente preferida em detrimento da osteossíntese, considerando o alto risco de complicações da fixação nessa faixa etária/deslocamento?",
       "alternativas": [
@@ -918,22 +903,7 @@
       "dificuldade": "facil"
     },
     {
-      "id": "QUA-062",
-      "tema": "Artroplastia total do quadril - técnica",
-      "enunciado": "Sobre a via de acesso lateral direta (transglútea, Hardinge), qual é uma desvantagem funcional potencial relacionada à técnica de desinserção parcial do glúteo médio?",
-      "alternativas": [
-        "Aumento do risco de luxação posterior por lesão da cápsula posterior",
-        "Possível fraqueza abdutora residual e claudicação tipo Trendelenburg caso a reinserção do glúteo médio não seja adequada",
-        "Lesão obrigatória do nervo isquiático em todos os casos",
-        "Impossibilidade de uso de componentes não cimentados"
-      ],
-      "correta": 1,
-      "comentario": "A via lateral direta envolve desinserção parcial (anterior) das fibras do glúteo médio e mínimo da região do trocanter maior para acesso à articulação. Uma reinserção inadequada ou falha de cicatrização dessa musculatura pode resultar em fraqueza abdutora residual e claudicação tipo Trendelenburg no pós-operatório, sendo uma desvantagem relativa dessa via em comparação a abordagens que preservam a inserção abdutora, embora ofereça baixa taxa de luxação por preservar estruturas posteriores.",
-      "referencia": "Campbell's Operative Orthopaedics",
-      "dificuldade": "media"
-    },
-    {
-      "id": "QUA-063",
+      "id": "QUA-061",
       "tema": "Complicações da ATQ - luxação",
       "enunciado": "Qual é o fator de risco mais associado à luxação posterior após ATQ por via posterolateral sem reparo capsular?",
       "alternativas": [
@@ -948,7 +918,7 @@
       "dificuldade": "facil"
     },
     {
-      "id": "QUA-064",
+      "id": "QUA-062",
       "tema": "Complicações da ATQ - luxação",
       "enunciado": "Paciente com luxação posterior recorrente após ATQ, na investigação identifica-se componente acetabular excessivamente vertical (inclinação de 65°). Qual é a conduta cirúrgica mais apropriada para tratar essa causa específica de instabilidade?",
       "alternativas": [
@@ -963,7 +933,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-065",
+      "id": "QUA-063",
       "tema": "Complicações da ATQ - luxação",
       "enunciado": "Em relação ao uso de cabeças femorais de maior diâmetro na ATQ, qual é o principal benefício relacionado à estabilidade?",
       "alternativas": [
@@ -978,22 +948,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-066",
-      "tema": "Complicações da ATQ - luxação",
-      "enunciado": "Qual é a definição de luxação recorrente da ATQ que geralmente justifica investigação sistemática das possíveis causas (posicionamento de componentes, tensão de partes moles, impacto, causas neurológicas)?",
-      "alternativas": [
-        "Um único episódio de luxação tratado com sucesso por redução fechada",
-        "Dois ou mais episódios de luxação da mesma prótese",
-        "Qualquer dor no quadril após ATQ sem evidência de instabilidade",
-        "Apenas luxações que ocorrem no intraoperatório"
-      ],
-      "correta": 1,
-      "comentario": "A ocorrência de dois ou mais episódios de luxação da mesma artroplastia é geralmente considerada luxação recorrente/instabilidade recorrente, justificando investigação sistemática e minuciosa das possíveis causas — posicionamento inadequado de componentes, deficiência de partes moles (abdutores), impacto (impingement) por osteófitos ou desenho do implante, causas neurológicas/cognitivas do paciente, e infecção — para definir o tratamento mais apropriado, que pode variar de conservador a revisão cirúrgica.",
-      "referencia": "Campbell's Operative Orthopaedics",
-      "dificuldade": "facil"
-    },
-    {
-      "id": "QUA-067",
+      "id": "QUA-064",
       "tema": "Complicações da ATQ - luxação",
       "enunciado": "Homem de 75 anos apresenta luxação anterior recorrente após ATQ por via anterior direta, relacionada a movimentos de extensão e rotação externa do quadril. Qual é uma causa mecânica comum de luxação anterior nesse contexto?",
       "alternativas": [
@@ -1008,7 +963,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-068",
+      "id": "QUA-065",
       "tema": "Complicações da ATQ - infecção periprotética",
       "enunciado": "Segundo os critérios atuais (ICM/MSIS) para diagnóstico de infecção articular periprotética, qual dos seguintes é considerado um critério maior (definitivo) isoladamente suficiente para o diagnóstico?",
       "alternativas": [
@@ -1023,7 +978,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-069",
+      "id": "QUA-066",
       "tema": "Complicações da ATQ - infecção periprotética",
       "enunciado": "Paciente com infecção periprotética aguda pós-operatória precoce (menos de 4 semanas da cirurgia índice), implante bem fixado, sem trajeto fistuloso crônico. Qual é a estratégia cirúrgica mais indicada?",
       "alternativas": [
@@ -1038,7 +993,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-070",
+      "id": "QUA-067",
       "tema": "Complicações da ATQ - infecção periprotética",
       "enunciado": "Em relação à revisão em dois tempos para infecção periprotética crônica, qual é a principal função do espaçador de cimento com antibiótico colocado no primeiro tempo cirúrgico?",
       "alternativas": [
@@ -1053,7 +1008,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-071",
+      "id": "QUA-068",
       "tema": "Complicações da ATQ - infecção periprotética",
       "enunciado": "Qual microrganismo é o mais frequentemente implicado nas infecções periprotéticas de quadril, segundo a literatura?",
       "alternativas": [
@@ -1068,7 +1023,7 @@
       "dificuldade": "facil"
     },
     {
-      "id": "QUA-072",
+      "id": "QUA-069",
       "tema": "Complicações da ATQ - infecção periprotética",
       "enunciado": "Sobre a antibioticoprofilaxia cirúrgica na artroplastia total do quadril primária, qual é a prática recomendada?",
       "alternativas": [
@@ -1083,7 +1038,7 @@
       "dificuldade": "facil"
     },
     {
-      "id": "QUA-073",
+      "id": "QUA-070",
       "tema": "Complicações da ATQ - fratura periprotética",
       "enunciado": "Paciente sofre queda simples 3 anos após ATQ primária não cimentada, evoluindo com dor e incapacidade de deambular. Radiografia mostra fratura periprotética no nível da metáfise femoral, com componente femoral estável (bem fixado). Segundo a classificação de Vancouver, esse tipo de fratura corresponde a:",
       "alternativas": [
@@ -1098,7 +1053,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-074",
+      "id": "QUA-071",
       "tema": "Complicações da ATQ - fratura periprotética",
       "enunciado": "Qual é o tratamento mais apropriado para uma fratura periprotética de fêmur Vancouver B2 (componente femoral solto, estoque ósseo adequado)?",
       "alternativas": [
@@ -1113,7 +1068,7 @@
       "dificuldade": "dificil"
     },
     {
-      "id": "QUA-075",
+      "id": "QUA-072",
       "tema": "Complicações da ATQ - fratura periprotética",
       "enunciado": "Qual é a conduta habitual para uma fratura periprotética Vancouver tipo A (região trocantérica) minimamente deslocada, com componente femoral estável?",
       "alternativas": [
@@ -1128,7 +1083,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-076",
+      "id": "QUA-073",
       "tema": "Complicações da ATQ - fratura periprotética",
       "enunciado": "Sobre fraturas periprotéticas acetabulares após ATQ, qual fator é mais relevante na decisão entre tratamento conservador e cirúrgico?",
       "alternativas": [
@@ -1143,7 +1098,7 @@
       "dificuldade": "dificil"
     },
     {
-      "id": "QUA-077",
+      "id": "QUA-074",
       "tema": "Complicações da ATQ - soltura/osteólise",
       "enunciado": "Qual é o principal mecanismo biológico implicado na osteólise periprotética associada à soltura asséptica tardia da ATQ?",
       "alternativas": [
@@ -1158,7 +1113,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-078",
+      "id": "QUA-075",
       "tema": "Complicações da ATQ - soltura/osteólise",
       "enunciado": "Radiografia de controle de paciente assintomático 8 anos após ATQ mostra linha radiolucente progressiva ao redor do componente acetabular não cimentado, com áreas focais de rarefação óssea compatíveis com cistos, sem migração do componente. Qual é a interpretação mais provável?",
       "alternativas": [
@@ -1173,7 +1128,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-079",
+      "id": "QUA-076",
       "tema": "Complicações da ATQ - discrepância de membros",
       "enunciado": "Paciente refere sensação de perna operada mais longa após ATQ, com discrepância mensurada de 1,5 cm. Qual é a conduta inicial mais apropriada nas primeiras semanas de pós-operatório, na ausência de sintomas neurológicos?",
       "alternativas": [
@@ -1188,22 +1143,7 @@
       "dificuldade": "facil"
     },
     {
-      "id": "QUA-080",
-      "tema": "Complicações da ATQ - discrepância de membros",
-      "enunciado": "Qual é a principal causa cirúrgica evitável de alongamento excessivo do membro operado durante uma ATQ primária?",
-      "alternativas": [
-        "Uso de haste femoral muito curta",
-        "Posicionamento inadequado do nível de corte do colo femoral e/ou escolha inadequada do comprimento do colo protético/offset durante o planejamento e execução cirúrgica",
-        "Uso de cabeça femoral cerâmica em vez de metálica",
-        "Via de acesso anterior direta exclusivamente"
-      ],
-      "correta": 1,
-      "comentario": "O comprimento final do membro operado depende diretamente do nível do corte do colo femoral nativo e da escolha do comprimento do colo protético (curto, padrão, longo) e do tamanho da cabeça femoral, sendo o planejamento pré-operatório cuidadoso (templating) e a técnica intraoperatória (uso de referências anatômicas e, quando disponível, navegação ou métodos de aferição intraoperatória) fundamentais para minimizar alongamentos ou encurtamentos indesejados do membro.",
-      "referencia": "Campbell's Operative Orthopaedics",
-      "dificuldade": "media"
-    },
-    {
-      "id": "QUA-081",
+      "id": "QUA-077",
       "tema": "Complicações da ATQ - lesão nervosa",
       "enunciado": "Paciente evolui no pós-operatório de ATQ com pé caído (dificuldade de dorsiflexão) e alteração de sensibilidade no dorso do pé, mantendo flexão plantar preservada. Qual estrutura nervosa provavelmente foi acometida?",
       "alternativas": [
@@ -1213,27 +1153,12 @@
         "Nervo obturador"
       ],
       "correta": 1,
-      "comentario": "O quadro de pé caído (dificuldade de dorsiflexão do tornozelo/pé) com alteração sensitiva no dorso do pé, mantendo a flexão plantar preservada, é característico de lesão do componente fibular (peroneal comum) do nervo isquiático, que é mais superficial, menos móvel e mais suscetível a tração/compressão do que o componente tibial durante manipulações cirúrgicas do quadril, sobretudo em alongamentos do membro ou vias posterolaterais.",
+      "comentario": "O quadro de pé caído (dificuldade de dorsiflexão do tornozelo/pé) com alteração sensitiva no dorso do pé, mantendo a flexão plantar preservada, é característico de lesão do componente fibular (peroneal comum) do nervo isquiático, que é mais superficial, menos móvel e mais suscetível a tração/compressão do que o componente tibial durante manipulações cirúrgicas do quadril, sobretudo em alongamentos do membro ou vias posterolaterais. O alongamento do membro operado além de aproximadamente 4 cm é um dos principais fatores de risco descritos para essa lesão por tração.",
       "referencia": "Campbell's Operative Orthopaedics",
       "dificuldade": "media"
     },
     {
-      "id": "QUA-082",
-      "tema": "Complicações da ATQ - lesão nervosa",
-      "enunciado": "Qual é o principal fator de risco relacionado ao alongamento do membro operado para lesão do nervo isquiático durante ATQ?",
-      "alternativas": [
-        "Alongamento do membro superior a 4 cm (ou excesso de tração combinada a outros fatores de risco)",
-        "Uso de componente acetabular cimentado",
-        "Idade do paciente inferior a 40 anos",
-        "Uso de cabeça femoral cerâmica"
-      ],
-      "correta": 0,
-      "comentario": "O alongamento excessivo do membro operado (classicamente descrito como acima de aproximadamente 4 cm, embora o risco seja multifatorial e dependa também de fatores anatômicos individuais) é um dos principais fatores associados à lesão do nervo isquiático por tração durante ATQ, especialmente em revisões complexas ou correções de grandes discrepâncias prévias (como em displasia grave), sendo importante o monitoramento neurofisiológico intraoperatório em casos de alto risco.",
-      "referencia": "Campbell's Operative Orthopaedics",
-      "dificuldade": "media"
-    },
-    {
-      "id": "QUA-083",
+      "id": "QUA-078",
       "tema": "Complicações da ATQ - lesão nervosa",
       "enunciado": "Paciente apresenta, após ATQ por via anterior direta, dor em queimação e parestesia na face anterolateral da coxa, sem déficit motor. Qual é o diagnóstico mais provável e a conduta inicial?",
       "alternativas": [
@@ -1248,7 +1173,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-084",
+      "id": "QUA-079",
       "tema": "Complicações da ATQ",
       "enunciado": "Qual é a complicação tromboembólica mais temida após ATQ, exigindo profilaxia farmacológica e mecânica de rotina no perioperatório?",
       "alternativas": [
@@ -1263,7 +1188,7 @@
       "dificuldade": "facil"
     },
     {
-      "id": "QUA-085",
+      "id": "QUA-080",
       "tema": "Complicações da ATQ",
       "enunciado": "Sobre ossificação heterotópica após ATQ, qual fator de risco é classicamente reconhecido?",
       "alternativas": [
@@ -1278,7 +1203,7 @@
       "dificuldade": "dificil"
     },
     {
-      "id": "QUA-086",
+      "id": "QUA-081",
       "tema": "Revisão de ATQ - defeitos ósseos",
       "enunciado": "Na classificação de Paprosky para defeitos ósseos acetabulares em revisão de ATQ, qual característica define um defeito tipo I?",
       "alternativas": [
@@ -1293,7 +1218,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-087",
+      "id": "QUA-082",
       "tema": "Revisão de ATQ - defeitos ósseos",
       "enunciado": "Um defeito acetabular Paprosky tipo IIIB é caracterizado por qual achado, com implicação direta na escolha do implante de revisão?",
       "alternativas": [
@@ -1308,7 +1233,7 @@
       "dificuldade": "dificil"
     },
     {
-      "id": "QUA-088",
+      "id": "QUA-083",
       "tema": "Revisão de ATQ - defeitos ósseos",
       "enunciado": "Na classificação de Paprosky para defeitos ósseos femorais, qual característica principal diferencia o tipo IIIA do tipo IIIB?",
       "alternativas": [
@@ -1323,7 +1248,7 @@
       "dificuldade": "dificil"
     },
     {
-      "id": "QUA-089",
+      "id": "QUA-084",
       "tema": "Revisão de ATQ - defeitos ósseos",
       "enunciado": "Qual é a principal estratégia de reconstrução para um defeito femoral Paprosky tipo IV (perda óssea diafisária extensa, canal em 'tubo de chaminé' sem istmo funcional)?",
       "alternativas": [
@@ -1338,7 +1263,7 @@
       "dificuldade": "dificil"
     },
     {
-      "id": "QUA-090",
+      "id": "QUA-085",
       "tema": "Revisão de ATQ - defeitos ósseos",
       "enunciado": "Qual é a principal indicação para o uso de anéis de suporte acetabular (como o anel de Burch-Schneider) ou construtos cup-cage em cirurgia de revisão?",
       "alternativas": [
@@ -1353,7 +1278,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-091",
+      "id": "QUA-086",
       "tema": "Revisão de ATQ",
       "enunciado": "Antes de indicar uma revisão de ATQ por suspeita de soltura asséptica, qual é a etapa fundamental de investigação que deve sempre ser realizada para excluir uma causa alternativa importante?",
       "alternativas": [
@@ -1368,7 +1293,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-092",
+      "id": "QUA-087",
       "tema": "Revisão de ATQ",
       "enunciado": "Homem de 60 anos com soltura asséptica do componente femoral 12 anos após ATQ primária cimentada, sem sinais de infecção, com boa qualidade óssea remanescente e defeito ósseo femoral Paprosky tipo II. Qual estratégia de revisão é geralmente adequada?",
       "alternativas": [
@@ -1383,7 +1308,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-093",
+      "id": "QUA-088",
       "tema": "Revisão de ATQ",
       "enunciado": "Qual é uma das principais vantagens de utilizar hastes femorais modulares cônicas de fixação diafisária (tipo cone) em revisões de ATQ com defeitos ósseos proximais importantes?",
       "alternativas": [
@@ -1398,7 +1323,7 @@
       "dificuldade": "dificil"
     },
     {
-      "id": "QUA-094",
+      "id": "QUA-089",
       "tema": "Dor trocantérica e lesões do glúteo médio",
       "enunciado": "Mulher de 55 anos com dor lateral crônica no quadril, pior ao deitar sobre o lado afetado e ao subir escadas, com dor à palpação direta sobre o trocanter maior. Qual é o diagnóstico mais provável?",
       "alternativas": [
@@ -1413,7 +1338,7 @@
       "dificuldade": "facil"
     },
     {
-      "id": "QUA-095",
+      "id": "QUA-090",
       "tema": "Dor trocantérica e lesões do glúteo médio",
       "enunciado": "Qual exame de imagem é mais indicado para confirmar lesão/ruptura do tendão do glúteo médio em paciente com dor trocantérica refratária ao tratamento conservador?",
       "alternativas": [
@@ -1425,10 +1350,10 @@
       "correta": 1,
       "comentario": "A ressonância magnética é o exame de escolha para avaliar lesões tendíneas do glúteo médio/mínimo (o chamado 'manguito rotador do quadril'), permitindo identificar tendinopatia, rupturas parciais ou completas, além de avaliar a bursa trocantérica e excluir outras causas de dor lateral do quadril. A radiografia simples é útil para avaliar calcificações tendíneas e descartar patologia óssea associada, mas não avalia diretamente a integridade tendínea.",
       "referencia": "Campbell's Operative Orthopaedics",
-      "dificuldade": "media"
+      "dificuldade": "facil"
     },
     {
-      "id": "QUA-096",
+      "id": "QUA-091",
       "tema": "Dor trocantérica e lesões do glúteo médio",
       "enunciado": "Qual é o tratamento inicial recomendado para a síndrome da dor trocantérica maior sem ruptura tendínea completa?",
       "alternativas": [
@@ -1443,7 +1368,7 @@
       "dificuldade": "facil"
     },
     {
-      "id": "QUA-097",
+      "id": "QUA-092",
       "tema": "Dor trocantérica e lesões do glúteo médio",
       "enunciado": "Paciente com ruptura completa e retraída do tendão do glúteo médio, confirmada por RM, refratária a tratamento conservador por mais de 6 meses, com claudicação importante tipo Trendelenburg. Qual é a conduta cirúrgica mais apropriada?",
       "alternativas": [
@@ -1458,7 +1383,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-098",
+      "id": "QUA-093",
       "tema": "Dor trocantérica e lesões do glúteo médio",
       "enunciado": "Qual é um importante diagnóstico diferencial de dor trocantérica lateral crônica que deve ser sempre considerado antes de atribuir os sintomas apenas à bursite trocantérica?",
       "alternativas": [
@@ -1473,7 +1398,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-099",
+      "id": "QUA-094",
       "tema": "Dor trocantérica e lesões do glúteo médio",
       "enunciado": "Qual é o mecanismo fisiopatológico proposto para a associação entre dor trocantérica lateral crônica e o trato iliotibial?",
       "alternativas": [
@@ -1488,7 +1413,7 @@
       "dificuldade": "dificil"
     },
     {
-      "id": "QUA-100",
+      "id": "QUA-095",
       "tema": "Quadril em ressalto",
       "enunciado": "Mulher de 22 anos, bailarina, relata sensação de estalido audível e palpável na região lateral do quadril durante a marcha e ao levantar da cadeira, sem dor significativa. O exame reproduz o estalido com a flexão e extensão do quadril em posição neutra/adução. Qual é o diagnóstico mais provável?",
       "alternativas": [
@@ -1503,7 +1428,7 @@
       "dificuldade": "facil"
     },
     {
-      "id": "QUA-101",
+      "id": "QUA-096",
       "tema": "Quadril em ressalto",
       "enunciado": "Sobre o quadril em ressalto interno (tendão do iliopsoas), qual manobra clínica classicamente reproduz o estalido?",
       "alternativas": [
@@ -1518,7 +1443,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-102",
+      "id": "QUA-097",
       "tema": "Quadril em ressalto",
       "enunciado": "Paciente com quadril em ressalto externo sintomático (dor associada ao estalido, limitando atividades esportivas), refratário a tratamento conservador prolongado (fisioterapia com alongamento do trato iliotibial, fortalecimento e modificação de atividades). Qual é uma opção de tratamento cirúrgico descrita para casos refratários?",
       "alternativas": [
@@ -1533,7 +1458,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-103",
+      "id": "QUA-098",
       "tema": "Síndrome do piriforme e dor glútea profunda",
       "enunciado": "Mulher de 45 anos com dor glútea profunda irradiada para a face posterior da coxa, piora ao sentar prolongadamente, sem sinais de radiculopatia lombar ao exame e com RM de coluna lombar normal. Qual condição deve ser considerada no diagnóstico diferencial, relacionada ao aprisionamento do nervo isquiático na região glútea profunda?",
       "alternativas": [
@@ -1548,7 +1473,7 @@
       "dificuldade": "facil"
     },
     {
-      "id": "QUA-104",
+      "id": "QUA-099",
       "tema": "Síndrome do piriforme e dor glútea profunda",
       "enunciado": "Qual manobra de exame físico é classicamente utilizada para sugerir síndrome do piriforme, ao reproduzir a dor glútea/ciática por tensionamento do músculo?",
       "alternativas": [
@@ -1563,7 +1488,7 @@
       "dificuldade": "media"
     },
     {
-      "id": "QUA-105",
+      "id": "QUA-100",
       "tema": "Síndrome do piriforme e dor glútea profunda",
       "enunciado": "Qual é a abordagem terapêutica inicial recomendada para a síndrome do piriforme antes de considerar tratamento cirúrgico (liberação/neurólise)?",
       "alternativas": [
