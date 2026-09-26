@@ -1,0 +1,1506 @@
+{
+  "area": "Princípios do Trauma, Politrauma e Pelve/Acetábulo",
+  "slug": "principios-trauma-pelve",
+  "questoes": [
+    {
+      "id": "PTP-001",
+      "tema": "Consolidação óssea",
+      "enunciado": "Sobre a consolidação óssea primária (direta), assinale a alternativa correta.",
+      "alternativas": [
+        "Ocorre com formação abundante de calo ósseo periosteal visível radiograficamente",
+        "Requer estabilidade absoluta e contato interfragmentário, ocorrendo por remodelação haversiana direta através de cones de corte",
+        "É o mecanismo predominante em fraturas tratadas com haste intramedular bloqueada",
+        "Depende da formação de tecido de granulação seguido de cartilagem hialina antes da ossificação"
+      ],
+      "correta": 1,
+      "comentario": "A consolidação primária ocorre quando há estabilidade absoluta e mínima deformação (strain) interfragmentária, permitindo que cones de corte compostos por osteoclastos e osteoblastos atravessem diretamente o foco de fratura, promovendo remodelação haversiana sem formação de calo visível. Isso é obtido classicamente com compressão interfragmentária (parafuso de tração, placa de compressão). As demais opções descrevem consolidação secundária (indireta), que ocorre com estabilidade relativa, como em hastes intramedulares e fixadores externos, passando pelas fases de hematoma, calo fibrocartilaginoso e calo ósseo.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-002",
+      "tema": "Consolidação óssea",
+      "enunciado": "A consolidação óssea secundária (indireta), típica de fraturas tratadas com fixação relativamente estável (haste intramedular, fixador externo, placa em ponte), apresenta como característica marcante:",
+      "alternativas": [
+        "Ausência completa de reação periosteal",
+        "Formação de calo ósseo externo (periosteal) que estabiliza progressivamente o foco até a consolidação",
+        "Remodelação haversiana direta sem fase intermediária de tecido mole",
+        "Necessidade obrigatória de compressão interfragmentária absoluta"
+      ],
+      "correta": 1,
+      "comentario": "A consolidação secundária é o processo natural de reparo ósseo quando existe alguma micromovimentação no foco (estabilidade relativa), passando pelas fases de hematoma/inflamação, formação de calo mole (fibrocartilaginoso) e calo duro (ossificação endocondral), seguido de remodelação. O calo periosteal visível ao raio-X é sua marca característica e serve como parâmetro clínico de evolução da consolidação. Contrasta com a consolidação primária, que exige estabilidade absoluta e ocorre sem calo visível.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-003",
+      "tema": "Consolidação óssea",
+      "enunciado": "De acordo com a teoria do strain interfragmentário de Perren, a diferenciação tecidual no foco de fratura depende da deformação relativa tolerada por cada tecido. Assinale a alternativa que melhor descreve esse conceito.",
+      "alternativas": [
+        "Osso lamelar tolera strain de até 100%, por isso é o primeiro tecido a se formar no foco",
+        "Tecido de granulação tolera deformações elevadas (próximas de 100%), cartilagem tolera strain intermediário (cerca de 10 a 15%) e osso lamelar só se forma quando o strain é baixo (menor que 2%)",
+        "O strain interfragmentário é calculado apenas em fraturas tratadas com fixador externo",
+        "Quanto maior o strain, mais rápida é a formação de osso lamelar diretamente no foco"
+      ],
+      "correta": 1,
+      "comentario": "Perren definiu strain como a deformação relativa do gap de fratura (variação de comprimento dividida pelo comprimento original do gap). Cada tecido tolera um limite de deformação antes de se romper: tecido de granulação tolera strain muito alto (próximo de 100%), cartilagem um strain intermediário (10-15%) e o osso lamelar só se forma quando o strain é baixo (inferior a 2%), o que explica por que a consolidação primária exige estabilidade absoluta. Esse conceito fundamenta a escolha entre fixação absoluta e relativa conforme o padrão de fratura.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-004",
+      "tema": "Consolidação óssea",
+      "enunciado": "Um mesmo deslocamento absoluto (por exemplo, 1 mm de movimento interfragmentário) produz strains diferentes conforme o tamanho do gap de fratura. Em relação a essa propriedade, é correto afirmar que:",
+      "alternativas": [
+        "Fraturas cominutivas com múltiplos fragmentos pequenos toleram melhor a fixação em ponte porque o strain se distribui em vários gaps menores, reduzindo o strain em cada um",
+        "Um gap maior gera sempre strain maior para o mesmo deslocamento absoluto",
+        "O strain independe do tamanho do gap, dependendo apenas da rigidez do implante",
+        "Fraturas simples (dois fragmentos) toleram fixação em ponte com placa melhor que fraturas cominutivas"
+      ],
+      "correta": 0,
+      "comentario": "Como strain = deslocamento / comprimento do gap, para um mesmo deslocamento absoluto um gap maior resulta em strain proporcionalmente menor. Esse princípio explica por que a fixação em ponte (relativa) é vantajosa em fraturas multifragmentares: a movimentação total se distribui entre vários focos de fratura, reduzindo o strain em cada interface individual e permitindo consolidação secundária mesmo com micromovimento presente. Em fraturas simples de dois fragmentos, o gap único concentra todo o deslocamento, favorecendo maior strain e por isso a fixação absoluta costuma ser preferida nesses padrões.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-005",
+      "tema": "Consolidação óssea",
+      "enunciado": "Homem de 32 anos sofre fratura diafisária transversa simples da tibia (padrão AO 42-A3), sem cominuição, em osso de boa qualidade. O cirurgião opta por redução anatômica com parafuso de tração interfragmentário associado a placa de neutralização. O objetivo biomecânico dessa estratégia é:",
+      "alternativas": [
+        "Promover formação de calo ósseo abundante para acelerar a consolidação",
+        "Obter estabilidade absoluta com compressão interfragmentária, reduzindo o strain a níveis compatíveis com consolidação primária",
+        "Permitir micromovimento controlado para estimular a via de consolidação secundária",
+        "Preservar ao máximo a vascularização periosteal sem contato entre os fragmentos"
+      ],
+      "correta": 1,
+      "comentario": "Em fraturas simples (dois fragmentos, padrão transverso ou oblíquo curto), a estratégia clássica de fixação absoluta busca redução anatômica e compressão interfragmentária via parafuso de tração, com uma placa de neutralização protegendo essa fixação das forças de torção e flexão. Essa compressão reduz o strain interfragmentário a níveis muito baixos, compatíveis com consolidação primária (osteonal direta), sem formação de calo visível. Essa abordagem exige exposição e redução anatômica, o que a diferencia das técnicas de fixação relativa usadas em fraturas cominutivas.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-006",
+      "tema": "Consolidação óssea",
+      "enunciado": "A fixação com placa em ponte (bridge plating), técnica de estabilidade relativa indicada em fraturas multifragmentares/cominutivas, tem como princípio biológico central:",
+      "alternativas": [
+        "Redução anatômica de todos os fragmentos com compressão interfragmentária",
+        "Preservação da vascularização dos fragmentos intermediários por meio de redução indireta, sem manipulação direta do foco, permitindo consolidação secundária com formação de calo",
+        "Eliminação completa de qualquer micromovimento no foco de fratura",
+        "Uso obrigatório de enxerto ósseo autólogo concomitante"
+      ],
+      "correta": 1,
+      "comentario": "Na fixação em ponte, o objetivo não é a redução anatômica de cada fragmento, mas sim restaurar o comprimento, o alinhamento e a rotação do osso, preservando a vascularização dos fragmentos intermediários por meio de técnicas de redução indireta (sem abordagem direta do foco de fratura). Isso permite consolidação secundária com formação de calo ósseo, que é biologicamente mais tolerante a pequenas imperfeições de redução e menos dependente de exposição ampla dos tecidos moles. Enxerto ósseo não é obrigatório quando há boa biologia local preservada.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-007",
+      "tema": "Consolidação óssea",
+      "enunciado": "A placa de compressão dinâmica (compressão absoluta por placa) depende de qual princípio mecânico fundamental para gerar estabilidade?",
+      "alternativas": [
+        "Bloqueio angular entre parafuso e placa, dispensando contato friccional com o osso",
+        "Geração de atrito (fricção) entre a placa e a superfície óssea por meio de pré-carga axial (compressão), exigindo redução anatômica e contato ossoplaca adequado",
+        "Distração controlada do foco de fratura para estimular osteogênese por tração",
+        "Fixação exclusivamente extramedular sem contato com o periosteo"
+      ],
+      "correta": 1,
+      "comentario": "As placas de compressão convencionais (não bloqueadas) dependem da fricção entre a placa e o osso, gerada pela pré-carga dos parafusos que comprimem a placa contra a cortical. Esse mecanismo requer contato íntimo e redução anatômica para funcionar adequadamente, sendo mais sensível a qualidade óssea (menos eficaz em osso osteoporótico, onde o parafuso pode falhar em gerar compressão suficiente). Isso contrasta com placas bloqueadas, que funcionam como fixador interno com estabilidade angular independente de fricção osso-placa.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-008",
+      "tema": "Consolidação óssea",
+      "enunciado": "Em relação ao 'comprimento de trabalho' (working length) em uma placa em ponte, é correto afirmar que:",
+      "alternativas": [
+        "Quanto maior o comprimento de trabalho (distância entre os parafusos mais próximos do foco), menor a rigidez da construção e maior o strain no foco",
+        "O comprimento de trabalho não influência a rigidez do constructo, apenas o número total de parafusos",
+        "Reduzir o comprimento de trabalho sempre melhora o prognóstico de consolidação em fraturas cominutivas",
+        "O comprimento de trabalho é definido pela distância entre as extremidades da placa"
+      ],
+      "correta": 0,
+      "comentario": "O comprimento de trabalho é a distância entre os parafusos mais próximos ao foco de fratura (de cada lado). Quanto maior essa distância, mais flexível se torna a construção naquele segmento, aumentando o strain no foco — o que pode ser desejável para estimular consolidação secundária com formação de calo em fraturas cominutivas, desde que o strain não exceda o limite tolerado pelos tecidos. Encurtar excessivamente o comprimento de trabalho (parafusos muito próximos do foco) aumenta a rigidez, podendo reduzir o strain a níveis insuficientes para estimular a formação de calo, favorecendo retardo de consolidação em fraturas multifragmentares.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-009",
+      "tema": "Consolidação óssea",
+      "enunciado": "Em fratura multifragmentar da diáfise femoral com uma cunha em asa de borboleta grande e redutível anatomicamente, associada a uma zona de cominuição adicional, o cirurgião fixa a cunha com parafuso de tração interfragmentário (compressão absoluta) e depois aplica uma placa em ponte sobre toda a extensão da fratura, incluindo a zona cominutiva (fixação relativa). O principal risco biomecânico dessa combinação ('mixed construct') é:",
+      "alternativas": [
+        "Formação excessiva de calo ósseo periosteal",
+        "Criação de um concentrador de tensão (stress riser) na transição entre a zona de compressão absoluta rígida e a zona de estabilidade relativa mais flexível, predispondo a falha do implante",
+        "Impossibilidade técnica de combinar as duas técnicas na mesma cirurgia",
+        "Necrose avascular do fragmento em cunha por excesso de compressão"
+      ],
+      "correta": 1,
+      "comentario": "Combinar fixação absoluta (rígida) em um segmento com fixação relativa (mais flexível) no mesmo constructo cria uma transição abrupta de rigidez, concentrando estresse mecânico exatamente na interface entre as duas zonas — um fenômeno conhecido como stress riser. Isso pode levar a fadiga e falha do implante (quebra de placa ou parafusos) nessa transição, especialmente sob cargas cíclicas repetidas antes da consolidação. Por esse motivo, a literatura recomenda cautela ao 'misturar' parafusos de tração interfragmentários dentro de uma zona tratada como ponte, preferindo estratégias de rigidez mais uniforme ao longo do constructo.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "difícil"
+    },
+    {
+      "id": "PTP-010",
+      "tema": "Consolidação óssea",
+      "enunciado": "Sobre a vascularização óssea e sua relação com a técnica cirúrgica, assinale a alternativa correta.",
+      "alternativas": [
+        "O fresamento do canal medular para haste intramedular preserva integralmente a circulação endosteal, sendo indiferente para a biologia da consolidação",
+        "O fresamento intramedular compromete transitoriamente a circulação endosteal, que é parcialmente compensada por aumento da circulação periosteal; por isso, técnicas minimamente invasivas (MIPO) buscam preservar ao máximo o periosteo e os tecidos moles",
+        "A circulação periosteal é a única fonte de suprimento sanguíneo ósseo relevante em ossos longos adultos",
+        "Abordagens cirúrgicas extensas com descolamento periosteal amplo favorecem a consolidação por aumentar a exposição vascular"
+      ],
+      "correta": 1,
+      "comentario": "Ossos longos possuem dupla fonte de suprimento sanguíneo: o sistema endosteal (artéria nutrícia, predominante nos dois terços internos da cortical) e o sistema periosteal (predominante no terço externo). O fresamento do canal medular lesa transitoriamente a circulação endosteal, mas há compensação relativa pelo aumento do fluxo periosteal. Esse conhecimento fundamenta as técnicas de osteossíntese minimamente invasiva (MIPO), que buscam preservar o envelope de partes moles e o periosteo, reduzindo a devascularização óssea e diminuindo o risco de retardo de consolidação e infecção, especialmente em fraturas cominutivas.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "difícil"
+    },
+    {
+      "id": "PTP-011",
+      "tema": "Princípios AO",
+      "enunciado": "Os quatro princípios clássicos AO de tratamento de fraturas incluem:",
+      "alternativas": [
+        "Redução anatômica sempre absoluta, fixação rígida universal, ablação periosteal completa e mobilização tardia",
+        "Redução da fratura restaurando as relações anatômicas, fixação estável adaptada as necessidades biológicas e mecânicas, preservação do suprimento sanguíneo aos tecidos moles e ossos, e mobilização precoce e segura da região lesada e do paciente",
+        "Fixação interna obrigatória em todas as fraturas, uso rotineiro de enxerto ósseo e imobilização gessada prolongada",
+        "Prioridade absoluta a consolidação primária em todos os padrões de fratura, independentemente da cominuição"
+      ],
+      "correta": 1,
+      "comentario": "Os quatro princípios AO, atualizados ao longo das décadas, são: (1) redução e fixação para restaurar a anatomia (quando indicado), (2) estabilidade fornecida por fixação interna ou externa adaptada as condições biológicas e ao padrão de fratura (absoluta ou relativa, conforme o caso), (3) preservação do suprimento sanguíneo por meio de técnica cirúrgica cuidadosa e minimamente traumática aos tecidos moles, e (4) mobilização precoce e segura do segmento e do paciente como um todo, para prevenir a 'doença da fratura' (rigidez articular, atrofia, perda funcional). Esses princípios orientam a escolha do implante e da técnica, não impondo uma única solução para todos os casos.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-012",
+      "tema": "Princípios AO",
+      "enunciado": "Na fixação de fratura diafisária com haste intramedular bloqueada estática, o 'comprimento de trabalho' relevante para a rigidez do constructo é determinado principalmente por:",
+      "alternativas": [
+        "O diâmetro externo da haste, exclusivamente",
+        "A distância entre os parafusos de bloqueio mais próximos ao foco de fratura de cada lado, de forma análoga ao conceito aplicado as placas em ponte",
+        "O comprimento total da haste, da cabeça ao parafuso distal mais afastado",
+        "O número de corticais atravessadas pelos parafusos proximais"
+      ],
+      "correta": 1,
+      "comentario": "Assim como nas placas em ponte, o comprimento de trabalho de uma haste intramedular bloqueada é definido pela distância entre os parafusos de bloqueio mais próximos ao foco de fratura (proximal e distal). Quanto maior essa distância, maior a flexibilidade do constructo naquele segmento e maior o strain no foco, o que pode favorecer a formação de calo em fraturas cominutivas, mas também pode ser excessivo em fraturas simples, exigindo bloqueio mais próximo ao foco quando se deseja maior estabilidade rotacional.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-013",
+      "tema": "Princípios AO",
+      "enunciado": "As placas bloqueadas (locking plates) diferem das placas de compressão convencionais por:",
+      "alternativas": [
+        "Dependerem exclusivamente da fricção entre placa e osso para gerar estabilidade",
+        "Funcionarem como um fixador interno, com os parafusos travando angularmente na placa, dispensando compressão friccional contra o osso — o que as torna particularmente úteis em osso osteoporótico e em fraturas metafisárias/periarticulares cominutivas",
+        "Serem contraindicadas em fraturas periarticulares",
+        "Não permitirem técnica minimamente invasiva (MIPO)"
+      ],
+      "correta": 1,
+      "comentario": "As placas bloqueadas possuem parafusos com rosca na cabeça que se travam angularmente nos orifícios da placa, criando uma construção rígida angularmente estável que não depende do contato friccional entre placa e osso. Isso as torna vantajosas em osso osteoporótico (onde parafusos convencionais podem soltar) e em fraturas metafisárias ou periarticulares cominutivas, além de serem compatíveis com técnicas minimamente invasivas (MIPO), pois não exigem contato íntimo e compressão da placa contra o osso ao longo de toda sua extensão.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-014",
+      "tema": "Princípios AO",
+      "enunciado": "São indicações clássicas de fixação externa provisória ou definitiva no tratamento de fraturas, EXCETO:",
+      "alternativas": [
+        "Controle de danos (damage control orthopaedics) em politraumatizado hemodinamicamente instável com fratura femoral",
+        "Fraturas expostas com contaminação grave ou lesão extensa de partes moles, como estabilização temporária antes da cobertura definitiva",
+        "Instabilidade do anel pélvico como medida de estabilização de emergência para redução do volume pélvico e controle hemorrágico",
+        "Fratura diafisária fechada simples e isolada em paciente jovem, hemodinamicamente estável, como método definitivo de escolha"
+      ],
+      "correta": 3,
+      "comentario": "O fixador externo é amplamente utilizado como medida provisória em controle de danos ortopédico, em fraturas expostas com grave comprometimento de partes moles (permitindo reavaliações seriadas e cobertura estagiada) e como estabilização de emergência do anel pélvico instável. Em uma fratura diafisária fechada, simples e isolada, em paciente estável, o tratamento definitivo preferencial costuma ser a fixação interna (haste intramedular ou placa), e não o fixador externo como método definitivo primário, reservado a situações específicas.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-015",
+      "tema": "Princípios AO",
+      "enunciado": "A técnica de osteossíntese minimamente invasiva com placa (MIPO) tem como princípios fundamentais:",
+      "alternativas": [
+        "Exposição ampla do foco de fratura para redução anatômica direta de todos os fragmentos",
+        "Redução indireta da fratura, inserção da placa por via submuscular/subcutânea através de pequenas incisões distantes do foco, e fixação em ponte preservando o hematoma fraturário e a vascularização dos fragmentos",
+        "Uso obrigatório de enxerto ósseo autólogo em todos os casos",
+        "Contraindicação absoluta em fraturas metafisárias"
+      ],
+      "correta": 1,
+      "comentario": "A MIPO busca tratar a fratura sem abordar diretamente o foco, inserindo a placa por tunelização submuscular através de pequenas incisões proximal e distal, com redução indireta (por tração, manipulação externa ou dispositivos auxiliares) e fixação em ponte. Esse princípio preserva o hematoma fraturário e a vascularização periosteal dos fragmentos intermediários, reduzindo a taxa de infecção e favorecendo consolidação secundária com calo, sendo particularmente útil em fraturas metafisárias e diafisárias multifragmentares de tibia, fêmur e outros ossos longos.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-016",
+      "tema": "Princípios AO",
+      "enunciado": "Em uma placa em ponte fixada com parafusos bloqueados, a colocação de todos os parafusos concentrados próximos ao foco de fratura ('near-near'), em vez de distribuídos ao longo de toda a placa, resulta em:",
+      "alternativas": [
+        "Maior comprimento de trabalho e, portanto, constructo mais flexível e mais fisiológico para consolidação secundária",
+        "Menor comprimento de trabalho, tornando o constructo mais rígido naquele segmento, com concentração de estresse e maior risco de falha do implante por fadiga",
+        "Nenhuma alteração na rigidez do constructo comparado a distribuição uniforme",
+        "Aumento da vascularização do foco de fratura"
+      ],
+      "correta": 1,
+      "comentario": "Posicionar os parafusos muito próximos ao foco de fratura ('near-near') reduz o comprimento de trabalho efetivo, tornando a construção mais rígida localmente e concentrando o estresse mecânico em uma área menor da placa, o que aumenta o risco de falha por fadiga do implante. A prática recomendada é distribuir os parafusos ao longo da placa com espaçamento adequado (evitando também excesso de parafusos, o conceito de 'densidade de parafusos'), otimizando a distribuição de carga e permitindo strain compatível com consolidação secundária.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-017",
+      "tema": "Princípios AO",
+      "enunciado": "O conceito de 'densidade de parafusos' (screw density) em placas bloqueadas sugere que:",
+      "alternativas": [
+        "Quanto maior o número de parafusos inseridos em relação aos orifícios disponíveis na placa, melhor o resultado de consolidação",
+        "Uma densidade de parafusos excessivamente alta (constructo muito rígido) em fraturas cominutivas pode estar associada a maior risco de retardo de consolidação ou pseudartrose, por reduzir excessivamente o strain interfragmentário necessário para estimular a formação de calo",
+        "A densidade de parafusos é irrelevante para o resultado clínico quando se usa placa bloqueada",
+        "Densidade de parafusos refere-se exclusivamente ao diâmetro dos parafusos utilizados"
+      ],
+      "correta": 1,
+      "comentario": "Estudos biomecânicos e clínicos sugerem que uma densidade de parafusos muito alta (proporção elevada de orifícios preenchidos) gera um constructo excessivamente rígido em fraturas multifragmentares tratadas com fixação relativa, reduzindo o strain interfragmentário a níveis insuficientes para estimular consolidação secundária por calo, podendo favorecer retardo de consolidação ou pseudartrose atrófica/hipotrófica. A recomendação prática é utilizar o número mínimo necessário de parafusos bem distribuídos, evitando preencher todos os orifícios da placa, especialmente na zona cominutiva.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-018",
+      "tema": "Princípios AO",
+      "enunciado": "O princípio da banda de tensão (tension band) aplicado, por exemplo, em fraturas de olécrano e patela, tem como fundamento biomecânico:",
+      "alternativas": [
+        "Converter as forças de distração (tração) que atuam na cortical sob tensão em forças de compressão no foco de fratura, por meio de um dispositivo posicionado no lado de tensão do osso",
+        "Aumentar a distância entre os fragmentos para estimular calo ósseo",
+        "Substituir a necessidade de redução anatômica em fraturas articulares",
+        "Ser aplicável exclusivamente a fraturas diafisárias de ossos longos"
+      ],
+      "correta": 0,
+      "comentario": "O princípio da banda de tensão explora a biomecânica de ossos submetidos a cargas excêntricas: o lado convexo (submetido a tração/tensão) tende a se afastar durante a contração muscular ou carga articular. Um dispositivo (fio de cerclagem associado a pinos, ou parafuso) posicionado nesse lado converte a força de distração em compressão dinâmica no foco de fratura durante o movimento, sendo classicamente aplicado em fraturas de olécrano e patela, onde a tração do tríceps ou quadríceps, respectivamente, é convertida em compressão articular.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-019",
+      "tema": "Princípios AO",
+      "enunciado": "Ao decidir entre haste intramedular bloqueada e placa para uma fratura diafisária fechada de fêmur em adulto jovem, hemodinamicamente estável, a principal vantagem biomecânica da haste é:",
+      "alternativas": [
+        "Ser um dispositivo de compartilhamento de carga (load-sharing), posicionado próximo ao eixo mecânico do osso, permitindo carga precoce e reduzindo o momento de flexão sobre o implante em comparação a uma placa (dispositivo load-bearing quando em ponte)",
+        "Exigir sempre abordagem aberta direta do foco de fratura",
+        "Eliminar completamente a necessidade de bloqueio distal e proximal",
+        "Ser a única opção capaz de gerar consolidação primária"
+      ],
+      "correta": 0,
+      "comentario": "A haste intramedular, por estar posicionada centralmente próximo ao eixo mecânico do osso, atua como um dispositivo de compartilhamento de carga (load-sharing), distribuindo as forças entre o implante e o osso, o que permite carga precoce e reduz o risco de falha por fadiga em comparação a uma placa em ponte, que atua como dispositivo de suporte de carga (load-bearing) sujeito a maior momento de flexão até a consolidação. Essa é uma das razões pelas quais a haste intramedular é frequentemente o método de escolha para fraturas diafisárias fechadas de fêmur e tibia em adultos.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-020",
+      "tema": "Princípios AO",
+      "enunciado": "Em fratura metafisária distal de fêmur cominutiva tratada com placa bloqueada em ponte, a evolução radiográfica mostra ausência de formação de calo ósseo após vários meses, com linha de fratura ainda visível mas sem sinais de reabsorção ou hipertrofia. A explicação biomecânica mais provável para esse padrão de 'não-união por rigidez excessiva' é:",
+      "alternativas": [
+        "Excesso de movimento no foco de fratura, gerando strain acima do limite tolerado pelo osso lamelar",
+        "Constructo excessivamente rígido (alta densidade de parafusos, comprimento de trabalho curto, uso de parafusos bloqueados bilaterais em compressão), reduzindo o strain interfragmentário a níveis insuficientes para estimular a diferenciação tecidual e formação de calo",
+        "Infecção subclínica do foco de fratura",
+        "Redução anatômica perfeita com compressão interfragmentária adequada"
+      ],
+      "correta": 1,
+      "comentario": "Quando uma fratura cominutiva é tratada como se fosse simples — com constructo excessivamente rígido (parafusos bloqueados bilaterais próximos ao foco, alta densidade de parafusos) —, o strain interfragmentário pode ficar abaixo do limiar necessário para estimular a cascata de consolidação secundária (formação de calo), mas também não é baixo o suficiente para consolidação primária verdadeira (que exigiria compressão e contato absoluto). O resultado é uma pseudartrose 'oligotrófica' ou hipotrófica, sem calo visível e sem reabsorção acentuada das extremidades, refletindo um meio-termo biomecânico desfavorável. A correção envolve aumentar a flexibilidade do constructo (dinamização, troca de técnica) ou converter para fixação absoluta com enxerto, conforme o caso.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "difícil"
+    },
+    {
+      "id": "PTP-021",
+      "tema": "Fraturas expostas",
+      "enunciado": "Sobre a classificação de Gustilo-Anderson para fraturas expostas, assinale a alternativa correta.",
+      "alternativas": [
+        "Tipo I: ferida maior que 10 cm com grave contaminação e perda de partes moles",
+        "Tipo II: ferida entre 1 e 10 cm, sem retalho ou avulsão extensa de partes moles, com contaminação moderada",
+        "Tipo IIIC: definido exclusivamente pelo tamanho da ferida, independentemente de lesão vascular",
+        "Tipo IIIA: exige cobertura com retalho microcirúrgico para fechamento da ferida"
+      ],
+      "correta": 1,
+      "comentario": "A classificação de Gustilo-Anderson categoriza fraturas expostas em: tipo I (ferida menor que 1 cm, baixa energia, mínima contaminação), tipo II (ferida entre 1 e 10 cm, sem lesão extensa de partes moles), tipo III (alta energia, subdividida em IIIA — cobertura de partes moles adequada apesar de laceração extensa ou fratura segmentar/cominutiva —, IIIB — perda de partes moles com exposição óssea exigindo retalho para cobertura — e IIIC — qualquer fratura exposta com lesão vascular que necessite reparo, independentemente do tamanho da ferida ou do grau de cominuição). A gravidade da lesão de partes moles e da contaminação, mais que apenas o tamanho da ferida, determina a categoria.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-022",
+      "tema": "Fraturas expostas",
+      "enunciado": "Em relação ao tempo de administração de antibioticoterapia em fraturas expostas, a evidência atual (incluindo diretrizes da OTA e estudos observacionais recentes) enfatiza que:",
+      "alternativas": [
+        "O desbridamento cirúrgico deve ocorrer obrigatoriamente dentro de 6 horas do trauma, sendo esse o fator mais determinante do risco de infecção",
+        "A administração precoce de antibiótico intravenoso, idealmente dentro da primeira hora após a chegada ao serviço de emergência, é o fator mais fortemente associado a redução do risco de infecção, mais do que o rígido cumprimento de uma janela fixa de 6 horas para o desbridamento",
+        "Antibióticos devem ser reservados para após a confirmação de cultura positiva da ferida",
+        "Não há benefício comprovado de antibioticoprofilaxia em fraturas expostas tipo I"
+      ],
+      "correta": 1,
+      "comentario": "Estudos mais recentes desafiaram o antigo dogma da 'regra das 6 horas' para desbridamento como determinante isolado do risco de infecção, demonstrando que a administração precoce de antibiótico intravenoso (idealmente na primeira hora) é um fator mais consistentemente associado a redução de infecção. Isso não elimina a necessidade de desbridamento cirúrgico adequado e oportuno, mas reposiciona a antibioticoterapia precoce como prioridade imediata no atendimento inicial da fratura exposta, mesmo antes da ida ao centro cirúrgico.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-023",
+      "tema": "Fraturas expostas",
+      "enunciado": "Paciente com fratura exposta de tibia Gustilo tipo II, sem contaminação grosseira, chega ao pronto-socorro. A escolha antibiótica inicial mais apropriada é:",
+      "alternativas": [
+        "Cefalosporina de primeira geração (ex.: cefazolina) isoladamente, cobrindo principalmente Gram-positivos",
+        "Vancomicina isolada, sem necessidade de cobertura para Gram-negativos",
+        "Cefalosporina de primeira geração associada a aminoglicosídeo, independentemente do grau de contaminação",
+        "Nenhum antibiótico é necessário até resultado de cultura"
+      ],
+      "correta": 0,
+      "comentario": "Para fraturas expostas Gustilo tipo I e II, a recomendação clássica é cobertura com cefalosporina de primeira geração (cefazolina), visando principalmente organismos Gram-positivos de pele. A adição de aminoglicosídeo para cobertura de Gram-negativos é reservada as fraturas tipo III (alta energia, maior contaminação) devido ao maior risco de infecção por organismos mais variados nesses casos, e a penicilina é adicionada quando há contaminação por material orgânico (ferimentos em fazenda) pelo risco de Clostridium.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-024",
+      "tema": "Fraturas expostas",
+      "enunciado": "Sobre o momento ideal do desbridamento cirúrgico em fraturas expostas, a literatura atual sustenta que:",
+      "alternativas": [
+        "Deve ser realizado impreterivelmente dentro das primeiras 6 horas, sob pena de infecção inevitável",
+        "O desbridamento deve ser realizado de forma criteriosa e completa assim que as condições logísticas e clínicas do paciente permitirem, sem que uma janela rígida de 6 horas seja, isoladamente, o determinante mais importante do desfecho infeccioso; desbridamentos seriados podem ser necessários",
+        "Fraturas expostas tipo I nunca necessitam de desbridamento cirúrgico formal",
+        "O desbridamento deve ser adiado até a estabilização definitiva da fratura, dias após o trauma"
+      ],
+      "correta": 1,
+      "comentario": "Embora historicamente se ensinasse uma 'janela de ouro' de 6 horas para o desbridamento, evidências mais recentes mostram que a qualidade e a adequação do desbridamento (remoção completa de tecido desvitalizado, corpos estranhos e contaminação), associadas a antibioticoterapia precoce, são mais determinantes para o risco de infecção do que o cumprimento estrito dessa janela temporal. Desbridamentos seriados a cada 24-48 horas até obtenção de tecido viável e limpo são frequentemente necessários em lesões de alta energia, especialmente devido à 'zona de lesão' que pode não estar totalmente demarcada no primeiro atendimento.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-025",
+      "tema": "Fraturas expostas",
+      "enunciado": "O conceito de tempo ideal para cobertura de partes moles em fraturas expostas graves com exposição óssea (Godina e estudos subsequentes) sugere que:",
+      "alternativas": [
+        "A cobertura definitiva (retalho) deve ser postergada por no mínimo 3 semanas para permitir 'demarcação' completa da lesão",
+        "A cobertura precoce das partes moles, idealmente dentro de 72 horas após o trauma (quando factível), está associada a menores taxas de infecção, perda de retalho e complicações, em comparação com coberturas tardias",
+        "O momento da cobertura de partes moles não influência o risco de infecção",
+        "A cobertura deve ser realizada apenas após consolidação óssea completa"
+      ],
+      "correta": 1,
+      "comentario": "Godina demonstrou, em séries de reconstrução microcirúrgica de membros, que a cobertura precoce de partes moles (idealmente dentro de 72 horas) em fraturas expostas graves com exposição óssea reduz significativamente as taxas de infecção, perda de retalho, tempo de internação e número de cirurgias, provavelmente por operar em tecidos ainda não colonizados por flora hospitalar e antes da fibrose excessiva. Coberturas tardias (após 3 meses) também podem ter resultados aceitáveis, mas o período intermediário (72 horas a algumas semanas) está associado a piores desfechos, reforçando a importância de planejamento multidisciplinar precoce entre ortopedia e cirurgia plástica.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "difícil"
+    },
+    {
+      "id": "PTP-026",
+      "tema": "Fraturas expostas",
+      "enunciado": "Em relação à fixação definitiva versus provisória em fraturas expostas de tibia Gustilo tipo I e II após desbridamento adequado, é correto afirmar que:",
+      "alternativas": [
+        "O fixador externo é obrigatório como único método aceitável em qualquer fratura exposta",
+        "A haste intramedular bloqueada pode ser considerada como fixação definitiva primária com segurança na maioria dos casos tipo I, II e IIIA, após desbridamento adequado, sem necessariamente exigir fixação externa provisória prévia",
+        "A fixação interna está contraindicada em qualquer fratura exposta, independentemente do grau",
+        "A fixação definitiva deve sempre ser postergada por no mínimo 2 semanas após fraturas expostas"
+      ],
+      "correta": 1,
+      "comentario": "Estudos e séries clínicas mostram que, após desbridamento cirúrgico adequado, a haste intramedular bloqueada pode ser utilizada com segurança como fixação definitiva primária na maioria das fraturas expostas de tibia tipo I, II e IIIA, sem necessidade obrigatória de fixação externa provisória prévia, desde que as condições de partes moles e a experiência da equipe permitam. Em fraturas tipo IIIB e IIIC, ou em pacientes com instabilidade sistêmica (contexto de politrauma), a fixação externa provisória (controle de danos) permanece uma estratégia importante até definição de cobertura de partes moles e estabilização do paciente.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-027",
+      "tema": "Fraturas expostas",
+      "enunciado": "A profilaxia antitetânica em fraturas expostas deve ser baseada em:",
+      "alternativas": [
+        "Apenas na idade do paciente, independentemente do estado vacinal",
+        "No status de imunização prévia contra tétano do paciente e no grau de contaminação/gravidade da ferida (feridas limpas versus feridas de alto risco tetanogênico)",
+        "Somente na presença de sinais clínicos de infecção no momento do atendimento",
+        "Na classificação de Gustilo-Anderson exclusivamente, sem considerar o histórico vacinal"
+      ],
+      "correta": 1,
+      "comentario": "A decisão sobre profilaxia antitetânica (vacina dT/dTpa e/ou imunoglobulina antitetânica) em feridas traumáticas, incluindo fraturas expostas, segue protocolos baseados em dois eixos: o histórico de imunização prévia do paciente (número de doses e tempo desde a última dose) e a classificação da ferida quanto ao risco tetanogênico (feridas limpas de baixo risco versus feridas contaminadas, com tecido desvitalizado, corpo estranho ou tempo de evolução maior que 6 horas, consideradas de alto risco). Pacientes com esquema vacinal incompleto ou desconhecido e ferida de alto risco geralmente recebem tanto a vacina quanto a imunoglobulina.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-028",
+      "tema": "Fraturas expostas",
+      "enunciado": "Um paciente sofre fratura fechada da tibia com pequena laceração de 2 cm sobre o foco, mas apresenta ausência de pulso distal palpável e Doppler alterado, exigindo reparo de artéria tibial posterior. De acordo com Gustilo-Anderson, essa lesão deve ser classificada como:",
+      "alternativas": [
+        "Tipo I, pois a ferida tem menos de 1 cm de comprimento após ampliação mínima",
+        "Tipo II, pelo tamanho da ferida entre 1 e 10 cm",
+        "Tipo IIIC, pois qualquer fratura exposta associada a lesão vascular que necessite reparo é classificada como IIIC independentemente do tamanho da ferida ou do grau de cominuição óssea/partes moles",
+        "Não pode ser classificada por Gustilo-Anderson, pois a lesão vascular exige sistema de classificação vascular específico"
+      ],
+      "correta": 2,
+      "comentario": "Uma particularidade importante da classificação de Gustilo-Anderson é que a categoria IIIC é definida pela presença de lesão vascular que necessite reparo cirúrgico, independentemente do tamanho da ferida cutânea, do grau de cominuição óssea ou da extensão da lesão de partes moles. Isso significa que mesmo uma ferida pequena (como no caso descrito) associada a lesão arterial significativa classifica a fratura automaticamente como IIIC, categoria com o pior prognóstico funcional e maior taxa de amputação entre os tipos de Gustilo-Anderson.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-029",
+      "tema": "Fraturas expostas",
+      "enunciado": "A terapia por pressão negativa (NPWT - vácuo) em feridas de fraturas expostas após desbridamento cirúrgico tem como papel principal:",
+      "alternativas": [
+        "Substituir a necessidade de desbridamento cirúrgico seriado",
+        "Servir como medida adjuvante de manejo temporário da ferida entre desbridamentos e até a cobertura definitiva de partes moles, auxiliando no controle do exsudato e na preparação do leito da ferida, sem substituir desbridamento adequado nem antibioticoterapia",
+        "Ser contraindicada em qualquer fratura exposta com exposição óssea",
+        "Eliminar a necessidade de avaliação seriada da viabilidade tecidual"
+      ],
+      "correta": 1,
+      "comentario": "A terapia por pressão negativa é amplamente utilizada como medida temporária (bridge) no manejo de feridas complexas após desbridamento em fraturas expostas, auxiliando no controle de exsudato, redução de edema e preparo do leito da ferida para cobertura definitiva (enxerto ou retalho). Entretanto, ela não substitui a necessidade de desbridamentos cirúrgicos seriados adequados quando há tecido desvitalizado residual, nem dispensa a antibioticoterapia apropriada; seu uso prolongado e indiscriminado sem reavaliação pode inclusive mascarar sinais de infecção progressiva.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-030",
+      "tema": "Fraturas expostas",
+      "enunciado": "Trabalhador rural sofre fratura exposta de antebraço após acidente com maquinário agrícola, com contaminação evidente por material orgânico (terra, esterco). Além da cobertura antibiótica padrão para fraturas expostas, deve-se considerar adicionalmente:",
+      "alternativas": [
+        "Suspensão de qualquer antibioticoterapia até resultado de cultura",
+        "Adição de penicilina em altas doses (ou equivalente) para cobertura de Clostridium e outros anaeróbios, dado o maior risco de infecção por contaminação com material orgânico/fecal típico de ferimentos agrícolas",
+        "Uso exclusivo de antifúngico tópico, dispensando antibioticoterapia sistêmica",
+        "Redução da dose habitual de antibiótico para evitar toxicidade, dado o contexto rural"
+      ],
+      "correta": 1,
+      "comentario": "Ferimentos com contaminação por material orgânico de origem agrícola (terra, esterco, matéria fecal) apresentam risco aumentado de infecção por Clostridium perfringens (gangrena gasosa) e outros anaeróbios, além da flora usual de fraturas expostas. Por isso, além do esquema antibiótico padrão (cefalosporina +/- aminoglicosídeo conforme gravidade), recomenda-se a adição de penicilina em altas doses (ou equivalente com cobertura anaeróbica) nesses casos, junto com desbridamento cirúrgico agressivo e repetido, dada a maior virulência e o risco de infecção fulminante nesse contexto.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "difícil"
+    },
+    {
+      "id": "PTP-031",
+      "tema": "Politrauma",
+      "enunciado": "Na sequência primária do ATLS (Advanced Trauma Life Support), a ordem correta de avaliação é:",
+      "alternativas": [
+        "Circulação, Via aerea, Respiração, Disfunção neurológica, Exposição",
+        "Via aerea com proteção da coluna cervical, Respiração/ventilação, Circulação com controle de hemorragia, Disfunção neurológica, Exposição com controle de hipotermia",
+        "Exposição, Disfunção neurológica, Circulação, Respiração, Via aerea",
+        "Respiração, Via aerea, Circulação, Exposição, Disfunção neurológica"
+      ],
+      "correta": 1,
+      "comentario": "A avaliação primária do ATLS segue a sequência mnemônica ABCDE: A (Airway, via aerea com proteção da coluna cervical), B (Breathing, respiração e ventilação), C (Circulation, circulação com controle de hemorragia), D (Disability, avaliação neurológica sumária) e E (Exposure, exposição completa do paciente com controle ativo da hipotermia). Essa sequência prioriza a identificação e o tratamento imediato das condições que mais rapidamente ameaçam a vida, sendo a base do atendimento inicial ao politraumatizado, incluindo aquele com fraturas ortopédicas associadas.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-032",
+      "tema": "Politrauma",
+      "enunciado": "O conceito de 'controle de danos em ortopedia' (Damage Control Orthopaedics - DCO) refere-se a:",
+      "alternativas": [
+        "Realização de fixação interna definitiva imediata de todas as fraturas de ossos longos em qualquer paciente politraumatizado, independentemente do estado hemodinâmico",
+        "Estabilização temporária e rápida de fraturas de ossos longos (tipicamente com fixador externo) em pacientes politraumatizados fisiologicamente instáveis, adiando a fixação definitiva até estabilização clínica",
+        "Amputação precoce de membros gravemente lesados como primeira opção terapêutica",
+        "Tratamento exclusivamente conservador (gesso) de todas as fraturas em politraumatizados"
+      ],
+      "correta": 1,
+      "comentario": "O DCO consiste em estabilizar temporariamente fraturas de ossos longos (mais comumente fêmur) por meio de fixadores externos em pacientes politraumatizados que apresentam instabilidade fisiológica (hemodinâmica, respiratória, coagulopatia, hipotermia), evitando a agressão cirúrgica adicional de uma fixação definitiva prolongada nesse momento crítico. A fixação definitiva (troca para haste intramedular, por exemplo) é realizada posteriormente, após estabilização clínica do paciente, geralmente dentro de dias a poucas semanas.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-033",
+      "tema": "Politrauma",
+      "enunciado": "Segundo os critérios propostos por Pape e colaboradores para classificação do paciente politraumatizado em relação ao momento da fixação ortopédica definitiva, um paciente é considerado 'borderline' (limítrofe), com indicação relativa de controle de danos em vez de fixação definitiva precoce, na presença de:",
+      "alternativas": [
+        "ISS menor que 10 e ausência de trauma torácico",
+        "ISS maior que 40, ou trauma torácico associado (AIS torácico maior que 2) combinado com fratura de fêmur/pelve, ou fraturas femorais bilaterais, ou hipotermia e acidose com instabilidade hemodinâmica limítrofe",
+        "Fratura isolada de rádio distal sem outras lesões associadas",
+        "Ausência total de lesões associadas ao trauma ortopédico"
+      ],
+      "correta": 1,
+      "comentario": "Os critérios de Pape para identificar o paciente 'borderline' incluem, entre outros: Injury Severity Score (ISS) maior que 40 (mesmo sem instabilidade hemodinâmica evidente); ISS maior que 20 associado a trauma torácico grave (AIS torácico maior que 2); fraturas múltiplas de ossos longos, especialmente femorais bilaterais; trauma abdominal/pélvico grave com padrão de choque; hipotermia (menor que 35 graus), acidose (pH menor que 7,25) ou tempo cirúrgico previsto prolongado. Nesses pacientes, a decisão entre controle de danos e fixação definitiva precoce deve ser individualizada, pesando os riscos do 'second hit' cirúrgico.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-034",
+      "tema": "Politrauma",
+      "enunciado": "O fenômeno do 'second hit' (segundo insulto) no contexto do politrauma refere-se a:",
+      "alternativas": [
+        "A ocorrência de uma segunda fratura no mesmo osso durante a reabilitação",
+        "A resposta inflamatória sistêmica adicional desencadeada por uma intervenção cirúrgica de grande porte (como fixação definitiva prolongada) em um paciente já fisiologicamente comprometido pelo trauma inicial, podendo amplificar a síndrome de resposta inflamatória sistêmica e precipitar disfunção de múltiplos órgãos",
+        "A necessidade de uma segunda cirurgia de revisão por infecção",
+        "O impacto psicológico secundário ao trauma físico"
+      ],
+      "correta": 1,
+      "comentario": "O conceito de 'second hit' descreve como uma cirurgia de grande porte (por exemplo, fixação definitiva prolongada de fraturas múltiplas) realizada precocemente em um paciente já fisiologicamente instável pelo trauma inicial ('first hit') pode atuar como um insulto inflamatório adicional, amplificando a resposta inflamatória sistêmica (SIRS) e aumentando o risco de síndrome do desconforto respiratório agudo, falência de múltiplos órgãos e até morte. Esse conceito fundamenta a estratégia de controle de danos ortopédico em pacientes fisiologicamente instáveis ou limítrofes.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-035",
+      "tema": "Politrauma",
+      "enunciado": "No contexto de reanimação do politraumatizado, quais parâmetros laboratoriais são classicamente utilizados como marcadores de adequação da perfusão tecidual e podem orientar o momento seguro para conversão de fixação externa para fixação definitiva?",
+      "alternativas": [
+        "Hemoglobina isoladamente",
+        "Lactato sérico e déficit de base (base excess), refletindo a adequação da perfusão tecidual e da reanimação volêmica",
+        "Contagem de plaquetas isoladamente, sem outros parâmetros",
+        "Apenas a pressão arterial media, sem necessidade de exames laboratoriais"
+      ],
+      "correta": 1,
+      "comentario": "O lactato sérico e o déficit de base são marcadores indiretos de perfusão tecidual e hipóxia celular, refletindo o grau de choque e a adequação da reanimação volêmica no paciente politraumatizado. A normalização desses parâmetros (juntamente com estabilidade hemodinâmica, correção de coagulopatia e normotermia) é frequentemente utilizada como critério para considerar o paciente fisiologicamente apto para intervenções cirúrgicas de maior porte, como a conversão de fixação externa provisória para fixação interna definitiva.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "difícil"
+    },
+    {
+      "id": "PTP-036",
+      "tema": "Politrauma",
+      "enunciado": "Paciente politraumatizado, hemodinamicamente estável, sem trauma torácico ou craniano significativo, com fraturas fechadas bilaterais de fêmur, é considerado fisiologicamente estável para receber:",
+      "alternativas": [
+        "Apenas tratamento conservador com tração esquelética prolongada",
+        "Fixação definitiva precoce ('early total care'), tipicamente com haste intramedular bilateral dentro das primeiras 24 horas, associada a redução de complicações pulmonares e menor tempo de internação em comparação a fixação tardia",
+        "Amputação bilateral profilática",
+        "Fixador externo definitivo bilateral, sem conversão posterior"
+      ],
+      "correta": 1,
+      "comentario": "Em pacientes politraumatizados fisiologicamente estáveis (sem os critérios de instabilidade ou 'borderline' descritos por Pape), a estratégia de 'early total care' (fixação definitiva precoce, idealmente dentro de 24 horas) das fraturas de ossos longos, incluindo fraturas femorais bilaterais, está associada a menor incidência de complicações pulmonares (como síndrome do desconforto respiratório agudo e embolia gordurosa), menor tempo de internação em UTI e melhores desfechos gerais, quando comparada a fixação tardia ou prolongada com métodos conservadores.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-037",
+      "tema": "Politrauma",
+      "enunciado": "A colocação de uma cinta pélvica (pelvic binder) em suspeita de fratura instável do anel pélvico com hipotensão deve ser realizada:",
+      "alternativas": [
+        "Ao nível da crista ilíaca, para máximo controle da diastase da sínfise púbica",
+        "Ao nível dos trocanteres maiores (grandes trocanteres femorais), posição que confere maior eficácia biomecânica na redução do volume pélvico e estabilização do anel",
+        "Ao nível do umbigo, independentemente da anatomia pélvica",
+        "Apenas após confirmação radiográfica da fratura, nunca de forma empírica em ambiente pré-hospitalar"
+      ],
+      "correta": 1,
+      "comentario": "A cinta pélvica deve ser posicionada ao nível dos grandes trocanteres femorais (e não na crista ilíaca ou no abdome), pois essa localização confere a maior eficácia biomecânica para compressão e redução do volume pélvico em fraturas com padrão de livro aberto (open book), auxiliando no controle da hemorragia venosa e óssea associada. A colocação pode e deve ser feita empiricamente em ambiente pré-hospitalar ou na sala de emergência diante de suspeita clínica de instabilidade pélvica com choque, sem aguardar confirmação radiográfica, dada a urgência do controle hemorrágico.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-038",
+      "tema": "Politrauma",
+      "enunciado": "O uso de REBOA (resuscitative endovascular balloon occlusion of the aorta) em pacientes com choque hemorrágico grave secundário a fratura instável do anel pélvico tem como princípio:",
+      "alternativas": [
+        "Substituir definitivamente a necessidade de embolização angiográfica ou fixação pélvica",
+        "Ocluir temporariamente a aorta (tipicamente na zona III, infrarrenal, para hemorragia pélvica) por via endovascular, reduzindo o sangramento distal e permitindo tempo para reanimação e controle definitivo da hemorragia (embolização, packing pré-peritoneal ou fixação)",
+        "Ser utilizado exclusivamente em traumatismo cranioencefálico isolado",
+        "Substituir a necessidade de transfusão sanguínea no choque hemorrágico"
+      ],
+      "correta": 1,
+      "comentario": "O REBOA é uma técnica de ressuscitação que utiliza um balão inflável introduzido por via endovascular (geralmente femoral) para ocluir temporariamente a aorta, reduzindo o fluxo sanguíneo distal a oclusão e aumentando a perfusão proximal (cerebral e coronariana) em pacientes com choque hemorrágico refratário. Na hemorragia pélvica, a oclusão na zona III (aorta infrarrenal, acima da bifurcação ilíaca) pode reduzir temporariamente o sangramento originado na pelve, servindo como ponte ('bridge') até o controle definitivo da hemorragia por embolização angiográfica, packing pré-peritoneal ou fixação do anel pélvico, e não como tratamento definitivo isolado.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "difícil"
+    },
+    {
+      "id": "PTP-039",
+      "tema": "Politrauma",
+      "enunciado": "O princípio da 'ressuscitação de controle de danos' (damage control resuscitation) no atendimento ao politraumatizado em choque hemorrágico inclui:",
+      "alternativas": [
+        "Infusão agressiva e ilimitada de cristaloides até normalização completa da pressão arterial antes de qualquer intervenção cirúrgica",
+        "Hipotensão permissiva (até o controle definitivo da hemorragia), transfusão precoce e balanceada de hemocomponentes (próximo de proporção 1:1:1 de concentrado de hemácias, plasma fresco congelado e plaquetas) e minimização do uso excessivo de cristaloides",
+        "Uso exclusivo de solução salina hipertônica, sem necessidade de hemocomponentes",
+        "Adiamento de qualquer transfusão até resultados laboratoriais completos estarem disponíveis"
+      ],
+      "correta": 1,
+      "comentario": "A ressuscitação de controle de danos busca minimizar a tríade letal do trauma (hipotermia, acidose e coagulopatia) por meio de estratégias como hipotensão permissiva (mantendo pressão arterial suficiente para perfusão vital sem promover ressangramento, até o controle cirúrgico definitivo da hemorragia), transfusão precoce e balanceada de hemocomponentes em proporção próxima de 1:1:1 (hemácias, plasma e plaquetas) e redução do uso excessivo de cristaloides, que pode agravar coagulopatia por diluição e hipotermia. Essa abordagem é particularmente relevante em pacientes com fraturas pélvicas ou de ossos longos com sangramento significativo.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "difícil"
+    },
+    {
+      "id": "PTP-040",
+      "tema": "Politrauma",
+      "enunciado": "Paciente politraumatizado com traumatismo cranioencefálico grave (Glasgow 7) e fratura fechada da diáfise femoral e admitido em choque compensado. Em relação ao momento e a técnica de fixação da fratura femoral, deve-se considerar que:",
+      "alternativas": [
+        "A haste intramedular fresada deve ser realizada imediatamente, independentemente do estado neurológico, sem nenhuma preocupação adicional",
+        "Existe preocupação teórica de que o fresamento intramedular e o próprio procedimento cirúrgico prolongado possam contribuir para hipotensão transitória e embolização gordurosa, potencialmente agravando a lesão cerebral secundária; por isso, em pacientes com TCE grave e instabilidade fisiológica, uma estratégia de controle de danos (fixador externo provisório) pode ser preferida até estabilização neurológica e hemodinâmica",
+        "O traumatismo cranioencefálico grave contraindica de forma absoluta e permanente qualquer fixação cirúrgica da fratura femoral",
+        "A fixação definitiva deve ser realizada exclusivamente com placa, nunca com haste, em qualquer paciente com TCE"
+      ],
+      "correta": 1,
+      "comentario": "Há preocupação, sustentada por alguns estudos, de que o fresamento intramedular e a embolização de conteudo medular durante a fixação de fraturas femorais possam contribuir para episódios de hipotensão transitória e hipoxemia, o que teoricamente poderia agravar a lesão cerebral secundária em pacientes com traumatismo cranioencefálico grave e comprometimento da autorregulação cerebral. Embora a evidência definitiva seja controversa, muitos protocolos institucionais optam por uma abordagem de controle de danos (fixador externo provisório) em pacientes com TCE grave e instabilidade, convertendo para fixação definitiva após estabilização neurológica e hemodinâmica, com monitorização cuidadosa da pressão de perfusão cerebral durante a cirurgia quando a fixação definitiva precoce é indicada.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "difícil"
+    },
+    {
+      "id": "PTP-041",
+      "tema": "Síndrome compartimental",
+      "enunciado": "O sinal clínico mais precoce e sensível para o diagnóstico de síndrome compartimental aguda em um paciente consciente e cooperativo é:",
+      "alternativas": [
+        "Palidez do membro",
+        "Dor desproporcional a lesão aparente, que se intensifica com o alongamento passivo (estiramento passivo) da musculatura do compartimento envolvido",
+        "Ausência de pulso distal palpável",
+        "Parestesia estabelecida e persistente"
+      ],
+      "correta": 1,
+      "comentario": "O diagnóstico de síndrome compartimental aguda é primariamente clínico em pacientes conscientes e cooperativos. O sinal mais precoce e sensível é a dor desproporcional a lesão aparente, que piora significativamente com o alongamento passivo dos músculos do compartimento acometido (por exemplo, dorsiflexão passiva dos dedos no compartimento posterior profundo da perna). Os demais sinais clássicos dos '6 Ps' (palidez, ausência de pulso, parestesia, paralisia, poiquilotermia, além da dor) são geralmente tardios e indicam isquemia já estabelecida, quando o dano muscular e neural pode já ser irreversível.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-042",
+      "tema": "Síndrome compartimental",
+      "enunciado": "Dentre as fraturas de ossos longos, aquela classicamente mais associada ao desenvolvimento de síndrome compartimental aguda é a fratura:",
+      "alternativas": [
+        "Da diáfise do úmero",
+        "Da diáfise da tibia",
+        "Do colo do fêmur",
+        "Do rádio distal isolada em idoso"
+      ],
+      "correta": 1,
+      "comentario": "A fratura da diáfise tibial é classicamente a fratura de osso longo mais associada ao desenvolvimento de síndrome compartimental aguda, devido à anatomia da perna, com compartimentos musculares relativamente inextensíveis (especialmente o compartimento anterior) circundados por fáscia pouco complacente, além da tibia ser subcutânea e vulnerável a trauma direto de alta energia. Outras causas frequentes incluem fraturas do antebraço e traumas por esmagamento, mas a tibia permanece a localização mais comum na prática clínica.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-043",
+      "tema": "Síndrome compartimental",
+      "enunciado": "Na avaliação objetiva por medida de pressão intracompartimental, o parâmetro mais utilizado para indicar a necessidade de fasciotomia de emergência é:",
+      "alternativas": [
+        "Pressão compartimental absoluta maior que 10 mmHg, isoladamente",
+        "Pressão de perfusão compartimental (delta pressão), calculada pela diferença entre a pressão arterial diastólica e a pressão compartimental medida, menor que 30 mmHg",
+        "Pressão compartimental absoluta menor que 20 mmHg",
+        "Frequência cardíaca maior que 100 bpm associada a dor no membro"
+      ],
+      "correta": 1,
+      "comentario": "O parâmetro mais aceito atualmente para indicar fasciotomia de emergência é a pressão de perfusão compartimental (delta pressão ou 'delta P'), calculada como a pressão arterial diastólica menos a pressão intracompartimental medida. Um delta P menor que 30 mmHg é considerado indicativo de perfusão tecidual comprometida e justifica fasciotomia de emergência, sendo um parâmetro mais fisiologicamente relevante do que um valor absoluto fixo de pressão compartimental, pois leva em conta a pressão arterial sistêmica do paciente (relevante, por exemplo, em pacientes hipotensos, nos quais valores absolutos mais baixos já podem ser críticos).",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-044",
+      "tema": "Síndrome compartimental",
+      "enunciado": "A perna possui quatro compartimentos musculares separados por fáscia. O compartimento anterior da perna contem, entre outras estruturas, o nervo fibular (peroneal) profundo e os músculos tibial anterior e extensores dos dedos; sua isquemia classicamente causa:",
+      "alternativas": [
+        "Perda de sensibilidade na planta do pe e fraqueza da flexão plantar",
+        "Perda de sensibilidade no primeiro espaço interdigital (dorso do pe) e fraqueza da dorsiflexão do tornozelo e dos dedos (pe cai/'foot drop')",
+        "Perda de sensibilidade na face lateral do pe e fraqueza da eversão do tornozelo",
+        "Nenhuma alteração sensitivomotora, pois o compartimento anterior não contem nervos"
+      ],
+      "correta": 1,
+      "comentario": "O compartimento anterior da perna contem o nervo fibular (peroneal) profundo, responsável pela sensibilidade do primeiro espaço interdigital dorsal e pela inervação motora dos músculos dorsiflexores do tornozelo e extensores dos dedos (tibial anterior, extensor longo dos dedos e do hálux). A isquemia desse compartimento causa classicamente hipoestesia no primeiro espaço interdigital e fraqueza/paralisia da dorsiflexão, resultando em pe cai (foot drop) se não tratada a tempo. Os outros compartimentos (lateral, posterior superficial e posterior profundo) têm apresentações clínicas distintas conforme suas estruturas neuromusculares específicas.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-045",
+      "tema": "Síndrome compartimental",
+      "enunciado": "A técnica cirúrgica classicamente descrita para fasciotomia completa dos quatro compartimentos da perna é a:",
+      "alternativas": [
+        "Incisão única posteromedial isolada",
+        "Técnica de dupla incisão (medial e lateral), permitindo acesso aos quatro compartimentos (anterior e lateral pela incisão lateral; posterior superficial e profundo pela incisão medial)",
+        "Fasciotomia percutânea por agulha, sem necessidade de incisão cutânea",
+        "Amputação primária, sem tentativa de fasciotomia"
+      ],
+      "correta": 1,
+      "comentario": "A técnica clássica de fasciotomia de perna para descompressão dos quatro compartimentos utiliza duas incisões longitudinais: uma incisão lateral, que permite liberação dos compartimentos anterior e lateral, e uma incisão medial (posteromedial), que permite liberação dos compartimentos posterior superficial e posterior profundo (com cuidado especial para preservar o feixe vasculonervoso tibial posterior e evitar lesão da veia safena magna). Essa abordagem com duas incisões é amplamente preferida em relação à técnica de incisão única por permitir descompressão mais completa e segura de todos os compartimentos.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-046",
+      "tema": "Síndrome compartimental",
+      "enunciado": "Em pacientes sedados, intubados ou com rebaixamento do nível de consciência (por exemplo, após traumatismo cranioencefálico associado), o diagnóstico de síndrome compartimental aguda é dificultado porque:",
+      "alternativas": [
+        "Esses pacientes nunca desenvolvem síndrome compartimental",
+        "Os sinais clínicos clássicos (dor desproporcional, dor ao alongamento passivo) não podem ser adequadamente avaliados, tornando a monitorização continua da pressão intracompartimental uma ferramenta particularmente valiosa nesse contexto",
+        "O diagnóstico só pode ser feito por ressonância magnética de emergência",
+        "A ausência de dor exclui definitivamente o diagnóstico"
+      ],
+      "correta": 1,
+      "comentario": "Em pacientes com rebaixamento do nível de consciência, sedados ou intubados, a avaliação clínica subjetiva (dor desproporcional, piora com alongamento passivo) fica comprometida ou impossibilitada, aumentando significativamente o risco de atraso diagnóstico da síndrome compartimental aguda. Nesses casos, a monitorização continua ou seriada da pressão intracompartimental (por cateter específico) torna-se uma ferramenta particularmente importante para detecção precoce, especialmente em pacientes com fatores de risco (fratura de tibia, trauma de alta energia, uso de anticoagulantes) que estejam impossibilitados de relatar sintomas.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-047",
+      "tema": "Síndrome compartimental",
+      "enunciado": "A contratura isquêmica de Volkmann é uma sequela tardia classicamente associada a:",
+      "alternativas": [
+        "Síndrome compartimental do braço não tratada, geralmente após fratura supracondiliana do úmero em crianças ou lesão vascular do antebraço",
+        "Fratura isolada de clavícula sem outras complicações",
+        "Luxação do ombro sem lesão neurovascular associada",
+        "Fratura de escafoide tratada conservadoramente"
+      ],
+      "correta": 0,
+      "comentario": "A contratura isquêmica de Volkmann é a sequela cicatricial e fibrótica tardia da musculatura flexora do antebraço (e eventualmente da mão) resultante de uma síndrome compartimental do antebraço não diagnosticada ou tratada tardiamente, classicamente associada a fraturas supracondilianas do úmero na infância com comprometimento vascular (lesão ou compressão da artéria braquial), mas também descrita após outras lesões do antebraço com comprometimento vascular/compartimental. O resultado é uma deformidade em flexão fixa dos dedos e do punho, com perda funcional significativa da mão, reforçando a importância do diagnóstico e tratamento precoces da síndrome compartimental.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-048",
+      "tema": "Síndrome compartimental",
+      "enunciado": "A síndrome de esmagamento (crush syndrome), frequentemente associada a síndrome compartimental extensa após compressão prolongada de membros (por exemplo, soterramento), tem como complicações sistêmicas características:",
+      "alternativas": [
+        "Hipocalemia grave e alcalose metabólica",
+        "Rabdomiólise com mioglobinúria, podendo evoluir para lesão renal aguda, além de hipercalemia e acidose metabólica, exigindo hidratação agressiva e monitorização eletrolítica rigorosa",
+        "Hipoglicemia isolada, sem outras alterações metabólicas relevantes",
+        "Ausência de qualquer risco sistêmico, sendo uma condição restrita ao membro afetado"
+      ],
+      "correta": 1,
+      "comentario": "A síndrome de esmagamento resulta da lesão muscular extensa por compressão prolongada, liberando grandes quantidades de mioglobina, potássio e outros produtos da lise celular na circulação sistêmica após a descompressão (por exemplo, no resgate de vítimas soterradas). Isso pode causar rabdomiólise com mioglobinúria (risco de lesão renal aguda por precipitação tubular), hipercalemia potencialmente fatal (arritmias) e acidose metabólica. O manejo exige hidratação intravenosa agressiva (idealmente iniciada antes ou durante a descompressão do membro quando possível), alcalinização urinária em alguns protocolos, monitorização eletrolítica rigorosa e correção imediata da hipercalemia.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "difícil"
+    },
+    {
+      "id": "PTP-049",
+      "tema": "Síndrome compartimental",
+      "enunciado": "Após fratura fechada da diáfise tibial tratada com haste intramedular bloqueada, o paciente desenvolve síndrome compartimental aguda no período pós-operatório imediato. A conduta correta é:",
+      "alternativas": [
+        "Retirar imediatamente a haste intramedular, considerando-a causa da síndrome compartimental",
+        "Realizar fasciotomia de emergência dos quatro compartimentos da perna; a presença da haste intramedular previamente inserida não contraindica nem exige sua retirada nesse momento",
+        "Aguardar 48 horas para reavaliação antes de qualquer intervenção",
+        "Tratar apenas com elevação do membro e analgesia, sem necessidade de fasciotomia"
+      ],
+      "correta": 1,
+      "comentario": "O diagnóstico de síndrome compartimental aguda, seja antes, durante ou após a fixação de uma fratura, exige fasciotomia de emergência dos compartimentos acometidos assim que o diagnóstico é estabelecido, independentemente do método de fixação já utilizado. A presença de uma haste intramedular previamente inserida não contraindica a fasciotomia nem exige a retirada do implante nesse momento; a haste permanece no local, e a fasciotomia é realizada normalmente para descomprimir os compartimentos, com fechamento primário tardio ou enxertia de pele posteriormente, conforme a evolução do edema.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-050",
+      "tema": "Síndrome compartimental",
+      "enunciado": "Em relação ao momento da fasciotomia e ao prognóstico da síndrome compartimental aguda, é correto afirmar que:",
+      "alternativas": [
+        "O prognóstico é sempre favorável independentemente do tempo decorrido até a fasciotomia",
+        "Fasciotomias realizadas após um intervalo prolongado de isquemia estabelecida (classicamente citado como superior a 8 horas) apresentam maior risco de necrose muscular extensa, mioglobinúria significativa na reperfusão e podem, em casos extremos, tornar a amputação primária uma consideração mais segura do que a reperfusão de um membro com necrose muscular extensa",
+        "O tempo decorrido até a fasciotomia não tem relação com o risco de necrose muscular",
+        "A fasciotomia deve ser evitada em casos de isquemia prolongada, pois não traz nenhum benefício"
+      ],
+      "correta": 1,
+      "comentario": "Classicamente descreve-se que a janela de isquemia muscular reversível e limitada, sendo o intervalo de aproximadamente 6 a 8 horas frequentemente citado como ponto de corte a partir do qual o risco de necrose muscular extensa e irreversível aumenta substancialmente. Em casos de síndrome compartimental estabelecida por período muito prolongado, a fasciotomia tardia pode desencadear uma síndrome de reperfusão grave (liberação sistêmica de mioglobina, potássio e produtos tóxicos de tecido necrótico), com risco de choque, insuficiência renal e até morte, tornando a decisão entre fasciotomia tardia e amputação primária uma discussão clínica complexa e individualizada, considerando a viabilidade real do membro e o risco sistêmico da reperfusão.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "difícil"
+    },
+    {
+      "id": "PTP-051",
+      "tema": "Embolia gordurosa e TEV",
+      "enunciado": "A tríade clássica de apresentação clínica da síndrome da embolia gordurosa inclui:",
+      "alternativas": [
+        "Febre alta, diarreia e icterícia",
+        "Insuficiência respiratória (hipoxemia), alterações neurológicas (confusão mental, agitação) e rash petequial (classicamente em região axilar, tórax superior e conjuntiva)",
+        "Dor torácica pleurítica, hemoptise maciça e edema de membros inferiores bilateral simétrico",
+        "Convulsões, paralisia flácida ascendente e retenção urinária"
+      ],
+      "correta": 1,
+      "comentario": "A síndrome da embolia gordurosa apresenta classicamente uma tríade de insuficiência respiratória com hipoxemia (podendo evoluir para quadro semelhante a síndrome do desconforto respiratório agudo), alterações neurológicas variáveis (desde confusão mental leve até coma, geralmente sem déficit focal, atribuídas a microembolização cerebral) e rash petequial característico, tipicamente localizado em região axilar, tórax superior, pescoço e conjuntiva, resultante de microembolização cutânea e trombocitopenia associada. A apresentação completa da tríade nem sempre está presente, e o quadro pode ser incompleto ou subclínico.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-052",
+      "tema": "Embolia gordurosa e TEV",
+      "enunciado": "Os critérios de Gurd e Wilson, utilizados para auxiliar o diagnóstico clínico da síndrome da embolia gordurosa, classificam os achados em critérios maiores e menores. São exemplos de critérios MAIORES:",
+      "alternativas": [
+        "Taquicardia isolada e febre baixa",
+        "Petequias, sinais respiratórios (hipoxemia com infiltrado pulmonar) e sinais neurológicos cerebrais inexplicados por outra causa",
+        "Aumento de VHS e trombocitopenia leve isolada",
+        "Icterícia isolada sem outros achados"
+      ],
+      "correta": 1,
+      "comentario": "Os critérios de Gurd e Wilson dividem os achados clínicos em maiores (petequias, sinais respiratórios com hipoxemia e infiltrado pulmonar bilateral, e sinais neurológicos cerebrais não explicados por outra causa como TCE) e menores (taquicardia, febre, alterações retinianas, alterações renais como lipidúria, queda inexplicada de hemoglobina, trombocitopenia e aumento da VHS). O diagnóstico clássico de síndrome da embolia gordurosa exige pelo menos um critério maior associado a critérios menores, embora esses critérios sejam mais utilizados na prática clínica e em pesquisa do que como uma ferramenta diagnóstica rígida e universalmente aceita.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-053",
+      "tema": "Embolia gordurosa e TEV",
+      "enunciado": "A fisiopatologia da síndrome da embolia gordurosa é explicada por duas teorias complementares. Assinale a alternativa que as descreve corretamente.",
+      "alternativas": [
+        "Teoria unicamente infecciosa, relacionada a contaminação bacteriana do foco de fratura",
+        "Teoria mecânica (obstrução capilar pulmonar e sistêmica por glóbulos de gordura liberados da medula óssea, especialmente após manipulação/fresamento de ossos longos) associada a teoria bioquímica (ácidos graxos livres liberados por lipase tissular causam lesão tóxica direta ao endotélio capilar pulmonar, desencadeando resposta inflamatória)",
+        "Teoria exclusivamente relacionada a embolia de trombos venosos originados nos membros inferiores",
+        "Teoria genética, sem relação com o trauma ortopédico"
+      ],
+      "correta": 1,
+      "comentario": "A fisiopatologia da síndrome da embolia gordurosa envolve duas teorias complementares: a teoria mecânica, segundo a qual glóbulos de gordura da medula óssea são liberados na circulação venosa após trauma ou manipulação cirúrgica (fresamento intramedular, por exemplo), causando obstrução capilar pulmonar e, após passagem por shunts, sistêmica; e a teoria bioquímica, segundo a qual ácidos graxos livres, liberados pela ação de lipases sobre a gordura embolizada, causam lesão tóxica direta ao endotélio capilar pulmonar, desencadeando uma resposta inflamatória local que contribui para a lesão pulmonar aguda observada na síndrome.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-054",
+      "tema": "Embolia gordurosa e TEV",
+      "enunciado": "Em relação ao tempo de aparecimento dos sintomas da síndrome da embolia gordurosa após uma fratura de osso longo, é correto afirmar que:",
+      "alternativas": [
+        "Os sintomas surgem tipicamente nas primeiras 2 horas após o trauma",
+        "Os sintomas surgem classicamente entre 24 e 72 horas após o trauma, havendo um intervalo assintomático inicial",
+        "Os sintomas surgem apenas após 2 semanas do trauma",
+        "Não há padrão temporal característico, podendo ocorrer a qualquer momento sem relação com o trauma"
+      ],
+      "correta": 1,
+      "comentario": "A síndrome da embolia gordurosa classicamente apresenta um intervalo assintomático (lúcido) inicial após o trauma, com o aparecimento dos sintomas respiratórios, neurológicos e cutâneos ocorrendo tipicamente entre 24 e 72 horas após a lesão (mais comumente fraturas de ossos longos, especialmente fêmur, e fraturas pélvicas). Esse padrão temporal é importante na prática clínica, pois um paciente que desenvolve insuficiência respiratória e alteração do nível de consciência nesse período após uma fratura de fêmur deve levantar suspeita clínica para essa síndrome, mesmo após estabilização inicial aparentemente satisfatória.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-055",
+      "tema": "Embolia gordurosa e TEV",
+      "enunciado": "Em relação à fixação precoce de fraturas de ossos longos como medida preventiva da síndrome da embolia gordurosa e de outras complicações pulmonares, é correto afirmar que:",
+      "alternativas": [
+        "A fixação precoce está associada a maior incidência de embolia gordurosa em comparação com tratamento conservador prolongado",
+        "A estabilização precoce de fraturas de ossos longos, particularmente em politraumatizados, está associada a menor incidência de embolia gordurosa e de complicações pulmonares, embora exista debate sobre o momento ideal do fresamento intramedular em pacientes com trauma torácico grave associado",
+        "Não há nenhuma relação entre o momento da fixação óssea e a incidência de embolia gordurosa",
+        "A imobilização gessada prolongada é sempre superior a fixação cirúrgica na prevenção dessa síndrome"
+      ],
+      "correta": 1,
+      "comentario": "A estabilização precoce de fraturas de ossos longos reduz a mobilidade dos fragmentos ósseos e a consequente liberação continua de conteudo medular na circulação, estando associada a menor incidência de síndrome da embolia gordurosa e de outras complicações pulmonares em comparação com tratamento conservador prolongado ou fixação tardia. Entretanto, há debate na literatura sobre o momento ideal e a técnica (fresada versus não fresada) do fresamento intramedular em pacientes com trauma torácico grave concomitante (por exemplo, contusão pulmonar extensa), dado o risco teórico de embolização adicional durante o próprio procedimento de fresamento, o que reforça a importância da avaliação individualizada nesses casos.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "difícil"
+    },
+    {
+      "id": "PTP-056",
+      "tema": "Embolia gordurosa e TEV",
+      "enunciado": "Sobre profilaxia de tromboembolismo venoso (TEV) em pacientes ortopédicos traumatizados, é correto afirmar que:",
+      "alternativas": [
+        "A profilaxia deve se basear exclusivamente em medidas mecânicas (meias de compressão/compressão pneumática intermitente), sem necessidade de profilaxia farmacológica em nenhum caso",
+        "A escolha entre profilaxia mecânica e farmacológica (por exemplo, heparina de baixo peso molecular) deve considerar o risco individual de TEV e o risco de sangramento do paciente, além do momento cirúrgico e da eventual necessidade de anestesia neuroaxial (que pode exigir intervalos específicos em relação à administração de anticoagulantes)",
+        "Anticoagulantes devem ser sempre administrados imediatamente antes de qualquer cirurgia ortopédica de grande porte, sem exceções",
+        "A profilaxia de TEV é desnecessária em fraturas de pelve e acetábulo"
+      ],
+      "correta": 1,
+      "comentario": "A profilaxia de TEV em trauma ortopédico deve ser individualizada, considerando o risco de TEV do paciente (tipo de fratura, imobilização, lesão medular associada, histórico pessoal), o risco de sangramento (lesões associadas, coagulopatia, cirurgia planejada) e questões de segurança relacionadas a anestesia neuroaxial, que exige intervalos mínimos específicos entre a administração de anticoagulantes e a realização ou retirada de cateteres peridurais/raquianestesia, para reduzir o risco de hematoma espinhal. A combinação de medidas mecânicas e farmacológicas é frequentemente empregada em pacientes de alto risco, como fraturas de pelve, acetábulo e membros inferiores em politraumatizados.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-057",
+      "tema": "Embolia gordurosa e TEV",
+      "enunciado": "São fatores de risco reconhecidos para tromboembolismo venoso (TVP/TEP) em pacientes com trauma ortopédico, EXCETO:",
+      "alternativas": [
+        "Fratura de pelve ou acetábulo",
+        "Lesão medular associada com paralisia de membros inferiores",
+        "Imobilização prolongada e cirurgia de grande porte de membro inferior",
+        "Idade jovem sem outras comorbidades e mobilização precoce após fratura isolada de falange do pe"
+      ],
+      "correta": 3,
+      "comentario": "Fraturas de pelve e acetábulo, lesão medular com paralisia, imobilização prolongada e cirurgias de grande porte de membros inferiores são fatores de risco bem estabelecidos para tromboembolismo venoso em trauma ortopédico, exigindo atenção especial a profilaxia. Em contraste, um paciente jovem sem comorbidades, com fratura isolada e de baixa gravidade (como uma fratura de falange do pe) e mobilização precoce, apresenta risco basal de TEV consideravelmente menor, geralmente não exigindo profilaxia farmacológica sistemática, sendo suficiente a mobilização precoce como principal medida preventiva.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-058",
+      "tema": "Embolia gordurosa e TEV",
+      "enunciado": "Em paciente politraumatizado com risco elevado de TEV e contraindicação absoluta a anticoagulação (por exemplo, sangramento intracraniano ativo), uma opção considerada em casos selecionados para prevenção de embolia pulmonar é:",
+      "alternativas": [
+        "Aumento da dose de anti-inflamatório não esteroidal",
+        "Colocação de filtro de veia cava inferior, como medida mecânica de prevenção de embolia pulmonar enquanto a anticoagulação permanece contraindicada",
+        "Suspensão de qualquer medida profilática até resolução completa do sangramento, sem alternativas disponíveis",
+        "Uso isolado de aspirina em dose plena, considerada equivalente a anticoagulação plena"
+      ],
+      "correta": 1,
+      "comentario": "Em pacientes com alto risco de tromboembolismo venoso e contraindicação absoluta, mesmo que temporária, a anticoagulação (por exemplo, sangramento intracraniano ativo ou outro sítio de sangramento não controlado), a colocação de um filtro de veia cava inferior pode ser considerada como medida mecânica para reduzir o risco de embolia pulmonar, sendo geralmente reservada para casos selecionados de alto risco, com reavaliação periódica quanto à possibilidade de reiniciar a anticoagulação e, quando indicado, retirada do filtro (filtros recuperáveis) posteriormente.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-059",
+      "tema": "Embolia gordurosa e TEV",
+      "enunciado": "Paciente no terceiro dia pós-operatório de fixação de fratura de fêmur desenvolve subitamente dispneia, taquicardia e dessaturação. A investigação mais apropriada para confirmar ou excluir embolia pulmonar nesse contexto é:",
+      "alternativas": [
+        "Radiografia simples de tórax isoladamente, que é suficiente para excluir o diagnóstico",
+        "Angiotomografia de tórax (angio-TC pulmonar), considerando que escores clínicos como Wells e o D-dímero têm utilidade limitada no período pós-operatório/pós-trauma recente devido às elevações basais inespecíficas",
+        "Eletrocardiograma isolado, sem necessidade de exames de imagem",
+        "Aguardar 48 horas de observação clínica antes de qualquer investigação adicional"
+      ],
+      "correta": 1,
+      "comentario": "A angiotomografia de tórax (angio-TC pulmonar) é o exame de escolha para confirmação diagnóstica de embolia pulmonar em pacientes com suspeita clínica, especialmente no contexto pós-operatório/pós-trauma, no qual escores de probabilidade clínica pré-teste (como Wells) e o D-dímero têm utilidade diagnóstica limitada, pois o D-dímero costuma estar elevado de forma inespecífica após cirurgia e trauma recente, reduzindo seu valor preditivo negativo nesse cenário específico. A radiografia simples de tórax é frequentemente inespecífica ou normal na embolia pulmonar e não deve ser utilizada isoladamente para exclusão diagnóstica.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-060",
+      "tema": "Embolia gordurosa e TEV",
+      "enunciado": "O tratamento da síndrome da embolia gordurosa estabelecida é fundamentalmente:",
+      "alternativas": [
+        "Cirúrgico, com necessidade de embolectomia pulmonar de emergência na maioria dos casos",
+        "Suporte clínico (oxigenoterapia, suporte ventilatório conforme gravidade, suporte hemodinâmico), pois não existe tratamento específico comprovadamente eficaz que reverta a síndrome; a prevenção por meio da estabilização precoce das fraturas continua sendo a medida mais importante",
+        "Uso rotineiro e comprovadamente eficaz de corticosteroides em altas doses como tratamento padrão estabelecido em todas as diretrizes",
+        "Anticoagulação plena imediata, de forma idêntica ao tratamento da embolia pulmonar tromboembólica"
+      ],
+      "correta": 1,
+      "comentario": "Não existe tratamento específico comprovadamente eficaz para reverter a síndrome da embolia gordurosa uma vez estabelecida; o manejo é essencialmente de suporte, incluindo oxigenoterapia, suporte ventilatório (podendo exigir ventilação mecânica em casos graves com padrão semelhante a síndrome do desconforto respiratório agudo) e suporte hemodinâmico. O uso de corticosteroides permanece controverso, sem evidência definitiva e robusta o suficiente para recomendação rotineira nas diretrizes atuais. A medida mais eficaz continua sendo a prevenção, por meio da estabilização precoce das fraturas de ossos longos, reduzindo a liberação continua de conteudo medular na circulação.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-061",
+      "tema": "Pseudartrose",
+      "enunciado": "A definição clássica de pseudartrose (nonunion) segundo a FDA (utilizada em ensaios clínicos) baseia-se em:",
+      "alternativas": [
+        "Ausência de qualquer sinal radiográfico de consolidação após 3 semanas do trauma",
+        "Fratura que não mostra evidência radiográfica de progressão da consolidação por um período mínimo de 3 meses consecutivos, sendo classicamente considerada estabelecida quando decorridos pelo menos 9 meses do trauma sem sinais de consolidação completa",
+        "Presença de qualquer grau de dor no foco de fratura, independentemente do tempo decorrido",
+        "Necessidade obrigatória de cirurgia de revisão em qualquer fratura que demore mais de 6 semanas para consolidar"
+      ],
+      "correta": 1,
+      "comentario": "A definição clássica utilizada pela FDA para fins de ensaios clínicos considera pseudartrose (nonunion) estabelecida quando há ausência de progressão radiográfica da consolidação por um período mínimo de 3 meses consecutivos de acompanhamento, sendo o diagnóstico tipicamente considerado definitivo após 9 meses do trauma sem evidência de consolidação completa e sem perspectiva de consolidação adicional sem nova intervenção. Esse conceito se diferencia do 'retardo de consolidação' (delayed union), que se refere a um tempo de consolidação mais lento que o esperado, mas ainda com potencial de evolução espontânea para a cura.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-062",
+      "tema": "Pseudartrose",
+      "enunciado": "A pseudartrose hipertrófica ('em pata de elefante' - elephant foot), classicamente vista em fraturas tratadas com fixação instável (por exemplo, haste não bloqueada ou gesso insuficiente), caracteriza-se radiograficamente por:",
+      "alternativas": [
+        "Extremidades ósseas atrofiadas, afiladas, sem reação de calo",
+        "Extremidades ósseas alargadas, com abundante formação de calo ósseo hipertrófico ao redor do foco de fratura, refletindo biologia de consolidação preservada, porém com instabilidade mecânica persistente impedindo a união final",
+        "Ausência completa de qualquer reação óssea perceptível",
+        "Sinais radiográficos idênticos aos de uma infecção óssea ativa"
+      ],
+      "correta": 1,
+      "comentario": "A pseudartrose hipertrófica reflete um foco de fratura com biologia de consolidação preservada (boa vascularização, capacidade celular de reparo intacta), mas com instabilidade mecânica persistente que impede a maturação final do calo em osso sólido, resultando na formação de abundante calo ósseo hipertrófico com aspecto radiográfico característico em 'pata de elefante' ou 'casco de cavalo', com as extremidades ósseas alargadas. O tratamento nesse caso deve focar em melhorar a estabilidade mecânica (por exemplo, converter para placa de compressão ou trocar/reforçar a haste intramedular), sem necessidade obrigatória de estímulo biológico adicional (enxerto), pois a biologia local já é favorável.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-063",
+      "tema": "Pseudartrose",
+      "enunciado": "Diante de uma pseudartrose hipertrófica de tibia após tratamento com haste intramedular não bloqueada, com biologia local aparentemente preservada, a estratégia terapêutica mais lógica é:",
+      "alternativas": [
+        "Enxertia óssea autóloga isolada, sem qualquer intervenção mecânica",
+        "Melhorar a estabilidade mecânica do foco, por exemplo por meio de troca da haste (dinâmica ou por haste de maior diâmetro após fresamento) ou conversão para placa de compressão, geralmente sem necessidade de enxerto ósseo adicional",
+        "Amputação primária do membro, dada a gravidade do quadro",
+        "Observação expectante prolongada sem qualquer intervenção"
+      ],
+      "correta": 1,
+      "comentario": "Como a pseudartrose hipertrófica indica biologia de consolidação preservada, mas instabilidade mecânica insuficiente, a estratégia terapêutica central deve ser melhorar a estabilidade do foco de fratura, seja pela troca da haste intramedular por uma de maior diâmetro após fresamento (aumentando a rigidez rotacional e axial), seja pela conversão para uma placa de compressão, geralmente sem necessidade de enxerto ósseo adicional, já que a capacidade biológica de consolidação já está presente e só falta a estabilidade mecânica adequada para permitir a maturação do calo.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-064",
+      "tema": "Pseudartrose",
+      "enunciado": "A pseudartrose atrófica caracteriza-se por:",
+      "alternativas": [
+        "Abundante formação de calo ósseo periosteal ao redor do foco de fratura",
+        "Extremidades ósseas afiladas e atrofiadas, com pouca ou nenhuma reação de calo, refletindo comprometimento biológico local (vascularização pobre, perda óssea, infecção ou desvitalização tecidual), exigindo geralmente estímulo biológico (enxerto ósseo) associado a estabilização adequada",
+        "Sempre presença de infecção ativa concomitante, sendo sinônimo de pseudartrose infectada",
+        "Melhor prognóstico de tratamento do que a pseudartrose hipertrófica, sem necessidade de enxerto"
+      ],
+      "correta": 1,
+      "comentario": "A pseudartrose atrófica reflete comprometimento biológico significativo no foco de fratura, com extremidades ósseas afiladas e atrofiadas e escassa ou nenhuma reação de calo radiográfico, geralmente associada a fatores como desvitalização tecidual, perda óssea, comprometimento vascular local, tabagismo, diabetes ou infecção subjacente. O tratamento tipicamente exige estímulo biológico (enxerto ósseo autólogo ou substitutos ósseos) associado a fixação mecânica estável, diferentemente da pseudartrose hipertrófica, que geralmente já possui biologia adequada e necessita principalmente de melhora da estabilidade mecânica.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-065",
+      "tema": "Pseudartrose",
+      "enunciado": "A técnica de Masquelet (membrana induzida) para reconstrução de grandes defeitos ósseos segmentares (por exemplo, após desbridamento extenso em fratura exposta grave ou pseudartrose infectada) consiste classicamente em duas etapas. Assinale a alternativa que descreve corretamente essas etapas.",
+      "alternativas": [
+        "Primeira etapa: enxertia óssea imediata do defeito com osso esponjoso autólogo; segunda etapa: fixação definitiva com placa",
+        "Primeira etapa: desbridamento radical, preenchimento temporário do defeito com espaçador de cimento de polimetilmetacrilato (PMMA) e estabilização do osso (fixador externo, haste ou placa); após algumas semanas, na segunda etapa, o espaçador é removido preservando cuidadosamente a membrana induzida formada ao redor dele, que é então preenchida com enxerto ósseo esponjoso (geralmente autólogo)",
+        "Técnica que dispensa qualquer necessidade de fixação esquelética entre as duas etapas",
+        "Técnica realizada em um único tempo cirúrgico, sem intervalo entre as etapas"
+      ],
+      "correta": 1,
+      "comentario": "A técnica de Masquelet é um método em dois tempos para tratamento de grandes defeitos ósseos segmentares. Na primeira etapa, realiza-se desbridamento radical de todo tecido desvitalizado e infectado, preenchimento temporário do espaço morto com um espaçador de cimento ósseo (PMMA, eventualmente com antibiótico incorporado) e estabilização esquelética do membro. Ao redor do espaçador, forma-se uma membrana biológica induzida, rica em fatores de crescimento e vascularizada. Após aproximadamente 6 a 8 semanas, na segunda etapa, o espaçador é cuidadosamente removido preservando essa membrana, que é então preenchida com enxerto ósseo esponjoso (geralmente autólogo, da crista ilíaca), promovendo a regeneração óssea dentro do ambiente biológico favorável criado pela membrana.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "difícil"
+    },
+    {
+      "id": "PTP-066",
+      "tema": "Pseudartrose",
+      "enunciado": "O transporte ósseo (bone transport) pela técnica de Ilizarov para tratamento de grandes defeitos ósseos segmentares baseia-se no princípio biológico da:",
+      "alternativas": [
+        "Consolidação primária por compressão absoluta do foco de fratura",
+        "Osteogênese por distração (distraction osteogenesis), na qual um segmento ósseo é gradualmente transportado através do defeito após uma corticotomia proximal ou distal, promovendo formação de novo osso na zona de distração enquanto o segmento transportado se desloca em direção ao defeito",
+        "Enxertia óssea vascularizada microcirúrgica exclusivamente, sem manipulação mecânica",
+        "Amputação seguida de protetização, sem tentativa de reconstrução óssea"
+      ],
+      "correta": 1,
+      "comentario": "O transporte ósseo pela técnica de Ilizarov utiliza o princípio da osteogênese por distração: após realizar uma corticotomia (osteotomia preservando o periosteo e a vascularização) em um segmento ósseo saudável próximo ao defeito, esse segmento é gradualmente deslocado (transportado) através do defeito por meio de um fixador externo circular, geralmente com ritmo de aproximadamente 1 mm por dia (fracionado em pequenos incrementos, como 0,25 mm quatro vezes ao dia). Na zona de distração criada atrás do segmento em movimento, forma-se novo osso (regenerado), permitindo, ao final do processo, o preenchimento completo do defeito ósseo original com osso vivo e vascularizado.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-067",
+      "tema": "Pseudartrose",
+      "enunciado": "Em relação as fases da osteogênese por distração (técnica de Ilizarov), a sequência correta é:",
+      "alternativas": [
+        "Fase de consolidação, seguida de fase de latência, seguida de fase de distração",
+        "Fase de latência (período inicial após a corticotomia, antes de iniciar a distração, permitindo formação de calo mole inicial), seguida de fase de distração (deslocamento gradual e progressivo do segmento transportado), seguida de fase de consolidação (período de neoformação óssea e maturação após atingido o comprimento/posição desejada)",
+        "Apenas duas fases: distração e consolidação, sem fase de latência",
+        "A sequência das fases é irrelevante para o resultado final"
+      ],
+      "correta": 1,
+      "comentario": "A osteogênese por distração ocorre classicamente em tres fases: a fase de latência, um período inicial (geralmente de 5 a 7 dias) após a corticotomia, durante o qual se permite a formação do calo mole inicial antes de iniciar a distração; a fase de distração, durante a qual o segmento ósseo é gradualmente deslocado a uma taxa controlada (tipicamente 1 mm por dia, fracionado em incrementos menores várias vezes ao dia para minimizar o desconforto e otimizar a formação óssea); e a fase de consolidação, após atingido o comprimento ou posição desejada, durante a qual o regenerado ósseo formado na zona de distração amadurece e se consolida, com o fixador mantido até confirmação radiográfica de consolidação adequada.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-068",
+      "tema": "Pseudartrose",
+      "enunciado": "No manejo da pseudartrose infectada de ossos longos, a classificação de Cierny-Mader é utilizada para estratificar a osteomielite crônica de acordo com:",
+      "alternativas": [
+        "Apenas o tipo de bactéria isolada na cultura",
+        "A extensão anatômica do envolvimento ósseo (medular, superficial, localizado ou difuso) combinada com o estado fisiológico do hospedeiro (bom, comprometido ou tratamento pior que a doença), orientando o planejamento terapêutico",
+        "Exclusivamente o tempo de evolução da infecção em meses",
+        "O tamanho absoluto do defeito ósseo em centímetros, sem considerar outros fatores"
+      ],
+      "correta": 1,
+      "comentario": "A classificação de Cierny-Mader para osteomielite crônica (aplicável também a pseudartrose infectada) combina dois eixos: o tipo anatômico do envolvimento ósseo (tipo I - medular, tipo II - superficial, tipo III - localizado com estabilidade preservada, tipo IV - difuso com comprometimento da estabilidade) e a classe fisiológica do hospedeiro (classe A - hospedeiro normal/bom, classe B - hospedeiro comprometido local ou sistemicamente, classe C - hospedeiro no qual o tratamento seria pior que a própria doença). Essa classificação orienta decisões terapêuticas importantes, como a agressividade do desbridamento e a viabilidade de reconstrução versus tratamento supressivo ou até amputação em casos selecionados de hospedeiros classe C.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-069",
+      "tema": "Pseudartrose",
+      "enunciado": "Os princípios fundamentais do tratamento cirúrgico da pseudartrose infectada de ossos longos incluem, EXCETO:",
+      "alternativas": [
+        "Desbridamento radical de todo tecido ósseo e de partes moles desvitalizado ou infectado, mesmo que isso gere um defeito segmentar significativo",
+        "Obtenção de culturas microbiológicas intraoperatórias para direcionar a antibioticoterapia específica",
+        "Manejo do espaço morto criado após o desbridamento (por exemplo, com espaçador de cimento com antibiótico, técnica de Masquelet, ou transporte ósseo)",
+        "Início empírico de antibioticoterapia oral prolongada isolada, sem necessidade de desbridamento cirúrgico, como tratamento definitivo padrão"
+      ],
+      "correta": 3,
+      "comentario": "O tratamento da pseudartrose infectada exige uma abordagem cirúrgica ativa: desbridamento radical de todo osso e tecido mole desvitalizado ou infectado (mesmo que isso amplie temporariamente o defeito), obtenção de culturas intraoperatórias múltiplas para guiar antibioticoterapia específica e prolongada, e manejo adequado do espaço morto resultante (por exemplo, com técnica de Masquelet ou transporte ósseo). O uso isolado de antibioticoterapia sem desbridamento cirúrgico adequado não é suficiente como tratamento definitivo na maioria dos casos de infecção óssea estabelecida associada a material desvitalizado ou biofilme, sendo a abordagem cirúrgica-antibiótica combinada o padrão de tratamento.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-070",
+      "tema": "Pseudartrose",
+      "enunciado": "No planejamento de uma osteotomia corretiva para tratamento de consolidação viciosa (malunion) angular de um osso longo, o conceito de CORA (center of rotation of angulation) refere-se a:",
+      "alternativas": [
+        "O ponto de inserção do fixador externo escolhido para a correção",
+        "O ponto teórico onde os eixos anatômicos (ou mecânicos) proximal e distal do osso se cruzam, sendo o local ideal (ou próximo a ele) para realizar a osteotomia corretiva, minimizando a translação residual e otimizando a correção angular",
+        "A localização da fise de crescimento em pacientes esqueleticamente imaturos, exclusivamente",
+        "O ponto de maior espessura cortical do osso, utilizado apenas para escolha do implante"
+      ],
+      "correta": 1,
+      "comentario": "O CORA (centro de rotação da angulação) é o ponto teórico de interseção entre os eixos (anatômico ou mecânico, conforme o segmento avaliado) proximal e distal de um osso com deformidade angular. Realizar a osteotomia corretiva exatamente no nível do CORA (ou o mais próximo possível dele) permite corrigir a angulação sem introduzir uma translação residual significativa entre os fragmentos, um princípio fundamental no planejamento pré-operatório de osteotomias corretivas para consolidações viciosas, podendo ser realizado por meio de osteotomia em cunha de fechamento, de abertura ou em forma de cúpula (dome osteotomy), conforme as características específicas da deformidade.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "difícil"
+    },
+    {
+      "id": "PTP-071",
+      "tema": "Anel pélvico",
+      "enunciado": "A estabilidade do anel pélvico depende, em grande parte, da integridade de qual estrutura anatômica?",
+      "alternativas": [
+        "Sínfise púbica isoladamente",
+        "Complexo ligamentar sacroilíaco posterior (ligamentos sacroilíacos posteriores, sacroespinhoso e sacrotuberoso), considerado o principal estabilizador do anel pélvico",
+        "Ligamento inguinal",
+        "Músculo piriforme isoladamente"
+      ],
+      "correta": 1,
+      "comentario": "Embora a sínfise púbica e os ligamentos sacroilíacos anteriores contribuam para a estabilidade do anel pélvico, o complexo ligamentar posterior — especialmente os ligamentos sacroilíacos posteriores, além dos ligamentos sacroespinhoso e sacrotuberoso — é considerado o principal estabilizador, responsável por suportar a maior parte das cargas transmitidas entre a coluna vertebral e os membros inferiores. A lesão desse complexo posterior é o determinante mais importante do grau de instabilidade (rotacional e/ou vertical) de uma fratura ou luxação do anel pélvico.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-072",
+      "tema": "Anel pélvico",
+      "enunciado": "A classificação de Young-Burgess para fraturas do anel pélvico baseia-se principalmente em:",
+      "alternativas": [
+        "Localização exclusiva da fratura no osso ilíaco",
+        "Mecanismo de trauma e vetor de força envolvido, categorizando as lesões em compressão anteroposterior (APC), compressão lateral (LC), cisalhamento vertical (VS) e mecanismo combinado (CM)",
+        "Presença ou ausência de fratura acetabular associada",
+        "Idade do paciente no momento do trauma"
+      ],
+      "correta": 1,
+      "comentario": "A classificação de Young-Burgess categoriza as lesões do anel pélvico de acordo com o mecanismo de trauma e o vetor de força predominante: compressão anteroposterior (APC, tipicamente causando diastase da sínfise e abertura do anel em 'livro aberto'), compressão lateral (LC, causando rotação interna do hemipelve), cisalhamento vertical (VS, com deslocamento vertical franco de um hemipelve) e mecanismo combinado (CM), quando há características de mais de um padrão. Essa classificação é útil para prever o padrão de lesão associada e o risco hemorrágico, já que diferentes mecanismos têm diferentes probabilidades de lesão vascular e visceral associada.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-073",
+      "tema": "Anel pélvico",
+      "enunciado": "A classificação de Tile para fraturas do anel pélvico estratifica as lesões principalmente com base em:",
+      "alternativas": [
+        "Grau de estabilidade rotacional e vertical do anel pélvico: tipo A (estável), tipo B (rotacionalmente instável, verticalmente estável) e tipo C (rotacional e verticalmente instável)",
+        "Presença exclusiva de fratura acetabular associada",
+        "Número absoluto de fragmentos ósseos visíveis na radiografia",
+        "Idade do paciente e densidade óssea"
+      ],
+      "correta": 0,
+      "comentario": "A classificação de Tile categoriza as lesões do anel pélvico principalmente pelo grau de estabilidade mecânica resultante: tipo A, lesões estáveis (o anel pélvico posterior está intacto, geralmente fraturas isoladas de ramos ou avulsões); tipo B, lesões rotacionalmente instáveis mas verticalmente estáveis (como o padrão de 'livro aberto' ou compressão lateral, com complexo ligamentar sacroilíaco posterior parcialmente preservado); e tipo C, lesões completamente instáveis tanto rotacional quanto verticalmente, com disrupção completa do complexo posterior, geralmente associadas ao mecanismo de cisalhamento vertical e ao maior risco de hemorragia grave e instabilidade hemodinâmica.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-074",
+      "tema": "Anel pélvico",
+      "enunciado": "O padrão de lesão pélvica classicamente denominado 'livro aberto' (open book) é tipicamente causado por qual mecanismo, segundo a classificação de Young-Burgess?",
+      "alternativas": [
+        "Compressão lateral (LC), com rotação interna do hemipelve",
+        "Compressão anteroposterior (APC), causando diastase da sínfise púbica e abertura (rotação externa) do(s) hemipelve(s), como um livro sendo aberto",
+        "Cisalhamento vertical isolado, sem componente rotacional",
+        "Fratura isolada de acetábulo sem envolvimento do anel pélvico anterior ou posterior"
+      ],
+      "correta": 1,
+      "comentario": "O mecanismo de compressão anteroposterior (APC) resulta classicamente no padrão de 'livro aberto', no qual uma força direcionada de anterior para posterior (por exemplo, impacto frontal em colisão automobilística ou atropelamento) causa rotação externa do(s) hemipelve(s), gerando diastase progressiva da sínfise púbica e, dependendo da gravidade (APC I, II ou III), disrupção progressiva dos ligamentos sacroilíacos anteriores e, nos graus mais graves (APC III), também dos ligamentos posteriores, associando-se a maior risco de hemorragia significativa por lesão do plexo venoso pré-sacral e, eventualmente, de vasos arteriais pélvicos.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-075",
+      "tema": "Anel pélvico",
+      "enunciado": "Paciente politraumatizado com fratura instável do anel pélvico e choque hemorrágico persistente apesar da colocação de cinta pélvica e reposição volêmica inicial. A próxima etapa no algoritmo de controle da hemorragia pélvica, considerando a origem provável do sangramento, deve incluir:",
+      "alternativas": [
+        "Laparotomia exploradora imediata como única opção terapêutica, independentemente da origem do sangramento",
+        "Avaliação para embolização angiográfica (quando disponível prontamente e o sangramento for predominantemente arterial) ou packing pré-peritoneal pélvico (particularmente eficaz para sangramento venoso e ósseo, mais comum na maioria das fraturas pélvicas), a depender da disponibilidade e da condição hemodinâmica do paciente",
+        "Observação clínica prolongada sem qualquer intervenção adicional",
+        "Amputação bilateral de membros inferiores como medida hemostática"
+      ],
+      "correta": 1,
+      "comentario": "A hemorragia associada a fraturas instáveis do anel pélvico e, na maioria dos casos, de origem venosa (plexo venoso pré-sacral) e óssea (superfícies de fratura), sendo o packing pré-peritoneal pélvico uma técnica eficaz e rápida para controle hemostático nesse cenário, especialmente em pacientes hemodinamicamente instáveis que não toleram o tempo necessário para angiografia. Quando há suspeita de sangramento arterial (menos comum, mas mais difícil de controlar por packing) e o paciente permite o tempo necessário ou há disponibilidade imediata de sala de hemodinâmica, a embolização angiográfica seletiva é uma opção eficaz. A escolha entre as estratégias depende da estabilidade hemodinâmica do paciente, disponibilidade de recursos e experiência da equipe.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "difícil"
+    },
+    {
+      "id": "PTP-076",
+      "tema": "Anel pélvico",
+      "enunciado": "Entre os padrões de lesão pélvica da classificação de Young-Burgess, aquele classicamente associado ao MAIOR risco de instabilidade hemodinâmica grave e necessidade de transfusão maciça é:",
+      "alternativas": [
+        "Compressão lateral tipo I (LC-I)",
+        "Compressão anteroposterior tipo III (APC-III), com disrupção completa dos complexos ligamentares anterior e posterior, associada a maior risco de lesão vascular arterial e venosa concomitante",
+        "Fratura isolada de ramo púbico sem outras lesões",
+        "Avulsão isolada da espinha ilíaca anterossuperior"
+      ],
+      "correta": 1,
+      "comentario": "O padrão APC-III representa a forma mais grave do espectro de compressão anteroposterior, com disrupção completa tanto dos ligamentos anteriores (diastase acentuada da sínfise) quanto dos ligamentos sacroilíacos posteriores, resultando em completa instabilidade do hemipelve. Esse padrão está associado ao maior volume potencial da cavidade pélvica (permitindo acúmulo de grande volume de sangue) e ao maior risco de lesão vascular associada (tanto venosa quanto arterial), sendo classicamente relacionado as maiores taxas de choque hemorrágico grave, necessidade de transfusão maciça e mortalidade entre os padrões de Young-Burgess.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-077",
+      "tema": "Anel pélvico",
+      "enunciado": "O mecanismo de compressão lateral (LC) nas fraturas do anel pélvico, embora frequentemente associado a menor risco de hemorragia maciça em comparação ao padrão APC, está classicamente associado a maior incidência de:",
+      "alternativas": [
+        "Lesão uretral isolada como única lesão associada relevante",
+        "Traumatismo cranioencefálico associado, dado que o mecanismo de compressão lateral é frequentemente observado em colisões com impacto lateral direto, que também submetem a cabeça a forças significativas",
+        "Nenhuma lesão associada relevante, sendo isoladamente a fratura pélvica mais benigna em qualquer contexto",
+        "Sempre associado a lesão vascular arterial grave, mais do que qualquer outro padrão"
+      ],
+      "correta": 1,
+      "comentario": "O mecanismo de compressão lateral (LC), embora classicamente associado a menor risco de hemorragia pélvica maciça em comparação ao padrão de compressão anteroposterior (pois a própria rotação interna do hemipelve tende a 'fechar' parcialmente o volume pélvico, reduzindo o espaço para acúmulo de sangue), ocorre tipicamente em colisões com impacto lateral direto sobre o veículo ou o corpo do paciente, mecanismo que também frequentemente resulta em transferência significativa de energia para a cabeça e o tórax, associando-se a maior incidência de traumatismo cranioencefálico e lesões torácicas associadas.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-078",
+      "tema": "Anel pélvico",
+      "enunciado": "Em relação ao posicionamento anatômico correto da cinta pélvica de emergência, é correto afirmar que:",
+      "alternativas": [
+        "Deve ser posicionada sobre a crista ilíaca, pois essa é a estrutura óssea mais proeminente e de fácil identificação",
+        "Deve ser posicionada ao nível dos grandes trocanteres femorais, e não sobre o abdome ou crista ilíaca, para maximizar a eficácia biomecânica de redução do volume pélvico",
+        "A posição exata não influência a eficácia da redução do anel pélvico",
+        "Deve ser posicionada apenas após a retirada completa das vestes do paciente, retardando sua aplicação até exposição total"
+      ],
+      "correta": 1,
+      "comentario": "O posicionamento correto da cinta pélvica de emergência e ao nível dos grandes trocanteres femorais (não sobre a crista ilíaca nem sobre o abdome), pois essa localização permite a máxima eficácia biomecânica de compressão e redução do volume pélvico em fraturas com padrão instável (especialmente 'livro aberto'), auxiliando no tamponamento do sangramento venoso e ósseo. Erros comuns incluem posicionar a cinta muito alta (sobre o abdome ou crista ilíaca), o que reduz significativamente sua eficácia. A aplicação deve ser rápida e não deve ser postergada para aguardar exposição completa do paciente, dada a urgência potencial do controle hemorrágico.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-079",
+      "tema": "Anel pélvico",
+      "enunciado": "Em relação ao momento e ao método de fixação definitiva do complexo posterior em fraturas instáveis do anel pélvico (por exemplo, com parafusos iliossacros percutâneos), deve-se considerar que:",
+      "alternativas": [
+        "A fixação definitiva deve ser sempre realizada de forma imediata e simultanea a estabilização de emergência, independentemente da condição das partes moles",
+        "O momento da fixação definitiva deve considerar a condição das partes moles regionais (por exemplo, presença de lesão de Morel-Lavallée ou contusão extensa de partes moles posteriores), podendo ser postergada até resolução adequada dessas condições para reduzir risco de infecção",
+        "Parafusos iliossacros percutâneos são contraindicados em qualquer fratura instável do anel pélvico",
+        "A fixação do complexo posterior nunca é necessária quando há estabilização anterior adequada"
+      ],
+      "correta": 1,
+      "comentario": "A decisão sobre o momento da fixação definitiva do complexo posterior (por exemplo, com parafusos iliossacros percutâneos guiados por fluoroscopia ou navegação) deve levar em conta a condição das partes moles na região, incluindo a possível presença de lesão de Morel-Lavallée (descolamento traumático do tecido subcutâneo com coleção de fluido, frequentemente associado a fraturas pélvicas de alta energia), que aumenta o risco de infecção se a fixação for realizada sobre tecido comprometido. Em muitos casos, aguarda-se resolução ou tratamento adequado dessas lesões de partes moles antes de proceder a fixação definitiva, priorizando nesse intervalo a estabilização provisória (fixador externo ou cinta pélvica).",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "difícil"
+    },
+    {
+      "id": "PTP-080",
+      "tema": "Anel pélvico",
+      "enunciado": "Em pacientes do sexo masculino com fratura instável do anel pélvico e suspeita de lesão uretral (sangue no meato uretral, hematoma perineal em 'borboleta', próstata alta ou não palpável ao toque retal), a conduta apropriada antes da sondagem vesical é:",
+      "alternativas": [
+        "Passagem imediata de sonda vesical de demora, sem necessidade de exames adicionais",
+        "Realização de uretrografia retrógrada antes de qualquer tentativa de passagem de sonda vesical, para avaliar a integridade uretral e evitar conversão de uma lesão parcial em completa ou falsa via",
+        "Cistostomia suprapúbica imediata em todos os casos, independentemente da disponibilidade de uretrografia",
+        "Nenhuma investigação adicional é necessária se o paciente conseguir urinar espontaneamente uma vez"
+      ],
+      "correta": 1,
+      "comentario": "Na presença de sinais sugestivos de lesão uretral em pacientes com fratura pélvica (sangue no meato uretral, hematoma perineal em borboleta, próstata elevada ou não palpável ao toque retal em homens), a tentativa as cegas de passagem de sonda vesical de demora deve ser evitada, pois pode converter uma lesão parcial em completa ou criar uma falsa via. A conduta recomendada é realizar uretrografia retrógrada para avaliar a integridade da uretra antes de qualquer tentativa de cateterização; caso a lesão seja confirmada, pode ser necessária cistostomia suprapúbica para drenagem vesical até tratamento definitivo da lesão uretral.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-081",
+      "tema": "Acetábulo",
+      "enunciado": "A classificação de Letournel para fraturas do acetábulo divide os padrões em fraturas elementares e associadas. São exemplos de fraturas elementares (simples):",
+      "alternativas": [
+        "Parede posterior, coluna posterior, parede anterior, coluna anterior e transversa",
+        "T-shape, coluna anterior + hemitransversa posterior, ambas as colunas",
+        "Apenas fraturas de coluna anterior e coluna posterior, sem outros padrões elementares",
+        "Fraturas em qualquer padrão que envolva ambas as colunas simultaneamente"
+      ],
+      "correta": 0,
+      "comentario": "A classificação de Letournel divide as fraturas do acetábulo em cinco padrões elementares (simples) — parede posterior, coluna posterior, parede anterior, coluna anterior e transversa — e cinco padrões associados (combinações dos padrões elementares) — parede posterior + coluna posterior, transversa + parede posterior, T-shape, coluna anterior/hemitransversa posterior, e ambas as colunas (both-column). Essa classificação é fundamental para o planejamento da via de acesso cirúrgica, pois cada padrão tem uma orientação de fratura e uma exposição cirúrgica ideal associada.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-082",
+      "tema": "Acetábulo",
+      "enunciado": "As incidências radiográficas de Judet (oblíqua obturatriz e oblíqua ilíaca), utilizadas na avaliação de fraturas do acetábulo, permitem visualizar respectivamente:",
+      "alternativas": [
+        "Incidência obturatriz: linha ileoisquiática e parede anterior; incidência ilíaca: linha iliopectínea e parede posterior",
+        "Incidência obturatriz: linha iliopectínea (coluna anterior) e parede posterior; incidência ilíaca: linha ileoisquiática (coluna posterior) e parede anterior, além da asa do ilíaco",
+        "Ambas as incidências mostram exatamente as mesmas estruturas, sendo redundantes",
+        "Apenas a fise do acetábulo em pacientes pediátricos, sem utilidade em adultos"
+      ],
+      "correta": 1,
+      "comentario": "A incidência oblíqua obturatriz (obturator oblique) é obtida com rotação do paciente de forma que o forame obturador fique 'aberto' na imagem, permitindo melhor visualização da linha iliopectínea (relacionada a coluna anterior) e da parede posterior do acetábulo. Já a incidência oblíqua ilíaca (iliac oblique) permite melhor visualização da linha ileoisquiática (relacionada a coluna posterior), da parede anterior e da asa do osso ilíaco. Essas duas incidências, associadas a radiografia em AP de pelve, são classicamente utilizadas para a análise sistemática das seis linhas radiográficas relevantes na avaliação de fraturas acetabulares, complementadas atualmente pela tomografia computadorizada com reconstruções tridimensionais.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-083",
+      "tema": "Acetábulo",
+      "enunciado": "A via de acesso de Kocher-Langenbeck para tratamento cirúrgico de fraturas do acetábulo é classicamente indicada para fraturas envolvendo predominantemente:",
+      "alternativas": [
+        "A coluna anterior isoladamente",
+        "A coluna e/ou parede posterior do acetábulo, permitindo também avaliação e proteção do nervo isquiático durante o procedimento",
+        "Ambas as colunas simultaneamente, sendo a via de escolha para todos os padrões de fratura",
+        "Exclusivamente fraturas transversas puras sem componente posterior"
+      ],
+      "correta": 1,
+      "comentario": "A via de Kocher-Langenbeck é uma abordagem posterior classicamente indicada para fraturas envolvendo a coluna e/ou a parede posterior do acetábulo, permitindo exposição direta dessas estruturas para redução e fixação. Durante essa via, é fundamental identificar e proteger o nervo isquiático (posicionando o membro em extensão do quadril e flexão do joelho durante a cirurgia para reduzir a tensão sobre o nervo) e os vasos glúteos superiores, que emergem pela incisura isquiática maior e são vulneráveis a lesão iatrogênica durante a exposição.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-084",
+      "tema": "Acetábulo",
+      "enunciado": "A via de acesso ilioinguinal para fraturas do acetábulo permite exposição direta de qual região, e possui qual limitação característica?",
+      "alternativas": [
+        "Permite visualização direta da superfície articular acetabular posterior; limitação: risco elevado de lesão do nervo isquiático",
+        "Permite acesso a coluna e superfície anterior do acetábulo por meio de tres janelas (lateral, media e medial), mas não permite visualização articular direta, exigindo redução indireta guiada por referências ósseas extra-articulares",
+        "Permite visualização articular completa de ambas as colunas simultaneamente, sem qualquer limitação",
+        "É utilizada exclusivamente para fraturas isoladas de parede posterior"
+      ],
+      "correta": 1,
+      "comentario": "A via ilioinguinal é uma abordagem anterior que permite acesso a coluna anterior e a superfície quadrilateral/anterior do acetábulo por meio de tres janelas de trabalho (lateral, media e medial), delimitadas por estruturas neurovasculares importantes (vasos ilíacos externos, nervo femoral, funículo espermático/ligamento redondo). Uma limitação característica dessa via é que ela não permite visualização articular direta da superfície acetabular, exigindo que a redução seja guiada por referências ósseas extra-articulares e confirmada por fluoroscopia intraoperatória, o que demanda experiência técnica significativa do cirurgião.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-085",
+      "tema": "Acetábulo",
+      "enunciado": "Fraturas complexas do acetábulo envolvendo ambas as colunas com deslocamento significativo, exigindo exposição simultanea das colunas anterior e posterior, podem exigir abordagens como:",
+      "alternativas": [
+        "Via de Kocher-Langenbeck isolada, sempre suficiente para qualquer padrão de fratura",
+        "Via ilioinguinal isolada, sempre suficiente para qualquer padrão de fratura",
+        "Abordagem combinada (por exemplo, ilioinguinal + Kocher-Langenbeck em tempos distintos ou combinados) ou vias estendidas como a ilio-femoral estendida, permitindo exposição simultanea de ambas as colunas em casos selecionados de maior complexidade",
+        "Nenhuma via cirúrgica é capaz de tratar fraturas de ambas as colunas, sendo indicado apenas tratamento conservador"
+      ],
+      "correta": 2,
+      "comentario": "Fraturas complexas envolvendo ambas as colunas do acetábulo com deslocamento significativo, especialmente quando há necessidade de redução e fixação direta de fragmentos em ambas as colunas, podem exigir abordagens combinadas (por exemplo, associando a via ilioinguinal ou uma via anterior intrapélvica com a via de Kocher-Langenbeck, seja no mesmo tempo cirúrgico ou em tempos estagiados) ou vias estendidas, como a ilio-femoral estendida, que oferece ampla exposição de ambas as colunas, mas as custas de maior morbidade cirúrgica (maior risco de ossificação heterotópica e lesão vascular), sendo reservada a casos selecionados de maior complexidade e discutida individualmente conforme o padrão de fratura e a experiência da equipe.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-086",
+      "tema": "Acetábulo",
+      "enunciado": "O padrão de fratura mais frequente do acetábulo, classicamente associado a mecanismo de luxação posterior traumática do quadril (por exemplo, trauma em 'dashboard' com o joelho impactando o painel do veículo em posição de flexão do quadril), é a fratura de:",
+      "alternativas": [
+        "Coluna anterior isolada",
+        "Parede posterior",
+        "Ambas as colunas (both-column)",
+        "Parede anterior isolada"
+      ],
+      "correta": 1,
+      "comentario": "A fratura de parede posterior isolada é o padrão mais comum entre as fraturas do acetábulo, classicamente associada ao mecanismo de trauma por impacto axial sobre o fêmur com o quadril em flexão (como no clássico trauma de 'dashboard' em colisões automobilísticas, quando o joelho impacta o painel do veículo), resultando frequentemente em luxação posterior traumática do quadril associada. A avaliação do tamanho e da estabilidade do fragmento de parede posterior é fundamental para decidir entre tratamento conservador e cirúrgico após a redução da luxação.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-087",
+      "tema": "Acetábulo",
+      "enunciado": "O padrão de fratura acetabular em 'T' (T-shape) caracteriza-se por:",
+      "alternativas": [
+        "Fratura isolada da parede anterior, sem componente de coluna",
+        "Uma linha de fratura transversa que separa o ilíaco da porção inferior do acetábulo (dividindo em componente superior e inferior), associada a uma linha vertical adicional que separa as colunas anterior e posterior na porção inferior, formando o padrão característico em 'T'",
+        "Fratura exclusiva do teto acetabular sem envolvimento das colunas",
+        "Padrão idêntico ao de coluna posterior isolada, sendo apenas uma nomenclatura alternativa"
+      ],
+      "correta": 1,
+      "comentario": "A fratura em T é um padrão associado da classificação de Letournel, caracterizado por uma linha de fratura transversa (que separa o segmento superior/ilíaco do segmento inferior do acetábulo) combinada com uma linha de fratura vertical adicional na porção inferior, que separa as colunas anterior e posterior remanescentes, criando o aspecto característico de um 'T' na radiografia ou tomografia. Esse padrão geralmente requer avaliação cuidadosa por tomografia computadorizada para planejamento cirúrgico adequado, podendo exigir abordagem única ou combinada dependendo do grau de deslocamento de cada componente.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "difícil"
+    },
+    {
+      "id": "PTP-088",
+      "tema": "Acetábulo",
+      "enunciado": "A via de Stoppa modificada (abordagem intrapélvica anterior) para fraturas do acetábulo tem como principal vantagem:",
+      "alternativas": [
+        "Visualização direta e ampla da superfície quadrilateral do acetábulo por via intrapélvica, com menor morbidade em relação à musculatura abdominal comparada a via ilioinguinal clássica, embora exija atenção especial ao complexo vascular da 'corona mortis'",
+        "Ser a única via capaz de tratar fraturas de parede posterior isoladas",
+        "Eliminar completamente o risco de lesão vascular durante o procedimento",
+        "Ser utilizada exclusivamente em fraturas pediátricas do acetábulo"
+      ],
+      "correta": 0,
+      "comentario": "A via de Stoppa modificada é uma abordagem intrapélvica anterior que permite visualização direta e ampla da superfície quadrilateral do acetábulo e de parte da coluna anterior, sendo particularmente útil em fraturas com envolvimento significativo dessa região (como fraturas de ambas as colunas ou com impacção da superfície quadrilateral), com potencialmente menor morbidade sobre a musculatura da parede abdominal em comparação a via ilioinguinal clássica. Durante essa via, deve-se ter atenção especial a chamada 'corona mortis', uma anastomose vascular variável entre os vasos obturatórios e os vasos ilíacos externos/epigástricos, cuja lesão inadvertida pode causar hemorragia significativa e difícil controle.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "difícil"
+    },
+    {
+      "id": "PTP-089",
+      "tema": "Acetábulo",
+      "enunciado": "O conceito de 'arco de teto' (roof arc angles), descrito por Matta, é utilizado na avaliação de fraturas do acetábulo que envolvem o teto (domo) acetabular para:",
+      "alternativas": [
+        "Determinar exclusivamente o prognóstico estético da cirurgia",
+        "Quantificar radiograficamente, em incidências anteroposterior e oblíquas de Judet, o grau de envolvimento articular do teto acetabular (região de sustentação de carga), auxiliando na decisão entre tratamento conservador e cirúrgico em fraturas com padrões específicos (por exemplo, transversas)",
+        "Substituir completamente a necessidade de tomografia computadorizada em qualquer fratura acetabular",
+        "Medir apenas o comprimento do membro inferior após a fratura"
+      ],
+      "correta": 1,
+      "comentario": "Os ângulos de arco de teto (roof arc angles), descritos por Matta, são medidos nas incidências radiográficas em AP e nas duas incidências oblíquas de Judet, quantificando o grau de comprometimento articular da região de sustentação de carga do teto acetabular (domo) em fraturas com trajeto através dessa área, como fraturas transversas. Um ângulo de arco de teto maior que aproximadamente 45 graus em todas as tres incidências sugere preservação suficiente da superfície articular de carga, podendo favorecer tratamento conservador em pacientes selecionados, enquanto ângulos menores sugerem maior comprometimento articular e favorecem indicação cirúrgica, sempre em conjunto com a avaliação tomográfica detalhada.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "difícil"
+    },
+    {
+      "id": "PTP-090",
+      "tema": "Acetábulo",
+      "enunciado": "A ossificação heterotópica é uma complicação conhecida após cirurgia de fraturas do acetábulo, sendo classicamente mais frequente após qual via de acesso, e qual medida profilática é classicamente empregada?",
+      "alternativas": [
+        "Mais frequente após via ilioinguinal; profilaxia com fisioterapia passiva agressiva imediata",
+        "Mais frequente após vias posteriores (Kocher-Langenbeck) e vias estendidas, com maior manipulação da musculatura glútea; profilaxia clássica com anti-inflamatório não esteroidal (indometacina) ou dose única de radioterapia perioperatória em pacientes de alto risco",
+        "Mais frequente após via de Stoppa; profilaxia exclusivamente com antibioticoterapia prolongada",
+        "Não há associação entre via de acesso e risco de ossificação heterotópica"
+      ],
+      "correta": 1,
+      "comentario": "A ossificação heterotópica é classicamente mais frequente após vias de acesso posteriores (Kocher-Langenbeck) e vias estendidas, que envolvem maior manipulação e desperiostização da musculatura glútea, em comparação com vias anteriores como a ilioinguinal. As medidas profiláticas classicamente empregadas em pacientes de alto risco (por exemplo, homens jovens, trauma cranioencefálico associado, fraturas com grande cominuição ou cirurgia prolongada) incluem o uso de anti-inflamatórios não esteroidais (como indometacina) por um período pós-operatório, ou dose única de radioterapia perioperatória (geralmente administrada no período perioperatório imediato), embora a escolha entre essas opções deva considerar riscos individuais (por exemplo, risco de sangramento gastrointestinal com AINEs ou impacto teórico na consolidação óssea com radioterapia).",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-091",
+      "tema": "Luxação do quadril",
+      "enunciado": "A luxação traumática do quadril mais frequente e a posterior, correspondendo a cerca de 90% dos casos. O mecanismo clássico e a posição característica do membro após essa luxação são, respectivamente:",
+      "alternativas": [
+        "Impacto direto sobre o quadril em abdução; membro em abdução, rotação externa e extensão",
+        "Impacto axial sobre o fêmur com o quadril fletido e aduzido (trauma clássico de 'dashboard'); membro encurtado, aduzido, com rotação interna e leve flexão do quadril",
+        "Queda sobre a nádega com o quadril em extensão completa; membro alongado e em rotação externa",
+        "Trauma direto sobre a face lateral do quadril em pacientes idosos; membro em abdução e rotação externa"
+      ],
+      "correta": 1,
+      "comentario": "A luxação posterior do quadril, responsável pela grande maioria dos casos de luxação traumática do quadril, ocorre classicamente por um impacto axial transmitido ao longo do fêmur com o quadril em posição de flexão e adução (o clássico exemplo é o impacto do joelho contra o painel do veículo — 'dashboard injury' — em colisões automobilísticas). A apresentação clínica característica é um membro inferior encurtado, aduzido, com rotação interna e leve flexão do quadril, posição facilmente reconhecível ao exame físico inicial e que já sugere fortemente o diagnóstico antes mesmo da confirmação radiográfica.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-092",
+      "tema": "Luxação do quadril",
+      "enunciado": "A luxação anterior do quadril, menos frequente que a posterior, apresenta-se classicamente com o membro em qual posição, e pode ser subdividida em qual dois subtipos principais?",
+      "alternativas": [
+        "Membro encurtado e em rotação interna; subtipos anterior-superior e anterior-inferior",
+        "Membro em abdução, rotação externa e variável grau de flexão; subtipos superior (púbica) e inferior (obturatória), conforme a localização final da cabeça femoral",
+        "Membro em addução e rotação interna, idêntico a luxação posterior",
+        "Membro sem qualquer alteração postural característica"
+      ],
+      "correta": 1,
+      "comentario": "A luxação anterior do quadril apresenta-se classicamente com o membro em abdução e rotação externa, com grau variável de flexão do quadril, sendo didaticamente subdividida em dois subtipos conforme a posição final da cabeça femoral: o tipo superior (ou púbico), no qual a cabeça femoral se desloca para uma posição mais próxima do ramo superior do púbis, e o tipo inferior (ou obturatório), mais comum, no qual a cabeça femoral se aloja próximo ao forame obturador, com o quadril tipicamente mais fletido nesse subtipo.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-093",
+      "tema": "Luxação do quadril",
+      "enunciado": "Em relação ao tempo ideal para redução de uma luxação traumática do quadril, a literatura clássica recomenda que a redução seja realizada:",
+      "alternativas": [
+        "Em até 24 a 48 horas, sem impacto relevante no risco de necrose avascular da cabeça femoral",
+        "O mais precocemente possível, idealmente dentro de 6 horas do trauma, dado que o atraso na redução está associado a maior risco de necrose avascular da cabeça femoral, provavelmente relacionado ao tempo de compressão/tração sobre os vasos retinaculares que suprem a cabeça femoral",
+        "Apenas após confirmação de que não há fratura associada, mesmo que isso demore vários dias",
+        "O tempo de redução é irrelevante para o prognóstico da cabeça femoral"
+      ],
+      "correta": 1,
+      "comentario": "A redução da luxação traumática do quadril é considerada uma emergência ortopédica relativa, devendo ser realizada o mais precocemente possível, classicamente dentro de 6 horas do trauma, pois o atraso na redução está associado a maior risco de necrose avascular da cabeça femoral. Esse risco está relacionado ao tempo prolongado de compressão, tração ou torção sobre os vasos retinaculares (ramos da artéria circunflexa femoral medial, principal fonte de suprimento sanguíneo da cabeça femoral no adulto) que ocorre enquanto a cabeça femoral permanece luxada, comprometendo a perfusão dessa estrutura.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-094",
+      "tema": "Luxação do quadril",
+      "enunciado": "A classificação de Pipkin é utilizada especificamente para descrever:",
+      "alternativas": [
+        "Fraturas isoladas do acetábulo sem luxação associada",
+        "Fraturas da cabeça femoral associadas a luxação traumática do quadril (classicamente posterior), subdivididas de acordo com a localização da fratura em relação à fóvea e a presença de fraturas associadas do colo femoral ou do acetábulo",
+        "Fraturas do colo femoral em pacientes idosos por fragilidade óssea",
+        "Luxações congênitas do quadril em recém-nascidos"
+      ],
+      "correta": 1,
+      "comentario": "A classificação de Pipkin descreve fraturas da cabeça femoral associadas a luxação traumática do quadril (classicamente a luxação posterior), subdividindo-as em quatro tipos: tipo I, fratura da cabeça femoral inferior à fóvea (infrafoveal); tipo II, fratura superior à fóvea (suprafoveal), geralmente envolvendo maior área de superfície de carga; tipo III, qualquer um dos tipos anteriores associado a fratura do colo femoral; e tipo IV, qualquer um dos tipos anteriores associado a fratura do acetábulo. Essa classificação tem implicações prognósticas importantes, sendo o tipo III associado ao pior prognóstico devido ao risco combinado de necrose avascular por lesão vascular dupla (luxação mais fratura do colo).",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-095",
+      "tema": "Luxação do quadril",
+      "enunciado": "São fatores de risco reconhecidos para o desenvolvimento de necrose avascular da cabeça femoral após luxação traumática do quadril, EXCETO:",
+      "alternativas": [
+        "Tempo prolongado até a redução da luxação",
+        "Múltiplas tentativas de redução fechada mal sucedidas",
+        "Presença de fratura associada da cabeça femoral (Pipkin)",
+        "Redução concêntrica confirmada por tomografia computadorizada imediatamente após a redução fechada bem sucedida na primeira tentativa"
+      ],
+      "correta": 3,
+      "comentario": "O tempo prolongado até a redução, múltiplas tentativas de redução fechada (que podem causar trauma adicional aos vasos retinaculares) e a presença de fratura associada da cabeça femoral (padrões de Pipkin, especialmente os tipos III e IV) são fatores de risco reconhecidos para necrose avascular após luxação traumática do quadril. Em contraste, uma redução concêntrica confirmada por tomografia computadorizada imediatamente após redução fechada bem-sucedida na primeira tentativa é, na verdade, um fator associado a MENOR risco de complicações, e não um fator de risco, representando o cenário mais favorável dentre as opções apresentadas.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-096",
+      "tema": "Luxação do quadril",
+      "enunciado": "Após redução fechada bem-sucedida de uma luxação traumática posterior do quadril, a realização de tomografia computadorizada pós-redução tem como principal objetivo:",
+      "alternativas": [
+        "Confirmar exclusivamente a idade óssea do paciente",
+        "Avaliar a concentricidade da redução, identificar fragmentos osteocondrais ou ósseos intra-articulares interpostos, e caracterizar eventuais fraturas associadas do acetábulo ou da cabeça femoral não evidentes na radiografia simples",
+        "Substituir completamente a necessidade de exame físico neurovascular pós-redução",
+        "Avaliar exclusivamente a densidade mineral óssea do paciente"
+      ],
+      "correta": 1,
+      "comentario": "A tomografia computadorizada após redução de uma luxação traumática do quadril é fundamental para confirmar se a redução foi verdadeiramente concêntrica (sem espaço articular assimetricamente alargado, o que sugeriria interposição de fragmentos ou tecidos moles), identificar fragmentos osteocondrais ou ósseos intra-articulares (por exemplo, de parede posterior do acetábulo ou da própria cabeça femoral) que possam não ser visíveis na radiografia simples, e caracterizar detalhadamente eventuais fraturas associadas do acetábulo (parede posterior, por exemplo) ou da cabeça femoral (padrões de Pipkin), informações essenciais para o planejamento terapêutico subsequente, incluindo eventual necessidade de tratamento cirúrgico.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-097",
+      "tema": "Luxação do quadril",
+      "enunciado": "A lesão neurológica mais frequentemente associada a luxação posterior traumática do quadril e a lesão do nervo isquiático, acometendo preferencialmente qual divisão desse nervo?",
+      "alternativas": [
+        "Divisão tibial, com déficit predominante de flexão plantar do tornozelo",
+        "Divisão fibular (peroneal) comum, com déficit predominante de dorsiflexão do tornozelo e dos dedos (pe cai) e alteração sensitiva no dorso do pe",
+        "Ambas as divisões são igualmente acometidas na mesma proporção, sem preferência",
+        "O nervo isquiático nunca é acometido em luxações posteriores do quadril"
+      ],
+      "correta": 1,
+      "comentario": "A lesão do nervo isquiático e a complicação neurológica mais frequentemente associada a luxação posterior traumática do quadril, decorrente da proximidade anatômica do nervo com a articulação coxofemoral posterior e da tração ou compressão exercida pela cabeça femoral deslocada. Classicamente, a divisão fibular (peroneal) comum do nervo isquiático é mais frequentemente e mais gravemente acometida do que a divisão tibial, provavelmente devido a sua posição mais lateral e superficial e menor mobilidade relativa, resultando em déficit predominante de dorsiflexão do tornozelo e dos dedos (pe cai) e alteração sensitiva no dorso do pe, com relativa preservação da função da divisão tibial.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "fácil"
+    },
+    {
+      "id": "PTP-098",
+      "tema": "Luxação do quadril",
+      "enunciado": "Paciente jovem sofre luxação posterior traumática do quadril associada a fratura da cabeça femoral inferior à fóvea, sem fratura do colo femoral ou do acetábulo associada (Pipkin tipo I). Após redução fechada concêntrica confirmada, a conduta em relação ao fragmento da cabeça femoral geralmente depende de:",
+      "alternativas": [
+        "Tamanho e estabilidade do fragmento, além da presença ou não de interposição articular; fragmentos pequenos, estáveis e não interpostos podem ser tratados conservadoramente, enquanto fragmentos maiores, instáveis ou interpostos geralmente exigem fixação cirúrgica ou excisão",
+        "Amputação do membro em qualquer caso de Pipkin tipo I",
+        "Tratamento cirúrgico obrigatório em absolutamente todos os casos de Pipkin tipo I, independentemente do tamanho do fragmento",
+        "Nenhuma investigação ou conduta adicional é necessária além da redução fechada, em qualquer caso"
+      ],
+      "correta": 0,
+      "comentario": "No manejo de fraturas de Pipkin tipo I (fratura da cabeça femoral infrafoveal) após redução concêntrica confirmada da luxação, a decisão entre tratamento conservador e cirúrgico depende de fatores como o tamanho do fragmento, o grau de deslocamento residual, a estabilidade da redução e a presença ou ausência de interposição do fragmento no espaço articular. Fragmentos pequenos, não deslocados ou minimamente deslocados, estáveis e sem interposição podem ser tratados de forma conservadora com restrição de carga e acompanhamento radiográfico seriado, enquanto fragmentos maiores, instáveis, deslocados ou que resultem em incongruência articular geralmente exigem tratamento cirúrgico, seja por fixação interna do fragmento (quando tecnicamente viável) ou por excisão do fragmento quando muito pequeno para fixação adequada.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "difícil"
+    },
+    {
+      "id": "PTP-099",
+      "tema": "Luxação do quadril",
+      "enunciado": "A associação de luxação traumática do quadril com fratura ipsilateral do colo do fêmur (Pipkin tipo III) é considerada uma das combinações de pior prognóstico entre as lesões traumáticas do quadril, principalmente pelo:",
+      "alternativas": [
+        "Baixo risco de necrose avascular nesse padrão específico, sendo a principal preocupação apenas a consolidação da fratura do colo",
+        "Risco combinado e potencializado de necrose avascular da cabeça femoral, resultante tanto da lesão vascular associada a própria luxação quanto do comprometimento adicional da vascularização intracapsular pela fratura do colo femoral, exigindo decisão terapêutica urgente e cuidadosa",
+        "Ausência de qualquer indicação cirúrgica nesse padrão, sendo sempre tratado de forma conservadora",
+        "Ser uma combinação exclusiva de pacientes idosos com osso osteoporótico"
+      ],
+      "correta": 1,
+      "comentario": "A associação de luxação traumática do quadril com fratura ipsilateral do colo femoral (Pipkin tipo III) é considerada uma das combinações de pior prognóstico entre as lesões traumáticas do quadril, pois combina dois mecanismos de comprometimento vascular da cabeça femoral: a própria luxação (com tração/compressão dos vasos retinaculares) e a fratura do colo femoral (que pode lesar diretamente os vasos retinaculares intracapsulares que ascendem ao longo do colo). Essa combinação exige decisão terapêutica cuidadosa e geralmente urgente quanto à técnica de redução (evitando manobras de redução fechada agressivas que possam agravar ainda mais o comprometimento vascular, muitas vezes optando por redução aberta) e fixação, dado o altíssimo risco de necrose avascular subsequente.",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    },
+    {
+      "id": "PTP-100",
+      "tema": "Luxação do quadril",
+      "enunciado": "Após redução fechada de uma luxação posterior do quadril associada a fratura de parede posterior do acetábulo, a avaliação da estabilidade da articulação (por exemplo, por meio de exame sob anestesia com estresse em diferentes graus de flexão do quadril, ou por análise do tamanho do fragmento na tomografia computadorizada) é importante porque:",
+      "alternativas": [
+        "A estabilidade articular nunca influência a decisão terapêutica nesse contexto",
+        "Fragmentos grandes de parede posterior ou instabilidade residual demonstrada podem indicar necessidade de fixação cirúrgica do fragmento, mesmo após redução concêntrica inicial bem-sucedida, para prevenir luxação recorrente e degeneração articular precoce",
+        "A única conduta possível diante de qualquer fratura de parede posterior e o tratamento conservador",
+        "A avaliação de estabilidade só é relevante em pacientes idosos"
+      ],
+      "correta": 1,
+      "comentario": "Após a redução de uma luxação do quadril associada a fratura de parede posterior do acetábulo, é fundamental avaliar se a articulação permanece estável, pois fragmentos de parede posterior maiores (geralmente considerados críticos quando envolvem uma proporção significativa da parede, avaliada por tomografia computadorizada) ou a demonstração de instabilidade residual (por exame sob anestesia com estresse em diferentes graus de flexão, simulando posições de risco) podem indicar a necessidade de fixação cirúrgica do fragmento, mesmo que a redução inicial tenha sido concêntrica, para evitar o risco de luxação recorrente, incongruência articular crônica e degeneração articular precoce (osteoartrose pós-traumática).",
+      "referencia": "Rockwood and Green's Fractures in Adults",
+      "dificuldade": "média"
+    }
+  ]
+}
