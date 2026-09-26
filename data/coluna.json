@@ -1,0 +1,1506 @@
+{
+ "area": "Coluna Vertebral",
+ "slug": "coluna",
+ "questoes": [
+  {
+   "id": "COL-001",
+   "tema": "Red flags em lombalgia - conceito geral",
+   "enunciado": "Em relação aos sinais de alerta (red flags) para lombalgia, que indicam necessidade de investigação adicional além do tratamento conservador inicial, assinale a alternativa que NAO representa um red flag classico.",
+   "alternativas": [
+    "Idade acima de 50 anos associada a perda de peso nao intencional e historia previa de neoplasia",
+    "Dor lombar mecanica que piora com flexao do tronco e melhora com repouso, sem irradiacao",
+    "Febre, calafrios e uso de drogas endovenosas associados a dor lombar progressiva",
+    "Retencao urinaria associada a anestesia em sela e diminuicao do tonus esfincteriano"
+   ],
+   "correta": 1,
+   "comentario": "Dor lombar mecanica tipica, que piora com movimento/flexao e melhora com repouso, sem sintomas sistemicos ou neurologicos associados, e o padrao mais comum de lombalgia inespecifica e nao e considerada um red flag. As demais alternativas descrevem quadros classicos de alerta: perda de peso e idade avancada com historia oncologica sugerem metastase; febre e uso de drogas IV sugerem infeccao (espondilodiscite/abscesso epidural); retencao urinaria com anestesia em sela e a apresentacao classica de sindrome da cauda equina. Reconhecer red flags orienta o pedido precoce de exames de imagem e conduta apropriada, evitando atraso diagnostico em condicoes potencialmente graves.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-002",
+   "tema": "Lombalgia - suspeita de metastase vertebral",
+   "enunciado": "Homem, 68 anos, com historia de adenocarcinoma de prostata tratado ha 3 anos, procura atendimento por lombalgia de inicio insidioso ha 2 meses, com piora progressiva, pior a noite e que nao melhora com repouso. Nega trauma. Ao exame, dor a palpacao de processos espinhosos em L2-L3, sem deficit neurologico focal. Qual a conduta mais apropriada?",
+   "alternativas": [
+    "Tranquilizar o paciente, prescrever anti-inflamatorio e reavaliar em 6 semanas, pois lombalgia mecanica e a hipotese mais provavel nessa faixa etaria",
+    "Solicitar radiografia simples de coluna lombar e, se normal, encerrar a investigacao",
+    "Solicitar ressonancia magnetica de coluna e investigacao para doenca metastatica, considerando o quadro sugestivo de acometimento neoplasico",
+    "Indicar fisioterapia intensiva e bloqueio facetario guiado por imagem antes de qualquer exame complementar"
+   ],
+   "correta": 2,
+   "comentario": "A combinacao de historia oncologica previa, dor noturna que nao melhora com repouso, carater progressivo e idade acima de 50 anos constitui um conjunto classico de red flags para doenca metastatica na coluna vertebral. A RM e o exame de escolha por sua sensibilidade para detectar lesoes medulares e osseas precoces, incluindo compressao epidural oculta. Radiografia simples tem baixa sensibilidade para lesoes liticas iniciais, podendo ser falsamente negativa. Tratar como lombalgia mecanica sem investigacao atrasaria o diagnostico de uma condicao potencialmente grave.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-003",
+   "tema": "Espondilodiscite - diagnostico e conduta",
+   "enunciado": "Paciente de 54 anos, diabetico e usuario de hemodialise, apresenta dor lombar progressiva ha 6 semanas, associada a febre baixa intermitente e mal-estar. Exames laboratoriais mostram VHS e PCR elevados. A ressonancia magnetica evidencia hipersinal em T2 nos discos e platos vertebrais adjacentes de L3-L4, com captacao de contraste e apagamento do sinal do disco em T1. Qual e a conduta inicial mais adequada?",
+   "alternativas": [
+    "Iniciar antibioticoterapia empirica de amplo espectro imediatamente, sem necessidade de confirmacao microbiologica, dado o quadro tipico",
+    "Realizar biopsia percutanea guiada por imagem para identificacao do agente etiologico antes de iniciar antibioticoterapia, exceto em caso de sepse ou deficit neurologico",
+    "Indicar cirurgia de desbridamento e artrodese de urgencia, independentemente da estabilidade neurologica",
+    "Solicitar apenas hemoculturas seriadas e iniciar fisioterapia, reservando antibiotico apenas se houver piora clinica"
+   ],
+   "correta": 1,
+   "comentario": "O quadro descrito e tipico de espondilodiscite piogenica, e a identificacao do agente etiologico por biopsia percutanea (ou hemocultura, quando positiva) e fundamental para direcionar a antibioticoterapia especifica, exceto em pacientes instaveis clinicamente (sepse) ou com deficit neurologico progressivo, situacoes em que o tratamento empirico e/ou cirurgico de urgencia nao deve ser postergado. Iniciar antibiotico empirico sem confirmacao microbiologica pode mascarar resultados de culturas subsequentes e dificultar o ajuste terapeutico. Cirurgia de urgencia e reservada para instabilidade mecanica, deficit neurologico ou falha do tratamento clinico, nao sendo a conduta inicial de rotina. Hemoculturas isoladas sem tratamento adequado atrasariam o controle da infeccao.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "dificil"
+  },
+  {
+   "id": "COL-004",
+   "tema": "Cervicalgia - mielopatia cervical espondilotica",
+   "enunciado": "Paciente de 62 anos relata cervicalgia cronica associada a dificuldade progressiva para deambular, perda de destreza manual fina (dificuldade para abotoar a camisa) e episodios de quedas. Ao exame, apresenta hiperreflexia patelar e aquileu bilateral, sinal de Hoffmann positivo e marcha espastica. Qual e a hipotese diagnostica mais provavel?",
+   "alternativas": [
+    "Sindrome do desfiladeiro toracico",
+    "Mielopatia cervical espondilotica",
+    "Radiculopatia cervical por hernia discal foraminal isolada",
+    "Fibromialgia com comprometimento cervical"
+   ],
+   "correta": 1,
+   "comentario": "A combinacao de sinais de liberacao piramidal (hiperreflexia, sinal de Hoffmann positivo), marcha espastica e perda de destreza manual fina em paciente com cervicalgia cronica e caracteristica de mielopatia cervical espondilotica, causada por compressao medular cronica secundaria a alteracoes degenerativas da coluna cervical. Radiculopatia cervical isolada cursa com dor radicular e alteracoes sensitivo-motoras em dermatomo/miotomo especifico, sem sinais de comprometimento de trato longo. Sindrome do desfiladeiro toracico e fibromialgia nao explicam os sinais piramidais encontrados. O reconhecimento precoce e importante pois a mielopatia pode progredir e tem indicacao cirurgica descompressiva.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-005",
+   "tema": "Exame fisico cervical - teste de Spurling",
+   "enunciado": "O teste de Spurling, utilizado na avaliacao de pacientes com cervicalgia e suspeita de radiculopatia cervical, consiste em:",
+   "alternativas": [
+    "Extensao, rotacao (ou inclinacao lateral) e compressao axial da cabeca em direcao ao lado sintomatico, reproduzindo dor radicular por estreitamento foraminal",
+    "Flexao passiva do quadril com o joelho estendido, avaliando irritacao radicular lombar",
+    "Elevacao do membro superior acima da cabeca, aliviando sintomas de compressao radicular cervical",
+    "Palpacao da furcula esternal para avaliacao de instabilidade cervical alta"
+   ],
+   "correta": 0,
+   "comentario": "O teste de Spurling e realizado com extensao, inclinacao lateral (ou rotacao) e compressao axial da cabeca em direcao ao lado sintomatico; a reproducao da dor radicular indica estreitamento foraminal compativel com radiculopatia cervical, tendo boa especificidade quando positivo. A manobra de elevacao do braco acima da cabeca que alivia sintomas corresponde ao sinal do alivio por abducao do ombro, e nao ao teste de Spurling. A flexao do quadril com joelho estendido descreve o teste de Lasegue, usado para radiculopatia lombar, nao cervical.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-006",
+   "tema": "Fratura vertebral por fragilidade - conduta inicial",
+   "enunciado": "Mulher de 78 anos, com osteoporose conhecida, apresenta dor lombar aguda intensa apos pequeno esforco ao se levantar de uma cadeira, sem trauma de alta energia. Ao exame, dor localizada a percussao da coluna toracolombar, sem deficit neurologico. Qual a conduta inicial mais apropriada?",
+   "alternativas": [
+    "Solicitar radiografia simples de coluna toracolombar em incidencias antero-posterior e perfil, para avaliar fratura por compressao vertebral",
+    "Encaminhar diretamente para vertebroplastia percutanea sem confirmacao diagnostica previa por imagem",
+    "Considerar apenas causa muscular, prescrevendo relaxante muscular sem investigacao de imagem, dada a ausencia de trauma relevante",
+    "Solicitar imediatamente ressonancia magnetica de corpo inteiro para rastreio oncologico, sem radiografia previa"
+   ],
+   "correta": 0,
+   "comentario": "Em paciente idosa com osteoporose e dor lombar aguda apos esforco minimo, a hipotese mais provavel e fratura vertebral por compressao osteoporotica (fratura por fragilidade), e a radiografia simples e o exame inicial de triagem, de baixo custo e ampla disponibilidade, permitindo avaliar altura vertebral e grau de colapso. RM pode ser reservada para casos de duvida diagnostica, suspeita de lesao ligamentar associada, avaliacao de fratura aguda versus antiga, ou sinais de alerta adicionais. Vertebroplastia nao deve ser indicada sem confirmacao diagnostica e falha de tratamento conservador. Atribuir a dor apenas a causa muscular sem avaliacao de imagem, nesse contexto de red flag (fratura por fragilidade em idosa), e conduta inadequada.",
+   "referencia": "Rockwood and Green's",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-007",
+   "tema": "Red flags - indicacao de RM de urgencia",
+   "enunciado": "Dentre os achados abaixo, identificados durante a avaliacao de um paciente com lombalgia, qual deles indica a necessidade de ressonancia magnetica de urgencia, em vez de seguimento ambulatorial de rotina?",
+   "alternativas": [
+    "Dor lombar ha 3 dias, de carater mecanico, sem irradiacao, que melhora parcialmente com anti-inflamatorio",
+    "Deficit motor progressivo em membro inferior, associado a alteracao de sensibilidade perineal e retencao urinaria de inicio recente",
+    "Rigidez lombar matinal leve, com duracao de 15 minutos, que melhora ao longo do dia",
+    "Dor lombar irradiada ate a face lateral da coxa, sem fraqueza muscular, que piora ao ficar sentado por longos periodos"
+   ],
+   "correta": 1,
+   "comentario": "Deficit motor progressivo associado a alteracao de sensibilidade perineal e retencao urinaria sao sinais de alarme para sindrome da cauda equina ou compressao neurologica grave, exigindo ressonancia magnetica de urgencia e avaliacao para eventual descompressao cirurgica. As demais opcoes descrevem quadros de lombalgia mecanica ou radiculopatia sem sinais de gravidade, que podem ser inicialmente manejados de forma conservadora e reavaliados ambulatorialmente. O reconhecimento rapido de sinais de comprometimento neurologico progressivo e essencial para evitar sequelas irreversiveis.",
+   "referencia": "Rockwood and Green's",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-008",
+   "tema": "Diferenciacao lombalgia mecanica x inflamatoria",
+   "enunciado": "Homem de 24 anos relata lombalgia cronica ha 8 meses, com rigidez matinal que dura mais de 1 hora, melhora com atividade fisica e piora com repouso prolongado. Refere tambem episodios de dor em nadegas alternante e uveite anterior previa. Qual a hipotese diagnostica mais provavel e a principal caracteristica que a diferencia de lombalgia mecanica comum?",
+   "alternativas": [
+    "Hernia de disco lombar; a principal caracteristica diferencial e a irradiacao para o membro inferior",
+    "Espondiloartrite axial (espondilite anquilosante); a principal caracteristica diferencial e o padrao inflamatorio da dor, com rigidez matinal prolongada que melhora com exercicio",
+    "Estenose do canal lombar; a principal caracteristica diferencial e a claudicacao neurogenica que piora ao caminhar",
+    "Fibromialgia; a principal caracteristica diferencial e a presenca de multiplos pontos dolorosos a palpacao"
+   ],
+   "correta": 1,
+   "comentario": "O quadro de lombalgia inflamatoria cronica em paciente jovem, com rigidez matinal prolongada (mais de 30 a 60 minutos) que melhora com exercicio e piora com repouso, associado a manifestacoes extra-articulares como uveite anterior e dor glutea alternante, e altamente sugestivo de espondiloartrite axial (espondilite anquilosante). Isso contrasta com a lombalgia mecanica, que tipicamente piora com atividade e melhora com repouso. Hernia discal, estenose lombar e fibromialgia nao explicam o padrao inflamatorio nem as manifestacoes extra-articulares descritas. O diagnostico precoce e importante para inicio de tratamento especifico e prevencao de rigidez estrutural.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-009",
+   "tema": "Hernia de disco lombar - radiculopatia L5",
+   "enunciado": "Paciente de 42 anos apresenta dor lombar irradiada para a face lateral da perna e dorso do pe esquerdo, associada a fraqueza para dorsiflexao do halux e do pe. Reflexos patelar e aquileu estao preservados. Qual o nivel de hernia discal mais provavel e a raiz nervosa comprometida?",
+   "alternativas": [
+    "Hernia L3-L4, comprometendo a raiz L4",
+    "Hernia L4-L5, comprometendo a raiz L5",
+    "Hernia L5-S1, comprometendo a raiz S1",
+    "Hernia L1-L2, comprometendo a raiz L2"
+   ],
+   "correta": 1,
+   "comentario": "A fraqueza de dorsiflexao do halux e do pe, com dor irradiada para a face lateral da perna e dorso do pe, e reflexos preservados, e o padrao classico de comprometimento da raiz L5, geralmente por hernia discal em L4-L5. O comprometimento de L4 cursaria com diminuicao do reflexo patelar e fraqueza do quadriceps; o de S1, com diminuicao do reflexo aquileu e fraqueza de flexao plantar. A raiz L2 relaciona-se a flexao de quadril, sem correspondencia com o quadro descrito.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-010",
+   "tema": "Sinal de Lasegue",
+   "enunciado": "O sinal de Lasegue (elevacao do membro inferior estendido), utilizado no exame de pacientes com suspeita de hernia de disco lombar, e considerado positivo quando:",
+   "alternativas": [
+    "A dor lombar local piora com a manobra, independentemente de irradiacao",
+    "A manobra reproduz dor radicular ciatica que se irradia abaixo do joelho, tipicamente entre 30 e 70 graus de elevacao",
+    "Ha aumento da amplitude de flexao do quadril sem qualquer queixa dolorosa",
+    "Ha dor exclusivamente na regiao glutea, sem irradiacao para a perna"
+   ],
+   "correta": 1,
+   "comentario": "O teste de Lasegue e considerado positivo quando a elevacao passiva do membro inferior estendido, geralmente entre 30 e 70 graus, reproduz dor radicular que se irradia abaixo do joelho, sugerindo tensao sobre uma raiz nervosa comprimida (mais comumente L5 ou S1). Dor lombar local isolada, sem irradiacao caracteristica, nao caracteriza teste positivo. O teste tem boa sensibilidade, porem especificidade moderada para hernia discal lombar, sendo mais especifico o teste cruzado (elevacao do membro contralateral reproduzindo a dor no membro sintomatico).",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-011",
+   "tema": "Historia natural da hernia de disco lombar",
+   "enunciado": "Em relacao a historia natural da hernia de disco lombar com radiculopatia, sem sinais de alarme, e correto afirmar que:",
+   "alternativas": [
+    "A maioria dos pacientes necessita de tratamento cirurgico para resolucao dos sintomas, pois a resolucao espontanea e rara",
+    "A maior parte dos pacientes apresenta melhora significativa dos sintomas com tratamento conservador dentro de 6 a 12 semanas, incluindo possivel reabsorcao espontanea do fragmento herniado",
+    "A hernia discal lombar, uma vez diagnosticada por imagem, deve ser sempre tratada cirurgicamente, independentemente da evolucao clinica",
+    "Fragmentos extrusos tem menor probabilidade de reabsorcao espontanea do que protrusoes contidas"
+   ],
+   "correta": 1,
+   "comentario": "A historia natural da hernia de disco lombar e favoravel na maioria dos casos, com melhora clinica significativa em 6 a 12 semanas de tratamento conservador (analgesia, fisioterapia, atividade orientada), sendo a cirurgia reservada para falha do tratamento conservador, deficit neurologico progressivo ou sindrome da cauda equina. Curiosamente, fragmentos extrusos e sequestrados apresentam maior probabilidade de reabsorcao espontanea ao longo do tempo, ao contrario do afirmado na alternativa sobre extrusos, provavelmente por maior exposicao a resposta inflamatoria e fagocitose. A afirmacao de que toda hernia diagnosticada por imagem deve ser operada esta incorreta, pois achados de imagem devem sempre ser correlacionados com o quadro clinico.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-012",
+   "tema": "Hernia de disco - indicacao cirurgica por deficit motor progressivo",
+   "enunciado": "Paciente de 38 anos, com hernia de disco L4-L5 confirmada por ressonancia magnetica, iniciou tratamento conservador ha 2 semanas para radiculopatia L5. Retorna com piora da fraqueza de dorsiflexao do pe, que evoluiu de grau 4 para grau 2 na escala do Medical Research Council, sem alteracoes esfincterianas ou anestesia em sela. Qual a conduta mais adequada?",
+   "alternativas": [
+    "Manter tratamento conservador por mais 6 semanas antes de considerar qualquer intervencao, pois nao ha sinais de sindrome da cauda equina",
+    "Indicar descompressao cirurgica (discectomia) em carater de urgencia/prioritario, dado o deficit motor progressivo e significativo, mesmo na ausencia de sindrome da cauda equina",
+    "Solicitar apenas eletroneuromiografia para confirmar o nivel da lesao antes de qualquer decisao terapeutica",
+    "Iniciar corticoterapia oral em altas doses como alternativa definitiva a cirurgia, independentemente da evolucao motora"
+   ],
+   "correta": 1,
+   "comentario": "Embora a sindrome da cauda equina seja a indicacao cirurgica mais urgente em patologia discal lombar, um deficit motor progressivo e significativo (queda de forca de grau 4 para grau 2), mesmo sem comprometimento esfincteriano, tambem constitui indicacao para descompressao cirurgica em carater de urgencia/prioridade, pois a progressao do deficit motor esta associada a pior prognostico de recuperacao neurologica quanto mais tempo se posterga a descompressao. Manter conduta conservadora prolongada nesse cenario arrisca perda funcional permanente. Eletroneuromiografia nao e exame de urgencia e nao deve atrasar a decisao cirurgica nesse contexto. Corticoterapia oral nao substitui a descompressao cirurgica quando ha deficit motor progressivo.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "dificil"
+  },
+  {
+   "id": "COL-013",
+   "tema": "Radiculopatia S1 - dermatomo e reflexo",
+   "enunciado": "Paciente relata dor que se irradia da regiao glutea ate a face posterior da coxa, perna e borda lateral do pe, associada a dificuldade para ficar na ponta dos pes. Ao exame, observa-se diminuicao do reflexo aquileu. Esse quadro e compativel com comprometimento de qual raiz nervosa?",
+   "alternativas": [
+    "Raiz L3",
+    "Raiz L4",
+    "Raiz L5",
+    "Raiz S1"
+   ],
+   "correta": 3,
+   "comentario": "O comprometimento da raiz S1 classicamente causa dor irradiada pela face posterior da coxa e perna ate a borda lateral do pe, fraqueza para flexao plantar (dificuldade para ficar na ponta dos pes) e diminuicao ou abolicao do reflexo aquileu. A raiz L4 relaciona-se ao reflexo patelar e a face medial da perna; a raiz L5, a dorsiflexao do halux e face lateral da perna/dorso do pe, sem reflexo profundo especifico rotineiramente testado; a raiz L3 relaciona-se a face anterior da coxa e extensao do joelho.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-014",
+   "tema": "Sinal de Valsalva na hernia discal",
+   "enunciado": "Um paciente com suspeita de hernia de disco lombar relata piora da dor radicular ao tossir, espirrar ou realizar esforco evacuatorio. Esse achado e conhecido como sinal de Valsalva positivo e sua fisiopatologia esta relacionada a:",
+   "alternativas": [
+    "Aumento transitorio da pressao intra-abdominal e intratecal, que acentua a compressao sobre a raiz nervosa ja comprometida pela hernia discal",
+    "Espasmo da musculatura paravertebral desencadeado por reflexo vasovagal",
+    "Reducao do fluxo sanguineo medular por compressao da arteria vertebral",
+    "Estiramento do nervo isquiatico durante a manobra de flexao do quadril"
+   ],
+   "correta": 0,
+   "comentario": "Manobras que aumentam a pressao intra-abdominal, como tosse, espirro ou esforco evacuatorio (manobra de Valsalva), elevam transitoriamente a pressao intratecal e podem acentuar a compressao mecanica sobre uma raiz nervosa ja comprimida por uma hernia discal, reproduzindo ou piorando a dor radicular. Esse achado auxilia na diferenciacao de dor discogenica/radicular de outras causas de dor lombar. Nao se relaciona a reflexo vasovagal, compressao de arteria vertebral (irrelevante para a coluna lombar) ou estiramento do nervo isquiatico, que e o mecanismo do teste de Lasegue.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-015",
+   "tema": "Exame de imagem padrao-ouro para hernia discal lombar",
+   "enunciado": "Qual e o exame de imagem considerado padrao-ouro para o diagnostico e caracterizacao de hernia de disco lombar sintomatica?",
+   "alternativas": [
+    "Radiografia simples em incidencias dinamicas (flexao e extensao)",
+    "Tomografia computadorizada de coluna lombar sem contraste",
+    "Ressonancia magnetica de coluna lombar",
+    "Cintilografia ossea de corpo inteiro"
+   ],
+   "correta": 2,
+   "comentario": "A ressonancia magnetica e o exame padrao-ouro para avaliacao de hernia de disco lombar, pois permite excelente visualizacao de partes moles, incluindo disco intervertebral, saco tecal, raizes nervosas e presenca de compressao neural, sem uso de radiacao ionizante. A radiografia simples e util para avaliar alinhamento, instabilidade e alteracoes osseas, mas nao visualiza diretamente o disco herniado. A tomografia pode ser alternativa em pacientes com contraindicacao a RM, mas tem menor resolucao de partes moles. A cintilografia ossea e utilizada para investigacao de processos osseos como infeccao ou neoplasia, nao para hernia discal.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-016",
+   "tema": "Discectomia - indicacao apos falha de tratamento conservador",
+   "enunciado": "Em relacao a discectomia lombar (aberta ou microcirurgica) para tratamento de hernia de disco com radiculopatia, e correto afirmar que:",
+   "alternativas": [
+    "Esta indicada de rotina em todos os pacientes com hernia discal identificada em exame de imagem, independentemente dos sintomas",
+    "E geralmente indicada apos falha de tratamento conservador adequado por pelo menos 6 a 12 semanas, em pacientes com radiculopatia persistente e incapacitante, correlacionada ao achado de imagem",
+    "Deve ser evitada mesmo em casos de deficit motor progressivo, sendo o tratamento conservador prolongado sempre preferivel",
+    "Apresenta piores resultados funcionais em curto prazo quando comparada ao tratamento conservador isolado, segundo a maioria dos estudos"
+   ],
+   "correta": 1,
+   "comentario": "A discectomia lombar e geralmente indicada em pacientes com radiculopatia persistente e incapacitante apos falha de tratamento conservador bem conduzido por 6 a 12 semanas, desde que haja correlacao clinico-radiologica adequada, ou mais precocemente em casos de deficit neurologico progressivo ou sindrome da cauda equina. Estudos comparativos mostram que a cirurgia proporciona alivio mais rapido dos sintomas no curto prazo em comparacao ao tratamento conservador isolado, embora os resultados a longo prazo tendam a se equivaler em casos sem indicacao de urgencia. Tratar cirurgicamente todo achado de imagem, independentemente da clinica, nao e recomendado, pois hernias discais podem ser assintomaticas.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-017",
+   "tema": "Sindrome da cauda equina - quadro clinico e conduta",
+   "enunciado": "Paciente de 45 anos procura o pronto-socorro com lombalgia intensa de inicio ha 2 dias, associada a ciatalgia bilateral, dificuldade para iniciar a miccao com sensacao de bexiga cheia, e hipoestesia na regiao perineal e face interna das coxas (anestesia em sela). Ao exame, tonus do esfincter anal esta reduzido. Qual a conduta mais adequada?",
+   "alternativas": [
+    "Solicitar ressonancia magnetica de coluna lombar em carater de urgencia e, confirmada compressao significativa do saco tecal/cauda equina, encaminhar para descompressao cirurgica o mais rapido possivel",
+    "Iniciar anti-inflamatorio e analgesia, com reavaliacao ambulatorial em 2 semanas",
+    "Solicitar apenas radiografia simples de coluna lombar e liberar o paciente com orientacoes de repouso relativo",
+    "Indicar sondagem vesical de demora e alta hospitalar com encaminhamento ambulatorial para neurocirurgia em ate 30 dias"
+   ],
+   "correta": 0,
+   "comentario": "O quadro descrito (retencao urinaria, anestesia em sela, ciatalgia bilateral, reducao do tonus esfincteriano) e classico de sindrome da cauda equina, uma emergencia ortopedica/neurocirurgica. A conduta correta e obtencao urgente de ressonancia magnetica para confirmar e localizar a compressao, seguida de descompressao cirurgica o quanto antes, ja que o atraso no tratamento esta associado a pior prognostico neurologico, especialmente das funcoes vesical, intestinal e sexual. Tratamento conservador ambulatorial ou alta hospitalar sem intervencao cirurgica sao condutas inadequadas e associadas a risco de sequelas permanentes.",
+   "referencia": "Rockwood and Green's",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-018",
+   "tema": "Sindrome da cauda equina - achado clinico mais caracteristico",
+   "enunciado": "Dentre os achados clinicos abaixo, qual e considerado o mais caracteristico e especifico da sindrome da cauda equina?",
+   "alternativas": [
+    "Dor lombar irradiada para uma perna apenas, sem outros sintomas",
+    "Anestesia em sela (hipoestesia perineal, glutea e face interna das coxas), frequentemente associada a retencao urinaria",
+    "Rigidez matinal prolongada que melhora com atividade fisica",
+    "Dor que piora exclusivamente com a extensao da coluna lombar"
+   ],
+   "correta": 1,
+   "comentario": "A anestesia em sela, envolvendo a regiao perineal, glutea e face interna das coxas, associada a retencao urinaria, e o achado clinico mais caracteristico e um dos criterios mais especificos para o diagnostico de sindrome da cauda equina, refletindo o comprometimento das raizes sacrais que compoem o plexo pudendo. Dor unilateral isolada e mais compativel com radiculopatia simples. Rigidez matinal prolongada que melhora com exercicio sugere lombalgia inflamatoria (espondiloartrite), e dor que piora com extensao e mais sugestiva de estenose de canal lombar. Nenhuma dessas outras opcoes tem a especificidade da anestesia em sela para cauda equina.",
+   "referencia": "Rockwood and Green's",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-019",
+   "tema": "Sindrome da cauda equina - janela terapeutica para descompressao",
+   "enunciado": "Em relacao ao momento ideal para descompressao cirurgica na sindrome da cauda equina de causa compressiva (por exemplo, hernia discal extrusa), a literatura atual sugere que:",
+   "alternativas": [
+    "Nao ha evidencia de qualquer relacao entre o tempo ate a cirurgia e o prognostico neurologico, podendo a descompressao ser postergada indefinidamente sem prejuizo funcional",
+    "A descompressao deve ser realizada idealmente dentro de 24 a 48 horas do inicio dos sintomas neurologicos, havendo tendencia a melhores desfechos funcionais, vesicais e sexuais quanto mais precoce a intervencao, embora a evidencia quanto a um ponto de corte exato ainda seja debatida",
+    "A cirurgia so deve ser considerada apos 7 dias de tratamento conservador com corticoide, para reduzir o edema radicular antes da descompressao",
+    "O prognostico neurologico independe totalmente da causa da compressao, sendo identico entre hernia discal aguda e estenose cronica agudizada"
+   ],
+   "correta": 1,
+   "comentario": "Embora exista controversia na literatura sobre um ponto de corte absoluto, a maioria dos estudos e diretrizes sugere que a descompressao cirurgica precoce, idealmente dentro de 24 a 48 horas do inicio dos sintomas de sindrome da cauda equina, esta associada a melhores chances de recuperacao das funcoes neurologicas, vesical, intestinal e sexual, em comparacao com atrasos maiores. Nao existe respaldo para postergar a cirurgia indefinidamente, tampouco para aguardar tratamento conservador com corticoide antes de descomprimir uma compressao mecanica estabelecida. O prognostico tambem pode variar conforme a velocidade de instalacao e a causa da compressao, nao sendo identico em todos os cenarios.",
+   "referencia": "Rockwood and Green's",
+   "dificuldade": "dificil"
+  },
+  {
+   "id": "COL-020",
+   "tema": "Cauda equina incompleta vs completa - prognostico",
+   "enunciado": "Em relacao a classificacao da sindrome da cauda equina em incompleta (CES-I) e completa/com retencao (CES-R), e correto afirmar que:",
+   "alternativas": [
+    "Na forma incompleta (CES-I), o paciente ja apresenta retencao urinaria estabelecida e ausencia total de sensibilidade perineal, sendo indistinguivel da forma completa em termos de urgencia cirurgica",
+    "Na forma completa (CES-R), o paciente apresenta retencao urinaria indolor com incontinencia por transbordamento e residuo pos-miccional elevado, geralmente associada a pior prognostico de recuperacao vesical e esfincteriana em comparacao a forma incompleta",
+    "A distincao entre as formas incompleta e completa nao tem qualquer relevancia prognostica ou de conduta, devendo ambas ser tratadas de forma eletiva",
+    "A forma incompleta e definida pela presenca de deficit motor bilateral grave (grau 0/5) associado a arreflexia, sem qualquer alteracao esfincteriana"
+   ],
+   "correta": 1,
+   "comentario": "A sindrome da cauda equina incompleta (CES-I) caracteriza-se por alteracao urinaria mais sutil, como urgencia, alteracao da sensibilidade da via urinaria ou dificuldade em iniciar a miccao, sem retencao estabelecida, enquanto a forma completa/com retencao (CES-R) apresenta retencao urinaria indolor com incontinencia por transbordamento e residuo pos-miccional elevado, refletindo dano mais extenso as raizes sacrais. A forma completa geralmente esta associada a pior prognostico de recuperacao das funcoes vesical, intestinal e sexual, mesmo com descompressao cirurgica, reforcando a importancia de reconhecer a CES-I precocemente, antes da progressao para retencao estabelecida. Ambas as formas sao emergencias cirurgicas, e a diferenciacao tem implicacoes prognosticas relevantes, nao sendo indicado tratamento eletivo.",
+   "referencia": "Rockwood and Green's",
+   "dificuldade": "dificil"
+  },
+  {
+   "id": "COL-021",
+   "tema": "Dermátomo C6 na hérnia discal cervical",
+   "enunciado": "Qual dermátomo é responsável pela sensibilidade da face radial do antebraço, do polegar e do indicador, correspondendo à raiz mais comumente acometida na hérnia discal cervical em nível C5-C6?",
+   "alternativas": [
+    "C5",
+    "C6",
+    "C7",
+    "C8"
+   ],
+   "correta": 1,
+   "comentario": "A raiz C6 emerge acima do corpo vertebral de C6 e é comprimida pela hérnia no nível C5-C6, o mais frequente na coluna cervical. Seu território sensitivo cobre a face radial do antebraço, polegar e indicador, e seu miótomo inclui bíceps e extensores do punho, com reflexo bicipital/braquiorradial reduzido. C5 corresponde ao ombro e face lateral do braço, C7 ao dedo médio, e C8 ao quinto dedo e borda ulnar da mão.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-022",
+   "tema": "Radiculopatia cervical C6 - vinheta clínica",
+   "enunciado": "Homem, 45 anos, refere dor cervical irradiada para o membro superior direito há 3 meses, com formigamento no polegar e no indicador direitos. Ao exame, apresenta diminuição de força para extensão do punho direito e reflexo bicipital hipoativo à direita. A manobra de Spurling reproduz a dor irradiada. Qual o nível discal mais provável da hérnia?",
+   "alternativas": [
+    "C3-C4",
+    "C4-C5",
+    "C5-C6",
+    "C6-C7"
+   ],
+   "correta": 2,
+   "comentario": "O quadro descreve radiculopatia de C6 (hipoestesia em polegar e indicador, fraqueza de extensores do punho, reflexo bicipital reduzido), raiz que emerge no forame C5-C6 e é a mais comumente comprimida por hérnia discal cervical. Hérnias em C3-C4 e C4-C5 comprometem as raízes C4 e C5, cursando com alterações no ombro e deltoide, não no antebraço distal. C6-C7 comprometeria a raiz C7, associada a reflexo tricipital e fraqueza de tríceps e extensores dos dedos, não a hipoestesia em polegar.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-023",
+   "tema": "Radiculopatia cervical C7 - vinheta clínica",
+   "enunciado": "Mulher, 52 anos, com cervicobraquialgia direita, refere dormência no dedo médio da mão direita e dificuldade para estender o cotovelo. O reflexo tricipital está diminuído à direita. A ressonância magnética evidencia protrusão discal póstero-lateral direita em C6-C7. Qual raiz nervosa está comprometida?",
+   "alternativas": [
+    "C5",
+    "C6",
+    "C7",
+    "C8"
+   ],
+   "correta": 2,
+   "comentario": "A raiz C7 sai pelo forame C6-C7 e é responsável pela sensibilidade do dedo médio, pela força de extensão do cotovelo (tríceps) e do punho, além do reflexo tricipital, todos comprometidos no caso. C5 e C6 relacionam-se a níveis mais altos, com padrão sensitivo e motor diferente (ombro/bíceps e polegar/extensores do punho). C8 acomete o quinto dedo e a musculatura intrínseca da mão, sem correspondência com um reflexo tendíneo tradicionalmente testado.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-024",
+   "tema": "Miótomo C5",
+   "enunciado": "A fraqueza para abdução do ombro e flexão do cotovelo, associada a reflexo bicipital hipoativo, é característica de radiculopatia de qual raiz cervical?",
+   "alternativas": [
+    "C4",
+    "C5",
+    "C6",
+    "C7"
+   ],
+   "correta": 1,
+   "comentario": "A raiz C5 inerva principalmente o deltoide (abdução do ombro) e o bíceps braquial (flexão do cotovelo), sendo o reflexo bicipital o correspondente clínico dessa raiz. C4 tem representação motora mínima nos membros superiores, relacionando-se mais à sensibilidade do ombro. C6 acomete extensores do punho e sensibilidade do polegar, enquanto C7 acomete o tríceps e os extensores dos dedos.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-025",
+   "tema": "Indicação cirúrgica de discectomia cervical anterior",
+   "enunciado": "Paciente de 38 anos com radiculopatia cervical por hérnia discal em C5-C6, confirmada por ressonância magnética, apresenta déficit motor progressivo do bíceps (grau 3/5) apesar de 6 semanas de tratamento conservador com fisioterapia, anti-inflamatórios e uma infiltração foraminal guiada por imagem. Qual a conduta mais adequada?",
+   "alternativas": [
+    "Manter tratamento conservador por mais 3 meses antes de considerar cirurgia, pois radiculopatias cervicais raramente necessitam de intervenção cirúrgica",
+    "Indicar discectomia cervical anterior com artrodese (ACDF), dado o déficit motor progressivo refratário ao tratamento conservador adequado",
+    "Solicitar eletroneuromiografia como único critério decisório antes de qualquer conduta",
+    "Indicar laminectomia cervical posterior ampla como primeira escolha para hérnia discal única em nível C5-C6"
+   ],
+   "correta": 1,
+   "comentario": "A presença de déficit motor progressivo e a falha de tratamento conservador bem conduzido (fisioterapia, medicação, infiltração) por tempo razoável são indicações clássicas de cirurgia na radiculopatia cervical por hérnia discal. A discectomia cervical anterior com artrodese (ACDF) é o procedimento mais consagrado para hérnia discal cervical de nível único com compressão radicular anterior, oferecendo descompressão direta e boa taxa de fusão. Prolongar o tratamento conservador diante de déficit motor progressivo expõe o paciente a lesão neurológica permanente. A laminectomia posterior é mais indicada para estenose multissegmentar ou mielopatia com compressão predominantemente posterior, não sendo a primeira escolha para hérnia discal única anterior.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "dificil"
+  },
+  {
+   "id": "COL-026",
+   "tema": "Teste de Spurling",
+   "enunciado": "Como é realizado o teste de Spurling e qual seu significado quando positivo?",
+   "alternativas": [
+    "Consiste em tração axial da cabeça com o pescoço em extensão; quando positivo, sugere instabilidade ligamentar cervical",
+    "Consiste em extensão, rotação e inclinação lateral da cabeça para o lado sintomático com aplicação de leve compressão axial; quando positivo, reproduz a dor radicular e sugere compressão foraminal da raiz nervosa",
+    "Consiste em flexão passiva do pescoço com o paciente sentado; quando positivo, indica sinal de Lhermitte compatível com mielopatia",
+    "Consiste em percussão sobre os processos espinhosos cervicais; quando positivo, sugere fratura vertebral oculta"
+   ],
+   "correta": 1,
+   "comentario": "O teste de Spurling é realizado posicionando o pescoço em extensão, rotação e inclinação lateral para o lado dos sintomas, seguido de compressão axial suave sobre o topo da cabeça, o que reduz o forame neural e reproduz a dor radicular quando há compressão da raiz nervosa. É um teste com boa especificidade, embora sensibilidade moderada, para radiculopatia cervical. A tração axial com alívio dos sintomas (teste de distração) é o achado oposto, sugerindo também origem radicular, mas por mecanismo inverso. A flexão do pescoço reproduzindo choque elétrico ao longo da coluna é o sinal de Lhermitte, associado à mielopatia, não à compressão foraminal.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-027",
+   "tema": "Fisiopatologia da mielopatia espondilótica cervical",
+   "enunciado": "Qual é o principal mecanismo fisiopatológico da mielopatia espondilótica cervical?",
+   "alternativas": [
+    "Compressão estática e dinâmica crônica da medula espinhal por alterações degenerativas (osteófitos, hérnias discais, hipertrofia ligamentar), levando a isquemia e desmielinização medular",
+    "Processo autoimune primário que ataca a bainha de mielina da medula cervical, independente de fatores mecânicos",
+    "Infecção crônica do espaço epidural cervical por microrganismos de baixa virulência",
+    "Compressão exclusivamente de raízes nervosas periféricas, sem qualquer envolvimento do cordão medular"
+   ],
+   "correta": 0,
+   "comentario": "A mielopatia espondilótica cervical resulta da compressão crônica, estática e dinâmica (agravada pela flexoextensão do pescoço), da medula espinhal por osteófitos, hérnias discais, hipertrofia do ligamento amarelo e espondilose facetária, levando a isquemia microvascular, desmielinização e eventual perda neuronal. Não se trata de doença autoimune nem infecciosa. A diferença fundamental em relação à radiculopatia é justamente o acometimento do cordão medular (tratos longos), e não apenas de raízes nervosas isoladas, explicando os sinais de neurônio motor superior.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-028",
+   "tema": "Sinal de Hoffmann",
+   "enunciado": "Como se realiza o sinal de Hoffmann e o que sua positividade sugere?",
+   "alternativas": [
+    "Realiza-se dorsiflexão passiva do tornozelo, observando-se extensão do hálux; positividade sugere lesão do neurônio motor inferior",
+    "Realiza-se flicking (flexão-extensão brusca) da falange distal do dedo médio; a flexão reflexa do polegar e do indicador sugere liberação piramidal por compressão medular cervical",
+    "Realiza-se percussão do tendão patelar; a resposta exacerbada indica lesão do nervo femoral",
+    "Realiza-se compressão bilateral dos processos transversos cervicais; dor irradiada sugere instabilidade atlantoaxial"
+   ],
+   "correta": 1,
+   "comentario": "O sinal de Hoffmann é pesquisado segurando a falange média do dedo médio do paciente e realizando um flicking (movimento brusco) da falange distal; a resposta positiva é a flexão reflexa do polegar e do indicador, indicando hiperreflexia por liberação piramidal, compatível com compressão medular cervical (mielopatia). Não se relaciona ao nervo femoral nem à instabilidade atlantoaxial isoladamente. A dorsiflexão do tornozelo com extensão do hálux descreve o sinal de Babinski, também um sinal de neurônio motor superior, mas de membros inferiores.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-029",
+   "tema": "Sinais de neurônio motor superior na mielopatia",
+   "enunciado": "Homem, 63 anos, com queixa de perda de destreza manual e desequilíbrio à marcha há 8 meses. Ao exame, apresenta hiperreflexia patelar e aquileana bilateral, clônus de tornozelo à direita e sinal de Babinski bilateral. Esses achados são mais compatíveis com lesão localizada em qual nível do sistema nervoso?",
+   "alternativas": [
+    "Nervo periférico distal (polineuropatia)",
+    "Raiz nervosa lombossacra isolada (radiculopatia)",
+    "Trato corticoespinhal, sugerindo lesão de neurônio motor superior, como mielopatia cervical",
+    "Junção neuromuscular (miastenia gravis)"
+   ],
+   "correta": 2,
+   "comentario": "Hiperreflexia, clônus e sinal de Babinski são sinais clássicos de lesão do neurônio motor superior, ou seja, do trato corticoespinhal, achados típicos da mielopatia cervical, que compromete os tratos longos medulares. Polineuropatias e radiculopatias cursam tipicamente com hiporreflexia ou arreflexia (neurônio motor inferior), não hiperreflexia. Doenças da junção neuromuscular como miastenia gravis causam fraqueza flutuante sem alteração de reflexos profundos nem sinais piramidais.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-030",
+   "tema": "Escala de JOA modificada (mJOA)",
+   "enunciado": "Sobre a escala de JOA modificada (mJOA), usada na avaliação da mielopatia cervical, assinale a alternativa correta.",
+   "alternativas": [
+    "Avalia exclusivamente a intensidade da dor cervical axial, sem considerar função motora ou sensitiva",
+    "Pontua de 0 a 100 pontos, sendo valores mais baixos indicativos de melhor função neurológica",
+    "Avalia função motora dos membros superiores e inferiores, sensibilidade e função esfincteriana, com pontuação total máxima de 18, sendo escores mais baixos indicativos de maior gravidade da mielopatia",
+    "Foi desenvolvida especificamente para quantificar a estenose do canal lombar e a claudicação neurogênica"
+   ],
+   "correta": 2,
+   "comentario": "A escala de JOA modificada avalia quatro domínios (função motora dos membros superiores, função motora dos membros inferiores, sensibilidade e função esfincteriana/vesical), com pontuação total máxima de 18 pontos; quanto menor a pontuação, maior a gravidade da mielopatia cervical. Ela é amplamente utilizada para classificar a gravidade (leve, moderada, grave) e orientar a indicação cirúrgica, além de acompanhar a evolução pós-operatória. Não avalia exclusivamente dor axial nem foi criada para estenose lombar, sendo esta última avaliada por outros instrumentos, como a escala de claudicação de Zurique.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "dificil"
+  },
+  {
+   "id": "COL-031",
+   "tema": "Diagnóstico diferencial da mielopatia cervical",
+   "enunciado": "Mulher, 58 anos, refere piora progressiva da caligrafia e dificuldade para abotoar a camisa há 1 ano, associada a marcha instável e sensação de pisar em algodão. Nega dor cervical significativa. O exame mostra hiperreflexia global, sinal de Hoffmann positivo bilateralmente e leve espasticidade em membros inferiores. Qual hipótese diagnóstica deve ser prioritariamente investigada com ressonância magnética de coluna cervical?",
+   "alternativas": [
+    "Síndrome do túnel do carpo bilateral",
+    "Mielopatia espondilótica cervical",
+    "Fascite plantar bilateral",
+    "Bursite subacromial bilateral"
+   ],
+   "correta": 1,
+   "comentario": "O quadro de disfunção da mão (perda de destreza fina, dificuldade com botões), marcha espástica com sensação de instabilidade, hiperreflexia e sinal de Hoffmann positivo é altamente sugestivo de mielopatia espondilótica cervical, mesmo na ausência de dor cervical significativa, o que é comum nessa condição. A síndrome do túnel do carpo causa sintomas sensitivos em território do nervo mediano e não explica os sinais de neurônio motor superior nem a marcha espástica. Fascite plantar e bursite subacromial são condições dolorosas localizadas, sem relação com achados neurológicos centrais.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-032",
+   "tema": "Indicação cirúrgica na mielopatia moderada a grave",
+   "enunciado": "Em pacientes com mielopatia espondilótica cervical moderada a grave (mJOA reduzido, sinais piramidais evidentes), qual é a conduta geralmente recomendada?",
+   "alternativas": [
+    "Tratamento cirúrgico descompressivo, pois a história natural tende à progressão e a resposta ao tratamento conservador isolado é limitada nesses casos",
+    "Órtese cervical rígida por tempo indeterminado como tratamento definitivo",
+    "Infiltração epidural de corticoide como tratamento de escolha, substituindo a cirurgia",
+    "Repouso absoluto no leito por 4 a 6 semanas, sendo essa a conduta preferencial mesmo em quadros moderados a graves"
+   ],
+   "correta": 0,
+   "comentario": "Nos casos de mielopatia moderada a grave, a literatura consagrada recomenda tratamento cirúrgico descompressivo, já que a história natural da doença tende a ser de deterioração progressiva ou estabilização em nível de déficit neurológico já instalado, sendo pouco provável a reversão significativa apenas com tratamento conservador. Órteses cervicais, infiltrações e repouso no leito não têm papel curativo na mielopatia e podem atrasar uma intervenção necessária, permitindo a progressão do dano neurológico. O tratamento conservador pode ser considerado em casos leves e estáveis, com acompanhamento clínico rigoroso.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-033",
+   "tema": "Sinal de Lhermitte e correlação radiológica na mielopatia",
+   "enunciado": "Paciente com suspeita clínica de mielopatia cervical apresenta sinal de Lhermitte positivo. Sobre esse achado e sua correlação radiológica, assinale a alternativa correta.",
+   "alternativas": [
+    "O sinal de Lhermitte consiste em dor lombar que piora com a manobra de Valsalva, sendo específico de hérnia discal lombar",
+    "O sinal de Lhermitte é uma sensação de choque elétrico que se irradia pela coluna e membros à flexão do pescoço, refletindo irritação mecânica da medula cervical; sua presença associada a hipersinal intramedular em T2 na ressonância sugere mielopatia mais avançada, com pior prognóstico",
+    "O sinal de Lhermitte indica exclusivamente compressão de raiz nervosa lombossacra, sem relação com a medula cervical",
+    "A presença de hipersinal medular em T2 na ressonância magnética cervical é sempre sinal de bom prognóstico e regride espontaneamente sem necessidade de tratamento"
+   ],
+   "correta": 1,
+   "comentario": "O sinal de Lhermitte é a sensação de choque elétrico que percorre a coluna vertebral e, por vezes, os membros, desencadeada pela flexão cervical, refletindo irritação mecânica da medula por compressão espondilótica. Quando associado a hipersinal intramedular em T2 na ressonância magnética, costuma indicar mielomalácia ou edema medular mais avançado, geralmente correlacionado a pior prognóstico funcional e maior gravidade clínica, embora a decisão cirúrgica não se baseie apenas nesse achado isolado. Não tem relação direta com hérnia lombar nem com compressão radicular lombossacra. O hipersinal medular não é necessariamente benigno nem regride espontaneamente, sendo um marcador de dano estrutural que reforça a indicação de descompressão cirúrgica em quadros progressivos.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "dificil"
+  },
+  {
+   "id": "COL-034",
+   "tema": "Claudicação neurogênica versus vascular - comparação 1",
+   "enunciado": "Qual característica diferencia classicamente a claudicação neurogênica (por estenose do canal lombar) da claudicação vascular (por doença arterial periférica)?",
+   "alternativas": [
+    "Na claudicação neurogênica, os sintomas melhoram com a flexão da coluna (por exemplo, ao inclinar-se para frente ou sentar), enquanto na claudicação vascular o alívio ocorre apenas com a interrupção do esforço físico, independentemente da postura",
+    "Na claudicação vascular, os sintomas pioram exclusivamente com a extensão lombar, enquanto na neurogênica não há relação postural",
+    "Ambas melhoram exclusivamente com o repouso em pé parado, sem diferença postural relevante",
+    "A claudicação neurogênica sempre cursa com ausência de pulsos periféricos, enquanto a vascular preserva os pulsos"
+   ],
+   "correta": 0,
+   "comentario": "Um dos principais elementos diferenciais é a resposta postural: na claudicação neurogênica, a flexão da coluna (inclinar-se para frente, sentar, usar carrinho de supermercado) amplia o canal vertebral e alivia os sintomas, enquanto na claudicação vascular o alívio depende apenas de cessar o esforço muscular, sem relação com a postura da coluna. A extensão lombar tende a piorar, e não a aliviar, a claudicação neurogênica, pois reduz ainda mais o diâmetro do canal. A presença ou ausência de pulsos periféricos é achado clássico da doença arterial periférica (pulsos diminuídos ou ausentes), e não da estenose lombar, onde os pulsos costumam estar preservados.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-035",
+   "tema": "Teste da bicicleta de van Gelderen",
+   "enunciado": "Em que consiste o teste da bicicleta de van Gelderen e qual sua utilidade clínica?",
+   "alternativas": [
+    "Consiste em pedalar em bicicleta ergométrica com a coluna em extensão; a ausência de dor durante o teste sugere doença arterial periférica",
+    "Consiste em pedalar em bicicleta ergométrica com o tronco fletido para frente; a possibilidade de pedalar por tempo prolongado sem dor, apesar do esforço muscular das pernas, favorece o diagnóstico de claudicação neurogênica em detrimento da vascular",
+    "Consiste em caminhar em esteira inclinada para cima, avaliando exclusivamente a função cardiovascular",
+    "Consiste na aplicação de manguito de pressão na perna, mensurando o índice tornozelo-braquial durante exercício"
+   ],
+   "correta": 1,
+   "comentario": "O teste de van Gelderen consiste em pedalar em bicicleta ergométrica mantendo o tronco fletido para frente; como essa posição alivia a compressão sobre as estruturas neurais no canal lombar, o paciente com claudicação neurogênica consegue pedalar por tempo prolongado sem dor, apesar do esforço físico das pernas, o que ajuda a diferenciar de claudicação vascular, na qual o esforço muscular por si só desencadeia dor isquêmica independentemente da postura da coluna. Não se trata de medida direta de índice tornozelo-braquial, que é um exame vascular específico, nem de teste em esteira inclinada. A extensão da coluna durante o teste tenderia a reproduzir os sintomas neurogênicos, não a preveni-los.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-036",
+   "tema": "Estenose do canal lombar - vinheta clínica",
+   "enunciado": "Homem, 68 anos, refere dor e peso nos membros inferiores ao caminhar cerca de 200 metros, que melhora quando se inclina para frente apoiado em um carrinho de supermercado ou quando se senta. Nega dor em repouso. O exame físico mostra pulsos periféricos presentes e simétricos. Qual é o diagnóstico mais provável?",
+   "alternativas": [
+    "Doença arterial periférica em estágio avançado",
+    "Estenose do canal vertebral lombar com claudicação neurogênica",
+    "Trombose venosa profunda bilateral",
+    "Síndrome do túnel do tarso bilateral"
+   ],
+   "correta": 1,
+   "comentario": "O padrão de dor desencadeada pela caminhada, com alívio característico à flexão do tronco (apoiar-se em carrinho) ou ao sentar-se, associado a pulsos periféricos preservados, é típico da claudicação neurogênica por estenose do canal lombar. Na doença arterial periférica, os pulsos costumariam estar diminuídos ou ausentes, e o alívio ocorreria apenas com a parada do esforço, sem relação postural. A trombose venosa profunda cursa com edema, dor e empastamento, geralmente unilateral e sem relação com esforço ambulatorial progressivo. A síndrome do túnel do tarso causa dor e parestesia plantar, sem o padrão de claudicação postural descrito.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-037",
+   "tema": "Claudicação neurogênica versus vascular - comparação 2",
+   "enunciado": "Assinale a alternativa que reúne corretamente características que ajudam a diferenciar claudicação neurogênica de claudicação vascular em membros inferiores.",
+   "alternativas": [
+    "Na claudicação neurogênica, os pulsos periféricos costumam estar preservados e a recuperação após parar de caminhar tende a ser mais lenta, exigindo mudança de postura (sentar ou fletir a coluna); na vascular, os pulsos costumam estar diminuídos e o alívio é rápido apenas ao parar de andar, independentemente da posição",
+    "Na claudicação neurogênica, os pulsos estão sempre ausentes e a dor melhora instantaneamente ao parar de caminhar em pé; na vascular, os pulsos são normais e a dor exige troca postural para melhorar",
+    "Ambas apresentam pulsos periféricos ausentes e exigem flexão da coluna para alívio dos sintomas",
+    "Na claudicação vascular, a dor tipicamente piora com a flexão da coluna e melhora com a extensão, ao contrário da neurogênica"
+   ],
+   "correta": 0,
+   "comentario": "Na claudicação neurogênica, os pulsos periféricos costumam estar preservados (a menos que haja doença vascular concomitante), e a melhora da dor geralmente exige mudança postural, como sentar-se ou fletir a coluna, sendo a recuperação mais lenta do que na claudicação vascular. Já na claudicação vascular, os pulsos distais costumam estar diminuídos ou ausentes, e a dor melhora rapidamente apenas com a interrupção do esforço, independentemente da posição da coluna, refletindo a fisiopatologia isquêmica muscular. As demais alternativas invertem ou distorcem essas características, comprometendo a diferenciação clínica correta entre as duas condições, sendo importante notar que pacientes idosos podem apresentar as duas condições associadas, exigindo avaliação vascular complementar quando há dúvida.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "dificil"
+  },
+  {
+   "id": "COL-038",
+   "tema": "Tratamento conservador da estenose lombar",
+   "enunciado": "Qual das opções abaixo representa uma medida adequada de tratamento conservador inicial para um paciente com estenose do canal lombar e claudicação neurogênica leve a moderada, sem déficit neurológico progressivo?",
+   "alternativas": [
+    "Fisioterapia com exercícios de flexão lombar, analgesia e, eventualmente, infiltração epidural de corticoide para controle sintomático",
+    "Laminectomia descompressiva de urgência, independentemente da intensidade dos sintomas",
+    "Artrodese lombar instrumentada como primeira linha de tratamento em todos os casos",
+    "Imobilização rígida em colete gessado por 3 meses como tratamento definitivo"
+   ],
+   "correta": 0,
+   "comentario": "O tratamento conservador inicial da estenose lombar sintomática, na ausência de déficit neurológico progressivo ou síndrome da cauda equina, inclui fisioterapia com ênfase em exercícios de flexão (que ampliam o canal vertebral), analgesia, anti-inflamatórios e, em casos selecionados, infiltração epidural de corticoide para alívio sintomático temporário. Cirurgia de urgência não é indicada na ausência de déficit progressivo ou síndrome de cauda equina. A artrodese instrumentada não é primeira linha para todos os casos, sendo reservada a situações específicas como instabilidade associada. A imobilização rígida prolongada não é tratamento padrão e pode inclusive favorecer descondicionamento físico.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-039",
+   "tema": "Indicação cirúrgica na estenose lombar refratária",
+   "enunciado": "Paciente de 70 anos com estenose do canal lombar sintomática há 2 anos, com claudicação neurogênica limitando a marcha a menos de 100 metros, refratária a 6 meses de tratamento conservador bem conduzido (fisioterapia, analgesia, infiltração), sem instabilidade segmentar à radiografia dinâmica. Qual a conduta cirúrgica mais apropriada?",
+   "alternativas": [
+    "Laminectomia descompressiva isolada, sem necessidade de artrodese associada, dada a ausência de instabilidade",
+    "Artrodese lombar circunferencial obrigatória em todos os casos de estenose lombar, independentemente de haver instabilidade",
+    "Rizotomia percutânea bilateral como tratamento definitivo da claudicação neurogênica",
+    "Simpatectomia lombar para melhora do fluxo sanguíneo dos membros inferiores"
+   ],
+   "correta": 0,
+   "comentario": "Na estenose do canal lombar sem instabilidade segmentar associada (como espondilolistese degenerativa ou escoliose degenerativa progressiva), a laminectomia descompressiva isolada é o procedimento cirúrgico mais apropriado após falha do tratamento conservador bem conduzido, com bons resultados na melhora da claudicação neurogênica. A artrodese associada é reservada para casos com instabilidade documentada, não sendo obrigatória de forma universal. Rizotomia percutânea e simpatectomia lombar não são tratamentos padronizados para a claudicação neurogênica por estenose do canal vertebral, sendo procedimentos utilizados em outros contextos clínicos.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-040",
+   "tema": "Estenose lombar associada a espondilolistese degenerativa",
+   "enunciado": "Mulher, 66 anos, com estenose do canal lombar em L4-L5 associada a espondilolistese degenerativa grau I, confirmada por radiografias dinâmicas que evidenciam mobilidade segmentar significativa. Após falha de tratamento conservador, foi indicada cirurgia. Qual a conduta cirúrgica mais adequada nesse cenário?",
+   "alternativas": [
+    "Laminectomia descompressiva associada à artrodese instrumentada do segmento L4-L5, dada a instabilidade segmentar demonstrada",
+    "Laminectomia descompressiva isolada, sem fixação, pois a espondilolistese degenerativa nunca compromete a estabilidade segmentar",
+    "Apenas infiltração facetária bilateral, sem necessidade de descompressão cirúrgica",
+    "Discectomia percutânea isolada, sem descompressão do canal vertebral"
+   ],
+   "correta": 0,
+   "comentario": "Quando a estenose lombar está associada a espondilolistese degenerativa com instabilidade segmentar documentada (mobilidade significativa em radiografias dinâmicas), a conduta cirúrgica mais adequada é a laminectomia descompressiva associada à artrodese instrumentada do segmento acometido, reduzindo o risco de progressão do escorregamento e de dor mecânica pós-operatória. A laminectomia isolada sem fixação, nesses casos, tem maior risco de piora da instabilidade e do escorregamento vertebral no pós-operatório. A infiltração facetária isolada não trata a compressão neural nem a instabilidade, e a discectomia percutânea não é o procedimento indicado para estenose com espondilolistese, pois não promove descompressão adequada do canal nem estabiliza o segmento.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-041",
+   "tema": "Definição e etiologia da espondilólise",
+   "enunciado": "A espondilólise é definida como uma lesão específica de uma estrutura da coluna vertebral, tipicamente por sobrecarga mecânica repetitiva em extensão e rotação da coluna lombar. Assinale a alternativa que descreve corretamente a estrutura acometida e o nível mais frequentemente envolvido.",
+   "alternativas": [
+    "Defeito ósseo (fratura por estresse ou pseudartrose) da pars interarticularis, mais comum em L5",
+    "Fratura do corpo vertebral por compressão, mais comum em L1",
+    "Ruptura do ligamento amarelo, mais comum em L4",
+    "Fratura do processo transverso, mais comum em L3"
+   ],
+   "correta": 0,
+   "comentario": "A espondilólise corresponde a um defeito da pars interarticularis, geralmente uma fratura de estresse que pode evoluir para pseudartrose, sendo L5 o nível mais acometido devido à concentração de forças de cisalhamento na transição lombossacra. É comum em adolescentes praticantes de esportes com hiperextensão repetida da coluna, como ginástica, luta e levantamento de peso. As demais alternativas descrevem lesões em estruturas anatômicas distintas (corpo vertebral, ligamento amarelo, processo transverso) que não correspondem à definição de espondilólise. O reconhecimento correto da anatomia envolvida é essencial para direcionar a investigação por imagem e o tratamento.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-042",
+   "tema": "Medição do ângulo de Cobb",
+   "enunciado": "Para mensurar a magnitude de uma curva escoliótica em radiografia panorâmica da coluna em ortostase, o método de Cobb consiste em:",
+   "alternativas": [
+    "Traçar uma linha paralela ao platô superior da vértebra mais inclinada cranialmente e outra paralela ao platô inferior da vértebra mais inclinada caudalmente na curva, medindo o ângulo formado entre as perpendiculares a essas linhas",
+    "Medir o ângulo entre os pedículos da vértebra apical direita e esquerda",
+    "Medir a distância em milímetros entre a linha central sacral e o corpo vertebral apical",
+    "Traçar uma linha do centro de C7 até o centro do sacro e medir o desvio lateral máximo em relação a essa linha"
+   ],
+   "correta": 0,
+   "comentario": "O método de Cobb identifica as vértebras terminais da curva (as mais inclinadas em relação à horizontal) e traça linhas paralelas aos seus platôs superior e inferior; o ângulo entre as perpendiculares a essas linhas define a magnitude da curva. É o método padronizado e mais utilizado para quantificar escoliose e acompanhar sua progressão. A opção que mede a distância da linha central sacral descreve o conceito usado para avaliar a translação do tronco (obliquidade), não a magnitude angular da curva. Medir pedículos ou usar apenas a linha C7-sacro não corresponde à técnica de Cobb validada na literatura.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-043",
+   "tema": "Espondilolistese ístmica versus degenerativa",
+   "enunciado": "Em relação à diferenciação entre espondilolistese ístmica e espondilolistese degenerativa, assinale a alternativa CORRETA.",
+   "alternativas": [
+    "A espondilolistese ístmica decorre de um defeito (lise) da pars interarticularis, geralmente acomete L5-S1 e se manifesta em pacientes mais jovens; a degenerativa ocorre por artrose facetária e discal com pars intacta, é mais frequente em L4-L5 e predomina em mulheres de meia-idade ou idosas",
+    "A espondilolistese degenerativa sempre apresenta grau de escorregamento maior que a ístmica, pois envolve fratura bilateral da pars interarticularis",
+    "A espondilolistese ístmica ocorre predominantemente em L4-L5 e está associada à artrose facetária, enquanto a degenerativa ocorre em L5-S1 por lise da pars",
+    "Ambas as formas têm a mesma etiologia (defeito da pars interarticularis), diferindo apenas na faixa etária de apresentação"
+   ],
+   "correta": 0,
+   "comentario": "A espondilolistese ístmica resulta de fratura de estresse/pseudartrose da pars interarticularis, tipicamente em L5-S1, acometendo adolescentes e adultos jovens, muitas vezes atletas. A degenerativa ocorre em pars íntegra, secundária à artrose facetária e degeneração discal, mais comum em L4-L5 e em mulheres acima de 50-60 anos, frequentemente associada à estenose de canal. As demais alternativas invertem os níveis/etiologias ou igualam incorretamente as duas entidades, o que não corresponde à fisiopatologia descrita na literatura consagrada.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-044",
+   "tema": "Classificação de Lenke - curva torácica principal (tipo 1)",
+   "enunciado": "Uma adolescente de 14 anos com escoliose idiopática apresenta curva torácica principal estrutural (Cobb 55°), enquanto as curvas proximal torácica e toracolombar/lombar são não estruturais (Cobb menor que 25° em inclinação lateral, com correção satisfatória). De acordo com a classificação de Lenke, essa curva é classificada como:",
+   "alternativas": [
+    "Lenke tipo 1 (curva torácica principal)",
+    "Lenke tipo 2 (curva torácica dupla)",
+    "Lenke tipo 3 (curva dupla maior)",
+    "Lenke tipo 5 (toracolombar/lombar principal)"
+   ],
+   "correta": 0,
+   "comentario": "A classificação de Lenke define o tipo de curva com base em quais segmentos (torácico proximal, torácico principal e toracolombar/lombar) são estruturais, segundo critérios de Cobb em inclinação lateral e cifose sagital. Quando apenas a curva torácica principal é estrutural e as demais não atendem aos critérios de estruturalidade, a curva é classificada como Lenke tipo 1. O tipo 2 exige que a curva torácica proximal também seja estrutural, e o tipo 3 exige estruturalidade concomitante da curva toracolombar/lombar, o que não ocorre neste caso. O tipo 5 seria reservado para quando a curva principal é a toracolombar/lombar, o que também não se aplica ao cenário descrito.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-045",
+   "tema": "Classificação de Meyerding do escorregamento",
+   "enunciado": "Uma radiografia em perfil da coluna lombossacra evidencia deslocamento anterior do corpo de L5 sobre S1 correspondente a 60% da largura do platô superior de S1. Segundo a classificação de Meyerding, esse escorregamento corresponde a qual grau?",
+   "alternativas": [
+    "Meyerding grau III",
+    "Meyerding grau II",
+    "Meyerding grau IV",
+    "Meyerding grau I"
+   ],
+   "correta": 0,
+   "comentario": "A classificação de Meyerding divide o platô superior da vértebra caudal em quartos e classifica o escorregamento em grau I (0-25%), grau II (25-50%), grau III (50-75%), grau IV (75-100%) e grau V ou espondiloptose (deslocamento além de 100%, com queda do corpo vertebral abaixo do platô). Um escorregamento de 60% enquadra-se, portanto, no grau III. Esse sistema é fundamental para orientar decisões terapêuticas, já que escorregamentos de alto grau (III a V) têm maior associação com sintomas, deformidade e indicação cirúrgica.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-046",
+   "tema": "Sinal de Risser",
+   "enunciado": "O sinal de Risser, utilizado para estimar a maturidade esquelética em pacientes com escoliose idiopática do adolescente, é avaliado por meio de:",
+   "alternativas": [
+    "Grau de ossificação da apófise da crista ilíaca, classificado de 0 a 5",
+    "Grau de fusão das epífises dos ossos longos do punho",
+    "Idade óssea estimada pela radiografia de mão e punho segundo Greulich e Pyle",
+    "Status menstrual (menarca) da paciente"
+   ],
+   "correta": 0,
+   "comentario": "O sinal de Risser avalia a progressão da ossificação da apófise da crista ilíaca, visível na mesma radiografia panorâmica da coluna, sendo graduado de 0 (ausência de ossificação) a 5 (fusão completa da apófise ao ílio). É um parâmetro amplamente utilizado, pois dispensa exame radiográfico adicional e se correlaciona com o risco de progressão da curva: quanto menor o Risser, maior o potencial de crescimento remanescente e, portanto, maior o risco de progressão. A avaliação de punho (Greulich-Pyle) é outro método de idade óssea, mas não é o que define o sinal de Risser. A menarca é um marcador de maturidade sexual complementar, mas não é o sinal de Risser propriamente dito.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-047",
+   "tema": "Tratamento conservador da espondilólise aguda",
+   "enunciado": "Um adolescente de 15 anos, jogador de handebol, apresenta lombalgia há 3 semanas, com dor à extensão da coluna lombar. A ressonância magnética mostra edema ósseo na pars interarticularis de L5 sem linha de fratura completa, compatível com lesão aguda. Qual a conduta inicial mais apropriada?",
+   "alternativas": [
+    "Afastamento das atividades esportivas, uso de órtese antilordótica (TLSO) e fisioterapia, com reavaliação para retorno gradual ao esporte",
+    "Artrodese instrumentada L5-S1 imediata",
+    "Liberação para atividade esportiva plena com analgesia sob demanda",
+    "Infiltração facetária guiada por fluoroscopia como primeira linha de tratamento"
+   ],
+   "correta": 0,
+   "comentario": "Nas lesões agudas da pars interarticularis (com edema ósseo na RM e sem fratura completa/pseudartrose estabelecida), o tratamento conservador tem alto potencial de consolidação óssea, sendo a primeira linha: repouso esportivo, órtese antilordótica por algumas semanas e fisioterapia para fortalecimento do core, com retorno progressivo ao esporte guiado por melhora clínica. A cirurgia é reservada para casos refratários ao tratamento conservador prolongado, pseudartrose estabelecida sintomática ou espondilolistese com progressão. Liberar o atleta sem afastamento tende a perpetuar a lesão e favorecer a evolução para pseudartrose. A infiltração facetária não é indicada como primeira linha nesse contexto, pois a dor decorre do defeito da pars, não das facetas propriamente.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-048",
+   "tema": "Indicação de órtese na escoliose idiopática do adolescente",
+   "enunciado": "Uma menina de 12 anos, Risser 0, ainda sem menarca, apresenta curva torácica única com Cobb de 32°, sem tratamento prévio. Qual a conduta mais adequada?",
+   "alternativas": [
+    "Indicar o uso de órtese (tipo Boston/TLSO), pois se trata de curva de 25-40° em paciente esqueleticamente imatura, com alto risco de progressão",
+    "Indicar cirurgia de artrodese posterior imediata",
+    "Manter apenas observação clínica anual, sem órtese, pois curvas abaixo de 45° não necessitam de nenhuma intervenção",
+    "Indicar exclusivamente fisioterapia (método Schroth), sem necessidade de órtese"
+   ],
+   "correta": 0,
+   "comentario": "Curvas entre 25° e 40° de Cobb em pacientes esqueleticamente imaturos (Risser baixo, pré-menarca) apresentam risco significativo de progressão e constituem a indicação clássica de tratamento com órtese, cujo objetivo é impedir a progressão até a maturidade esquelética. Observação isolada é reservada para curvas menores (tipicamente abaixo de 20-25°) ou pacientes com pouco potencial de crescimento remanescente. A fisioterapia (como o método Schroth) pode ser um complemento, mas não substitui a órtese nas curvas com esse risco de progressão. Cirurgia é reservada para curvas maiores (geralmente acima de 45-50°) ou refratárias ao tratamento conservador.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-049",
+   "tema": "Tratamento cirúrgico da espondilolistese ístmica de alto grau",
+   "enunciado": "Um adolescente de 15 anos apresenta espondilolistese ístmica L5-S1 Meyerding grau IV (85% de escorregamento), com deformidade lombossacra, retração de isquiotibiais, marcha característica e dor lombar persistente refratária ao tratamento conservador. Qual a conduta mais adequada?",
+   "alternativas": [
+    "Artrodese instrumentada póstero-lateral (geralmente L4-S1), com redução parcial e/ou descompressão neural quando indicada, evitando redução completa forçada pelo risco de lesão da raiz de L5",
+    "Tratamento exclusivamente conservador com órtese até a maturidade esquelética, independentemente da evolução clínica",
+    "Redução aberta completa obrigatória do escorregamento antes de qualquer artrodese, independentemente do risco neurológico",
+    "Laminectomia isolada sem artrodese"
+   ],
+   "correta": 0,
+   "comentario": "Escorregamentos de alto grau (Meyerding III a V), especialmente sintomáticos e refratários ao tratamento conservador, com deformidade progressiva ou déficit neurológico, têm indicação cirúrgica. A artrodese instrumentada (in situ ou com redução parcial), muitas vezes estendida de L4 a S1, é a conduta preconizada; a redução completa forçada é evitada pelo risco elevado de tração e lesão da raiz de L5 (síndrome de cauda equina). Tratamento exclusivamente conservador não é apropriado diante de sintomas refratários e deformidade progressiva em grau tão avançado. Laminectomia isolada sem artrodese pioraria a instabilidade já presente no segmento.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "dificil"
+  },
+  {
+   "id": "COL-050",
+   "tema": "Diferenças entre órteses Boston e Milwaukee",
+   "enunciado": "Em relação às órteses utilizadas no tratamento da escoliose idiopática do adolescente, assinale a alternativa CORRETA.",
+   "alternativas": [
+    "A órtese de Milwaukee possui apoio occipito-mentoniano (cervical) e é indicada para curvas com ápice mais alto (torácica alta/cervicotorácica), enquanto a órtese de Boston é um TLSO sem extensão cervical, indicado para curvas com ápice em T7 ou abaixo",
+    "A órtese de Boston possui apoio cervical e é usada apenas em curvas lombares baixas",
+    "A órtese de Milwaukee é de uso exclusivamente noturno, indicada para curvas lombares únicas e flexíveis",
+    "Boston e Milwaukee são órteses idênticas, diferindo apenas no fabricante"
+   ],
+   "correta": 0,
+   "comentario": "A órtese de Milwaukee é um CTLSO com apoio occipito-mentoniano, historicamente indicada para curvas com ápice torácico alto, cervicotorácico, onde um TLSO convencional não alcançaria controle adequado. A órtese de Boston é um TLSO simétrico, sem extensão cervical, adequado para curvas com ápice em T7 ou mais baixo (toracolombares e lombares). O uso exclusivamente noturno com hipercorreção descreve a órtese de Charleston, não a de Milwaukee. Boston e Milwaukee têm desenhos e indicações distintas, não sendo intercambiáveis.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-051",
+   "tema": "Espondilólise em atletas - apresentação clínica",
+   "enunciado": "Uma ginasta de 13 anos apresenta lombalgia unilateral que piora com hiperextensão da coluna. Ao exame, a manutenção do apoio unipodal em extensão da coluna reproduz a dor lombar (teste da cegonha positivo). Qual a hipótese diagnóstica mais provável e a investigação inicial mais apropriada?",
+   "alternativas": [
+    "Espondilólise (fratura de estresse da pars interarticularis); investigação inicial com radiografias simples e, se inconclusivas, ressonância magnética ou tomografia para confirmação",
+    "Hérnia de disco lombar extrusa; investigação com eletroneuromiografia",
+    "Discite infecciosa; investigação limitada a hemocultura e provas inflamatórias (VHS/PCR)",
+    "Fratura por compressão osteoporótica; investigação com densitometria óssea"
+   ],
+   "correta": 0,
+   "comentario": "O teste da cegonha (apoio unipodal em hiperextensão reproduzindo dor lombar unilateral) é classicamente associado à espondilólise, lesão de sobrecarga da pars interarticularis comum em atletas que realizam extensão e rotação repetidas da coluna, como ginastas. A investigação costuma iniciar por radiografias, mas a ressonância magnética é hoje preferida por detectar lesões precoces (edema ósseo) antes da fratura completa, sem expor o paciente jovem à radiação da tomografia quando possível. Hérnia discal extrusa tipicamente cursa com radiculopatia e não é reproduzida pelo teste da cegonha. Discite e fratura osteoporótica são diagnósticos pouco prováveis nesse perfil clínico e etário.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-052",
+   "tema": "Órtese de Charleston (bending brace)",
+   "enunciado": "A órtese de Charleston (\"bending brace\"), utilizada no tratamento de determinadas curvas na escoliose idiopática do adolescente, tem como características principais:",
+   "alternativas": [
+    "Uso exclusivamente noturno, confeccionada com hipercorreção da curva, indicada preferencialmente para curvas lombares ou toracolombares únicas e flexíveis",
+    "Uso de 23 horas por dia, indicada para curvas torácicas duplas rígidas",
+    "Apoio occipito-mentoniano, de uso diurno, indicada para curvas cervicotorácicas",
+    "Órtese rígida de uso permanente até a maturidade esquelética, sem qualquer hipercorreção"
+   ],
+   "correta": 0,
+   "comentario": "A órtese de Charleston é moldada em posição de hipercorreção lateral da curva e projetada para uso noturno, o que aumenta a tolerância do paciente por exigir menor tempo de uso diário. É indicada preferencialmente para curvas únicas, flexíveis, de ápice lombar ou toracolombar, situações em que a hipercorreção é mecanicamente viável durante o decúbito. Não é apropriada para curvas torácicas duplas rígidas nem para curvas cervicotorácicas altas, que exigem órteses de uso diurno prolongado como Boston ou Milwaukee.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-053",
+   "tema": "Espondilolistese degenerativa e estenose de canal",
+   "enunciado": "Uma mulher de 68 anos apresenta claudicação neurogênica e dor lombar irradiada bilateralmente para os membros inferiores, com melhora à flexão anterior do tronco. A radiografia em perfil mostra escorregamento anterior de L4 sobre L5, Meyerding grau I, com pars interarticularis íntegra; a ressonância confirma estenose de canal associada. Qual o diagnóstico mais provável e a conduta inicial?",
+   "alternativas": [
+    "Espondilolistese degenerativa L4-L5 com estenose de canal; tratamento inicial conservador (fisioterapia, analgesia, eventual infiltração), reservando descompressão com ou sem artrodese para casos refratários",
+    "Espondilolistese ístmica L4-L5; indicação de tratamento cirúrgico de urgência independentemente dos sintomas",
+    "Espondilólise sem escorregamento; tratamento com órtese rígida por 6 meses",
+    "Fratura patológica vertebral; investigação oncológica prioritária antes de qualquer tratamento sintomático"
+   ],
+   "correta": 0,
+   "comentario": "O quadro descrito (idade avançada, sexo feminino, pars íntegra, nível L4-L5, claudicação neurogênica com melhora à flexão) é típico de espondilolistese degenerativa associada a estenose de canal, secundária à artrose facetária e degeneração discal. O tratamento inicial é conservador, com fisioterapia, analgesia e eventual infiltração epidural, reservando-se a descompressão cirúrgica (associada ou não a artrodese, conforme grau de instabilidade) para os casos refratários ou com déficit progressivo. Não há indicação de cirurgia de urgência nesse contexto crônico e sem sinais de alarme. A ausência de defeito da pars afasta a hipótese de espondilolistese ístmica ou espondilólise isolada, e não há dados sugestivos de doença oncológica.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-054",
+   "tema": "Indicação cirúrgica na escoliose idiopática do adolescente",
+   "enunciado": "Um adolescente de 15 anos, Risser 4, apresenta curva torácica com Cobb de 55°, que continuou progredindo apesar do uso adequado de órtese, além de função pulmonar limítrofe. Qual a conduta mais apropriada?",
+   "alternativas": [
+    "Indicação de tratamento cirúrgico (artrodese posterior instrumentada), pois curvas torácicas acima de 45-50° tendem a progredir mesmo na vida adulta e apresentam risco de comprometimento cardiopulmonar",
+    "Manter apenas observação, já que Risser 4 indica maturidade suficiente para interromper qualquer forma de tratamento",
+    "Substituir a órtese de Boston por órtese de Milwaukee em uso de 23 horas por dia como alternativa definitiva à cirurgia",
+    "Indicar apenas fisioterapia intensiva (método Schroth) como tratamento definitivo"
+   ],
+   "correta": 0,
+   "comentario": "Curvas torácicas acima de 45-50° de Cobb têm indicação cirúrgica reconhecida, pois tendem a continuar progredindo mesmo após a maturidade esquelética, com risco de comprometimento da função cardiopulmonar em curvas muito graves. A falha do tratamento com órtese (progressão documentada apesar do uso correto) reforça a indicação cirúrgica nesse paciente. Observação isolada não é apropriada diante de curva grande e progressiva, independentemente do Risser. Trocar de órtese ou intensificar apenas fisioterapia não é eficaz para conter a progressão em curvas dessa magnitude, sendo medidas insuficientes diante do quadro descrito.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-055",
+   "tema": "Classificação etiológica de Wiltse-Newman - espondilolistese displásica",
+   "enunciado": "Uma criança apresenta espondilolistese diagnosticada precocemente, decorrente de displasia congênita dos elementos posteriores de L5 e do sacro (facetas e pars malformadas), sem evidência de fratura por estresse. Essa condição está associada a maior risco de escorregamento progressivo e de comprometimento neurológico, já que o arco neural permanece íntegro (não separado como na forma por lise). Segundo a classificação de Wiltse-Newman, essa apresentação corresponde a qual tipo de espondilolistese?",
+   "alternativas": [
+    "Tipo I - displásica (congênita)",
+    "Tipo II - ístmica (lise ou alongamento da pars por fraturas de estresse repetidas)",
+    "Tipo III - degenerativa",
+    "Tipo V - neoplásica"
+   ],
+   "correta": 0,
+   "comentario": "A espondilolistese tipo I (displásica) da classificação de Wiltse-Newman decorre de malformação congênita das facetas articulares e do sacro, com arco neural de L5 permanecendo intacto (não fraturado), o que favorece maior risco de compressão neural e de progressão do escorregamento em relação à forma ístmica. A tipo II (ístmica) é a mais comum, causada por fratura de estresse ou alongamento da pars interarticularis. A tipo III (degenerativa) ocorre por artrose facetária em adultos com pars íntegra. A tipo V (neoplásica) é rara e decorre de destruição óssea por lesão tumoral, não se aplicando ao quadro congênito descrito.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "dificil"
+  },
+  {
+   "id": "COL-056",
+   "tema": "Classificação de Lenke - curva dupla maior (tipo 3)",
+   "enunciado": "Um adolescente com escoliose idiopática apresenta duas curvas estruturais: torácica principal com Cobb de 50° e toracolombar/lombar com Cobb de 45°, ambas atendendo aos critérios de estruturalidade (Cobb igual ou maior que 25° em inclinação lateral e/ou modificador sagital torácico exagerado). Qual a classificação de Lenke correspondente?",
+   "alternativas": [
+    "Lenke tipo 3 (curva dupla maior - torácica principal e toracolombar/lombar ambas estruturais)",
+    "Lenke tipo 1 (torácica principal isolada, demais curvas não estruturais)",
+    "Lenke tipo 5 (toracolombar/lombar principal isolada)",
+    "Lenke tipo 6 (toracolombar/lombar principal com torácica estrutural secundária maior que a principal)"
+   ],
+   "correta": 0,
+   "comentario": "Quando tanto a curva torácica principal quanto a toracolombar/lombar atendem aos critérios de estruturalidade, a classificação correta é Lenke tipo 3 (curva dupla maior). O tipo 1 exigiria que apenas a torácica principal fosse estrutural, o que não é o caso aqui. O tipo 5 seria reservado para quando a curva principal (a de maior magnitude, definindo o tratamento) é a toracolombar/lombar isolada, sem estruturalidade torácica. O tipo 6 descreve uma situação em que a curva toracolombar/lombar é a principal, mas há uma curva torácica secundária estrutural de magnitude ainda maior, o que também difere do cenário apresentado.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-057",
+   "tema": "Rastreamento clínico da escoliose - teste de Adams",
+   "enunciado": "No exame físico de triagem para escoliose idiopática do adolescente, o teste de inclinação anterior do tronco (teste de Adams), que evidencia gibosidade costal ou lombar por assimetria de rotação vertebral, é realizado da seguinte forma:",
+   "alternativas": [
+    "Solicita-se ao paciente que flexione o tronco anteriormente com os joelhos estendidos e as mãos unidas, observando-se o dorso tangencialmente para identificar assimetrias (giba)",
+    "Solicita-se que o paciente permaneça em decúbito dorsal e realize elevação das pernas estendidas",
+    "Solicita-se extensão ativa do tronco em apoio unipodal, buscando reproduzir dor lombar",
+    "Mede-se a distância entre os maléolos mediais com o paciente em pé e os pés unidos"
+   ],
+   "correta": 0,
+   "comentario": "O teste de Adams é realizado com o paciente flexionando o tronco para frente, joelhos estendidos e mãos unidas, enquanto o examinador observa o dorso tangencialmente (de trás ou da frente) para identificar assimetria na altura do gradil costal ou da região lombar, decorrente da rotação vertebral associada à escoliose. É o principal teste de triagem em exames escolares e consultas de rotina por sua simplicidade e boa sensibilidade para curvas relevantes. A elevação de pernas estendidas é um teste para radiculopatia (Lasègue), não para escoliose. O apoio unipodal em extensão descreve o teste da cegonha, usado na investigação de espondilólise, e não tem relação com o rastreamento de escoliose.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-058",
+   "tema": "Fatores de risco para progressão da curva escoliótica",
+   "enunciado": "Em relação aos fatores associados a maior risco de progressão de uma curva escoliótica idiopática do adolescente, assinale a alternativa CORRETA.",
+   "alternativas": [
+    "Sexo feminino, imaturidade esquelética (Risser baixo ou cartilagem trirradiada ainda aberta), condição pré-menarca e maior magnitude da curva no momento do diagnóstico são fatores associados a maior risco de progressão",
+    "O sexo masculino é o principal fator de risco para progressão de curvas torácicas na escoliose idiopática do adolescente",
+    "Curvas de pequena magnitude (10-15°) em pacientes com Risser 4-5 apresentam o maior risco relativo de progressão",
+    "A ocorrência da menarca aumenta o risco de progressão independentemente do grau de maturidade esquelética da paciente"
+   ],
+   "correta": 0,
+   "comentario": "Os principais fatores de risco para progressão de uma curva escoliótica idiopática do adolescente são o sexo feminino, a imaturidade esquelética (Risser baixo, cartilagem trirradiada aberta), o status pré-menárquico e a maior magnitude da curva ao diagnóstico, pois combinam maior potencial de crescimento residual com uma deformidade já estabelecida. O sexo masculino, ao contrário, está associado a menor risco de progressão na maioria das séries. Curvas pequenas em pacientes já maduros esqueleticamente (Risser 4-5) têm risco de progressão muito baixo, justamente o oposto do afirmado. A ocorrência da menarca sinaliza desaceleração do crescimento e, portanto, tende a reduzir o risco de progressão, não aumentá-lo, especialmente quando associada a Risser mais avançado.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "dificil"
+  },
+  {
+   "id": "COL-059",
+   "tema": "Definição e epidemiologia da escoliose idiopática do adolescente",
+   "enunciado": "Em relação à escoliose idiopática do adolescente (EIA), assinale a alternativa CORRETA.",
+   "alternativas": [
+    "É definida por uma curva lateral da coluna com ângulo de Cobb igual ou maior que 10°, associada à rotação vertebral, com início entre os 10 anos de idade e a maturidade esquelética, sendo mais prevalente e com maior risco de progressão no sexo feminino",
+    "É definida por qualquer desvio lateral da coluna visível ao exame físico, independentemente do valor do ângulo de Cobb, sendo mais comum no sexo masculino",
+    "Acomete exclusivamente crianças menores de 3 anos (escoliose infantil) e está sempre associada a doenças neuromusculares",
+    "Cursa obrigatoriamente com dor lombar intensa como sintoma predominante, sendo a ausência de dor um sinal de alarme para causa secundária"
+   ],
+   "correta": 0,
+   "comentario": "A escoliose idiopática do adolescente é definida por uma curva lateral da coluna com Cobb igual ou maior que 10°, acompanhada de rotação vertebral, com início entre os 10 anos e a maturidade esquelética, sendo classicamente mais prevalente e com maior risco de progressão no sexo feminino. O diagnóstico exige confirmação radiográfica (Cobb), não bastando a inspeção clínica isolada. A escoliose de início antes dos 3 anos é classificada como infantil, uma entidade distinta, nem sempre associada a doenças neuromusculares. Classicamente, a EIA é indolor ou pouco sintomática; a presença de dor significativa é considerada sinal de alarme que deve motivar investigação de causas secundárias (tumor, infecção, siringomielia), sendo o oposto do afirmado na alternativa incorreta.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-060",
+   "tema": "Modificadores da classificação de Lenke",
+   "enunciado": "A classificação de Lenke para escoliose idiopática do adolescente é composta por três componentes essenciais. Além do tipo de curva (1 a 6), quais são os modificadores adicionais utilizados?",
+   "alternativas": [
+    "Modificador lombar (A, B ou C, conforme a posição da linha centro-sacral em relação à vértebra apical lombar) e modificador sagital torácico (-, N ou +, conforme a cifose torácica entre T5 e T12)",
+    "Modificador de Risser (0 a 5) e modificador de Nash-Moe para rotação vertebral",
+    "Modificador de Meyerding (I a V) e modificador de King (I a V)",
+    "Modificador de idade óssea e modificador de status menstrual (menarca)"
+   ],
+   "correta": 0,
+   "comentario": "A classificação de Lenke combina o tipo de curva (1 a 6, conforme quais segmentos são estruturais) com dois modificadores: o modificador lombar (A, B ou C), que descreve a relação entre a linha centro-sacral e o corpo/pedículos da vértebra apical lombar, e o modificador sagital torácico (hipocifótico -, normal N, ou hipercifótico +), medido entre T5 e T12. Esses componentes juntos orientam a extensão da artrodese e a escolha das vértebras a serem instrumentadas. Risser e Nash-Moe são úteis para maturidade esquelética e rotação vertebral, respectivamente, mas não fazem parte formal dos modificadores de Lenke. Meyerding e King são sistemas de classificação distintos (espondilolistese e uma classificação de escoliose anterior à de Lenke, respectivamente), não integrando a nomenclatura de Lenke.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "dificil"
+  },
+  {
+   "id": "COL-061",
+   "tema": "Classificação das falhas de formação vertebral",
+   "enunciado": "Menino de 2 anos é levado à consulta por assimetria de tronco notada pelos pais desde o nascimento. Radiografia de coluna total revela um corpo vertebral triangular na topografia torácica, menor que os vizinhos, sem barra óssea associada, compatível com hemivértebra isolada. Esse tipo de anomalia congênita da coluna é classicamente resultado de:",
+   "alternativas": [
+    "Falha de segmentação vertebral, com ausência de formação da placa de crescimento entre dois corpos vertebrais adjacentes",
+    "Falha de formação vertebral, com desenvolvimento incompleto de parte do corpo vertebral durante a vida embrionária",
+    "Falha primária na formação dos elementos posteriores (pedículos e lâminas) sem acometimento do corpo vertebral",
+    "Anomalia adquirida secundária a processo infeccioso intrauterino que acomete o núcleo de ossificação"
+   ],
+   "correta": 1,
+   "comentario": "Hemivértebras resultam de falha de formação, em que uma porção do corpo vertebral não se desenvolve adequadamente durante a quarta a sexta semana de gestação, gerando um corpo vertebral triangular ou em cunha. Isso se distingue da falha de segmentação, mecanismo responsável pelas barras não segmentadas e blocos vertebrais, em que os corpos vertebrais não se separam adequadamente. A alternativa C está incorreta pois hemivértebras acometem o corpo vertebral, não isoladamente os elementos posteriores. A alternativa D está incorreta porque a etiologia é uma falha do desenvolvimento embrionário, não um processo infeccioso adquirido.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-062",
+   "tema": "Barra unilateral não segmentada com hemivértebra contralateral",
+   "enunciado": "Lactente de 8 meses apresenta escoliose congênita torácica rígida diagnosticada em radiografias, evidenciando fusão óssea unilateral entre três corpos vertebrais consecutivos à direita associada a hemivértebra totalmente segmentada à esquerda, na mesma região. Em relação ao potencial de progressão dessa deformidade, é correto afirmar que:",
+   "alternativas": [
+    "Trata-se da combinação de menor risco de progressão entre as anomalias congênitas, pois o crescimento assimétrico se equilibra",
+    "Trata-se da combinação de maior risco de progressão entre as anomalias congênitas, pela associação de barra não segmentada com hemivértebra contralateral, exigindo seguimento rigoroso e frequentemente tratamento cirúrgico precoce",
+    "O prognóstico depende exclusivamente da presença de costelas fundidas, sendo irrelevante a topografia da hemivértebra contralateral",
+    "Essa associação nunca progride após os 5 anos de idade, dispensando seguimento radiográfico após essa idade"
+   ],
+   "correta": 1,
+   "comentario": "A combinação de barra unilateral não segmentada com hemivértebra contralateral representa a anomalia congênita com maior potencial de progressão, pois há crescimento assimétrico acentuado: um lado da coluna não cresce (barra) enquanto o lado oposto continua crescendo de forma desordenada (hemivértebra), gerando progressão angular rápida, frequentemente superior a 5-10 graus por ano. Essa combinação tem o pior prognóstico entre todos os tipos de escoliose congênita, exigindo seguimento clínico-radiográfico rigoroso, muitas vezes com indicação cirúrgica precoce (artrodese in situ) antes que a curva atinja magnitude que dificulte correção. A presença de costelas fundidas é um fator agravante adicional, mas não o único determinante do prognóstico. Não existe idade em que se possa dispensar o seguimento, já que a progressão pode ocorrer durante toda a fase de crescimento.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "dificil"
+  },
+  {
+   "id": "COL-063",
+   "tema": "Gessos seriados de Mehta",
+   "enunciado": "Menina de 14 meses com escoliose infantil idiopática progressiva (ângulo de Cobb 38°, ângulo costovertebral de Mehta favorável) é encaminhada para tratamento. A técnica de gessos seriados de Mehta (gesso EDF - elongação, derrotação e flexão lateral) tem como principal objetivo:",
+   "alternativas": [
+    "Corrigir definitivamente a curva sem necessidade de qualquer tratamento adicional, mesmo em curvas graves",
+    "Utilizar o crescimento residual da criança para redirecionar o crescimento vertebral e controlar/corrigir a curva, podendo retardar ou evitar intervenção cirúrgica",
+    "Servir apenas como método de imobilização pós-operatória após artrodese posterior",
+    "Substituir a necessidade de acompanhamento radiográfico seriado durante o tratamento"
+   ],
+   "correta": 1,
+   "comentario": "Os gessos seriados de Mehta, aplicados sob anestesia geral com tração, derrotação e flexão lateral do tronco, buscam aproveitar o potencial de crescimento da criança pequena para remodelar e redirecionar o crescimento vertebral, podendo levar à correção completa da curva em casos favoráveis (especialmente quando iniciados precocemente e com ângulo costovertebral de Mehta favorável) ou pelo menos retardar a progressão e a necessidade de cirurgia. Não é um método garantidamente definitivo em todos os casos, principalmente em curvas graves ou de início tardio. Não se trata de imobilização pós-operatória, mas de tratamento primário conservador. O acompanhamento radiográfico seriado continua sendo necessário durante todo o tratamento com trocas de gesso.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-064",
+   "tema": "Hastes de crescimento (growing rods) - complicações",
+   "enunciado": "Criança de 5 anos com escoliose de início precoce sindrômica, curva de 65°, já tratada sem sucesso com gessos seriados, é submetida a implante de hastes de crescimento duplas com alongamentos programados. Qual das complicações abaixo é mais frequentemente relatada ao longo do tratamento prolongado com hastes de crescimento tradicionais (não magnéticas)?",
+   "alternativas": [
+    "Ruptura ou falha mecânica das hastes/conexões, exigindo revisões cirúrgicas repetidas",
+    "Ausência completa de crescimento do tronco durante todo o período de tratamento",
+    "Paralisia cerebral secundária ao procedimento em praticamente todos os casos",
+    "Formação obrigatória de barra óssea espontânea que dispensa alongamentos futuros"
+   ],
+   "correta": 0,
+   "comentario": "As complicações mecânicas — quebra de hastes, soltura de parafusos/ganchos e falha das conexões — são as mais comuns no tratamento com hastes de crescimento, devido ao grande número de alongamentos e ao estresse cíclico sobre o implante ao longo de anos de tratamento, frequentemente exigindo cirurgias de revisão. O tratamento com hastes de crescimento visa justamente permitir o crescimento do tronco e da caixa torácica enquanto controla a curva, ao contrário do afirmado na alternativa B. A alternativa C é falsa e não corresponde a uma complicação descrita. Existe o chamado 'efeito lei do rendimento decrescente', que se refere à perda progressiva de ganho de comprimento a cada alongamento, mas não há formação obrigatória de barra óssea que dispense alongamentos - pelo contrário, a fusão espontânea prematura é uma complicação indesejada que compromete o crescimento residual.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-065",
+   "tema": "Classificação de McMaster para hemivértebras",
+   "enunciado": "Em relação à classificação das hemivértebras quanto ao potencial de crescimento, assinale a alternativa correta:",
+   "alternativas": [
+    "Hemivértebras incarceradas apresentam alto potencial de progressão por manterem discos funcionais em ambos os lados",
+    "Hemivértebras totalmente segmentadas, com disco de crescimento próprio em ambos os polos (cranial e caudal), apresentam maior potencial de progressão da curva do que as hemivértebras não segmentadas",
+    "Hemivértebras não segmentadas, fundidas às vértebras adjacentes, apresentam o maior risco de progressão entre todos os subtipos",
+    "O grau de segmentação da hemivértebra não influencia o comportamento evolutivo da escoliose congênita"
+   ],
+   "correta": 1,
+   "comentario": "As hemivértebras são classificadas conforme o grau de segmentação em: totalmente segmentadas (disco de crescimento normal acima e abaixo, maior potencial de crescimento assimétrico e progressão), semissegmentadas (fusão em um dos polos), incarceradas (bem alinhada dentro do espaço vertebral, com menor impacto na curva global) e não segmentadas (fundida às vértebras vizinhas, com potencial de crescimento mínimo). Quanto mais discos de crescimento ativos a hemivértebra possuir, maior o potencial de progressão, tornando as totalmente segmentadas as de maior risco e as não segmentadas as de menor risco - o oposto do afirmado na alternativa C. A alternativa A está incorreta porque hemivértebras incarceradas tendem a causar menor desequilíbrio, já que se acomodam dentro do contorno da coluna.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-066",
+   "tema": "Investigação associada na escoliose congênita",
+   "enunciado": "Recém-nascida é diagnosticada com escoliose congênita por hemivértebra torácica em radiografia de rotina. Antes de definir a conduta ortopédica, a investigação complementar inicial obrigatória deve incluir avaliação para malformações associadas, notadamente:",
+   "alternativas": [
+    "Apenas radiografia de bacia, pois anomalias vertebrais congênitas não se associam a outras malformações",
+    "Ultrassonografia renal e ecocardiograma, além de ressonância magnética da coluna para rastrear anomalias intrarraquianas como medula presa e diastematomielia",
+    "Apenas eletroneuromiografia de membros inferiores, dispensando exames de imagem abdominal ou cardíaca",
+    "Densitometria óssea, exame considerado padrão-ouro para investigação etiológica da hemivértebra"
+   ],
+   "correta": 1,
+   "comentario": "Anomalias congênitas da coluna se originam entre a quarta e sexta semanas de gestação, período que coincide com a organogênese de outros sistemas, havendo associação frequente com malformações renais, cardíacas e intrarraquianas (medula presa, diastematomielia, siringomielia), além de associação com síndromes como VACTERL. Por isso, a investigação inicial deve incluir ultrassonografia renal, ecocardiograma e ressonância magnética de toda a coluna. A alternativa A está incorreta pois a associação com outras malformações é bem documentada e clinicamente relevante. A eletroneuromiografia e a densitometria óssea não fazem parte da investigação inicial padrão para rastreio de malformações associadas.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-067",
+   "tema": "Critérios radiográficos de Sorensen",
+   "enunciado": "Adolescente de 15 anos, sexo masculino, é avaliado por deformidade torácica em 'corcunda' progressiva, sem dor significativa. Radiografia em perfil mostra cifose torácica de 58° e cunhificação de corpos vertebrais em nível médio-torácico. Segundo os critérios clássicos de Sorensen para diagnóstico de cifose de Scheuermann, é necessário demonstrar:",
+   "alternativas": [
+    "Cunhificação vertebral de pelo menos 5 graus em três ou mais vértebras adjacentes",
+    "Presença isolada de nódulos de Schmorl em uma única vértebra, independentemente do grau de cunhificação",
+    "Cifose torácica maior que 40 graus em qualquer paciente, independente da morfologia vertebral",
+    "Escoliose associada maior que 20 graus, considerada critério obrigatório para o diagnóstico"
+   ],
+   "correta": 0,
+   "comentario": "O critério radiográfico clássico de Sorensen para o diagnóstico de doença de Scheuermann exige cunhificação anterior de pelo menos 5 graus em três ou mais vértebras adjacentes, tipicamente na região torácica média a baixa, associada a irregularidade das placas terminais e estreitamento discal. A presença isolada de nódulos de Schmorl, sem a cunhificação em três vértebras contíguas, não fecha o diagnóstico. A cifose torácica aumentada isoladamente, sem a cunhificação característica, caracteriza apenas hipercifose postural, e não Scheuermann. Escoliose leve pode acompanhar o quadro, mas não é critério diagnóstico obrigatório.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-068",
+   "tema": "Diagnóstico diferencial com postura cifótica",
+   "enunciado": "Dois adolescentes de 14 anos são avaliados por hipercifose torácica. No primeiro, a cifose se corrige completamente ao exame de hiperextensão em decúbito ventral e não há cunhificação vertebral nas radiografias. No segundo, a cifose permanece rígida na hiperextensão e há cunhificação de 8°, 7° e 6° em três vértebras torácicas adjacentes. A principal característica que diferencia a cifose postural da doença de Scheuermann é:",
+   "alternativas": [
+    "A idade de início, já que a cifose postural só ocorre em crianças menores de 5 anos",
+    "A flexibilidade da curva: a cifose postural corrige-se ao exame de hiperextensão e não apresenta alterações estruturais vertebrais, enquanto a de Scheuermann é rígida e estruturada, com cunhificação vertebral",
+    "A presença de dor lombar, que ocorre exclusivamente na cifose postural",
+    "O sexo do paciente, já que a cifose postural acomete exclusivamente meninas"
+   ],
+   "correta": 1,
+   "comentario": "A cifose postural é uma deformidade flexível, que se corrige voluntariamente ou ao exame de hiperextensão, sem alterações estruturais nos corpos vertebrais nas radiografias. Já a cifose de Scheuermann é uma deformidade estruturada e rígida, que não se corrige à hiperextensão, com cunhificação vertebral (critério de Sorensen), irregularidade de placas terminais e nódulos de Schmorl. As demais alternativas trazem associações incorretas: não há restrição etária estrita, a dor pode ocorrer em ambas as condições e não há predileção de sexo exclusiva para a forma postural.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-069",
+   "tema": "Tratamento conservador (colete) na cifose de Scheuermann",
+   "enunciado": "Menino de 13 anos, com maturidade esquelética ainda incompleta (Risser 1), apresenta cifose torácica de Scheuermann de 60°, sem dor significativa e sem déficit neurológico. Radiografias confirmam cunhificação vertebral compatível com os critérios de Sorensen. Qual é a conduta mais apropriada nesse momento?",
+   "alternativas": [
+    "Indicação cirúrgica imediata de artrodese posterior, já que curvas acima de 50° sempre exigem correção cirúrgica",
+    "Tratamento com órtese (colete tipo Milwaukee ou similar), reservado para pacientes esqueleticamente imaturos com curvas moderadas a grandes, com o objetivo de deter a progressão durante o crescimento residual",
+    "Observação isolada sem qualquer intervenção, já que a cifose de Scheuermann nunca progride",
+    "Fisioterapia isolada com alongamento, comprovadamente capaz de reverter a cunhificação vertebral estabelecida"
+   ],
+   "correta": 1,
+   "comentario": "Em pacientes esqueleticamente imaturos com curvas moderadas a grandes (geralmente entre 50° e 70-80°), o tratamento conservador com órtese (classicamente o colete de Milwaukee, hiperextensor) está indicado, aproveitando o crescimento residual para tentar deter a progressão e, eventualmente, obter alguma correção. A cirurgia não é a primeira escolha nesse cenário, sendo reservada para curvas muito graves, refratárias ou sintomáticas, especialmente após o esgotamento do crescimento. A cifose de Scheuermann pode progredir, principalmente durante o estirão de crescimento, o que torna a observação isolada inadequada em curvas dessa magnitude. A fisioterapia tem papel coadjuvante em sintomas e postura, mas não reverte a cunhificação óssea já estabelecida.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-070",
+   "tema": "Indicações cirúrgicas na cifose de Scheuermann",
+   "enunciado": "Paciente de 17 anos, com maturidade esquelética completa (Risser 5), apresenta cifose torácica de Scheuermann de 85°, dor torácica moderada refratária a tratamento conservador prolongado e preocupação estética importante, procurando avaliação para tratamento definitivo. Considerando as indicações cirúrgicas clássicas para cifose de Scheuermann, é correto afirmar que:",
+   "alternativas": [
+    "A cirurgia está contraindicada em pacientes com maturidade esquelética completa, sendo reservada exclusivamente para crianças em crescimento",
+    "Curvas acima de 75-80°, especialmente quando associadas a dor refratária ao tratamento conservador e/ou deformidade estética significativa, são indicação clássica de tratamento cirúrgico (artrodese posterior instrumentada, com ou sem liberação anterior)",
+    "O único critério válido para indicação cirúrgica é a presença de déficit neurológico, sendo a dor e a estética irrelevantes na decisão",
+    "Todas as curvas de Scheuermann acima de 40° devem ser operadas, independentemente de sintomas"
+   ],
+   "correta": 1,
+   "comentario": "As indicações cirúrgicas clássicas para cifose de Scheuermann incluem curvas geralmente acima de 75-80°, dor torácica ou lombar refratária ao tratamento conservador adequado, deformidade estética inaceitável para o paciente e, mais raramente, déficit neurológico. A cirurgia pode ser realizada em pacientes com maturidade esquelética completa, sendo inclusive mais comum nessa fase quando o tratamento conservador já não é mais eficaz. Déficit neurológico é uma indicação importante, mas não a única, tornando a alternativa C incorreta. Curvas moderadas ao redor de 40-50° geralmente são acompanhadas ou tratadas conservadoramente, não sendo indicação cirúrgica isolada.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "dificil"
+  },
+  {
+   "id": "COL-071",
+   "tema": "Achados radiográficos na cifose de Scheuermann",
+   "enunciado": "Além da cunhificação vertebral maior ou igual a 5° em três vértebras adjacentes, quais outros achados radiográficos são classicamente descritos na cifose de Scheuermann?",
+   "alternativas": [
+    "Nódulos de Schmorl, irregularidade das placas terminais vertebrais e estreitamento dos espaços discais",
+    "Fratura por avulsão do processo espinhoso e alargamento do canal medular",
+    "Erosão isolada dos pedículos com aumento da distância interpedicular",
+    "Ossificação completa e precoce de todos os núcleos de crescimento vertebrais, sem qualquer irregularidade"
+   ],
+   "correta": 0,
+   "comentario": "Os achados radiográficos clássicos da cifose de Scheuermann, além da cunhificação vertebral, incluem os nódulos de Schmorl (herniações do núcleo pulposo através das placas terminais cartilaginosas enfraquecidas), irregularidade e ondulação das placas terminais vertebrais e estreitamento dos espaços discais nos níveis acometidos. Fratura por avulsão e alargamento do canal medular não são achados típicos dessa condição. Erosão de pedículos com aumento da distância interpedicular é um sinal clássico de lesões expansivas intrarraquianas, não de Scheuermann. A ossificação precoce e regular dos núcleos de crescimento é o oposto do que se observa, já que há irregularidade nas placas terminais.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-072",
+   "tema": "Scheuermann de localização toracolombar/lombar",
+   "enunciado": "Adolescente atleta de 16 anos, praticante de ginástica, apresenta dor lombar mecânica persistente, sem deformidade cifótica visível ao exame clínico. Radiografia de coluna lombar em perfil mostra cunhificação vertebral discreta e irregularidade de placas terminais em nível toracolombar. Em relação à variante toracolombar (ou lombar) da doença de Scheuermann, é correto afirmar que:",
+   "alternativas": [
+    "Cursa tipicamente com deformidade cifótica exuberante e visível, sendo a dor um achado raro e tardio",
+    "Costuma se apresentar predominantemente com dor mecânica, muitas vezes em atletas, com deformidade cifótica menos evidente do que na forma torácica clássica",
+    "É exclusiva de pacientes acima de 40 anos, não ocorrendo em adolescentes",
+    "Está sempre associada a escoliose estrutural maior que 45 graus, sendo esse achado obrigatório para o diagnóstico"
+   ],
+   "correta": 1,
+   "comentario": "A forma toracolombar (ou lombar) da doença de Scheuermann, mais comum em atletas submetidos a cargas axiais repetitivas (como ginastas e halterofilistas), tende a se manifestar predominantemente com dor mecânica lombar ou toracolombar, muitas vezes sem a deformidade cifótica exuberante característica da forma torácica clássica, já que a lordose lombar fisiológica tende a mascarar a cunhificação vertebral. A alternativa A inverte o quadro clínico esperado. Essa forma ocorre tipicamente em adolescentes e adultos jovens, não sendo exclusiva de faixas etárias avançadas. A escoliose associada não é um critério obrigatório nem está sempre presente nessa variante.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-073",
+   "tema": "Classificação AO Spine toracolombar - tipo A",
+   "enunciado": "Paciente vítima de queda de altura apresenta fratura vertebral toracolombar caracterizada por perda de altura do corpo vertebral por mecanismo em compressão, sem acometimento do complexo ligamentar posterior nem do arco neural posterior, e sem comprometimento neurológico. Segundo a classificação AO Spine para a coluna toracolombar, essa lesão é classificada como tipo:",
+   "alternativas": [
+    "Tipo A - lesões por compressão do corpo vertebral",
+    "Tipo B - lesões da banda de tensão (tension band)",
+    "Tipo C - lesões por translação/deslocamento",
+    "Tipo D, categoria não existente na classificação AO Spine toracolombar"
+   ],
+   "correta": 0,
+   "comentario": "A classificação AO Spine para a coluna toracolombar divide as lesões em três tipos principais conforme o mecanismo: tipo A (lesões por compressão do corpo vertebral, subdivididas em A0 a A4 conforme a gravidade), tipo B (lesões da banda de tensão, envolvendo estruturas ósseas e/ou ligamentares posteriores, com falha em distração) e tipo C (lesões com translação/deslocamento em qualquer plano, mais instáveis). O caso descrito, com compressão isolada do corpo vertebral sem lesão do complexo ligamentar posterior, é uma lesão tipo A. Não existe tipo D nessa classificação.",
+   "referencia": "Rockwood and Green's",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-074",
+   "tema": "Subtipos da lesão tipo A (AO Spine)",
+   "enunciado": "Em relação aos subtipos da lesão tipo A na classificação AO Spine para a coluna toracolombar, assinale a alternativa correta:",
+   "alternativas": [
+    "A4 corresponde a uma fratura por compressão leve, sem acometimento do muro posterior, sendo a lesão mais estável do grupo A",
+    "A3 corresponde à fratura em explosão incompleta (acometimento de apenas um platô vertebral, com comprometimento do muro posterior), enquanto A4 corresponde à fratura em explosão completa (acometimento dos dois platôs vertebrais)",
+    "A1 corresponde exclusivamente a fraturas com comprometimento neurológico completo, independentemente da morfologia óssea",
+    "A2 é sinônimo de fratura-luxação, sendo equivalente às lesões do tipo C"
+   ],
+   "correta": 1,
+   "comentario": "Na subdivisão do tipo A, A0 representa lesões menores sem repercussão estrutural, A1 é a fratura por compressão simples de um único platô sem acometimento do muro posterior, A2 é a fratura por 'split' (fenda) envolvendo os dois platôs mas sem retropulsão relevante do muro posterior, A3 é a fratura em explosão incompleta, com acometimento de apenas um platô associado a comprometimento do muro posterior, e A4 é a fratura em explosão completa, com acometimento de ambos os platôs vertebrais e do muro posterior, sendo a lesão mais grave do grupo A. A alternativa B descreve corretamente a diferença entre A3 e A4. A1 não se define por status neurológico, e A2 não é sinônimo de fratura-luxação, que é uma lesão tipo C.",
+   "referencia": "Rockwood and Green's",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-075",
+   "tema": "Lesões tipo B e tipo C (AO Spine)",
+   "enunciado": "Paciente vítima de acidente automobilístico apresenta na tomografia de coluna toracolombar deslocamento vertebral em translação no plano sagital, com perda completa do alinhamento entre dois corpos vertebrais adjacentes, associado a déficit neurológico completo. Essa lesão deve ser classificada, segundo a AO Spine, como:",
+   "alternativas": [
+    "Tipo A4, por se tratar de fratura em explosão completa",
+    "Tipo B2, por representar lesão da banda de tensão posterior com componente ósseo predominante",
+    "Tipo C, categoria reservada para lesões com translação/deslocamento em qualquer plano, consideradas as mais instáveis da classificação",
+    "Tipo A0, por não haver alteração relevante da morfologia do corpo vertebral"
+   ],
+   "correta": 2,
+   "comentario": "As lesões tipo C na classificação AO Spine toracolombar são definidas pela presença de translação ou deslocamento franco entre segmentos vertebrais adjacentes, em qualquer plano, representando o grau mais alto de instabilidade mecânica da classificação, frequentemente associadas a lesão completa dos elementos neurais. O caso descrito, com deslocamento franco e déficit neurológico completo, não se encaixa nas categorias A (compressão pura do corpo vertebral) nem B (lesões predominantemente de banda de tensão sem translação franca), devendo ser classificado como tipo C. As alternativas A0 e A4 descrevem lesões do tipo compressivo, incompatíveis com o mecanismo de translação/deslocamento descrito.",
+   "referencia": "Rockwood and Green's",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-076",
+   "tema": "TLICS - morfologia da fratura",
+   "enunciado": "No escore TLICS (Thoracolumbar Injury Classification and Severity Score), a morfologia da fratura é um dos três componentes avaliados, sendo pontuada conforme o padrão lesional. Qual das afirmações abaixo está correta em relação à pontuação da morfologia no TLICS?",
+   "alternativas": [
+    "Fraturas por compressão recebem a maior pontuação de morfologia, superior às fraturas por translação/rotação",
+    "Fraturas em explosão recebem pontuação de morfologia igual a zero, por serem consideradas estáveis",
+    "Lesões por translação/rotação recebem a maior pontuação entre os padrões morfológicos, refletindo maior instabilidade mecânica, seguidas pelas lesões por distração e, por fim, pelas fraturas por compressão/explosão, que recebem a menor pontuação",
+    "A morfologia não influencia a pontuação final do TLICS, sendo relevante apenas o status neurológico"
+   ],
+   "correta": 2,
+   "comentario": "No escore TLICS, a morfologia da fratura é pontuada de forma crescente conforme a gravidade do mecanismo: fratura por compressão recebe 1 ponto (com um ponto adicional se for uma explosão/burst, totalizando 2 pontos), lesão por distração recebe 3 pontos, e lesão por rotação/translação recebe 4 pontos, refletindo o entendimento de que lesões com componente rotacional/translacional são mecanicamente mais instáveis do que as puramente compressivas. A afirmação de que fraturas por compressão recebem a maior pontuação está invertida, assim como a ideia de que fraturas em explosão pontuam zero. A morfologia é um dos três pilares do escore, junto com integridade do complexo ligamentar posterior e status neurológico, portanto influencia diretamente a pontuação final.",
+   "referencia": "Rockwood and Green's",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-077",
+   "tema": "TLICS - complexo ligamentar posterior",
+   "enunciado": "Paciente com fratura toracolombar é submetido a ressonância magnética que evidencia edema e provável ruptura do ligamento supraespinhoso, ligamento amarelo e cápsulas articulares facetárias no nível da lesão, achados sugestivos de lesão do complexo ligamentar posterior (CLP). No escore TLICS, a integridade do complexo ligamentar posterior é classificada em três categorias. Nesse caso, com lesão claramente identificada na ressonância, a pontuação correspondente é de:",
+   "alternativas": [
+    "0 ponto, categoria 'íntegro'",
+    "2 pontos, categoria 'indeterminado' (suspeito, mas sem confirmação clara)",
+    "3 pontos, categoria 'lesado' (ruptura confirmada por exame de imagem ou achados intraoperatórios)",
+    "4 pontos, pontuação máxima reservada exclusivamente para lesões com déficit neurológico completo associado"
+   ],
+   "correta": 2,
+   "comentario": "No TLICS, a integridade do complexo ligamentar posterior é pontuada como: íntegro (0 ponto), indeterminado/suspeito (2 pontos, quando há achados equívocos sem confirmação clara na ressonância) e lesado/rompido (3 pontos, quando há confirmação da ruptura por ressonância magnética ou achados intraoperatórios, como diástase facetária franca ou luxação facetária). O caso descrito, com ruptura ligamentar claramente identificada na ressonância, corresponde à categoria 'lesado', pontuando 3 pontos. Não existe categoria de 4 pontos para o CLP no TLICS; a pontuação máxima desse componente é 3.",
+   "referencia": "Rockwood and Green's",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-078",
+   "tema": "TLICS - status neurológico",
+   "enunciado": "Paciente vítima de trauma raqui-medular apresenta síndrome do cone medular incompleta, com preservação parcial de função motora e sensitiva abaixo do nível da lesão. Em relação à pontuação do status neurológico no escore TLICS para esse tipo de apresentação, é correto afirmar que:",
+   "alternativas": [
+    "Lesões da cauda equina são pontuadas da mesma forma que lesões medulares completas, recebendo 2 pontos",
+    "Lesões incompletas da medula espinhal, incluindo síndrome do cone medular incompleta, recebem a maior pontuação entre as categorias neurológicas (3 pontos), refletindo a importância de preservar função residual e a maior urgência de descompressão",
+    "Pacientes neurologicamente intactos recebem a mesma pontuação que pacientes com lesão completa da medula",
+    "O status neurológico não é um componente avaliado no escore TLICS, sendo exclusivo de outras classificações"
+   ],
+   "correta": 1,
+   "comentario": "No TLICS, o status neurológico é pontuado como: intacto (0 ponto), lesão radicular (2 pontos), lesão medular ou do cone medular completa (2 pontos), lesão medular ou do cone medular incompleta (3 pontos) e lesão da cauda equina (3 pontos). As lesões incompletas e as lesões de cauda equina recebem a maior pontuação justamente porque há maior potencial de recuperação neurológica com tratamento adequado e mais urgência em promover descompressão. Portanto, a alternativa que iguala lesão de cauda equina à lesão medular completa (2 pontos) está incorreta, pois a cauda equina pontua 3, não 2. Pacientes intactos pontuam 0, diferentemente dos com lesão completa (2 pontos), e o status neurológico é sim um dos três componentes centrais do TLICS.",
+   "referencia": "Rockwood and Green's",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-079",
+   "tema": "TLICS - pontuação total e indicação de tratamento",
+   "enunciado": "Paciente com fratura toracolombar por explosão apresenta os seguintes achados: morfologia em explosão (2 pontos), complexo ligamentar posterior indeterminado (2 pontos) e status neurológico intacto (0 ponto), totalizando 4 pontos no escore TLICS. Considerando as faixas de pontuação classicamente utilizadas para orientar a conduta, essa pontuação total situa o paciente em qual categoria de manejo?",
+   "alternativas": [
+    "Pontuação ≤3: tratamento conservador é fortemente recomendado, sem exceções",
+    "Pontuação = 4: zona indeterminada, em que tanto o tratamento conservador quanto o cirúrgico podem ser considerados, cabendo a decisão ao julgamento clínico individualizado",
+    "Pontuação ≥5: tratamento cirúrgico é a única opção considerada segura, independentemente de outros fatores clínicos",
+    "A pontuação total do TLICS não influencia a decisão terapêutica, servindo apenas para fins de pesquisa epidemiológica"
+   ],
+   "correta": 1,
+   "comentario": "O escore TLICS orienta a decisão terapêutica em três faixas: pontuação total de até 3 pontos sugere tratamento conservador; pontuação igual a 4 pontos é considerada zona indeterminada, em que a decisão entre tratamento conservador e cirúrgico deve ser individualizada, considerando fatores clínicos, morfológicos e a experiência do cirurgião; e pontuação igual ou maior que 5 pontos sugere tratamento cirúrgico. No caso descrito, a soma de 2+2+0 = 4 pontos coloca o paciente exatamente nessa zona indeterminada, tornando a alternativa B a correta. As alternativas A e C descrevem as faixas de forma absoluta ('sem exceções', 'única opção segura'), o que não reflete a proposta do escore, que é auxiliar, não substituir, o julgamento clínico.",
+   "referencia": "Rockwood and Green's",
+   "dificuldade": "dificil"
+  },
+  {
+   "id": "COL-080",
+   "tema": "Manejo de fratura por explosão (burst fracture) sem déficit neurológico",
+   "enunciado": "Paciente de 28 anos sofre queda de moto e apresenta fratura em explosão de L1, com cifose local de 15°, redução de altura do corpo vertebral de aproximadamente 40%, retropulsão de fragmento ósseo ocupando 30% do canal vertebral, sem déficit neurológico ao exame físico e sem evidência de lesão do complexo ligamentar posterior na ressonância magnética. Qual a conduta mais apropriada?",
+   "alternativas": [
+    "Tratamento cirúrgico de urgência com laminectomia isolada, indicada em toda fratura por explosão com ocupação de canal acima de 25%, independentemente do exame neurológico",
+    "Tratamento conservador com órtese toracolombossacra e mobilização precoce, já que o paciente está neurologicamente intacto, o complexo ligamentar posterior está íntegro e os parâmetros morfológicos não indicam instabilidade grave isolada",
+    "Amputação de emergência, medida sem qualquer relação com o quadro descrito",
+    "Artrodese circunferencial obrigatória (via anterior e posterior combinadas) em toda fratura por explosão, independentemente da integridade neurológica ou ligamentar"
+   ],
+   "correta": 1,
+   "comentario": "Fraturas por explosão toracolombares em pacientes neurologicamente intactos, com complexo ligamentar posterior íntegro e sem instabilidade mecânica grave, podem ser tratadas de forma conservadora, com órtese toracolombossacra e mobilização precoce, com bons resultados funcionais a longo prazo, conforme demonstrado em estudos comparativos com tratamento cirúrgico. A retropulsão isolada de fragmento no canal, sem déficit neurológico correspondente, não é indicação isolada de descompressão cirúrgica. A laminectomia isolada, além de não ser a conduta inicial nesse cenário, pode inclusive desestabilizar ainda mais a coluna ao remover elementos posteriores sem estabilização associada. Artrodese circunferencial obrigatória para toda fratura em explosão, independentemente dos demais achados, não corresponde à prática baseada em evidências, que individualiza a conduta conforme estabilidade mecânica e neurológica.",
+   "referencia": "Rockwood and Green's",
+   "dificuldade": "dificil"
+  },
+  {
+   "id": "COL-081",
+   "tema": "Classificação SLIC para trauma cervical subaxial",
+   "enunciado": "Sobre o sistema de classificação SLIC (Subaxial Injury Classification) para lesões traumáticas da coluna cervical subaxial (C3-C7), assinale a alternativa correta.",
+   "alternativas": [
+    "O sistema avalia três domínios independentes — morfologia da lesão óssea, integridade do complexo discoligamentar e status neurológico — sendo a soma dos escores igual ou superior a 5 pontos indicativa de tratamento cirúrgico, enquanto escores iguais ou inferiores a 3 favorecem o tratamento conservador.",
+    "O sistema baseia-se exclusivamente no grau de listese vertebral mensurado em radiografias dinâmicas de flexo-extensão, sem considerar ressonância magnética ou exame neurológico.",
+    "O sistema SLIC é aplicável apenas às lesões da transição occipitocervical, incluindo fraturas de C1 e do processo odontoide.",
+    "Escores totais entre 1 e 3 pontos indicam obrigatoriamente tratamento cirúrgico com artrodese instrumentada posterior."
+   ],
+   "correta": 0,
+   "comentario": "O SLIC soma pontos de três domínios: morfologia (0 a 4, sendo rotação/translação o maior valor), complexo discoligamentar (0, 1 ou 2) e status neurológico (0 a 4, com acréscimo de 1 ponto se houver compressão medular contínua associada a déficit). Escore total ≤3 sugere tratamento conservador, escore 4 é considerado indeterminado (decisão individualizada) e escore ≥5 sugere tratamento cirúrgico. A alternativa B está errada por restringir a avaliação a um único critério radiográfico, ignorando os demais domínios. A alternativa C é falsa pois o SLIC é destinado à coluna subaxial, não à junção craniocervical. A alternativa D inverte a lógica do escore, já que valores baixos favorecem conduta não cirúrgica.",
+   "referencia": "Rockwood and Green's",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-082",
+   "tema": "Classificação de Anderson e D'Alonzo para fraturas do odontoide",
+   "enunciado": "Mulher de 78 anos sofre queda da própria altura e evolui com cervicalgia alta, sem déficit neurológico. A tomografia computadorizada evidencia traço de fratura na base do processo odontoide, na transição com o corpo de C2, sem extensão ao corpo vertebral propriamente dito. Segundo a classificação de Anderson e D'Alonzo, essa lesão é classificada como:",
+   "alternativas": [
+    "Tipo I",
+    "Tipo II",
+    "Tipo III",
+    "Tipo IV"
+   ],
+   "correta": 1,
+   "comentario": "A fratura tipo II acomete a base (istmo/cintura) do processo odontoide, na junção com o corpo de C2, sendo o tipo mais comum e o de maior risco de pseudoartrose devido à vascularização precária dessa região. O tipo I corresponde a uma fratura oblíqua avulsiva na ponta do odontoide, geralmente estável. O tipo III estende-se ao corpo esponjoso de C2, envolvendo as facetas articulares superiores, com melhor potencial de consolidação por maior superfície óssea vascularizada. Não existe tipo IV na classificação original de Anderson e D'Alonzo, o que torna essa opção incorreta.",
+   "referencia": "Rockwood and Green's",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-083",
+   "tema": "Escala ASIA de lesão medular",
+   "enunciado": "Vítima de acidente automobilístico com trauma cervical é avaliada no serviço de emergência. Ao exame, não há qualquer função motora ou sensitiva preservada abaixo do nível da lesão, incluindo ausência de contração voluntária do esfíncter anal e ausência de sensibilidade profunda anal e perianal (segmentos sacrais S4-S5). De acordo com a escala ASIA (American Spinal Injury Association), esse quadro corresponde a:",
+   "alternativas": [
+    "ASIA A",
+    "ASIA B",
+    "ASIA C",
+    "ASIA D"
+   ],
+   "correta": 0,
+   "comentario": "ASIA A define lesão neurológica completa, caracterizada pela ausência de função motora e sensitiva nos segmentos sacrais mais baixos (S4-S5), incluindo sensibilidade profunda anal e contração voluntária do esfíncter anal. ASIA B indica lesão incompleta com preservação apenas sensitiva (incluindo S4-S5), sem função motora abaixo do nível neurológico. ASIA C e D descrevem lesões incompletas com função motora preservada abaixo do nível, diferenciadas pela proporção de músculos-chave com força ≥3: menos da metade em C, metade ou mais em D. Como o caso descreve ausência completa de função sacral, a classificação correta é ASIA A.",
+   "referencia": "Rockwood and Green's",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-084",
+   "tema": "Choque medular versus choque neurogênico",
+   "enunciado": "Sobre as diferenças fisiopatológicas e hemodinâmicas entre choque medular (spinal shock) e choque neurogênico em pacientes vítimas de trauma raquimedular, assinale a alternativa correta.",
+   "alternativas": [
+    "O choque medular caracteriza-se pela perda temporária da função reflexa medular abaixo do nível da lesão, cursando com arreflexia e flacidez; já o choque neurogênico decorre da interrupção do tônus simpático descendente, resultando tipicamente em hipotensão associada a bradicardia por predomínio vagal não contraposto.",
+    "Choque medular e choque neurogênico são termos sinônimos que descrevem exclusivamente a queda da pressão arterial secundária à perda do tônus vascular simpático.",
+    "O choque neurogênico cursa tipicamente com taquicardia reflexa acentuada e extremidades frias e pegajosas, sendo indistinguível clinicamente do choque hipovolêmico.",
+    "O choque medular é definido pela presença de hipotensão e bradicardia associadas, sendo revertido apenas com reposição volêmica agressiva, sem qualquer relação com os reflexos medulares."
+   ],
+   "correta": 0,
+   "comentario": "O choque medular é um fenômeno neurofisiológico de arreflexia e flacidez transitórias abaixo do nível da lesão medular, sem necessariamente causar instabilidade hemodinâmica; sua resolução é sinalizada classicamente pelo retorno do reflexo bulbocavernoso. O choque neurogênico, por sua vez, é uma forma de choque distributivo decorrente da perda do tônus simpático em lesões medulares altas (geralmente acima de T6), causando vasodilatação periférica com hipotensão e bradicardia (por ação vagal sem oposição simpática) — um padrão hemodinâmico que contrasta com o choque hipovolêmico, no qual se espera taquicardia e vasoconstrição periférica. Por isso, as alternativas B, C e D descrevem incorretamente os mecanismos e a apresentação clínica dessas duas entidades distintas, embora frequentemente coexistentes no mesmo paciente.",
+   "referencia": "Rockwood and Green's",
+   "dificuldade": "dificil"
+  },
+  {
+   "id": "COL-085",
+   "tema": "Componentes de pontuação do complexo discoligamentar no SLIC",
+   "enunciado": "No sistema SLIC, a integridade do complexo discoligamentar (CDL) é avaliada com base em achados como alargamento do espaço interespinhoso, listese translacional e sinal de ruptura ligamentar em sequências de ressonância magnética ponderadas em T2 com saturação de gordura. Assinale a alternativa correta sobre essa pontuação.",
+   "alternativas": [
+    "O CDL íntegro recebe 0 pontos, o indeterminado recebe 1 ponto e o lesado recebe 2 pontos — o escore máximo desse domínio, que é inferior ao máximo do domínio morfológico, o qual chega a 4 pontos nas lesões por rotação/translação.",
+    "O CDL lesado recebe pontuação máxima de 4 pontos, equivalente à de uma lesão neurológica completa no mesmo sistema de escore.",
+    "A integridade do complexo discoligamentar não interfere na indicação cirúrgica do SLIC, sendo relevante apenas o grau de compressão absoluta do canal vertebral.",
+    "A avaliação do CDL é realizada exclusivamente por radiografia simples em incidência anteroposterior, sem necessidade de ressonância magnética."
+   ],
+   "correta": 0,
+   "comentario": "No domínio do complexo discoligamentar do SLIC, a pontuação vai de 0 (íntegro) a 2 (lesado/roto), passando por 1 ponto quando o status é indeterminado — por exemplo, quando há apenas edema no ligamento interespinhoso sem sinais francos de ruptura. Esse valor máximo de 2 pontos é inferior ao máximo do domínio morfológico (4 pontos, atribuído a lesões por rotação/translação), o que reflete pesos diferentes entre os domínios do sistema. A ressonância magnética é o exame de escolha para avaliar esse complexo, tornando as alternativas B, C e D incorretas por atribuírem pontuações equivocadas, negarem a relevância do CDL na decisão terapêutica ou restringirem a avaliação a um método de imagem inadequado.",
+   "referencia": "Rockwood and Green's",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-086",
+   "tema": "Manejo da fratura tipo II do odontoide no paciente idoso",
+   "enunciado": "Homem de 82 anos sofre queda e apresenta fratura tipo II do odontoide (Anderson-D'Alonzo), sem déficit neurológico, porém com múltiplas comorbidades cardiopulmonares que conferem alto risco cirúrgico e anestésico. Sobre o manejo dessa fratura no paciente idoso, assinale a alternativa correta.",
+   "alternativas": [
+    "O halo-colete deve ser evitado como método isolado de imobilização em idosos, por associar-se a maior morbimortalidade (broncoaspiração, insuficiência respiratória); em pacientes de alto risco cirúrgico, prefere-se órtese cervical rígida, aceitando-se maior chance de pseudoartrose fibrosa estável, enquanto a fixação cirúrgica é considerada nos pacientes com risco operatório aceitável, dado o elevado índice de pseudoartrose com tratamento não cirúrgico isolado nessa faixa etária.",
+    "O halo-colete é o tratamento de escolha em todos os idosos com fratura tipo II, independentemente das comorbidades, por apresentar menor morbimortalidade que qualquer opção cirúrgica nessa faixa etária.",
+    "Fraturas tipo II no idoso devem ser sempre tratadas com colar cervical macio isolado, pois a taxa de consolidação óssea nessa faixa etária é semelhante à observada em pacientes jovens.",
+    "A indicação cirúrgica está formalmente contraindicada em pacientes acima de 70 anos, devendo-se optar sempre por tratamento não operatório, independentemente do risco de pseudoartrose."
+   ],
+   "correta": 0,
+   "comentario": "Fraturas tipo II do odontoide em idosos têm alta taxa de pseudoartrose com tratamento não cirúrgico, e o halo-colete nessa população está associado a aumento significativo de morbimortalidade respiratória, sendo geralmente evitado como imobilização isolada. Em pacientes com risco cirúrgico aceitável, a fixação (parafuso interfragmentário anterior ou artrodese C1-C2 posterior) é preferida por reduzir o risco de instabilidade tardia; em pacientes de risco proibitivo, aceita-se órtese rígida com maior tolerância à pseudoartrose fibrosa estável e assintomática. As alternativas B, C e D generalizam condutas de forma incorreta, ignorando a necessidade de individualizar a decisão conforme o risco cirúrgico e o potencial de consolidação.",
+   "referencia": "Rockwood and Green's",
+   "dificuldade": "dificil"
+  },
+  {
+   "id": "COL-087",
+   "tema": "Diagnóstico de fratura osteoporótica aguda versus antiga",
+   "enunciado": "Mulher de 70 anos, com osteoporose diagnosticada previamente, apresenta dor lombar aguda após esforço mínimo. A radiografia mostra fratura por compressão de L1 com redução da altura do corpo vertebral, mas há dúvida quanto a essa fratura ser a causa da dor atual ou um achado radiográfico antigo incidental. Qual exame é mais útil para determinar se a fratura é recente e provavelmente responsável pela dor?",
+   "alternativas": [
+    "Radiografia em incidência oblíqua da coluna lombar",
+    "Ressonância magnética da coluna com sequência STIR",
+    "Densitometria óssea (DEXA) de coluna e fêmur",
+    "Cintilografia óssea com tecnécio-99, isoladamente, sem correlação com outros exames"
+   ],
+   "correta": 1,
+   "comentario": "A sequência STIR na ressonância magnética suprime o sinal de gordura e realça edema de medula óssea, sendo o método mais sensível e específico para identificar fraturas vertebrais agudas/recentes e correlacioná-las com o quadro álgico atual. A radiografia oblíqua não acrescenta informação sobre a cronologia da fratura. A densitometria óssea avalia a densidade mineral óssea e o risco de fratura, mas não diferencia fratura aguda de antiga. A cintilografia óssea pode mostrar hipercaptação em fraturas recentes, mas demora dias a semanas para se tornar positiva e é menos específica que a ressonância, sendo reservada para quando a RM é contraindicada.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-088",
+   "tema": "Tratamento conservador da fratura osteoporótica por compressão",
+   "enunciado": "Paciente com fratura por compressão vertebral osteoporótica estável, sem déficit neurológico e sem instabilidade mecânica, é candidata a tratamento conservador. Assinale a alternativa que descreve corretamente os pilares desse tratamento.",
+   "alternativas": [
+    "Analgesia multimodal, uso de órtese externa por período limitado, mobilização precoce assim que tolerada, tratamento medicamentoso da osteoporose de base (por exemplo, bifosfonatos, teriparatida, cálcio e vitamina D) e fisioterapia voltada ao fortalecimento da musculatura extensora do tronco.",
+    "Repouso absoluto no leito por no mínimo 8 a 12 semanas, evitando qualquer mobilização até a consolidação radiográfica completa.",
+    "Uso isolado de corticoterapia sistêmica em altas doses, sem necessidade de tratamento medicamentoso específico direcionado à osteoporose.",
+    "Colete rígido em hiperextensão por tempo indeterminado, associado à suspensão definitiva da deambulação do paciente."
+   ],
+   "correta": 0,
+   "comentario": "O tratamento conservador padrão combina controle da dor, órtese por tempo limitado (evitando descondicionamento e atrofia muscular), mobilização precoce para reduzir complicações do imobilismo, e tratamento farmacológico da osteoporose para prevenir novas fraturas, além de fisioterapia. Repouso prolongado no leito (alternativa B) aumenta o risco de perda óssea adicional, trombose venosa profunda, pneumonia e descondicionamento. Corticoterapia sistêmica (alternativa C) não tem papel nesse contexto e pode piorar a osteoporose. Imobilização definitiva com suspensão da deambulação (alternativa D) é contraproducente e não corresponde à prática recomendada.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-089",
+   "tema": "Indicações de vertebroplastia e cifoplastia",
+   "enunciado": "Sobre as indicações de vertebroplastia e cifoplastia percutâneas em fraturas por compressão vertebral osteoporótica, assinale a alternativa correta.",
+   "alternativas": [
+    "Ambas as técnicas são indicadas prioritariamente para fraturas dolorosas refratárias ao tratamento conservador adequado (geralmente após 4 a 6 semanas), sendo a cifoplastia diferenciada pelo uso de balão insuflável que busca restaurar parcialmente a altura vertebral antes da injeção do cimento ósseo, com potencial menor risco de extravasamento.",
+    "A vertebroplastia está indicada como primeira linha de tratamento em todas as fraturas vertebrais, inclusive nas assintomáticas, com objetivo de prevenção primária de novas fraturas.",
+    "A cifoplastia é formalmente contraindicada em qualquer paciente com mais de uma fratura vertebral, devendo-se optar exclusivamente por artrodese instrumentada extensa nesses casos.",
+    "Ambas as técnicas dispensam a confirmação de edema ósseo agudo correlacionado ao nível sintomático antes da realização do procedimento."
+   ],
+   "correta": 0,
+   "comentario": "Vertebroplastia e cifoplastia são geralmente reservadas para fraturas dolorosas que não respondem adequadamente a um período razoável de tratamento clínico otimizado, e a decisão de intervir deve se basear na correlação entre o nível fraturado com edema ósseo agudo (visto na RM) e o quadro clínico. A cifoplastia utiliza balão insuflável antes da cimentação, o que pode restaurar parcialmente a altura vertebral e teoricamente reduzir o risco de extravasamento de cimento em comparação à vertebroplastia convencional. As demais alternativas descrevem indicações incorretas: fraturas assintomáticas não são tratadas com cimentação, múltiplas fraturas não contraindicam por si só a cifoplastia, e a correlação clínico-radiológica (incluindo edema ósseo) é fundamental antes de indicar o procedimento.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-090",
+   "tema": "Contraindicações de vertebroplastia/cifoplastia",
+   "enunciado": "Assinale a alternativa que reúne contraindicações relevantes à realização de vertebroplastia/cifoplastia percutânea em paciente com fratura por compressão vertebral osteoporótica.",
+   "alternativas": [
+    "Infecção ativa (espondilodiscite) no nível a ser tratado, coagulopatia não corrigida, retropulsão de fragmento ósseo com compressão neurológica significativa e alergia não controlada aos componentes do cimento ósseo.",
+    "Idade superior a 75 anos, isoladamente, associada ao uso crônico de anti-hipertensivos.",
+    "Fratura vertebral única no nível torácico médio, sem outras comorbidades associadas.",
+    "Osteoporose primária pós-menopausa confirmada por densitometria óssea, isoladamente."
+   ],
+   "correta": 0,
+   "comentario": "Contraindicações clássicas à cimentação vertebral percutânea incluem infecção ativa no nível a ser tratado (risco de disseminação), coagulopatia não corrigida (risco hemorrágico), retropulsão de fragmento ósseo com compressão neurológica (o cimento não trata a compressão e pode agravar o quadro) e alergia aos componentes do cimento. Idade avançada isolada, uso de anti-hipertensivos, fratura torácica única sem comorbidades e osteoporose primária confirmada não são, por si só, contraindicações ao procedimento — pelo contrário, representam o perfil típico de pacientes candidatos à cimentação.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "dificil"
+  },
+  {
+   "id": "COL-091",
+   "tema": "Quadro clínico da espondilodiscite infecciosa",
+   "enunciado": "Homem de 55 anos, diabético, apresenta dor lombar progressiva há seis semanas, associada a febre baixa intermitente, perda de peso e elevação de VHS e PCR. Nega trauma recente. Qual é a hipótese diagnóstica mais provável?",
+   "alternativas": [
+    "Hérnia discal lombar aguda",
+    "Espondilodiscite infecciosa",
+    "Fibromialgia",
+    "Estenose de canal lombar de origem degenerativa"
+   ],
+   "correta": 1,
+   "comentario": "A tríade de dor axial progressiva e insidiosa, febre e elevação de marcadores inflamatórios (VHS e PCR), especialmente em paciente com fator de risco como diabetes mellitus, é altamente sugestiva de espondilodiscite infecciosa, exigindo investigação com ressonância magnética e hemoculturas. Hérnia discal aguda tipicamente não cursa com febre ou elevação persistente de provas inflamatórias. Fibromialgia é um diagnóstico de exclusão que não explica febre e emagrecimento. Estenose de canal degenerativa cursa classicamente com claudicação neurogênica e não com sinais sistêmicos infecciosos.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-092",
+   "tema": "Agentes etiológicos da espondilodiscite piogênica",
+   "enunciado": "Em relação aos agentes etiológicos mais frequentemente envolvidos na espondilodiscite piogênica em adultos imunocompetentes, assinale a alternativa correta.",
+   "alternativas": [
+    "Staphylococcus aureus é o agente mais comumente isolado, seguido por bacilos Gram-negativos (como Escherichia coli) e estreptococos; em populações específicas, como usuários de drogas intravenosas e pacientes com doença falciforme, deve-se considerar respectivamente Pseudomonas aeruginosa e espécies de Salmonella.",
+    "Mycobacterium tuberculosis é o agente etiológico mais comum em qualquer contexto epidemiológico, superando amplamente as bactérias piogênicas mesmo em países de baixa prevalência de tuberculose.",
+    "Fungos do gênero Candida respondem pela maioria absoluta dos casos de espondilodiscite, independentemente do estado imunológico do paciente.",
+    "A espondilodiscite piogênica não guarda relação com bacteremia ou disseminação hematogênica, sendo sempre secundária a procedimento cirúrgico prévio na coluna."
+   ],
+   "correta": 0,
+   "comentario": "Staphylococcus aureus é classicamente o agente mais frequentemente isolado em espondilodiscite piogênica hematogênica em adultos, seguido por bacilos Gram-negativos entéricos e estreptococos; contextos específicos alteram a probabilidade de determinados patógenos, como Pseudomonas em usuários de drogas injetáveis e Salmonella em pacientes com hemoglobinopatias falciformes. Tuberculose é uma causa importante globalmente, sobretudo em áreas endêmicas, mas não supera as bactérias piogênicas como causa mais comum em todos os contextos. Candida é causa rara, restrita a pacientes imunossuprimidos ou usuários de cateteres venosos prolongados. A maioria dos casos piogênicos decorre de disseminação hematogênica a partir de um foco infeccioso à distância, e não exclusivamente de cirurgia prévia.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-093",
+   "tema": "Cifose angular no mal de Pott",
+   "enunciado": "Paciente com mal de Pott (espondilite tuberculosa) na coluna torácica apresenta destruição predominante da porção anterior dos corpos vertebrais, com relativa preservação dos elementos posteriores nas fases iniciais da doença. Essa característica anatomopatológica explica a deformidade cifótica típica dessa condição, denominada:",
+   "alternativas": [
+    "Escoliose degenerativa do adulto",
+    "Cifose angular (giba)",
+    "Lordose cervical compensatória",
+    "Espondilolistese ístmica"
+   ],
+   "correta": 1,
+   "comentario": "No mal de Pott, a destruição predominantemente anterior dos corpos vertebrais, com colapso vertebral progressivo e relativa preservação dos elementos posteriores e do disco intervertebral (que pode ser atravessado por disseminação subligamentar, gerando lesões salteadas), leva ao colapso em cunha anterior de múltiplos níveis contíguos, resultando em deformidade cifótica angular e proeminente conhecida como giba. Escoliose degenerativa e espondilolistese ístmica são entidades mecânico-degenerativas sem relação direta com infecção. Lordose cervical compensatória pode ocorrer secundariamente à cifose torácica grave, mas não é o nome da deformidade característica descrita.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-094",
+   "tema": "Tratamento clínico versus cirúrgico da espondilodiscite",
+   "enunciado": "Sobre as indicações de tratamento cirúrgico na espondilodiscite (piogênica ou tuberculosa), assinale a alternativa correta.",
+   "alternativas": [
+    "Instabilidade espinhal, déficit neurológico progressivo, deformidade cifótica progressiva significativa, falha do tratamento clínico (antibioticoterapia ou tuberculostáticos) e formação de abscesso extenso com compressão neural são indicações consagradas de intervenção cirúrgica; a maioria dos casos não complicados responde ao tratamento clínico prolongado com terapia antimicrobiana dirigida e imobilização.",
+    "Todo paciente com espondilodiscite deve ser submetido à cirurgia de urgência, independentemente da presença de déficit neurológico ou de instabilidade mecânica.",
+    "O tratamento cirúrgico é formalmente contraindicado em qualquer situação, sendo o tratamento clínico isolado suficiente mesmo diante de déficit neurológico progressivo.",
+    "A duração do tratamento antimicrobiano não influencia a decisão cirúrgica, devendo a cirurgia ser indicada exclusivamente com base no agente etiológico isolado em cultura."
+   ],
+   "correta": 0,
+   "comentario": "A maioria dos casos de espondilodiscite sem complicações neurológicas ou mecânicas responde ao tratamento clínico prolongado (antibioticoterapia dirigida por cultura ou tuberculostáticos, associados a imobilização), reservando-se a cirurgia para situações específicas: instabilidade, déficit neurológico progressivo, deformidade cifótica significativa, falha terapêutica clínica ou abscesso volumoso com efeito compressivo. Indicar cirurgia de urgência para todos os casos (alternativa B) ou contraindicá-la totalmente mesmo com déficit progressivo (alternativa C) são condutas incorretas e potencialmente perigosas. A decisão cirúrgica depende de critérios clínicos e de imagem, não exclusivamente do agente etiológico isolado.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-095",
+   "tema": "Escore SINS para instabilidade neoplásica vertebral",
+   "enunciado": "O escore SINS (Spinal Instability Neoplastic Score) é utilizado para avaliar o risco de instabilidade espinhal em pacientes com metástases vertebrais. Sobre esse escore, assinale a alternativa correta.",
+   "alternativas": [
+    "O SINS avalia parâmetros como localização da lesão na coluna, presença e tipo de dor (mecânica versus não mecânica), qualidade óssea da lesão (lítica, mista ou blástica), alinhamento vertebral, grau de colapso do corpo vertebral e envolvimento dos elementos posterolaterais, classificando os pacientes em estável, potencialmente instável ou instável.",
+    "O SINS baseia-se exclusivamente no tipo histológico do tumor primário, sem considerar achados clínicos ou de imagem.",
+    "Pontuações mais baixas no SINS indicam maior grau de instabilidade, sendo a cirurgia indicada apenas nos escores próximos de zero.",
+    "O SINS é validado exclusivamente para tumores primários da coluna vertebral, não devendo ser aplicado a lesões metastáticas."
+   ],
+   "correta": 0,
+   "comentario": "O SINS é uma ferramenta validada que soma pontos de seis componentes (localização, dor, qualidade óssea da lesão, alinhamento espinhal, colapso vertebral e envolvimento de elementos posterolaterais), estratificando o paciente em estável (0-6), potencialmente instável (7-12) ou instável (13-18), auxiliando na decisão de encaminhamento para avaliação cirúrgica. A alternativa B ignora os múltiplos parâmetros clínicos e radiográficos que compõem o escore. A alternativa C inverte a lógica, já que escores mais altos indicam maior instabilidade. A alternativa D está incorreta porque o SINS foi desenvolvido e validado especificamente para lesões neoplásicas metastáticas da coluna.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-096",
+   "tema": "Metástases vertebrais: origem e indicação de estabilização",
+   "enunciado": "Sobre as metástases vertebrais, assinale a alternativa correta.",
+   "alternativas": [
+    "A coluna vertebral é o sítio ósseo mais comum de metástases, sendo mama, próstata, pulmão, rim e tireoide os tumores primários mais frequentemente responsáveis; a instabilidade mecânica e/ou o comprometimento neurológico são as principais indicações de estabilização cirúrgica, independentemente da histologia do tumor primário.",
+    "As metástases vertebrais acometem preferencialmente os elementos posteriores (lâminas e processos espinhosos), poupando o corpo vertebral na quase totalidade dos casos.",
+    "O diagnóstico de metástase vertebral dispensa a investigação do sítio tumoral primário, uma vez que o tratamento é idêntico independentemente da origem tumoral.",
+    "A radioterapia é formalmente contraindicada em pacientes com metástase vertebral e dor óssea, devendo-se optar sempre por cirurgia de ressecção ampla."
+   ],
+   "correta": 0,
+   "comentario": "A coluna é o local mais comum de metástase óssea, e mama, próstata, pulmão, rim e tireoide constituem os principais tumores primários responsáveis pela maioria dos casos; a indicação de estabilização cirúrgica baseia-se principalmente na presença de instabilidade mecânica (avaliada, por exemplo, pelo SINS) e/ou déficit neurológico, e não exclusivamente na histologia do tumor. Metástases acometem preferencialmente o corpo vertebral (rico em medula óssea vermelha vascularizada), tornando a alternativa B incorreta. A investigação do sítio primário é fundamental para definir prognóstico e tratamento sistêmico, refutando a alternativa C. A radioterapia é amplamente utilizada, isolada ou associada à cirurgia, para controle de dor e de doença local, tornando a alternativa D incorreta.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-097",
+   "tema": "Tumores vertebrais primários por faixa etária",
+   "enunciado": "Em relação aos tumores primários da coluna vertebral e sua distribuição típica por faixa etária, assinale a alternativa correta.",
+   "alternativas": [
+    "O hemangioma vertebral é um achado incidental comum em adultos, geralmente assintomático; o osteoblastoma e o cisto ósseo aneurismático predominam em crianças e adultos jovens, enquanto o cordoma e o plasmocitoma/mieloma múltiplo são mais característicos de pacientes acima da quinta a sexta décadas de vida.",
+    "O cordoma é um tumor tipicamente encontrado em crianças menores de 10 anos, com localização preferencial na coluna cervical subaxial.",
+    "O mieloma múltiplo é a neoplasia óssea primária mais comum em crianças, superando o osteossarcoma e o sarcoma de Ewing nessa faixa etária.",
+    "O osteoblastoma vertebral acomete predominantemente idosos acima de 70 anos e localiza-se preferencialmente no corpo vertebral, poupando os elementos posteriores."
+   ],
+   "correta": 0,
+   "comentario": "O hemangioma vertebral é um achado frequentemente incidental em exames de imagem de adultos, geralmente assintomático; tumores como osteoblastoma e cisto ósseo aneurismático são mais comuns em crianças e adultos jovens e tendem a acometer os elementos posteriores da vértebra; já o cordoma (originado de remanescentes da notocorda, tipicamente no sacro ou clivo) e o plasmocitoma/mieloma múltiplo são classicamente diagnosticados em pacientes mais velhos. O cordoma raramente acomete crianças e não tem predileção pela coluna cervical subaxial, invalidando a alternativa B. O mieloma múltiplo é doença tipicamente do idoso, não da infância, tornando a alternativa C incorreta. O osteoblastoma acomete predominantemente jovens e tem predileção pelos elementos posteriores, e não pelo corpo vertebral em idosos, invalidando a alternativa D.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "dificil"
+  },
+  {
+   "id": "COL-098",
+   "tema": "Diagnóstico diferencial entre espondilite anquilosante e DISH",
+   "enunciado": "Sobre o diagnóstico diferencial entre espondilite anquilosante (EA) e hiperostose esquelética idiopática difusa (DISH), assinale a alternativa correta.",
+   "alternativas": [
+    "A EA é uma espondiloartrite soronegativa associada ao HLA-B27, que acomete predominantemente as articulações sacroilíacas com sacroiliíte bilateral simétrica e sindesmófitos finos e verticais; já a DISH é uma condição não inflamatória, mais comum em idosos, caracterizada por calcificação e ossificação do ligamento longitudinal anterior formando pontes ósseas grosseiras e assimétricas, tipicamente poupando as articulações sacroilíacas.",
+    "Ambas as condições apresentam os mesmos achados radiográficos e laboratoriais, sendo indistinguíveis exceto por biópsia óssea.",
+    "A DISH é fortemente associada ao HLA-B27 e acomete preferencialmente adultos jovens do sexo masculino, com sacroiliíte bilateral simétrica.",
+    "A espondilite anquilosante caracteristicamente poupa as articulações sacroilíacas, acometendo isoladamente a coluna torácica."
+   ],
+   "correta": 0,
+   "comentario": "A espondilite anquilosante é uma espondiloartropatia inflamatória fortemente associada ao HLA-B27, com sacroiliíte bilateral simétrica como marco diagnóstico e formação de sindesmófitos finos e verticais ao longo da coluna. A DISH, por outro lado, é uma condição não inflamatória de etiologia não totalmente esclarecida, mais comum em homens idosos, caracterizada por ossificação exuberante e assimétrica do ligamento longitudinal anterior, sem associação com HLA-B27 e sem sacroiliíte significativa. As alternativas B, C e D invertem ou confundem essas características distintivas, o que compromete o diagnóstico diferencial correto entre as duas entidades.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  },
+  {
+   "id": "COL-099",
+   "tema": "Trauma raquimedular em coluna rígida (espondilite anquilosante/DISH)",
+   "enunciado": "Paciente com espondilite anquilosante avançada, com coluna em aspecto de \"cana de bambu\", sofre queda da própria altura e apresenta cervicalgia intensa. Sobre o manejo do trauma raquimedular nesse contexto, assinale a alternativa correta.",
+   "alternativas": [
+    "Colunas rígidas por espondilite anquilosante ou DISH comportam-se biomecanicamente como um osso longo, com risco aumentado de fraturas instáveis mesmo após traumas de baixa energia, frequentemente com padrão de lesão transversal envolvendo as três colunas e alto risco de lesão neurológica associada; a investigação de imagem deve ser ampla, incluindo toda a extensão da coluna, mesmo com radiografias iniciais aparentemente normais, e a fixação cirúrgica, quando indicada, deve abranger segmentos longos acima e abaixo da lesão.",
+    "Nesses pacientes, fraturas vertebrais são raras mesmo após traumas de alta energia, devido ao aumento de resistência óssea proporcionado pela ossificação ligamentar extensa.",
+    "O tratamento padrão nesses casos é sempre conservador com colar cervical macio, independentemente do padrão de fratura identificado, pois a rigidez da coluna confere estabilidade intrínseca suficiente.",
+    "A imobilização em extensão cervical é sempre segura nesses pacientes, já que a deformidade cifótica prévia não interfere no posicionamento do pescoço durante o transporte e o exame inicial."
+   ],
+   "correta": 0,
+   "comentario": "A coluna anquilosada (por EA ou DISH) perde sua capacidade normal de absorver energia por distribuição ao longo de múltiplos segmentos móveis, comportando-se como um osso longo rígido — fraturas nesses pacientes tendem a ser transversais, instáveis, envolvendo as três colunas, e associadas a alto risco de lesão neurológica mesmo após traumas de baixa energia. Por isso, a investigação de imagem deve ser ampla e criteriosa, e a fixação cirúrgica, quando indicada, deve envolver segmentos longos para neutralizar o braço de alavanca aumentado. Fraturas não são raras nessa população (alternativa B), tratamento conservador isolado é inadequado para fraturas instáveis (alternativa C), e a imobilização deve respeitar a deformidade cifótica basal do paciente, já que forçar a extensão pode agravar uma lesão existente (alternativa D incorreta).",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "media"
+  },
+  {
+   "id": "COL-100",
+   "tema": "Critérios radiográficos de Resnick para DISH",
+   "enunciado": "Segundo os critérios de Resnick para o diagnóstico radiográfico de hiperostose esquelética idiopática difusa (DISH), qual achado é característico e ajuda a diferenciá-la da espondilite anquilosante?",
+   "alternativas": [
+    "Calcificação e ossificação fluindo ao longo da face anterolateral de pelo menos quatro corpos vertebrais contíguos, com preservação relativa da altura discal e ausência de sacroiliíte ou de erosões significativas nas articulações apofisárias.",
+    "Presença obrigatória de sacroiliíte bilateral graus III ou IV associada a sindesmófitos finos e verticais.",
+    "Erosão extensa das articulações apofisárias posteriores com anquilose completa das facetas cervicais.",
+    "Positividade do HLA-B27 associada a uveíte anterior recorrente, sendo esse achado sorológico parte integrante dos critérios radiográficos de Resnick."
+   ],
+   "correta": 0,
+   "comentario": "Os critérios de Resnick para DISH exigem calcificação/ossificação fluindo ao longo da face anterolateral de pelo menos quatro corpos vertebrais contíguos, relativa preservação da altura do espaço discal (sem os achados degenerativos discais típicos da espondilose) e ausência de sacroiliíte ou de erosões/anquilose significativa das articulações apofisárias — achados que ajudam a diferenciar a DISH da espondilite anquilosante. As alternativas B e C descrevem achados típicos de espondiloartropatias inflamatórias, não de DISH. A alternativa D é incorreta porque HLA-B27 e uveíte são associados à espondilite anquilosante, não fazendo parte dos critérios radiográficos de Resnick, que são baseados exclusivamente em achados de imagem.",
+   "referencia": "Campbell's Operative Orthopaedics",
+   "dificuldade": "facil"
+  }
+ ]
+}

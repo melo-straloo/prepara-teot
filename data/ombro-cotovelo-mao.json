@@ -1,0 +1,1506 @@
+{
+  "area": "Ombro, Cotovelo e Mão",
+  "slug": "ombro-cotovelo-mao",
+  "questoes": [
+    {
+      "id": "OCM-001",
+      "tema": "Manguito rotador - exame físico",
+      "enunciado": "Paciente de 58 anos, destro, relata dor no ombro direito ao elevar o braço, com fraqueza para iniciar a abdução. Ao exame, o médico posiciona o braço em 90 graus de abdução no plano da escápula, com rotação interna e polegar apontando para baixo, e aplica resistência contra a elevação, reproduzindo dor e fraqueza. Esse é o teste de:",
+      "alternativas": [
+        "Neer",
+        "Hawkins-Kennedy",
+        "Jobe (lata vazia)",
+        "Speed"
+      ],
+      "correta": 2,
+      "comentario": "O teste de Jobe (empty can/lata vazia) avalia especificamente o tendão do supraespinal: o braço é posicionado a 90 graus de abdução no plano escapular, rotação interna máxima (polegar para baixo) e o examinador aplica força para baixo, buscando dor e/ou fraqueza. Neer e Hawkins-Kennedy são testes de impacto subacromial, não de força isolada do supraespinal. Speed avalia a cabeça longa do bíceps. A variante 'full can' (rotação externa) reduz o desconforto e tem sensibilidade semelhante com menos falsos positivos por impacto.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-002",
+      "tema": "Manguito rotador - subescapular",
+      "enunciado": "Homem de 62 anos apresenta dificuldade para afastar a mão das costas após colocá-la na região lombar (lift-off test positivo) e teste de Napoleon/belly-press também alterado. Esses achados sugerem lesão do tendão:",
+      "alternativas": [
+        "Supraespinal",
+        "Infraespinal",
+        "Subescapular",
+        "Cabeça longa do bíceps"
+      ],
+      "correta": 2,
+      "comentario": "O lift-off test (Gerber) e o belly-press (Napoleon) avaliam a integridade do subescapular, principal rotador interno do ombro. No lift-off, o paciente não consegue afastar a mão das costas contra resistência; no belly-press, ao pressionar a mão contra o abdome mantendo o cotovelo à frente, ocorre flexão do punho e queda do cotovelo (compensação) quando há fraqueza do subescapular. Esses testes são úteis em pacientes com limitação de rotação interna que impede o lift-off puro.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-003",
+      "tema": "Manguito rotador - imagem",
+      "enunciado": "Na ressonância magnética de um paciente com lesão crônica e irreparável do manguito rotador, o grau de infiltração/degeneração gordurosa da musculatura é classicamente avaliado pela classificação de:",
+      "alternativas": [
+        "Tönnis",
+        "Goutallier (modificada por Fuchs)",
+        "Bankart",
+        "Neer"
+      ],
+      "correta": 1,
+      "comentario": "A classificação de Goutallier, modificada por Fuchs, estratifica em 5 graus (0 a 4) o grau de infiltração gordurosa muscular em cortes sagitais de RM ou TC, sendo um preditor importante de reparabilidade e de qualidade funcional pós-operatória do reparo do manguito rotador. Graus 3 e 4 (gordura igual ou maior que o músculo) associam-se a pior prognóstico de cicatrização tendínea e maior taxa de rerruptura. Tönnis é usada para artrose de quadril; Bankart e Neer referem-se a instabilidade e classificação de fraturas do úmero proximal/impacto, respectivamente.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-004",
+      "tema": "Manguito rotador - reparo cirúrgico",
+      "enunciado": "Em uma lesão completa e reparável do supraespinal em paciente jovem e ativo, a técnica de reparo artroscópico que recria uma maior área de contato tendão-osso, com dupla fileira de âncoras e pontos que comprimem o tendão contra o sulco, é denominada:",
+      "alternativas": [
+        "Reparo em fileira simples (single-row)",
+        "Reparo transósseo equivalente em ponte (suture bridge/transosseous-equivalent)",
+        "Debridamento isolado",
+        "Tenotomia do bíceps"
+      ],
+      "correta": 1,
+      "comentario": "A técnica transóssea equivalente (suture bridge) utiliza âncoras mediais e laterais, criando uma ponte de sutura que aumenta a área de contato e a pressão de contato tendão-osso em relação à fileira simples, favorecendo a cicatrização biológica. Estudos biomecânicos mostram maior resistência inicial e menor formação de gap, embora a superioridade clínica em desfechos funcionais a longo prazo em relação à fileira dupla convencional seja discutida. Debridamento isolado é reservado para lesões parciais ou pacientes com baixa demanda; tenotomia do bíceps trata a lesão associada da cabeça longa, não o manguito.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-005",
+      "tema": "Manguito rotador - lesão irreparável",
+      "enunciado": "Paciente de 55 anos, ativo, com lesão maciça e irreparável do manguito rotador (supraespinal e infraespinal), sem artrose glenoumeral e com boa função do deltoide, mantém pseudoparalisia para elevação e rotação externa. Uma opção cirúrgica joelho-poupadora de prótese, para restaurar rotação externa ativa, é a transferência do tendão:",
+      "alternativas": [
+        "Grande dorsal (latíssimo do dorso) ou trapézio inferior",
+        "Peitoral maior",
+        "Redondo maior isolado",
+        "Bíceps braquial distal"
+      ],
+      "correta": 0,
+      "comentario": "Em lesões irreparáveis do manguito posterossuperior com déficit de rotação externa (sinal do corneteiro/hornblower e défice de rotação externa em resistência), a transferência do latíssimo do dorso (Gerber/L'Episcopio modificado) ou, mais recentemente, do trapézio inferior, pode restaurar a rotação externa ativa em pacientes sem artrose significativa. A transferência do peitoral maior é indicada classicamente para lesões irreparáveis do subescapular (anterossuperior). Quando há artropatia do manguito estabelecida, a artroplastia reversa é preferível.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "OCM-006",
+      "tema": "Manguito rotador - artropatia",
+      "enunciado": "Radiografias de um paciente idoso com lesão maciça crônica do manguito rotador mostram ascensão da cabeça umeral, estreitamento do espaço acromioumeral e erosão da glenoide e do acrômio, configurando um quadro de artropatia do manguito rotador. A classificação radiográfica específica para esse quadro é a de:",
+      "alternativas": [
+        "Hamada",
+        "Crowe",
+        "Garden",
+        "Weber"
+      ],
+      "correta": 0,
+      "comentario": "A classificação de Hamada estadia a artropatia do manguito rotador (cuff tear arthropathy) com base em achados radiográficos progressivos: diminuição do espaço acromioumeral, acetabularização do acrômio, formação de 'femoralização' da cabeça umeral e presença de artrose glenoumeral, orientando a indicação de artroplastia reversa nos estágios mais avançados. Crowe é usada em displasia do quadril, Garden em fraturas do colo femoral e Weber em fraturas do tornozelo/maléolo lateral.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "OCM-007",
+      "tema": "Manguito rotador - fatores de risco",
+      "enunciado": "Sobre a etiologia das lesões do manguito rotador, é correto afirmar que:",
+      "alternativas": [
+        "A maioria das lesões em pacientes acima de 60 anos é de origem predominantemente degenerativa, associada a alterações intrínsecas do tendão e hipovascularização",
+        "Todas as lesões do manguito rotador são de causa traumática aguda",
+        "A idade não é fator de risco para lesão do manguito rotador",
+        "Lesões degenerativas do manguito são mais comuns em atletas jovens arremessadores"
+      ],
+      "correta": 0,
+      "comentario": "A maior parte das lesões do manguito rotador em pacientes de meia-idade e idosos decorre de um processo degenerativo multifatorial, envolvendo hipovascularização da zona crítica (próxima à inserção do supraespinal), alterações intrínsecas do colágeno e sobrecarga mecânica crônica, muitas vezes associado a impacto subacromial. Trauma agudo pode causar lesão aguda, especialmente sobre um tendão já degenerado (lesão aguda sobre crônica). Em atletas arremessadores jovens, as lesões relacionam-se mais a instabilidade e sobrecarga interna do que a degeneração pura.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-008",
+      "tema": "Manguito rotador - falha de cicatrização",
+      "enunciado": "São fatores de risco reconhecidos para falha de cicatrização (rerruptura) após reparo do manguito rotador, EXCETO:",
+      "alternativas": [
+        "Idade avançada",
+        "Tamanho maior da lesão",
+        "Infiltração gordurosa avançada (Goutallier 3-4)",
+        "Reparo realizado por via artroscópica em vez de aberta"
+      ],
+      "correta": 3,
+      "comentario": "A via de acesso (artroscópica versus aberta/mini-aberta) não é, por si só, um fator determinante de falha de cicatrização quando a técnica é adequada; os principais preditores de rerruptura são idade avançada, tamanho e cronicidade da lesão, retração tendínea, atrofia muscular e infiltração gordurosa avançada (Goutallier/Fuchs 3-4), diabetes, tabagismo e osteoporose. Esses fatores devem ser considerados na decisão compartilhada sobre tratamento cirúrgico versus conservador em pacientes com lesões crônicas.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-009",
+      "tema": "Impacto subacromial",
+      "enunciado": "Paciente relata dor ao elevar o braço acima da cabeça. Ao exame, a manobra de flexão passiva do ombro a 90 graus associada à rotação interna forçada reproduz a dor, caracterizando teste positivo para impacto subacromial. Esse teste é denominado:",
+      "alternativas": [
+        "Hawkins-Kennedy",
+        "Speed",
+        "Yergason",
+        "Apreensão"
+      ],
+      "correta": 0,
+      "comentario": "O teste de Hawkins-Kennedy é realizado com o ombro flexionado a 90 graus e o cotovelo fletido, seguido de rotação interna forçada passiva pelo examinador, comprimindo o manguito (principalmente supraespinal) contra o ligamento coracoacromial, reproduzindo dor no impacto subacromial. O teste de Neer é semelhante conceitualmente, mas realizado com elevação passiva em rotação interna. Speed e Yergason avaliam a cabeça longa do bíceps; apreensão avalia instabilidade anterior.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-010",
+      "tema": "Manguito rotador - indicação cirúrgica",
+      "enunciado": "Homem de 45 anos, trabalhador braçal, sofre queda com o braço em abdução e sente dor aguda intensa no ombro dominante, evoluindo com incapacidade imediata de elevar o braço. RM confirma lesão completa aguda do supraespinal com retração mínima. A conduta mais adequada é:",
+      "alternativas": [
+        "Tratamento conservador por 6 meses antes de considerar cirurgia",
+        "Reparo cirúrgico precoce, idealmente dentro de poucas semanas",
+        "Infiltração de corticoide isolada",
+        "Observação, pois lesões completas do manguito sempre evoluem bem sem cirurgia"
+      ],
+      "correta": 1,
+      "comentario": "Lesões traumáticas agudas e completas do manguito rotador em pacientes jovens/ativos com boa qualidade tecidual devem ser reparadas precocemente (idealmente em semanas), pois o atraso favorece retração tendínea, atrofia muscular e infiltração gordurosa progressiva, reduzindo a reparabilidade e o resultado funcional. Isso contrasta com lesões degenerativas crônicas, nas quais um período inicial de tratamento conservador é frequentemente razoável. A rápida perda de força associada a trauma agudo é um sinal de alerta para lesão significativa que não deve ser postergada.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-011",
+      "tema": "Manguito rotador - infraespinal",
+      "enunciado": "O teste de Patte, utilizado para avaliar a força do infraespinal (e parte do redondo menor), é realizado com o ombro:",
+      "alternativas": [
+        "Em 90 graus de abdução e cotovelo fletido a 90 graus, solicitando rotação externa contra resistência",
+        "Em adução total e rotação interna máxima",
+        "Em extensão completa com o braço atrás do dorso",
+        "Em flexão de 180 graus com o cotovelo estendido"
+      ],
+      "correta": 0,
+      "comentario": "O teste de Patte avalia a força de rotação externa com o ombro abduzido a 90 graus e o cotovelo fletido a 90 graus, isolando principalmente o infraespinal (e o redondo menor). Fraqueza e dor sugerem lesão do infraespinal, frequentemente associada a lesões posterossuperiores do manguito. Diferencia-se do teste de rotação externa em posição neutra (0 graus de abdução), que também é usado, mas o Patte clássico é descrito com o ombro em abdução de 90 graus no plano da escápula.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-012",
+      "tema": "Manguito rotador - reabilitação e cirurgia parcial",
+      "enunciado": "Lesões parciais do manguito rotador com espessura menor que 50% da espessura total do tendão, em pacientes com baixa demanda funcional e sem resposta a tratamento conservador adequado por 3 a 6 meses, são geralmente tratadas cirurgicamente com:",
+      "alternativas": [
+        "Artroplastia reversa do ombro imediata",
+        "Desbridamento artroscópico, com ou sem acromioplastia, sem reparo formal",
+        "Transferência tendínea do grande dorsal",
+        "Ressecção da clavícula distal isolada"
+      ],
+      "correta": 1,
+      "comentario": "Lesões parciais de baixo grau (menos de 50% da espessura), refratárias ao tratamento conservador, podem ser tratadas com desbridamento artroscópico do tecido degenerado, associado ou não à acromioplastia quando há impacto subacromial concomitante, preservando a maior parte do tendão íntegro. Lesões parciais de alto grau (>50%) geralmente são convertidas para lesão completa e reparadas. Artroplastia reversa e transferências tendíneas são reservadas para quadros muito mais avançados, como artropatia do manguito ou lesões maciças irreparáveis com pseudoparalisia.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-013",
+      "tema": "Instabilidade - lesão de Bankart",
+      "enunciado": "Jovem de 22 anos sofre luxação anterior traumática do ombro durante partida de rúgbi. Após redução, a RM evidencia avulsão do complexo labro-ligamentar anteroinferior da glenoide. Essa lesão é classicamente denominada:",
+      "alternativas": [
+        "Lesão de Hill-Sachs",
+        "Lesão de Bankart",
+        "Lesão de SLAP",
+        "Lesão de HAGL"
+      ],
+      "correta": 1,
+      "comentario": "A lesão de Bankart consiste na avulsão do lábio glenoidal anteroinferior, frequentemente associado ao complexo ligamentar glenoumeral inferior, da margem óssea da glenoide, sendo a lesão mais comum após luxação anterior traumática do ombro em pacientes jovens. Quando há também fratura da margem glenoidal, denomina-se Bankart ósseo. A lesão de Hill-Sachs é a impressão óssea na cabeça umeral posterossuperior; SLAP acomete o lábio superior na inserção do bíceps; HAGL é a avulsão humeral do ligamento glenoumeral inferior.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-014",
+      "tema": "Instabilidade - Hill-Sachs",
+      "enunciado": "Na luxação anterior do ombro, a lesão de Hill-Sachs corresponde a:",
+      "alternativas": [
+        "Fratura da glenoide anteroinferior",
+        "Impressão osteocondral na cabeça umeral posterossuperior por impacto contra a borda glenoidal",
+        "Ruptura do tendão subescapular",
+        "Avulsão do ligamento glenoumeral inferior na inserção umeral"
+      ],
+      "correta": 1,
+      "comentario": "A lesão de Hill-Sachs é uma fratura por impressão (compressão) na porção posterossuperior da cabeça umeral, causada pelo impacto contra a borda anteroinferior da glenoide no momento da luxação anterior. Quando essa lesão é extensa e 'engancha' na borda glenoidal durante a rotação (engaging Hill-Sachs), aumenta significativamente o risco de reluxação, sendo importante considerá-la na decisão cirúrgica, inclusive através do conceito de glenoid track.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-015",
+      "tema": "Instabilidade - glenoid track",
+      "enunciado": "O conceito de 'glenoid track' é utilizado para avaliar o risco de instabilidade recorrente relacionado à combinação de perda óssea glenoidal e de uma lesão de Hill-Sachs. Segundo esse conceito, uma lesão de Hill-Sachs é considerada 'off-track' (fora do trilho) quando:",
+      "alternativas": [
+        "A largura da lesão de Hill-Sachs ultrapassa a largura do glenoid track, fazendo com que a lesão engate na margem glenoidal durante a rotação",
+        "A lesão de Hill-Sachs está localizada exclusivamente na região anteroinferior da cabeça umeral",
+        "Não há qualquer perda óssea glenoidal associada",
+        "O paciente não apresenta episódios de luxação recorrente"
+      ],
+      "correta": 0,
+      "comentario": "O glenoid track representa a área de contato da cabeça umeral com a glenoide durante os movimentos do ombro. Uma lesão de Hill-Sachs é 'off-track' quando sua extensão medial-lateral ultrapassa a largura desse trilho (que é reduzido por perda óssea glenoidal associada), fazendo com que a lesão engate na margem glenoidal e aumente o risco de instabilidade recorrente — nesses casos, procedimentos que preenchem o defeito (remplissage) ou reconstrução óssea combinada podem ser indicados, além do reparo labral isolado.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "OCM-016",
+      "tema": "Instabilidade - Latarjet",
+      "enunciado": "Paciente de 24 anos com múltiplos episódios de luxação anterior recorrente do ombro apresenta perda óssea glenoidal estimada em 25% por TC com reconstrução 3D. A opção cirúrgica mais indicada nesse cenário é:",
+      "alternativas": [
+        "Reparo de Bankart artroscópico isolado com âncoras",
+        "Procedimento de Latarjet (transferência do processo coracoide)",
+        "Capsulorrafia térmica isolada",
+        "Artroplastia total do ombro"
+      ],
+      "correta": 1,
+      "comentario": "Perda óssea glenoidal significativa (geralmente considerada acima de 20-25%) é uma contraindicação relativa ao reparo de Bankart isolado, pois a taxa de recidiva é inaceitavelmente alta nesse contexto. O procedimento de Latarjet transfere o processo coracoide (com os tendões conjuntos) para a região anteroinferior da glenoide, atuando por três mecanismos: aumento da superfície articular óssea (efeito de bloqueio ósseo), efeito de honda (sling) do tendão conjunto sobre o subescapular, e reforço capsular. É a técnica de escolha nesse cenário de perda óssea relevante.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-017",
+      "tema": "Instabilidade - ISIS",
+      "enunciado": "O Instability Severity Index Score (ISIS) é utilizado na avaliação pré-operatória de pacientes com instabilidade anterior do ombro para:",
+      "alternativas": [
+        "Quantificar a dor pós-operatória esperada",
+        "Estimar o risco de recidiva após reparo artroscópico de Bankart isolado e auxiliar na escolha entre reparo de partes moles e procedimento ósseo",
+        "Medir a amplitude de movimento do ombro no pós-operatório",
+        "Diagnosticar lesões do manguito rotador associadas"
+      ],
+      "correta": 1,
+      "comentario": "O ISIS é um escore pré-operatório que soma pontos de fatores como idade no momento da cirurgia, nível e tipo de esporte praticado, hiperfrouxidão articular, presença de lesão de Hill-Sachs em radiografia AP com rotação externa e perda do contorno glenoidal anteroinferior. Escores mais altos (classicamente acima de 6) associam-se a maior risco de recidiva após Bankart artroscópico isolado, favorecendo a indicação de procedimentos ósseos como o Latarjet mesmo sem perda óssea glenoidal crítica isolada.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "OCM-018",
+      "tema": "Instabilidade - fator de risco",
+      "enunciado": "O principal fator de risco para recidiva de instabilidade após primeira luxação anterior traumática do ombro é:",
+      "alternativas": [
+        "Idade jovem no momento da primeira luxação",
+        "Sexo feminino",
+        "Ausência de lesão de Hill-Sachs",
+        "Luxação posterior em vez de anterior"
+      ],
+      "correta": 0,
+      "comentario": "A idade jovem (particularmente abaixo de 20-25 anos) no momento do primeiro episódio de luxação anterior é o fator de risco mais consistentemente associado a recidiva, podendo chegar a taxas superiores a 70-90% em adolescentes que retornam a esportes de contato sem tratamento cirúrgico. Isso decorre de maior atividade física, maior frouxidão capsular relativa e menor capacidade de cicatrização adequada do complexo labro-ligamentar quando tratado apenas conservadoramente.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-019",
+      "tema": "Instabilidade posterior",
+      "enunciado": "Homem de 30 anos, eletricista, sofreu convulsão tônico-clônica e evoluiu com dor e limitação de rotação externa do ombro. Radiografia em perfil axilar mostra a cabeça umeral posteriorizada em relação à glenoide, com o sinal do 'light bulb' na incidência AP. O diagnóstico mais provável é:",
+      "alternativas": [
+        "Luxação anterior do ombro",
+        "Luxação posterior do ombro",
+        "Fratura isolada do colo cirúrgico do úmero",
+        "Ruptura isolada do manguito rotador"
+      ],
+      "correta": 1,
+      "comentario": "A luxação posterior do ombro é classicamente associada a convulsões, eletrochoque e trauma elétrico, sendo frequentemente subdiagnosticada por ser sutil na incidência AP padrão. O sinal do 'light bulb' (cabeça umeral arredondada e simétrica pela rotação interna fixa) e a perda do contorno normal de sobreposição glenoumeral na AP sugerem o diagnóstico, que deve ser confirmado por incidência axilar ou perfil de escápula (Y). A limitação de rotação externa é um achado clínico característico.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-020",
+      "tema": "Instabilidade - lesão de HAGL",
+      "enunciado": "A lesão de HAGL (Humeral Avulsion of the Glenohumeral Ligament) corresponde à avulsão do ligamento glenoumeral inferior em sua inserção:",
+      "alternativas": [
+        "Glenoidal, sendo indistinguível da lesão de Bankart",
+        "Umeral, sendo uma causa menos comum, porém importante, de instabilidade anterior recorrente mesmo com lábio glenoidal íntegro",
+        "No processo coracoide",
+        "No tubérculo maior do úmero, associada a lesão do manguito rotador"
+      ],
+      "correta": 1,
+      "comentario": "A lesão de HAGL é a avulsão do ligamento glenoumeral inferior de sua origem umeral, em vez da avulsão glenoidal mais comum (Bankart). Deve ser suspeitada quando há instabilidade recorrente sem lesão labral evidente na RM/artro-RM, sendo facilmente perdida se não pesquisada ativamente, pois exige reparo cirúrgico específico (sutura ou âncora na região umeral) e não é corrigida pelos procedimentos padrão voltados ao lábio glenoidal.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "OCM-021",
+      "tema": "Instabilidade - testes clínicos",
+      "enunciado": "No exame de um paciente com suspeita de instabilidade anterior do ombro, o examinador aplica uma força posterior sobre a face anterior do úmero durante a manobra de apreensão, aliviando a sensação de instabilidade e a dor referidas pelo paciente. Esse achado positivo caracteriza o teste de:",
+      "alternativas": [
+        "Apreensão",
+        "Relocação (Jobe)",
+        "Sulco (sulcus sign)",
+        "Gaveta anterior"
+      ],
+      "correta": 1,
+      "comentario": "O teste de relocação (Jobe) é realizado em sequência ao teste de apreensão: após reproduzir a sensação de instabilidade com rotação externa em abdução, o examinador aplica uma força posteriormente dirigida sobre a cabeça umeral, e o alívio dos sintomas confirma instabilidade anterior verdadeira, ajudando a diferenciar de dor por impacto subacromial. O sulcus sign avalia frouxidão inferior (instabilidade multidirecional), e a gaveta anterior avalia translação anterior passiva da cabeça umeral.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-022",
+      "tema": "Instabilidade multidirecional",
+      "enunciado": "Paciente jovem, do sexo feminino, com frouxidão ligamentar generalizada, relata episódios de instabilidade do ombro em múltiplas direções (anterior, posterior e inferior), sem evento traumático definido. O tratamento inicial mais apropriado é:",
+      "alternativas": [
+        "Cirurgia de Latarjet imediata",
+        "Programa de fisioterapia focado em fortalecimento do manguito rotador e estabilizadores escapulares",
+        "Artroplastia reversa do ombro",
+        "Imobilização rígida por 6 meses seguida de cirurgia obrigatória"
+      ],
+      "correta": 1,
+      "comentario": "A instabilidade multidirecional atraumática, frequentemente associada à hiperfrouxidão capsuloligamentar constitucional, deve ser inicialmente tratada de forma conservadora, com programa estruturado de fortalecimento do manguito rotador e da musculatura estabilizadora escapular por pelo menos 3 a 6 meses, já que muitos pacientes respondem bem a essa abordagem. Cirurgia (como capsulorrafia ou plicatura capsular) é reservada para casos refratários ao tratamento conservador bem conduzido.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-023",
+      "tema": "SLAP - classificação de Snyder",
+      "enunciado": "Na classificação de Snyder para lesões SLAP (Superior Labrum Anterior to Posterior), o tipo II caracteriza-se por:",
+      "alternativas": [
+        "Degeneração labral superior com margem estável, sem desinserção da âncora bicipital",
+        "Desinserção do lábio superior e da âncora do bíceps da glenoide, com instabilidade da unidade bíceps-lábio",
+        "Rasgo em alça de balde do lábio superior com âncora bicipital intacta",
+        "Lesão labral superior associada a fratura óssea da glenoide"
+      ],
+      "correta": 1,
+      "comentario": "A classificação de Snyder descreve quatro tipos clássicos de lesão SLAP: tipo I (degeneração/fibrilação sem desinserção), tipo II (desinserção da âncora bicipital-labral superior, instável — a mais comum e clinicamente relevante), tipo III (rasgo em alça de balde do lábio superior com âncora intacta) e tipo IV (extensão do rasgo em alça de balde para o tendão do bíceps). O tipo II é o mais frequentemente associado a sintomas mecânicos e é o principal alvo de reparo cirúrgico quando sintomático e refratário ao tratamento conservador.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-024",
+      "tema": "SLAP - teste clínico",
+      "enunciado": "O teste de O'Brien (compressão ativa), utilizado na suspeita de lesão SLAP, é considerado positivo quando:",
+      "alternativas": [
+        "A dor é reproduzida com o braço em rotação interna e adução horizontal contra resistência, e melhora significativamente com a rotação externa do antebraço na mesma posição",
+        "A dor surge apenas na rotação externa do ombro em abdução de 90 graus",
+        "O paciente apresenta apenas fraqueza de abdução, sem dor",
+        "O teste é positivo somente em lesões completas do manguito rotador"
+      ],
+      "correta": 0,
+      "comentario": "No teste de O'Brien, o ombro é posicionado em 90 graus de flexão, adução horizontal de 10-15 graus e rotação interna (polegar para baixo); o examinador aplica resistência para baixo. O teste é considerado positivo para lesão SLAP quando há dor nessa posição que melhora ou desaparece ao repetir a manobra com o antebraço em supinação (rotação externa, palma para cima). Apesar de sensível, tem especificidade limitada, podendo ser positivo também em lesões acromioclaviculares e do manguito.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-025",
+      "tema": "Bíceps - tenodese vs tenotomia",
+      "enunciado": "Paciente de 68 anos, sedentário, com lesão degenerativa e instabilidade da cabeça longa do bíceps associada a lesão do manguito rotador, será submetido a tratamento cirúrgico do bíceps. Em comparação à tenotomia simples, a tenodese apresenta como principal vantagem:",
+      "alternativas": [
+        "Menor tempo cirúrgico em todos os casos",
+        "Preservação do contorno muscular e menor incidência de deformidade em 'Popeye', ao custo de maior complexidade técnica",
+        "Eliminação completa do risco de dor residual no sulco bicipital",
+        "Ser sempre a opção preferencial em pacientes idosos de baixa demanda"
+      ],
+      "correta": 1,
+      "comentario": "A tenodese do bíceps fixa o tendão em um novo ponto (geralmente na região proximal do sulco bicipital ou subpeitoral), preservando parcialmente o contorno muscular e reduzindo a incidência da deformidade em 'Popeye' e de cãibras musculares, sendo preferida em pacientes mais jovens e ativos, apesar de exigir mais tempo cirúrgico e ter risco de complicações relacionadas à fixação. Já a tenotomia simples é mais rápida e tecnicamente simples, sendo frequentemente escolhida em pacientes idosos de baixa demanda funcional e estética, aceitando o risco de deformidade visível.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-026",
+      "tema": "SLAP - tratamento",
+      "enunciado": "Atleta arremessador de 24 anos com lesão SLAP tipo II confirmada por artro-RM e sintomas mecânicos refratários a 3 meses de tratamento conservador. A conduta cirúrgica mais apropriada é:",
+      "alternativas": [
+        "Reparo artroscópico da âncora bicipital-labral com âncoras",
+        "Tenodese isolada do bíceps sem reparo labral",
+        "Artroplastia total do ombro",
+        "Reconstrução do ligamento coracoacromial"
+      ],
+      "correta": 0,
+      "comentario": "O reparo artroscópico da lesão SLAP tipo II, com reinserção da âncora bicipital-labral superior por meio de âncoras, é o tratamento de escolha em pacientes jovens e ativos, especialmente atletas overhead, refratários ao tratamento conservador. A tenodese do bíceps é uma alternativa considerada principalmente em pacientes mais velhos ou com menor demanda de arremesso, já que pode limitar o retorno pleno ao esporte de alto rendimento em alguns casos, embora seja cada vez mais usada mesmo em ativos com resultados satisfatórios.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-027",
+      "tema": "Bíceps - ruptura da cabeça longa",
+      "enunciado": "Homem de 60 anos nota, após esforço leve, o aparecimento súbito de uma tumoração arredondada no terço distal do braço, com pouca dor, mantendo força de flexão do cotovelo relativamente preservada. Esse achado é característico de:",
+      "alternativas": [
+        "Ruptura do tendão distal do bíceps",
+        "Ruptura da cabeça longa do bíceps (sinal de Popeye)",
+        "Lesão do nervo musculocutâneo",
+        "Ruptura do tríceps braquial"
+      ],
+      "correta": 1,
+      "comentario": "A ruptura espontânea ou por esforço mínimo da cabeça longa do bíceps, comum em pacientes de meia-idade com tendinopatia degenerativa prévia (frequentemente associada a lesão do manguito rotador), produz a retração do ventre muscular distalmente, criando a deformidade característica em 'Popeye' (bola no braço). A força de flexão do cotovelo é pouco afetada devido à ação compensatória da cabeça curta do bíceps e do braquial, sendo o tratamento frequentemente conservador em pacientes idosos e de baixa demanda.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-028",
+      "tema": "Capsulite adesiva - fases",
+      "enunciado": "A capsulite adesiva do ombro ('ombro congelado') classicamente evolui em fases sequenciais. A fase caracterizada por dor progressiva com perda gradual da amplitude de movimento, tanto ativa quanto passiva, é denominada fase:",
+      "alternativas": [
+        "De congelamento (freezing)",
+        "Congelada (frozen)",
+        "De descongelamento (thawing)",
+        "De consolidação"
+      ],
+      "correta": 0,
+      "comentario": "A capsulite adesiva evolui classicamente em três fases: freezing (congelamento), com dor progressiva e perda gradativa de amplitude de movimento ativa e passiva; frozen (congelada), com rigidez predominante e dor menos intensa; e thawing (descongelamento), com recuperação gradual da amplitude de movimento. O reconhecimento da fase auxilia na escolha terapêutica, já que intervenções mais agressivas (manipulação, liberação capsular) são geralmente mais bem indicadas nas fases congelada/descongelamento do que na fase inflamatória inicial muito dolorosa.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-029",
+      "tema": "Capsulite adesiva - associação",
+      "enunciado": "A capsulite adesiva idiopática do ombro apresenta associação epidemiológica bem estabelecida com qual condição sistêmica?",
+      "alternativas": [
+        "Hipertireoidismo isolado",
+        "Diabetes mellitus",
+        "Insuficiência renal crônica dialítica",
+        "Anemia falciforme"
+      ],
+      "correta": 1,
+      "comentario": "O diabetes mellitus, especialmente quando de longa duração ou mal controlado, é o principal fator de risco sistêmico associado à capsulite adesiva, com prevalência estimada de 2 a 5 vezes maior em diabéticos em relação à população geral, além de apresentar curso frequentemente mais prolongado e refratário ao tratamento nesses pacientes. Doenças da tireoide também têm associação descrita, mas menos robusta que o diabetes.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-030",
+      "tema": "Capsulite adesiva - tratamento",
+      "enunciado": "Paciente com capsulite adesiva em fase congelada, sem resposta adequada após 4 meses de fisioterapia, infiltração de corticoide intra-articular e anti-inflamatórios, pode ser candidato a:",
+      "alternativas": [
+        "Artrodese do ombro",
+        "Manipulação sob anestesia e/ou liberação capsular artroscópica",
+        "Amputação do membro",
+        "Artroplastia total anatômica do ombro de imediato"
+      ],
+      "correta": 1,
+      "comentario": "Em casos refratários ao tratamento conservador bem conduzido (fisioterapia, infiltração, anti-inflamatórios) por período adequado, a manipulação sob anestesia e/ou a liberação capsular artroscópica (capsulotomia dos intervalos rotador, anterior, inferior e posterior conforme necessário) são opções eficazes para restaurar a amplitude de movimento. A manipulação isolada carrega risco de fraturas, lesões labrais e do manguito, sendo usada com critério, especialmente em diabéticos com osso mais frágil ou ombros muito rígidos.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-031",
+      "tema": "Capsulite adesiva - diagnóstico diferencial",
+      "enunciado": "O principal achado que diferencia a capsulite adesiva de uma lesão isolada do manguito rotador ao exame físico é:",
+      "alternativas": [
+        "Presença de dor noturna em ambas as condições",
+        "Perda de amplitude de movimento passiva significativa na capsulite adesiva, enquanto na lesão do manguito a movimentação passiva é tipicamente preservada",
+        "Ausência completa de dor na capsulite adesiva",
+        "Fraqueza muscular intensa e localizada em ambas as condições de forma idêntica"
+      ],
+      "correta": 1,
+      "comentario": "Na capsulite adesiva, há restrição significativa e global da amplitude de movimento tanto ativa quanto passiva (especialmente rotação externa), refletindo o acometimento capsular verdadeiro. Já nas lesões do manguito rotador isoladas, a movimentação passiva costuma estar preservada (ou pouco restrita por dor), com déficit predominantemente na movimentação ativa e força muscular. Essa distinção clínica orienta a investigação complementar e a estratégia terapêutica inicial.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-032",
+      "tema": "Artroplastia anatômica",
+      "enunciado": "A artroplastia total anatômica do ombro está classicamente indicada para pacientes com artrose glenoumeral primária e:",
+      "alternativas": [
+        "Manguito rotador íntegro e funcionante",
+        "Lesão maciça e irreparável do manguito rotador com pseudoparalisia",
+        "Artropatia do manguito rotador avançada (Hamada 4-5)",
+        "Perda óssea glenoidal grave com glenoide não reconstrutível"
+      ],
+      "correta": 0,
+      "comentario": "A artroplastia total anatômica (componente umeral e glenoidal ortotópicos) depende de um manguito rotador funcional e íntegro para estabilizar a articulação e permitir a elevação ativa do braço, sendo a opção preferencial em artrose glenoumeral primária (osteoartrite) com manguito preservado. Quando o manguito está maciçamente lesado e irreparável, especialmente com pseudoparalisia, a artroplastia reversa é a opção mais adequada, pois não depende da função do manguito para estabilidade e elevação.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-033",
+      "tema": "Artroplastia reversa - indicação",
+      "enunciado": "A principal indicação clássica da artroplastia total reversa do ombro é:",
+      "alternativas": [
+        "Artrose glenoumeral primária com manguito rotador íntegro em paciente jovem",
+        "Artropatia do manguito rotador (cuff tear arthropathy) com pseudoparalisia",
+        "Instabilidade anterior recorrente em atleta jovem",
+        "Fratura isolada do processo coracoide"
+      ],
+      "correta": 1,
+      "comentario": "A artroplastia reversa foi desenvolvida especificamente para tratar a artropatia do manguito rotador, situação em que a perda da função do manguito impede que uma prótese anatômica convencional funcione adequadamente. Ao medializar e distalizar o centro de rotação, a prótese reversa permite que o deltoide, por si só, gere torque suficiente para elevação do braço, sendo hoje também indicada para fraturas complexas do úmero proximal em idosos, revisões de artroplastia e tumores, mas sua indicação clássica permanece a artropatia do manguito com pseudoparalisia.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-034",
+      "tema": "Artroplastia reversa - biomecânica",
+      "enunciado": "O princípio biomecânico fundamental da artroplastia reversa do ombro, proposto por Grammont, consiste em:",
+      "alternativas": [
+        "Aumentar a distância entre o centro de rotação e a superfície da glenoide",
+        "Medializar e distalizar o centro de rotação glenoumeral, aumentando o braço de alavanca e a tensão do deltoide",
+        "Preservar a anatomia original da cabeça umeral côncava e da glenoide convexa",
+        "Eliminar completamente a necessidade de qualquer musculatura periarticular funcionante"
+      ],
+      "correta": 1,
+      "comentario": "O conceito de Grammont inverte a geometria articular (glenosfera convexa fixada na glenoide e componente umeral côncavo), medializando e distalizando o centro de rotação. Isso aumenta o braço de alavanca do deltoide e sua pré-tensão, permitindo que ele compense a ausência funcional do manguito rotador para gerar elevação ativa do braço, ao custo de alterações biomecânicas que podem favorecer o notching escapular e limitar a rotação externa em alguns desenhos protéticos.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "OCM-035",
+      "tema": "Artroplastia reversa - complicação",
+      "enunciado": "Uma complicação característica e específica da artroplastia total reversa do ombro, relacionada ao contato mecânico repetitivo entre o componente umeral e a borda inferior da glenoide/escápula, é denominada:",
+      "alternativas": [
+        "Notching escapular (scapular notching)",
+        "Luxação anterior recorrente típica de instabilidade nativa",
+        "Síndrome do túnel do carpo",
+        "Necrose avascular da cabeça do rádio"
+      ],
+      "correta": 0,
+      "comentario": "O notching escapular ocorre pelo impacto repetido do componente polietileno umeral contra a borda inferior do pescoço glenoidal durante a adução do braço, podendo levar a erosão óssea progressiva, afrouxamento do componente glenoidal (baseplate) e, em casos avançados, comprometer a fixação da prótese. Estratégias de posicionamento (inclinação inferior da glenosfera, overhang inferior) e desenhos protéticos mais recentes buscam reduzir sua incidência.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-036",
+      "tema": "Artrose glenoumeral - radiografia",
+      "enunciado": "Os achados radiográficos característicos da artrose glenoumeral primária incluem, EXCETO:",
+      "alternativas": [
+        "Redução do espaço articular glenoumeral",
+        "Osteófitos marginais, especialmente na região inferior da cabeça umeral ('goat's beard')",
+        "Erosão glenoidal posterior com subluxação posterior da cabeça umeral (padrão comum na artrose primária)",
+        "Ascensão da cabeça umeral com contato acromioumeral, como achado predominante e universal"
+      ],
+      "correta": 3,
+      "comentario": "A ascensão da cabeça umeral com contato acromioumeral é característica da artropatia do manguito rotador (por perda do manguito superior), e não da artrose glenoumeral primária, na qual o manguito costuma estar preservado e a cabeça umeral permanece centrada verticalmente. Na artrose primária são típicos a redução do espaço articular, osteófitos marginais inferiores (goat's beard) e frequentemente erosão glenoidal posterior com subluxação posterior da cabeça umeral, achado importante no planejamento da artroplastia (manejo da retroversão glenoidal).",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "OCM-037",
+      "tema": "Discinesia escapular",
+      "enunciado": "A discinesia escapular, caracterizada por alteração do ritmo escapuloumeral e frequentemente associada a fraqueza do serrátil anterior e trapézio, pode se apresentar clinicamente com o padrão descrito como 'SICK scapula', cujo componente clínico típico inclui:",
+      "alternativas": [
+        "Escápula elevada e protraída com dor à palpação do processo coracoide e da margem medial da escápula",
+        "Ausência completa de qualquer alteração postural",
+        "Hiperlaxidão isolada do cotovelo contralateral",
+        "Fraqueza exclusiva do quadríceps"
+      ],
+      "correta": 0,
+      "comentario": "O acrônimo SICK scapula (Scapular malposition, Inferior medial border prominence, Coracoid pain and malposition, dysKinesis of scapular movement) descreve um padrão de discinesia escapular com posição alterada (geralmente escápula baixa/protraída), proeminência do bordo medial inferior, dor à palpação do processo coracoide e movimento escapular alterado durante a elevação do braço, frequentemente relacionado a desequilíbrio entre a musculatura estabilizadora (trapézio, serrátil anterior, romboides).",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "OCM-038",
+      "tema": "Nervo supraescapular",
+      "enunciado": "Paciente apresenta atrofia isolada da fossa infraespinal e fraqueza seletiva de rotação externa, sem alteração significativa da abdução, associada a um cisto paralabral no espaço espinoglenoidal identificado na RM. O nervo comprimido nesse contexto é o:",
+      "alternativas": [
+        "Nervo axilar",
+        "Nervo supraescapular, na incisura espinoglenoidal",
+        "Nervo torácico longo",
+        "Nervo musculocutâneo"
+      ],
+      "correta": 1,
+      "comentario": "A compressão do nervo supraescapular na incisura espinoglenoidal (mais distal que a incisura escapular) afeta seletivamente o ramo motor para o infraespinal, poupando o supraespinal, e classicamente está associada a cistos paralabrais decorrentes de lesões labrais posteriores (frequentemente SLAP). Já a compressão na incisura escapular (mais proximal) afeta tanto o supraespinal quanto o infraespinal. O tratamento pode incluir descompressão do cisto e reparo labral quando indicado.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "OCM-039",
+      "tema": "Nervo torácico longo - escápula alada",
+      "enunciado": "Paciente relata fraqueza progressiva do ombro direito após episódio viral, com proeminência do bordo medial da escápula ao empurrar as mãos contra uma parede (escápula alada). O nervo comumente acometido nesse quadro é o:",
+      "alternativas": [
+        "Nervo torácico longo, inervando o serrátil anterior",
+        "Nervo axilar, inervando o deltoide",
+        "Nervo supraescapular, inervando o supraespinal",
+        "Nervo radial, inervando o tríceps"
+      ],
+      "correta": 0,
+      "comentario": "A lesão do nervo torácico longo (originado de C5-C7), que inerva o músculo serrátil anterior, causa a clássica escápula alada, mais evidente ao empurrar contra uma parede ou resistência, devido à perda da força que mantém a escápula estabilizada contra o gradil costal. Pode ocorrer após neurite braquial idiopática (síndrome de Parsonage-Turner), trauma, procedimentos cirúrgicos axilares (mastectomia) ou compressão. A maioria dos casos idiopáticos apresenta recuperação espontânea ao longo de meses a poucos anos.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-040",
+      "tema": "Nervo axilar - luxação",
+      "enunciado": "Homem de 70 anos sofre luxação anterior do ombro. Após a redução, apresenta hipoestesia na região do 'sinal do distintivo' (deltoide lateral) e dificuldade de contração isométrica do deltoide. O nervo mais provavelmente lesado é o:",
+      "alternativas": [
+        "Nervo axilar",
+        "Nervo radial",
+        "Nervo mediano",
+        "Nervo ulnar"
+      ],
+      "correta": 0,
+      "comentario": "O nervo axilar é o nervo periférico mais comumente lesado em associação a luxações anteriores do ombro, especialmente em pacientes idosos, devido ao seu trajeto próximo à cápsula inferior e ao colo cirúrgico do úmero. A hipoestesia na região do deltoide lateral ('sinal do distintivo') e a fraqueza de contração isométrica do deltoide (idealmente testada mesmo sem abdução completa, dada a dor) sugerem o comprometimento. A maioria das neuropraxias axilares pós-luxação recupera espontaneamente, mas deve ser documentada e acompanhada, incluindo com eletroneuromiografia se não houver melhora.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-041",
+      "tema": "Epicondilite lateral - anatomia",
+      "enunciado": "A epicondilite lateral ('cotovelo de tenista') é uma tendinopatia degenerativa que acomete predominantemente a origem do tendão do músculo:",
+      "alternativas": [
+        "Extensor radial curto do carpo (ECRB)",
+        "Flexor radial do carpo",
+        "Pronador redondo",
+        "Ancôneo isoladamente"
+      ],
+      "correta": 0,
+      "comentario": "A epicondilite lateral acomete classicamente a origem do extensor radial curto do carpo (ECRB) no epicôndilo lateral do úmero, com achados histopatológicos de degeneração angiofibroblástica (tendinose), e não um processo inflamatório clássico, apesar do sufixo '-ite'. Isso explica a resposta muitas vezes limitada dos anti-inflamatórios isolados e o papel de tratamentos que estimulam a cicatrização tendínea, como exercícios excêntricos.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-042",
+      "tema": "Epicondilite lateral - teste clínico",
+      "enunciado": "No exame de um paciente com suspeita de epicondilite lateral, a dor reproduzida no epicôndilo lateral ao realizar extensão resistida do punho com o cotovelo em extensão caracteriza o teste de:",
+      "alternativas": [
+        "Cozen",
+        "Tinel",
+        "Phalen",
+        "Finkelstein"
+      ],
+      "correta": 0,
+      "comentario": "O teste de Cozen avalia a epicondilite lateral: com o cotovelo estendido e o antebraço pronado, o paciente realiza extensão do punho contra resistência aplicada pelo examinador, reproduzindo dor no epicôndilo lateral quando positivo. Tinel avalia irritabilidade de nervos periféricos; Phalen e Finkelstein são testes específicos para síndrome do túnel do carpo e tenossinovite de De Quervain, respectivamente, não relacionados ao cotovelo.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-043",
+      "tema": "Epicondilite medial",
+      "enunciado": "A epicondilite medial ('cotovelo de golfista') acomete a origem comum dos músculos flexopronadores no epicôndilo medial, sendo importante diferenciar essa condição de qual outra afecção comum na mesma região anatômica?",
+      "alternativas": [
+        "Síndrome do túnel cubital (compressão do nervo ulnar)",
+        "Síndrome do túnel do carpo",
+        "Rizartrose",
+        "Doença de Kienböck"
+      ],
+      "correta": 0,
+      "comentario": "A epicondilite medial e a síndrome do túnel cubital (compressão do nervo ulnar no túnel cubital, posterior ao epicôndilo medial) podem coexistir ou ser confundidas, já que ambas causam dor na face medial do cotovelo. A presença de parestesias no território ulnar (quarto e quinto dedos), sinal de Tinel positivo sobre o nervo ulnar e fraqueza intrínseca da mão sugerem componente neurológico associado, que deve ser ativamente pesquisado antes de definir o tratamento, pois cerca de 25-50% dos casos de epicondilite medial cursam com algum grau de neuropatia ulnar concomitante.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-044",
+      "tema": "Epicondilite lateral - tratamento",
+      "enunciado": "O tratamento inicial de escolha para a maioria dos pacientes com epicondilite lateral é:",
+      "alternativas": [
+        "Cirurgia de desbridamento do ECRB",
+        "Tratamento conservador, incluindo modificação de atividades, fisioterapia com exercícios excêntricos e, eventualmente, órtese",
+        "Infiltração seriada e frequente de corticoide como primeira linha por tempo prolongado",
+        "Liberação artroscópica imediata em todos os casos"
+      ],
+      "correta": 1,
+      "comentario": "A epicondilite lateral tem evolução favorável na grande maioria dos casos com tratamento conservador, incluindo repouso relativo/modificação de atividades, fisioterapia com ênfase em exercícios excêntricos de fortalecimento, órteses de contraforça e, eventualmente, terapias adjuvantes. As infiltrações de corticoide podem proporcionar alívio a curto prazo, mas há evidências de piores resultados a médio/longo prazo e maior taxa de recidiva quando usadas repetidamente, devendo ser reservadas com critério. O tratamento cirúrgico é reservado para casos refratários após 6-12 meses de tratamento conservador adequado.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-045",
+      "tema": "Síndrome do túnel radial",
+      "enunciado": "Paciente com dor lateral no cotovelo, sem melhora após tratamento prolongado para epicondilite lateral, apresenta dor à palpação cerca de 4-5 cm distal ao epicôndilo lateral (sobre a arcada de Fröhse) e piora com extensão resistida do terceiro dedo, sem déficit sensitivo. O diagnóstico mais provável é:",
+      "alternativas": [
+        "Síndrome do túnel radial (compressão do nervo interósseo posterior)",
+        "Síndrome do túnel do carpo",
+        "Epicondilite medial",
+        "Compressão do nervo ulnar no túnel cubital"
+      ],
+      "correta": 0,
+      "comentario": "A síndrome do túnel radial resulta da compressão do ramo profundo do nervo radial (nervo interósseo posterior) na região do arco de Fröhse, na borda proximal do músculo supinador, sendo um importante e frequentemente subdiagnosticado diagnóstico diferencial da epicondilite lateral refratária. O ponto de maior sensibilidade é mais distal (cerca de 3-5 cm) em relação ao epicôndilo lateral, e o teste de extensão resistida do terceiro dedo (dedo médio) com o cotovelo estendido costuma reproduzir a dor, sem déficit sensitivo puro, pois o nervo interósseo posterior é predominantemente motor.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "OCM-046",
+      "tema": "Rigidez do cotovelo - contratura",
+      "enunciado": "Paciente com rigidez pós-traumática do cotovelo, mantendo déficit funcional de extensão com bloqueio mecânico articular, refratário à fisioterapia prolongada, é candidato a:",
+      "alternativas": [
+        "Artrodese do cotovelo em posição funcional",
+        "Capsulectomia (liberação capsular anterior e posterior), aberta ou artroscópica, com remoção de osteófitos bloqueantes",
+        "Amputação do antebraço",
+        "Infiltração isolada de corticoide intra-articular"
+      ],
+      "correta": 1,
+      "comentario": "Na rigidez pós-traumática refratária ao tratamento conservador, a capsulectomia (liberação das cápsulas anterior e posterior), associada à ressecção de osteófitos e corpos livres que bloqueiam mecanicamente o movimento, pode ser realizada por via aberta ou artroscópica, buscando recuperar um arco funcional de movimento (idealmente entre 30 e 130 graus de flexo-extensão). A escolha da via depende da experiência do cirurgião, da localização predominante da contratura e da proximidade de estruturas neurovasculares, especialmente o nervo ulnar.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-047",
+      "tema": "Ossificação heterotópica",
+      "enunciado": "São fatores de risco bem estabelecidos para o desenvolvimento de ossificação heterotópica após trauma do cotovelo, EXCETO:",
+      "alternativas": [
+        "Traumatismo cranioencefálico associado",
+        "Queimaduras extensas",
+        "Tempo cirúrgico prolongado e trauma cirúrgico extenso de partes moles",
+        "Sexo feminino isoladamente, sem outros fatores associados"
+      ],
+      "correta": 3,
+      "comentario": "Os principais fatores de risco para ossificação heterotópica no cotovelo incluem traumatismo cranioencefálico associado, queimaduras extensas, tempo prolongado entre a lesão e o tratamento definitivo, cirurgia extensa com manipulação agressiva de partes moles, fratura-luxação complexa (especialmente a tríade terrível) e atraso na mobilização. O sexo feminino isoladamente não é considerado fator de risco independente relevante; a profilaxia em pacientes de alto risco pode incluir indometacina ou radioterapia de baixa dose no perioperatório, conforme o contexto.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-048",
+      "tema": "Liberação artroscópica do cotovelo",
+      "enunciado": "Durante a liberação artroscópica da rigidez do cotovelo, a estrutura neurovascular que exige maior cuidado e frequentemente é isolada ou protegida durante a liberação capsular anterior, especialmente próxima ao processo coronoide, é o(a):",
+      "alternativas": [
+        "Nervo mediano e a artéria braquial, na fossa anterior",
+        "Nervo ulnar isoladamente, sempre na face anterior",
+        "Veia cefálica",
+        "Nervo axilar"
+      ],
+      "correta": 0,
+      "comentario": "Durante a liberação artroscópica da cápsula anterior do cotovelo, o nervo mediano e a artéria braquial estão em risco devido à sua proximidade com a cápsula anterior, especialmente quando há deformidade/contratura que altera as relações anatômicas normais; muitos cirurgiões optam por realizar a porção mais crítica da liberação anterior sob visualização direta cuidadosa ou mesmo por via aberta em casos de rigidez muito grave. O nervo ulnar é mais relevante durante manipulações e liberações póstero-mediais, exigindo atenção especial se houver transposição prévia ou subluxação.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "OCM-049",
+      "tema": "Instabilidade rotatória posterolateral",
+      "enunciado": "A instabilidade rotatória posterolateral do cotovelo (PLRI) resulta primariamente da insuficiência de qual estrutura ligamentar?",
+      "alternativas": [
+        "Ligamento colateral ulnar (medial)",
+        "Ligamento colateral ulnar lateral (LUCL)",
+        "Ligamento anular isolado, sem envolvimento de outras estruturas",
+        "Ligamento coracoumeral"
+      ],
+      "correta": 1,
+      "comentario": "A instabilidade rotatória posterolateral (PLRI) é a forma mais comum de instabilidade crônica do cotovelo e decorre principalmente da insuficiência do ligamento colateral ulnar lateral (LUCL), que normalmente estabiliza a articulação radioumeral contra a subluxação posterolateral rotatória. Pode ocorrer após luxação traumática do cotovelo, iatrogenia cirúrgica (liberação lateral excessiva, como em cirurgias para epicondilite) ou de forma atraumática em pacientes com frouxidão constitucional.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-050",
+      "tema": "Instabilidade - pivot-shift do cotovelo",
+      "enunciado": "O teste do pivot-shift do cotovelo (lateral pivot-shift test), utilizado para avaliar instabilidade rotatória posterolateral, é realizado com o paciente em decúbito dorsal, braço acima da cabeça, aplicando ao antebraço:",
+      "alternativas": [
+        "Supinação, valgo e carga axial de compressão, com flexão progressiva do cotovelo a partir da extensão",
+        "Pronação isolada sem carga axial",
+        "Varo forçado apenas em extensão total",
+        "Rotação interna do ombro associada a flexão do punho"
+      ],
+      "correta": 0,
+      "comentario": "O teste do pivot-shift lateral avalia a PLRI aplicando supinação do antebraço, estresse em valgo e compressão axial, enquanto o cotovelo é levado da extensão para a flexão; a subluxação posterolateral da cabeça radial em relação ao capítulo (com sensação de ressalto ao se reduzir durante a flexão) caracteriza teste positivo. Devido ao desconforto e apreensão que gera, muitas vezes é mais bem avaliado sob anestesia geral durante a artroscopia diagnóstica.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "OCM-051",
+      "tema": "Tríade terrível do cotovelo",
+      "enunciado": "A associação de luxação do cotovelo com fratura da cabeça do rádio e fratura do processo coronoide da ulna é classicamente denominada:",
+      "alternativas": [
+        "Fratura de Monteggia",
+        "Tríade terrível do cotovelo (terrible triad)",
+        "Fratura de Galeazzi",
+        "Lesão de Essex-Lopresti"
+      ],
+      "correta": 1,
+      "comentario": "A 'tríade terrível' do cotovelo consiste na combinação de luxação do cotovelo, fratura da cabeça/colo do rádio e fratura do processo coronoide, configurando uma lesão altamente instável associada a alto risco de instabilidade recorrente, rigidez e mau resultado funcional se não tratada adequadamente, geralmente exigindo reparo/reconstrução cirúrgica de todas as estruturas lesadas (óssea e ligamentar) para restaurar a estabilidade. Difere da fratura de Monteggia (fratura da ulna com luxação da cabeça do rádio) e da lesão de Essex-Lopresti (fratura cominutiva da cabeça do rádio com lesão da membrana interóssea e luxação radioulnar distal).",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-052",
+      "tema": "Reconstrução do LUCL",
+      "enunciado": "Na reconstrução cirúrgica do ligamento colateral ulnar lateral (LUCL) para tratamento de instabilidade rotatória posterolateral crônica do cotovelo, é comum a utilização de:",
+      "alternativas": [
+        "Enxerto de tendão autólogo (por exemplo, palmar longo ou grácil) fixado nos pontos isométricos umeral e ulnar",
+        "Placa metálica bloqueada sem qualquer reconstrução de partes moles",
+        "Substituição total da articulação por prótese em todos os casos",
+        "Simples imobilização gessada por 12 semanas sem cirurgia"
+      ],
+      "correta": 0,
+      "comentario": "A reconstrução do LUCL para instabilidade posterolateral crônica sintomática e refratária utiliza tipicamente um enxerto de tendão autólogo (frequentemente o palmar longo, quando presente, ou grácil), fixado em pontos anatômicos isométricos no epicôndilo lateral do úmero e na crista do supinador da ulna, reconstruindo a função estabilizadora original do ligamento. O tratamento cirúrgico é reservado para instabilidade sintomática confirmada, já que muitos pacientes com PLRI leve podem ser manejados com fortalecimento muscular dinâmico.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "OCM-053",
+      "tema": "Artrose do cotovelo",
+      "enunciado": "A artrose primária do cotovelo acomete predominantemente qual perfil de paciente e apresenta como achado radiográfico característico:",
+      "alternativas": [
+        "Homens jovens sedentários, com estreitamento articular difuso precoce",
+        "Homens de meia-idade com histórico de uso repetitivo/trabalho braçal, com osteófitos proeminentes no processo coronoide e na fossa olecraniana, mas relativa preservação do espaço articular",
+        "Mulheres idosas com osteoporose grave e fratura patológica associada",
+        "Crianças com epifisiólise do capítulo"
+      ],
+      "correta": 1,
+      "comentario": "A artrose primária do cotovelo é mais comum em homens de meia-idade com história de trabalho manual pesado ou esportes de arremesso/levantamento repetitivo, caracterizando-se por formação proeminente de osteófitos (especialmente nos processos coronoide e olécrano e respectivas fossas), corpos livres intra-articulares e relativa preservação do espaço articular na fase inicial, diferentemente de artropatias inflamatórias que cursam com destruição articular mais precoce e difusa.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-054",
+      "tema": "Artroplastia total do cotovelo",
+      "enunciado": "A artroplastia total do cotovelo é classicamente mais bem indicada em pacientes com:",
+      "alternativas": [
+        "Artrose pós-traumática em trabalhador braçal jovem",
+        "Artrite reumatoide avançada com destruição articular em paciente idoso de baixa demanda funcional",
+        "Instabilidade aguda ligamentar isolada sem lesão articular",
+        "Osteocondrite dissecante do capítulo em atleta jovem"
+      ],
+      "correta": 1,
+      "comentario": "A artroplastia total do cotovelo (geralmente com desenho semiconstrito) tem sua melhor indicação em pacientes idosos de baixa demanda funcional com destruição articular avançada, classicamente na artrite reumatoide, onde proporciona bom alívio da dor e função. Em pacientes jovens e ativos, especialmente trabalhadores braçais, a artroplastia tem alto risco de afrouxamento e falha mecânica precoce devido às restrições de carga permanentes impostas após o procedimento, sendo preferíveis outras opções (desbridamento, artroplastia de interposição) nesse grupo.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-055",
+      "tema": "Artroplastia do cotovelo - restrição pós-operatória",
+      "enunciado": "Após artroplastia total do cotovelo, a restrição permanente de carga geralmente recomendada ao paciente para atividades repetitivas é de aproximadamente:",
+      "alternativas": [
+        "1 kg de forma esporádica e até 5 kg de forma repetitiva ao longo da vida",
+        "Nenhuma restrição, podendo retornar a levantamento de peso pesado sem limitações",
+        "Restrição apenas nos primeiros 15 dias, sem limitação definitiva",
+        "Restrição válida somente para atividades esportivas de contato"
+      ],
+      "correta": 0,
+      "comentario": "Devido às limitações mecânicas dos componentes protéticos do cotovelo e ao risco de afrouxamento asséptico e fratura periprotética sob cargas elevadas, recomenda-se restrição permanente de levantamento de peso: geralmente não mais que 1 kg de forma repetitiva e até cerca de 5 kg de forma esporádica/isolada, o que reforça por que essa cirurgia é preferencialmente indicada para pacientes de baixa demanda funcional.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "OCM-056",
+      "tema": "Síndrome do túnel cubital",
+      "enunciado": "Paciente relata parestesias no quarto e quinto dedos e face medial da mão, com piora ao manter o cotovelo fletido por tempo prolongado (ex.: ao telefone). Ao exame, a percussão sobre o sulco retroepicondilar reproduz os sintomas. Esse achado é denominado sinal de:",
+      "alternativas": [
+        "Tinel",
+        "Phalen",
+        "Finkelstein",
+        "Froment"
+      ],
+      "correta": 0,
+      "comentario": "O sinal de Tinel, quando positivo sobre o trajeto do nervo ulnar no túnel cubital (posterior ao epicôndilo medial), sugere irritabilidade/compressão do nervo nesse local, sendo um dos principais testes clínicos na avaliação da síndrome do túnel cubital, a segunda neuropatia compressiva mais comum do membro superior. O teste de flexão do cotovelo prolongada (análogo ao Phalen no punho) também é útil, reproduzindo sintomas após 1 a 3 minutos de flexão máxima do cotovelo.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-057",
+      "tema": "Síndrome do túnel cubital - teste",
+      "enunciado": "O teste de flexão do cotovelo (elbow flexion test), utilizado no diagnóstico da síndrome do túnel cubital, consiste em:",
+      "alternativas": [
+        "Manter o cotovelo em flexão máxima por 1 a 3 minutos, reproduzindo parestesias no território ulnar quando positivo",
+        "Manter o punho em flexão máxima por 1 minuto",
+        "Percussão sobre o nervo mediano no punho",
+        "Extensão forçada do polegar contra resistência"
+      ],
+      "correta": 0,
+      "comentario": "O teste de flexão do cotovelo é o análogo, no cotovelo, ao teste de Phalen do punho: a flexão máxima sustentada do cotovelo por 1 a 3 minutos aumenta a pressão dentro do túnel cubital e tensiona o nervo ulnar, reproduzindo ou agravando parestesias no quarto e quinto dedos quando há síndrome do túnel cubital. Pode ser combinado com compressão direta sobre o nervo para aumentar a sensibilidade do teste.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-058",
+      "tema": "Transposição do nervo ulnar",
+      "enunciado": "São indicações para transposição cirúrgica do nervo ulnar no tratamento da síndrome do túnel cubital, EXCETO:",
+      "alternativas": [
+        "Falha do tratamento conservador com sintomas motores progressivos",
+        "Instabilidade/subluxação recorrente do nervo ulnar sobre o epicôndilo medial",
+        "Compressão associada a alterações ósseas (osteófitos, deformidade em valgo pós-traumática)",
+        "Presença isolada de parestesias leves e intermitentes em paciente sem outros achados, sem tentativa prévia de tratamento conservador"
+      ],
+      "correta": 3,
+      "comentario": "Sintomas leves e intermitentes, sem déficit motor ou sensitivo objetivo, devem inicialmente ser tratados de forma conservadora (modificação de atividades, órteses noturnas em extensão, evitar flexão prolongada) antes de se indicar cirurgia. A transposição (anterior, subcutânea, submuscular ou intramuscular) é reservada para casos refratários ao tratamento conservador, presença de instabilidade/subluxação do nervo sobre o epicôndilo, deformidades ósseas associadas (como cúbito valgo pós-traumático) ou compressão significativa com déficit motor progressivo.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-059",
+      "tema": "Neuropatia ulnar - sinais",
+      "enunciado": "Paciente com neuropatia ulnar avançada apresenta incapacidade de segurar uma folha de papel entre o polegar e o indicador sem flexionar a articulação interfalângica do polegar, compensando com o flexor longo do polegar (inervado pelo nervo mediano). Esse achado denomina-se sinal de:",
+      "alternativas": [
+        "Froment",
+        "Tinel",
+        "Finkelstein",
+        "Watson"
+      ],
+      "correta": 0,
+      "comentario": "O sinal de Froment reflete a fraqueza do músculo adutor do polegar (inervado pelo nervo ulnar), levando o paciente a compensar a pinça polegar-indicador flexionando a articulação interfalângica do polegar através do flexor longo do polegar (inervado pelo nervo mediano), evidenciando disfunção ulnar significativa. É um sinal clássico de neuropatia ulnar avançada, seja no cotovelo (túnel cubital) ou no punho (canal de Guyon).",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-060",
+      "tema": "Instabilidade do nervo ulnar",
+      "enunciado": "Durante o exame físico do cotovelo, ao flexionar e estender passivamente a articulação, o examinador percebe que o nervo ulnar se desloca anteriormente sobre a crista do epicôndilo medial e retorna ao sulco na extensão, de forma palpável e por vezes visível. Esse achado caracteriza:",
+      "alternativas": [
+        "Subluxação/instabilidade do nervo ulnar sobre o epicôndilo medial",
+        "Ruptura completa do ligamento colateral ulnar (medial)",
+        "Sinal de Tinel positivo isolado, sem relevância clínica adicional",
+        "Artrose avançada do cotovelo"
+      ],
+      "correta": 0,
+      "comentario": "A subluxação ou luxação recorrente do nervo ulnar sobre o epicôndilo medial durante a flexão do cotovelo é um achado anatômico relativamente comum (presente em uma parcela significativa da população, muitas vezes assintomático), mas quando associado a sintomas de neuropatia ulnar recorrentes, pode indicar necessidade de transposição cirúrgica, já que o nervo instável fica sujeito a trauma repetitivo por atrito e tração sobre a proeminência óssea.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-061",
+      "tema": "Síndrome do túnel do carpo - testes",
+      "enunciado": "Paciente relata parestesias noturnas em polegar, indicador, médio e metade radial do anular. Ao exame, a flexão passiva máxima do punho mantida por 60 segundos reproduz os sintomas. Esse teste é denominado:",
+      "alternativas": [
+        "Phalen",
+        "Tinel",
+        "Finkelstein",
+        "Froment"
+      ],
+      "correta": 0,
+      "comentario": "O teste de Phalen consiste na flexão passiva máxima do punho mantida por cerca de 30 a 60 segundos, aumentando a pressão dentro do túnel do carpo e reproduzindo parestesias no território do nervo mediano (polegar, indicador, médio e metade radial do anular) quando há síndrome do túnel do carpo. O sinal de Tinel, obtido por percussão sobre o nervo mediano na face volar do punho, é outro teste clássico, porém com sensibilidade e especificidade variáveis na literatura.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-062",
+      "tema": "Síndrome do túnel do carpo - eletroneuromiografia",
+      "enunciado": "A eletroneuromiografia (ENMG) na investigação da síndrome do túnel do carpo está indicada principalmente para:",
+      "alternativas": [
+        "Confirmar o diagnóstico em casos clínicos duvidosos, quantificar a gravidade e descartar outras neuropatias/radiculopatias associadas",
+        "Substituir completamente o exame físico em todos os pacientes",
+        "Ser realizada obrigatoriamente antes de qualquer tratamento conservador",
+        "Avaliar exclusivamente a função motora do nervo ulnar"
+      ],
+      "correta": 0,
+      "comentario": "A ENMG (estudo de condução nervosa e eletromiografia) é útil para confirmar o diagnóstico em casos clinicamente duvidosos, quantificar a gravidade da compressão (leve, moderada, grave), documentar objetivamente antes da cirurgia e excluir diagnósticos diferenciais como radiculopatia cervical (C6-C7), plexopatia ou neuropatia periférica mais generalizada (ex.: polineuropatia diabética). Em casos com apresentação clínica clássica e testes provocativos positivos, o diagnóstico pode ser eminentemente clínico, e o tratamento conservador inicial não depende obrigatoriamente da ENMG.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-063",
+      "tema": "Síndrome do túnel do carpo - tratamento cirúrgico",
+      "enunciado": "Na liberação cirúrgica do túnel do carpo, a estrutura seccionada para descomprimir o nervo mediano é o(a):",
+      "alternativas": [
+        "Ligamento transverso do carpo (retináculo flexor)",
+        "Ligamento anular do punho na face dorsal",
+        "Ligamento colateral ulnar do punho",
+        "Retináculo dos extensores"
+      ],
+      "correta": 0,
+      "comentario": "A liberação do túnel do carpo, seja por via aberta ou endoscópica, consiste na secção completa do ligamento transverso do carpo (retináculo flexor), que forma o teto do túnel, aliviando a pressão sobre o nervo mediano e os tendões flexores que passam por essa estrutura. É considerada altamente eficaz para casos moderados a graves ou refratários ao tratamento conservador (órtese noturna, infiltração, modificação de atividades).",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-064",
+      "tema": "Síndrome do canal de Guyon",
+      "enunciado": "Paciente apresenta parestesias e fraqueza intrínseca da mão no território ulnar, com preservação da sensibilidade do dorso da mão (ramo dorsal ulnar), após uso prolongado de bicicleta com apoio do punho no guidão. A compressão nesse contexto ocorre no(a):",
+      "alternativas": [
+        "Canal de Guyon",
+        "Túnel do carpo",
+        "Túnel cubital",
+        "Arco de Fröhse"
+      ],
+      "correta": 0,
+      "comentario": "A síndrome do canal de Guyon resulta da compressão do nervo ulnar no punho, dentro do canal formado pelo osso pisiforme, hamato e ligamento pisohamato, sendo classicamente associada à pressão repetitiva (ciclismo prolongado - 'paralisia do ciclista', uso de muletas, traumas locais ou massas como gânglios). Como o ramo cutâneo dorsal do nervo ulnar se destaca proximalmente ao canal de Guyon, a sensibilidade do dorso da mão é preservada, diferenciando-a de uma lesão ulnar mais proximal (cotovelo).",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-065",
+      "tema": "Síndrome do interósseo posterior",
+      "enunciado": "A síndrome do túnel radial e a síndrome do interósseo posterior compartilham o mesmo local anatômico de compressão (arco de Fröhse), mas se diferenciam clinicamente porque a síndrome do interósseo posterior classicamente se apresenta com:",
+      "alternativas": [
+        "Fraqueza motora de extensão dos dedos e do punho (com desvio radial), sem déficit sensitivo, pois o nervo interósseo posterior é predominantemente motor",
+        "Apenas dor, sem qualquer fraqueza motora",
+        "Perda de sensibilidade isolada no dorso da mão, sem fraqueza",
+        "Fraqueza de flexão dos dedos"
+      ],
+      "correta": 0,
+      "comentario": "A síndrome do interósseo posterior representa a compressão mais grave/completa do ramo profundo do nervo radial na arcada de Fröhse, causando fraqueza motora predominante (extensão dos dedos, extensão do punho com desvio radial por preservação parcial do extensor radial longo do carpo, que é inervado mais proximalmente), sem déficit sensitivo relevante, já que esse ramo é essencialmente motor. Já a síndrome do túnel radial cursa predominantemente com dor, sem fraqueza evidente, sendo importante diagnóstico diferencial da epicondilite lateral refratária.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "OCM-066",
+      "tema": "Síndrome do pronador redondo",
+      "enunciado": "Paciente apresenta parestesias na região do polegar, indicador e médio, semelhantes à síndrome do túnel do carpo, porém com dor associada na face proximal do antebraço e sintomas que pioram com a pronação resistida do antebraço, sem piora noturna característica. O diagnóstico mais provável é:",
+      "alternativas": [
+        "Síndrome do pronador redondo (compressão do nervo mediano no antebraço proximal)",
+        "Síndrome do túnel do carpo clássica",
+        "Síndrome do canal de Guyon",
+        "Epicondilite lateral"
+      ],
+      "correta": 0,
+      "comentario": "A síndrome do pronador redondo resulta da compressão do nervo mediano na região proximal do antebraço, geralmente entre as cabeças do músculo pronador redondo, sendo um diagnóstico diferencial importante da síndrome do túnel do carpo. Diferencia-se clinicamente pela presença de dor no antebraço proximal (não apenas no punho), ausência de piora noturna característica (menos comum que na STC) e piora dos sintomas com atividades que envolvem pronação resistida do antebraço ou flexão resistida dos dedos, além de eventual comprometimento sensitivo da região tenar (ramo cutâneo palmar, que passa proximal ao túnel do carpo).",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "OCM-067",
+      "tema": "Nervo radial - paralisia do sábado à noite",
+      "enunciado": "A chamada 'paralisia do sábado à noite' (Saturday night palsy) refere-se à compressão do nervo radial no(a):",
+      "alternativas": [
+        "Sulco espiral do úmero, por compressão externa prolongada (ex.: dormir com o braço sobre um encosto rígido, geralmente associada a intoxicação alcoólica)",
+        "Punho, no canal de Guyon",
+        "Cotovelo, no túnel cubital",
+        "Ombro, na incisura espinoglenoidal"
+      ],
+      "correta": 0,
+      "comentario": "A 'paralisia do sábado à noite' descreve a neuropraxia do nervo radial por compressão externa prolongada no sulco espiral do úmero (face posterior, no terço médio a distal do braço), classicamente associada a sono profundo induzido por álcool com o braço apoiado sobre uma superfície dura ou o encosto de uma cadeira/banco. Manifesta-se com queda do punho (wrist drop) e dos dedos, com preservação relativa da sensibilidade do tríceps, já que o ramo para o tríceps geralmente se origina proximalmente ao ponto de compressão. A maioria dos casos recupera espontaneamente em semanas a poucos meses.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-068",
+      "tema": "Síndrome do túnel do carpo - fatores de risco",
+      "enunciado": "São fatores de risco reconhecidos para o desenvolvimento de síndrome do túnel do carpo, EXCETO:",
+      "alternativas": [
+        "Gestação (especialmente terceiro trimestre)",
+        "Diabetes mellitus",
+        "Hipotireoidismo",
+        "Prática regular de corrida de longa distância sem uso das mãos"
+      ],
+      "correta": 3,
+      "comentario": "Gestação (por retenção hídrica e alterações hormonais), diabetes mellitus, hipotireoidismo, artrite reumatoide, obesidade e atividades ocupacionais com movimentos repetitivos de flexão/extensão do punho ou uso de ferramentas vibratórias são fatores de risco bem estabelecidos para síndrome do túnel do carpo. A corrida de longa distância, isoladamente, sem uso repetitivo das mãos e punhos, não é um fator de risco reconhecido para essa condição.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-069",
+      "tema": "Tendões flexores - zonas de Verdan",
+      "enunciado": "Na classificação de Verdan para lesões dos tendões flexores dos dedos, a zona correspondente à região entre a prega palmar distal e a inserção do flexor superficial (a área mais crítica pela presença conjunta dos flexores superficial e profundo dentro da bainha digital) é a zona:",
+      "alternativas": [
+        "Zona I",
+        "Zona II",
+        "Zona III",
+        "Zona V"
+      ],
+      "correta": 1,
+      "comentario": "A zona II de Verdan, também chamada de 'no man's land' (terra de ninguém) por Bunnell, estende-se da prega palmar distal até a inserção do tendão flexor superficial dos dedos (aproximadamente a base da falange média), sendo a região mais desafiadora para reparo cirúrgico devido à proximidade entre os tendões flexor superficial e profundo dentro de uma bainha fibro-óssea estreita, com alto risco histórico de aderências e resultado funcional insatisfatório se mal manejada.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-070",
+      "tema": "Tendões flexores - zona II",
+      "enunciado": "O termo histórico 'no man's land' (terra de ninguém), aplicado à zona II das lesões de tendões flexores, reflete:",
+      "alternativas": [
+        "A recomendação histórica antiga de evitar o reparo primário nessa zona pelo alto risco de aderências, hoje superada por técnicas modernas de reparo e reabilitação precoce",
+        "A ausência completa de estruturas anatômicas relevantes nessa região",
+        "A impossibilidade permanente e atual de qualquer reparo tendíneo nessa zona",
+        "Uma zona sem qualquer relevância clínica"
+      ],
+      "correta": 0,
+      "comentario": "Historicamente, Bunnell recomendava evitar o reparo primário na zona II devido às altas taxas de aderências e maus resultados funcionais, preferindo enxertia tendínea secundária. Com o avanço das técnicas de sutura (múltiplos fios centrais, sutura epitendínea), da compreensão da biologia da cicatrização tendínea e dos protocolos de reabilitação precoce controlada, o reparo primário tornou-se o padrão atual mesmo na zona II, com resultados funcionais satisfatórios na maioria dos casos quando bem indicado e conduzido.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-071",
+      "tema": "Tendões flexores - técnica de sutura",
+      "enunciado": "Em relação à técnica de sutura do núcleo (core suture) no reparo primário dos tendões flexores, é correto afirmar que:",
+      "alternativas": [
+        "Suturas com maior número de fios (strands) cruzando o local da lesão, como técnicas de 4 ou 6 fios, tendem a proporcionar maior resistência tênsil inicial, permitindo protocolos de mobilização mais precoce e agressiva",
+        "Apenas suturas de 2 fios (como a técnica de Kessler modificada) são aceitáveis atualmente",
+        "A sutura epitendínea circunferencial é dispensável e não influencia a resistência do reparo",
+        "O número de fios que cruzam a lesão não tem qualquer relação com a resistência do reparo"
+      ],
+      "correta": 0,
+      "comentario": "Estudos biomecânicos demonstram que suturas de núcleo com maior número de fios cruzando o sítio de reparo (4, 6 ou mais fios) aumentam a resistência tênsil inicial em comparação a técnicas de 2 fios (como Kessler modificado), permitindo protocolos de mobilização ativa precoce mais seguros, com potencial redução de aderências e de ruptura do reparo. A sutura epitendínea circunferencial complementar aumenta ainda mais a resistência e melhora o deslizamento do tendão, sendo parte importante da técnica atual, não dispensável.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "OCM-072",
+      "tema": "Reabilitação de flexores",
+      "enunciado": "Após reparo primário de tendão flexor em zona II, um protocolo de reabilitação que utiliza tração elástica passiva dos dedos em flexão, com extensão ativa protegida dentro de uma órtese dorsal de bloqueio, é conhecido classicamente como protocolo de:",
+      "alternativas": [
+        "Kleinert",
+        "Duran",
+        "Mobilização ativa precoce isolada, sem qualquer proteção com órtese",
+        "Imobilização rígida total por 6 semanas sem qualquer movimento"
+      ],
+      "correta": 0,
+      "comentario": "O protocolo de Kleinert utiliza uma órtese dorsal de bloqueio com tração elástica que mantém os dedos passivamente fletidos, permitindo extensão ativa protegida contra a resistência do elástico (que os retorna à flexão), reduzindo a tensão sobre o reparo enquanto promove algum deslizamento tendíneo para minimizar aderências. O protocolo de Duran, por sua vez, baseia-se em movimentação passiva controlada realizada pelo terapeuta/paciente, sem o sistema de tração elástica dinâmica. Protocolos de mobilização ativa precoce controlada são hoje amplamente utilizados quando a técnica de sutura permite maior resistência inicial.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-073",
+      "tema": "Dedo em martelo (mallet finger)",
+      "enunciado": "Paciente sofre trauma por 'jamming' na ponta do dedo durante partida de vôlei e evolui com deformidade em flexão da articulação interfalângica distal (IFD), sem conseguir estendê-la ativamente. O diagnóstico mais provável é:",
+      "alternativas": [
+        "Dedo em martelo (mallet finger) - lesão do tendão extensor terminal na inserção da falange distal",
+        "Deformidade em botoeira (boutonnière)",
+        "Lesão do flexor profundo dos dedos ('jersey finger')",
+        "Dedo em gatilho"
+      ],
+      "correta": 0,
+      "comentario": "O dedo em martelo (mallet finger) resulta da lesão (ruptura ou avulsão óssea) do tendão extensor terminal na sua inserção na base da falange distal, geralmente por trauma em flexão forçada da IFD com o dedo em extensão ativa (típico de traumas esportivos com bola). Caracteriza-se por incapacidade de extensão ativa da IFD, que permanece em flexão (postura em martelo). O tratamento inicial na maioria dos casos fechados é conservador, com órtese em extensão contínua da IFD por 6 a 8 semanas.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-074",
+      "tema": "Boutonnière",
+      "enunciado": "A deformidade em boutonnière (botoeira) do dedo, caracterizada por flexão da articulação interfalângica proximal (IFP) e hiperextensão compensatória da articulação interfalângica distal (IFD), resulta da lesão de qual estrutura?",
+      "alternativas": [
+        "Banda central do tendão extensor na sua inserção na base da falange média",
+        "Tendão flexor superficial dos dedos",
+        "Ligamento colateral ulnar do polegar",
+        "Polia A2"
+      ],
+      "correta": 0,
+      "comentario": "A lesão da banda central do tendão extensor (que se insere na base da falange média) permite que as bandas laterais migrem volarmente em relação ao eixo de rotação da IFP, resultando em perda da extensão ativa da IFP (que assume postura em flexão) e hiperextensão compensatória da IFD pela tração excessiva das bandas laterais deslocadas — configurando a deformidade em boutonnière. O tratamento nas fases iniciais é frequentemente com órtese que mantém a IFP em extensão, permitindo mobilização livre da IFD.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-075",
+      "tema": "Ruptura tardia do extensor longo do polegar",
+      "enunciado": "Paciente idosa, seis semanas após fratura não cirúrgica do rádio distal, nota incapacidade súbita e indolor de estender ativamente a articulação interfalângica do polegar. O diagnóstico mais provável é:",
+      "alternativas": [
+        "Ruptura tardia (atritional) do tendão extensor longo do polegar, relacionada a alterações vasculares/mecânicas no terceiro compartimento extensor após fratura do rádio distal",
+        "Lesão aguda do nervo mediano",
+        "Dedo em gatilho do polegar",
+        "Rizartrose descompensada"
+      ],
+      "correta": 0,
+      "comentario": "A ruptura tardia (atritional) do tendão extensor longo do polegar é uma complicação bem descrita após fraturas do rádio distal, mesmo tratadas conservadoramente, ocorrendo geralmente entre 4 a 12 semanas após a lesão, por comprometimento vascular do tendão no tubérculo de Lister (terceiro compartimento extensor) associado a atrito sobre irregularidades ósseas ou fragmentos de fratura. O tratamento geralmente envolve transferência tendínea (frequentemente do extensor próprio do indicador) em vez de reparo primário direto, dado o estado degenerativo das extremidades tendíneas.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "OCM-076",
+      "tema": "Reabilitação de extensores",
+      "enunciado": "Após reparo de lesão do tendão extensor em zona proximal ao punho (antebraço), a reabilitação pós-operatória tipicamente envolve:",
+      "alternativas": [
+        "Imobilização/órtese com o punho em leve extensão e liberação progressiva conforme protocolo, dada a menor propensão a aderências graves em comparação a lesões distais complexas",
+        "Mobilização ativa imediata sem qualquer proteção, independente do nível da lesão",
+        "Amputação do dedo envolvido em todos os casos",
+        "Contraindicação absoluta a qualquer movimento por 12 semanas"
+      ],
+      "correta": 0,
+      "comentario": "Lesões extensoras mais proximais (musculotendíneas ou no antebraço) tendem a ter reparo tecnicamente mais simples e menor propensão à formação de aderências limitantes em comparação com lesões em zonas mais distais sobre as articulações (como zona III/IV, referente à IFP e boutonnière), permitindo protocolos de imobilização com liberação progressiva e retorno funcional geralmente favorável. Ainda assim, o protocolo de reabilitação deve ser individualizado conforme a zona específica da lesão e a técnica de reparo utilizada.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-077",
+      "tema": "Dedo em gatilho",
+      "enunciado": "O dedo em gatilho (tenossinovite estenosante dos flexores) resulta do estreitamento e espessamento de qual estrutura anatômica?",
+      "alternativas": [
+        "Polia A1, na altura da articulação metacarpofalângica",
+        "Polia A2",
+        "Retináculo extensor",
+        "Ligamento transverso do carpo"
+      ],
+      "correta": 0,
+      "comentario": "O dedo em gatilho decorre do espessamento e estreitamento da polia A1, localizada na altura da cabeça do metacarpo/articulação metacarpofalângica, dificultando o deslizamento do tendão flexor através da polia e causando o característico ressalto ('travamento') durante a flexão-extensão do dedo, podendo evoluir para bloqueio fixo em flexão em casos avançados. É mais comum em diabéticos, podendo ser múltiplo e bilateral nesses pacientes.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-078",
+      "tema": "Dedo em gatilho - tratamento",
+      "enunciado": "O tratamento de primeira linha para um caso inicial e leve de dedo em gatilho (sem bloqueio fixo em flexão) é:",
+      "alternativas": [
+        "Liberação cirúrgica aberta imediata da polia A1",
+        "Infiltração de corticoide na bainha do flexor, associada a órtese e/ou modificação de atividades",
+        "Amputação do dedo acometido",
+        "Artrodese da articulação interfalângica proximal"
+      ],
+      "correta": 1,
+      "comentario": "Para casos iniciais de dedo em gatilho, sem bloqueio fixo em flexão, a infiltração de corticoide na bainha tendínea (próxima à polia A1), associada a órtese noturna ou modificação de atividades, apresenta boa taxa de resposta, especialmente em casos de curta duração e sem diabetes associada. A liberação cirúrgica da polia A1 (aberta ou percutânea) é reservada para casos refratários à infiltração, recidivantes, ou já com bloqueio estrutural fixo em flexão ao diagnóstico.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-079",
+      "tema": "De Quervain - teste",
+      "enunciado": "Paciente relata dor na região do estiloide radial, que piora ao desviar o punho para o lado ulnar com o polegar fletido dentro da mão fechada. Esse teste é denominado:",
+      "alternativas": [
+        "Finkelstein",
+        "Phalen",
+        "Watson",
+        "Allen"
+      ],
+      "correta": 0,
+      "comentario": "O teste de Finkelstein (ou sua variante de Eichhoff) é utilizado no diagnóstico da tenossinovite de De Quervain: o paciente flexiona o polegar dentro da palma fechada e o examinador realiza desvio ulnar passivo do punho, estirando os tendões do primeiro compartimento extensor (abdutor longo e extensor curto do polegar) e reproduzindo dor característica sobre o estiloide radial quando positivo.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-080",
+      "tema": "De Quervain - anatomia",
+      "enunciado": "A tenossinovite de De Quervain acomete os tendões contidos no primeiro compartimento dorsal do punho, formado por:",
+      "alternativas": [
+        "Abdutor longo do polegar e extensor curto do polegar",
+        "Extensor longo do polegar isoladamente",
+        "Extensor radial curto e longo do carpo",
+        "Extensor ulnar do carpo e extensor do quinto dedo"
+      ],
+      "correta": 0,
+      "comentario": "O primeiro compartimento dorsal do punho contém os tendões do abdutor longo do polegar (APL) e do extensor curto do polegar (EPB), cuja tenossinovite estenosante caracteriza a doença de De Quervain. É relativamente comum em atividades repetitivas que envolvem desvio radial/ulnar do punho com preensão do polegar (por exemplo, cuidadores segurando bebês - por isso associada popularmente a mães no puerpério), sendo o tratamento inicial conservador (imobilização, anti-inflamatórios, infiltração), reservando-se a cirurgia (liberação do compartimento) para casos refratários.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-081",
+      "tema": "Doença de Dupuytren",
+      "enunciado": "Na doença de Dupuytren, a estrutura patológica responsável pela contratura em flexão da articulação metacarpofalângica é o(a):",
+      "alternativas": [
+        "Cordão pré-tendinoso (evolução da banda pré-tendinosa normal da fáscia palmar)",
+        "Tendão flexor superficial dos dedos, primariamente lesado",
+        "Polia A1 espessada",
+        "Ligamento colateral radial da articulação interfalângica proximal"
+      ],
+      "correta": 0,
+      "comentario": "Na doença de Dupuytren, a fáscia palmar normal sofre um processo de proliferação fibroblástica patológica, transformando bandas normais em cordões patológicos contráteis. O cordão pré-tendinoso, derivado da banda pré-tendinosa normal, é o principal responsável pela contratura em flexão da articulação metacarpofalângica (MCF), enquanto outros cordões (espiral, central, lateral) contribuem para a contratura da articulação interfalângica proximal (IFP), sendo os tendões flexores estruturas normais não primariamente acometidas pela doença.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-082",
+      "tema": "Dupuytren - tratamento",
+      "enunciado": "Em relação às opções de tratamento para a contratura de Dupuytren, é correto afirmar que:",
+      "alternativas": [
+        "A fasciectomia parcial (segmentar) aberta é considerada o tratamento cirúrgico com menor taxa de recidiva entre as opções minimamente invasivas, enquanto a fasciotomia com agulha e a injeção de colagenase são menos invasivas, porém com maior taxa de recidiva",
+        "A fasciotomia com agulha elimina completamente o risco de recidiva a longo prazo",
+        "A colagenase é contraindicada em qualquer grau de contratura",
+        "Todas as técnicas apresentam risco cirúrgico e taxa de recidiva idênticos"
+      ],
+      "correta": 0,
+      "comentario": "A fasciectomia parcial (segmentar) aberta remove o tecido patológico e está associada a menores taxas de recidiva em comparação com técnicas minimamente invasivas como a fasciotomia percutânea com agulha (needle aponeurotomy) e a injeção de colagenase de Clostridium histolyticum, que por sua vez apresentam recuperação mais rápida, menor morbidade cirúrgica imediata, porém maior taxa de recidiva a médio/longo prazo. A escolha da técnica deve considerar o grau de contratura, articulações envolvidas, comorbidades e preferência do paciente.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-083",
+      "tema": "Dupuytren - fatores de risco",
+      "enunciado": "São fatores de risco e associações reconhecidas da doença de Dupuytren, EXCETO:",
+      "alternativas": [
+        "Ascendência do norte da Europa (nórdica/anglo-saxônica)",
+        "Diabetes mellitus",
+        "Etilismo crônico e epilepsia (uso de anticonvulsivantes)",
+        "Ausência completa de qualquer predisposição genética, sendo exclusivamente ambiental"
+      ],
+      "correta": 3,
+      "comentario": "A doença de Dupuytren apresenta forte componente genético (herança poligênica, mais comum em descendentes do norte europeu), além de associação com diabetes mellitus, etilismo crônico, epilepsia/uso de anticonvulsivantes, tabagismo, trabalho manual pesado (associação menos consistente) e trauma. Não é uma condição puramente ambiental; há evidência robusta de agregação familiar e de genes candidatos associados à sua fisiopatologia fibroproliferativa.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-084",
+      "tema": "Dupuytren - prognóstico",
+      "enunciado": "Em relação ao prognóstico cirúrgico da contratura de Dupuytren, é correto afirmar que:",
+      "alternativas": [
+        "A contratura isolada da articulação metacarpofalângica geralmente tem melhor correção cirúrgica e prognóstico do que a contratura significativa da articulação interfalângica proximal",
+        "A contratura da IFP sempre se corrige completamente e de forma simples com a cirurgia",
+        "Não há diferença prognóstica entre o acometimento da MCF e da IFP",
+        "A doença nunca recidiva após tratamento cirúrgico bem realizado"
+      ],
+      "correta": 0,
+      "comentario": "A contratura da articulação metacarpofalângica (MCF) geralmente responde bem à correção cirúrgica, com boa recuperação da extensão. Já a contratura crônica e significativa da articulação interfalângica proximal (IFP) tem prognóstico cirúrgico mais reservado, com maior dificuldade de correção completa, maior risco de lesão de estruturas neurovasculares durante a dissecção (pela distorção anatômica causada pelos cordões, especialmente o cordão espiral) e maior taxa de recidiva da contratura residual, mesmo após cirurgia tecnicamente bem executada.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "OCM-085",
+      "tema": "Rizartrose - classificação",
+      "enunciado": "A classificação radiográfica de Eaton-Littler para a artrose da articulação trapeziometacarpiana (rizartrose) estadia a doença principalmente com base em:",
+      "alternativas": [
+        "Grau de estreitamento articular, presença de osteófitos/subluxação na trapeziometacarpiana e envolvimento articular adicional (escafotrapezial)",
+        "Grau de flexão da articulação interfalângica do polegar isoladamente",
+        "Presença de cisto ósseo no capitato",
+        "Grau de desvio ulnar do punho"
+      ],
+      "correta": 0,
+      "comentario": "A classificação de Eaton-Littler avalia a artrose trapeziometacarpiana (rizartrose) em estágios progressivos: estágio I (leve alargamento do espaço articular, sem alterações degenerativas significativas), estágio II (leve estreitamento articular, pequenos osteófitos e/ou corpos livres menores que 2 mm), estágio III (estreitamento articular significativo com esclerose subcondral, osteófitos maiores e possível subluxação), e estágio IV, que acrescenta acometimento da articulação escafotrapeziotrapezoide (STT), orientando o planejamento cirúrgico.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "OCM-086",
+      "tema": "Rizartrose - teste clínico",
+      "enunciado": "O teste clínico realizado com compressão axial associada a rotação do polegar sobre a base do primeiro metacarpo, reproduzindo dor e crepitação na articulação trapeziometacarpiana, é denominado teste de:",
+      "alternativas": [
+        "Grind (moagem)",
+        "Finkelstein",
+        "Watson",
+        "Phalen"
+      ],
+      "correta": 0,
+      "comentario": "O teste de grind (moagem) avalia a articulação trapeziometacarpiana na suspeita de rizartrose: o examinador aplica compressão axial ao longo do eixo do primeiro metacarpo, associada a movimentos rotatórios, reproduzindo dor e, muitas vezes, crepitação palpável quando há artrose significativa dessa articulação. É um teste simples e amplamente utilizado na prática clínica ortopédica ambulatorial.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-087",
+      "tema": "Rizartrose - tratamento cirúrgico",
+      "enunciado": "Em casos avançados de rizartrose refratários ao tratamento conservador, um dos procedimentos cirúrgicos consagrados consiste em:",
+      "alternativas": [
+        "Trapeziectomia (ressecção do trapézio), associada ou não a suspensão ligamentar e/ou interposição tendínea",
+        "Artrodese da articulação interfalângica distal do polegar",
+        "Liberação isolada da polia A1",
+        "Transposição do nervo ulnar"
+      ],
+      "correta": 0,
+      "comentario": "A trapeziectomia (ressecção completa ou parcial do osso trapézio), frequentemente associada a técnicas de suspensão ligamentar e interposição de tendão (por exemplo, usando o tendão do flexor radial do carpo, técnica de suspensão-interposição/LRTI), é um procedimento clássico e amplamente utilizado para rizartrose avançada refratária ao tratamento conservador, proporcionando bom alívio da dor. A artrodese trapeziometacarpiana é uma alternativa em pacientes jovens com alta demanda de força, ao custo de perda de mobilidade articular.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-088",
+      "tema": "Instabilidade escafossemilunar",
+      "enunciado": "Na radiografia com punho cerrado (clenched fist view) de paciente com dor crônica no dorso do punho após queda com extensão forçada, observa-se um alargamento do espaço entre o escafoide e o semilunar. Esse achado radiográfico é denominado sinal de:",
+      "alternativas": [
+        "Terry Thomas",
+        "Madelung",
+        "Sudeck",
+        "Kienböck"
+      ],
+      "correta": 0,
+      "comentario": "O sinal de Terry Thomas (nomeado em referência ao espaço entre os dentes de um ator britânico) descreve o alargamento do espaço escafossemilunar (>3 mm) na radiografia, especialmente evidenciado na incidência com punho cerrado, que aumenta a carga sobre o ligamento escafossemilunar lesado, sendo sugestivo de instabilidade/dissociação escafossemilunar decorrente de lesão desse ligamento, geralmente por trauma em extensão e desvio ulnar do punho (queda sobre a mão espalmada).",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-089",
+      "tema": "DISI",
+      "enunciado": "A instabilidade dissociativa do carpo do tipo DISI (Dorsal Intercalated Segment Instability), associada à lesão do ligamento escafossemilunar, caracteriza-se radiograficamente por:",
+      "alternativas": [
+        "Aumento do ângulo escafossemilunar acima de 70 graus, com o semilunar em extensão dorsal (dorsiflexão) anormal",
+        "Diminuição do ângulo escafossemilunar abaixo de 30 graus",
+        "Ausência completa de qualquer alteração angular entre os ossos do carpo",
+        "Flexão volar anormal do semilunar exclusivamente"
+      ],
+      "correta": 0,
+      "comentario": "Na DISI, a lesão do ligamento escafossemilunar permite que o escafoide flita volarmente (perdendo o suporte que normalmente recebe do semilunar) enquanto o semilunar, perdendo o contraequilíbrio, tende a se posicionar em extensão dorsal (dorsiflexão) anormal, aumentando o ângulo escafossemilunar para valores acima de 70 graus (o normal situa-se entre aproximadamente 30 e 60 graus), padrão mais comumente observado após lesão do ligamento escafossemilunar do que após lesão do ligamento semilunar-piramidal (que tende a causar VISI).",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "OCM-090",
+      "tema": "Instabilidade do carpo - teste de Watson",
+      "enunciado": "O teste de Watson (scaphoid shift test), utilizado na avaliação da instabilidade escafossemilunar, é realizado com:",
+      "alternativas": [
+        "Pressão do polegar do examinador sobre o polo distal do escafoide enquanto o punho é movido de desvio ulnar para radial, avaliando subluxação dorsal do escafoide com dor/ressalto",
+        "Percussão sobre o nervo mediano no punho",
+        "Flexão passiva máxima do punho por 60 segundos",
+        "Compressão axial do polegar com rotação"
+      ],
+      "correta": 0,
+      "comentario": "No teste de Watson, o examinador aplica pressão firme com o polegar sobre a tuberosidade/polo distal do escafoide, na face volar do punho, enquanto move passivamente o punho de desvio ulnar para desvio radial; em condições normais, o escafoide fleta volarmente durante esse movimento, mas a pressão do polegar bloqueia essa flexão, podendo causar subluxação dorsal do polo proximal do escafoide sobre a borda do rádio quando há instabilidade escafossemilunar, reproduzindo dor e, por vezes, um ressalto (clunk) palpável — achado sugestivo, mas não exclusivamente diagnóstico, de lesão do ligamento escafossemilunar.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "OCM-091",
+      "tema": "VISI",
+      "enunciado": "A instabilidade do tipo VISI (Volar Intercalated Segment Instability) está classicamente associada à lesão do ligamento:",
+      "alternativas": [
+        "Semilunar-piramidal (lunotriquetral)",
+        "Escafossemilunar",
+        "Colateral ulnar do punho",
+        "Transverso do carpo"
+      ],
+      "correta": 0,
+      "comentario": "A VISI decorre tipicamente da lesão do ligamento semilunar-piramidal (lunotriquetral), levando o semilunar a se posicionar em flexão volar anormal (junto ao escafoide, sem o contrapeso do piramidal), diferentemente da DISI, associada à lesão escafossemilunar, na qual o semilunar assume posição em extensão dorsal. A VISI é radiograficamente menos comum que a DISI e pode ocorrer também em contextos de frouxidão ligamentar generalizada, sem lesão traumática evidente em alguns casos.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "OCM-092",
+      "tema": "SLAC wrist",
+      "enunciado": "O padrão de degeneração articular progressiva do punho conhecido como SLAC (Scapholunate Advanced Collapse), decorrente de instabilidade escafossemilunar crônica não tratada, acomete tipicamente, em sua fase mais avançada, todas as seguintes articulações do carpo, EXCETO:",
+      "alternativas": [
+        "Articulação radiolunar (poupada classicamente até estágios avançados)",
+        "Articulação radioescafoide (estiloide radial)",
+        "Articulação capitolunar",
+        "Articulação escafocapitato"
+      ],
+      "correta": 0,
+      "comentario": "No padrão SLAC (Scapholunate Advanced Collapse), a progressão da artrose segue tipicamente uma sequência: inicialmente a articulação entre o estiloide radial e o escafoide (radioescafoide/estiloide), seguida pela articulação escafocapitato e, por fim, a articulação capitolunar, enquanto a articulação radiolunar classicamente é poupada até estágios bem avançados, pois a cartilagem do semilunar mantém relação relativamente preservada com o rádio mesmo com a instabilidade carpal, sendo esse padrão relevante no planejamento cirúrgico de procedimentos como carpectomia proximal seletiva versus artrodeses parciais.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "OCM-093",
+      "tema": "Doença de Kienböck",
+      "enunciado": "A classificação de Lichtman para a doença de Kienböck (osteonecrose do semilunar) baseia-se principalmente em:",
+      "alternativas": [
+        "Achados radiográficos e de ressonância magnética progressivos, desde alterações de sinal sem colapso até colapso do semilunar e artrose carpal avançada (SLAC-like)",
+        "Grau de dor referida pelo paciente exclusivamente",
+        "Amplitude de movimento ativa do punho",
+        "Presença ou ausência de fratura do escafoide associada"
+      ],
+      "correta": 0,
+      "comentario": "A classificação de Lichtman estadia a doença de Kienböck em estágios progressivos: estágio I (radiografia normal, alterações apenas na RM), estágio II (esclerose do semilunar sem colapso), estágio IIIA (colapso do semilunar sem deformidade do alinhamento carpal), estágio IIIB (colapso com deformidade em flexão fixa do escafoide e translação carpal proximal/instabilidade), e estágio IV (artrose carpal generalizada/pancarpal). O estadiamento orienta a escolha entre procedimentos de descompressão/revascularização (estágios iniciais) e procedimentos salvadores como carpectomia proximal ou artrodese (estágios avançados).",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "OCM-094",
+      "tema": "Kienböck - fator predisponente",
+      "enunciado": "Um achado anatômico frequentemente associado como fator predisponente à doença de Kienböck é:",
+      "alternativas": [
+        "Variância ulnar negativa (rádio relativamente mais longo que a ulna)",
+        "Variância ulnar positiva acentuada",
+        "Presença de osso acessório do carpo assintomático",
+        "Fusão congênita completa entre escafoide e semilunar"
+      ],
+      "correta": 0,
+      "comentario": "A variância ulnar negativa (situação em que a superfície articular distal da ulna está proximal em relação à do rádio) é classicamente associada a maior risco de doença de Kienböck, pois concentra uma proporção maior da carga axial transmitida através do punho sobre o semilunar via a fossa radial, favorecendo sobrecarga mecânica e comprometimento vascular desse osso, que já possui suprimento sanguíneo intraósseo relativamente vulnerável e variável entre indivíduos.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-095",
+      "tema": "Infecções da mão - felon",
+      "enunciado": "Paciente apresenta dor intensa, edema e abaulamento doloroso na polpa digital distal, com sinais flogísticos localizados, após pequeno ferimento puntiforme no dedo. O diagnóstico mais provável é:",
+      "alternativas": [
+        "Felon (panarício) - abscesso do espaço fechado da polpa digital",
+        "Tenossinovite dos flexores",
+        "Paroníquia crônica",
+        "Dedo em gatilho infeccioso"
+      ],
+      "correta": 0,
+      "comentario": "O felon (panarício) é uma infecção do espaço fechado da polpa digital distal, compartimentalizado por septos fibrosos verticais que conectam a pele ao periósteo da falange distal; esses septos, embora ajudem a estabilizar a polpa para a preensão, dificultam a drenagem espontânea e favorecem o aumento rápido da pressão tecidual, causando dor intensa e desproporcional, além de risco de necrose por compressão vascular e de evolução para osteomielite se não tratado prontamente com drenagem cirúrgica associada a antibioticoterapia.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-096",
+      "tema": "Tenossinovite flexora - Kanavel",
+      "enunciado": "Os quatro sinais cardinais de Kanavel, utilizados na suspeita clínica de tenossinovite piogênica dos flexores, incluem todos os seguintes, EXCETO:",
+      "alternativas": [
+        "Postura em leve flexão do dedo em repouso",
+        "Dor à extensão passiva do dedo",
+        "Edema simétrico em forma de fuso (dedo em salsicha)",
+        "Dor à palpação exclusivamente sobre a articulação interfalângica distal, sem dor ao longo da bainha"
+      ],
+      "correta": 3,
+      "comentario": "Os sinais de Kanavel são: postura do dedo em flexão leve em repouso, edema em fuso ('dedo em salsicha') simétrico ao longo de todo o dedo, dor à extensão passiva do dedo (o sinal mais sensível) e dor à palpação ao longo de todo o trajeto da bainha flexora (não restrita a uma articulação isolada). A tenossinovite piogênica dos flexores é uma emergência cirúrgica relativa, pois o retardo no diagnóstico e tratamento (irrigação/drenagem cirúrgica e antibioticoterapia) pode levar a necrose tendínea, aderências e perda funcional grave do dedo.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-097",
+      "tema": "Paroníquia",
+      "enunciado": "A paroníquia aguda, infecção comum da mão, acomete primariamente qual região anatômica?",
+      "alternativas": [
+        "A prega ungueal (periungueal), lateral e/ou proximal",
+        "A polpa digital distal em espaço fechado",
+        "A bainha do tendão flexor ao longo de todo o dedo",
+        "A articulação interfalângica proximal isoladamente"
+      ],
+      "correta": 0,
+      "comentario": "A paroníquia é uma infecção do tecido periungueal (prega lateral e/ou proximal da unha), geralmente decorrente de pequenos traumas locais, manicure inadequada ou onicofagia, sendo comumente causada por Staphylococcus aureus nos casos agudos. O tratamento na fase inicial pode ser conservador (compressas mornas, antibioticoterapia oral), mas quando há coleção purulenta evidente, a drenagem cirúrgica simples é indicada. Difere do felon, que acomete o espaço fechado da polpa digital distal, e não a região periungueal.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-098",
+      "tema": "Cisto sinovial da mão",
+      "enunciado": "O tumor de partes moles mais comum da mão e do punho é:",
+      "alternativas": [
+        "Cisto sinovial (gânglio), mais frequentemente localizado no dorso do punho, próximo ao ligamento escafossemilunar",
+        "Tumor de células gigantes da bainha tendínea",
+        "Lipoma",
+        "Schwannoma"
+      ],
+      "correta": 0,
+      "comentario": "O cisto sinovial (gânglio) é a lesão tumoral (ou pseudotumoral) de partes moles mais comum na mão e no punho, resultando de herniação de líquido sinovial através de um pedículo a partir de uma articulação ou bainha tendínea, mais frequentemente localizado no dorso do punho (próximo ao ligamento escafossemilunar) ou na face volar/radial. É benigno, podendo variar de tamanho espontaneamente, e o tratamento (quando sintomático) pode incluir aspiração, embora a excisão cirúrgica com ressecção do pedículo tenha menor taxa de recidiva.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "OCM-099",
+      "tema": "Tumor de células gigantes da bainha tendínea",
+      "enunciado": "O segundo tumor de partes moles mais comum da mão, caracterizado por uma massa firme, indolor, de crescimento lento, geralmente na face volar dos dedos, associada a lesão erosiva óssea adjacente em alguns casos, é o:",
+      "alternativas": [
+        "Tumor de células gigantes da bainha tendínea (sinovite vilonodular localizada)",
+        "Cisto sinovial",
+        "Lipoma intramuscular",
+        "Encondroma"
+      ],
+      "correta": 0,
+      "comentario": "O tumor de células gigantes da bainha tendínea (também chamado de sinovite vilonodular pigmentada localizada) é o segundo tumor de partes moles mais comum da mão, tipicamente apresentando-se como uma massa firme, indolor, bem delimitada, de crescimento lento, mais comum na face volar dos dedos e associada histologicamente a células gigantes multinucleadas, macrófagos com hemossiderina e células xantomatosas. Pode causar erosão óssea por compressão extrínseca adjacente. O tratamento é a excisão cirúrgica completa, mas apresenta taxa de recidiva local relevante caso a ressecção seja incompleta.",
+      "referencia": "Campbell's Operative Orthopaedics",
+      "dificuldade": "media"
+    },
+    {
+      "id": "OCM-100",
+      "tema": "Plexo braquial - princípios de lesão e reparo",
+      "enunciado": "Em relação às lesões do plexo braquial, a lesão do tronco superior (envolvendo predominantemente as raízes C5-C6), classicamente associada a distocia de ombro no parto e causando adução e rotação interna do braço com extensão do cotovelo ('posição de gorjeta do garçom'), é denominada:",
+      "alternativas": [
+        "Paralisia de Erb-Duchenne",
+        "Paralisia de Klumpke",
+        "Lesão do nervo torácico longo isolada",
+        "Síndrome do desfiladeiro torácico"
+      ],
+      "correta": 0,
+      "comentario": "A paralisia de Erb-Duchenne resulta de lesão do tronco superior do plexo braquial (raízes C5-C6), classicamente associada a partos distócicos com tração excessiva sobre o ombro do recém-nascido ou traumas de alta energia em adultos (motociclísticos), levando ao padrão característico de adução e rotação interna do ombro, extensão do cotovelo, pronação do antebraço e flexão do punho ('posição de gorjeta de garçom', waiter's tip). Já a paralisia de Klumpke acomete o tronco inferior (C8-T1), afetando predominantemente a musculatura intrínseca da mão. Nos princípios de reparo de nervos periféricos, lesões proximais (avulsões radiculares) frequentemente exigem transferências nervosas, enquanto lesões mais distais podem ser tratadas com enxertia ou reparo direto, sendo o tempo decorrido desde a lesão um fator crítico devido à degeneração progressiva e irreversível das unidades motoras terminais.",
+      "referencia": "Netter's Concise Orthopaedic Anatomy",
+      "dificuldade": "media"
+    }
+  ]
+}
