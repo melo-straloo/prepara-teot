@@ -1,0 +1,1506 @@
+{
+  "area": "Trauma do Adulto — Membro Superior",
+  "slug": "trauma-membro-superior",
+  "questoes": [
+    {
+      "id": "TMS-001",
+      "tema": "Clavícula",
+      "enunciado": "Homem de 28 anos sofre queda de bicicleta e apresenta dor e deformidade no terço médio da clavícula direita. Radiografia mostra fratura em terço médio com desvio completo e encurtamento de 2,5 cm, sem lesão neurovascular. Qual das opções abaixo é considerada indicação relativa consagrada para tratamento cirúrgico nesse cenário?",
+      "alternativas": [
+        "Fratura em terço médio sem desvio, em paciente sedentário",
+        "Encurtamento maior que 2 cm associado a desvio completo (sem contato ósseo) em paciente ativo",
+        "Fratura em galho verde em criança",
+        "Fratura de terço médio com discreto desvio angular e sem encurtamento"
+      ],
+      "correta": 1,
+      "comentario": "Encurtamento >2 cm com desvio completo (bone-to-bone contact perdido) é uma das indicações relativas mais aceitas para fixação cirúrgica de fratura de clavícula em adulto ativo, pela associação com maior taxa de pseudoartrose e pior função do ombro no tratamento conservador. As demais opções descrevem fraturas estáveis ou de baixa energia, que evoluem bem com tratamento conservador (tipoia). Criança com fratura em galho verde tem excelente prognóstico não cirúrgico.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-002",
+      "tema": "Clavícula",
+      "enunciado": "Qual classificação anatômica é classicamente usada para localizar as fraturas de clavícula em terço proximal, médio e distal?",
+      "alternativas": [
+        "Classificação de Neer para úmero proximal",
+        "Classificação de Allman, modificada por Neer",
+        "Classificação de Garden",
+        "Classificação de Schatzker"
+      ],
+      "correta": 1,
+      "comentario": "A classificação de Allman (posteriormente detalhada por Neer para as fraturas do terço distal) divide as fraturas de clavícula em grupo I (terço médio), II (terço distal) e III (terço proximal), sendo a mais utilizada na prática clínica. Neer é usada para úmero proximal, Garden para colo do fêmur e Schatzker para platô tibial — nenhuma se aplica à clavícula.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-003",
+      "tema": "Clavícula",
+      "enunciado": "Paciente de 34 anos sofre trauma direto no ombro e a radiografia mostra fratura do terço distal da clavícula, lateral aos ligamentos coracoclaviculares, com os ligamentos coracoclaviculares íntegros e mínimo desvio do fragmento medial. Qual o tipo de Neer para fratura distal de clavícula e a conduta mais adequada?",
+      "alternativas": [
+        "Neer tipo I; tratamento conservador com tipoia",
+        "Neer tipo II; fixação cirúrgica obrigatória em todos os casos",
+        "Neer tipo V; artroplastia do ombro",
+        "Neer tipo III; sempre cirúrgico por acometer a superfície articular"
+      ],
+      "correta": 0,
+      "comentario": "Na fratura de Neer tipo I, o traço é lateral aos ligamentos coracoclaviculares, que permanecem íntegros e mantêm a redução do fragmento proximal — é estável e trata-se de forma conservadora. O tipo II (ligamento conoide rompo, ficando com o fragmento distal) é instável e tem maior indicação cirúrgica pelo alto risco de pseudoartrose. Tipo III é intra-articular na articulação AC, geralmente tratado conservadoramente salvo degeneração sintomática. Não existe tipo V de Neer clássico para clavícula distal (a numeração vai de I a V em algumas modificações, mas a V descreve cominuição do ligamento com fragmento inferior, não artroplastia).",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-004",
+      "tema": "Clavícula",
+      "enunciado": "Em relação à fratura de clavícula distal tipo II de Neer (instável), qual afirmação está correta?",
+      "alternativas": [
+        "É estável porque os ligamentos coracoclaviculares permanecem no fragmento distal",
+        "Tem baixo risco de pseudoartrose e deve sempre ser tratada de forma conservadora",
+        "Os ligamentos coracoclaviculares ficam ligados ao fragmento distal, deixando o fragmento proximal sem estabilização, com elevado risco de não união",
+        "É sinônimo de fratura da articulação acromioclavicular completa"
+      ],
+      "correta": 2,
+      "comentario": "No tipo II de Neer, a fratura ocorre medialmente à inserção dos ligamentos coracoclaviculares (ou entre o conoide e trapezoide), de modo que esses ligamentos permanecem presos ao fragmento distal enquanto o fragmento proximal perde a estabilização, ficando sujeito à tração do músculo esternocleidomastóideo e trapézio — daí a alta taxa de pseudoartrose (até 30-45%) quando tratada conservadoramente, o que motiva indicação cirúrgica na maioria dos casos em pacientes ativos.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-005",
+      "tema": "Acromioclavicular",
+      "enunciado": "Homem de 25 anos, jogador de rúgbi, sofre queda com trauma direto no ombro. Ao exame há deformidade em 'degrau' na articulação acromioclavicular, redutível à palpação, sem instabilidade horizontal. Radiografia com estresse mostra aumento do espaço coracoclavicular em 30% em relação ao lado contralateral. Qual o tipo de Rockwood mais provável e a conduta inicial recomendada?",
+      "alternativas": [
+        "Rockwood tipo I; tratamento cirúrgico de urgência",
+        "Rockwood tipo III; tratamento inicial conservador na maioria dos pacientes",
+        "Rockwood tipo V; reconstrução cirúrgica imediata obrigatória",
+        "Rockwood tipo II; imobilização em rotação interna por 12 semanas"
+      ],
+      "correta": 1,
+      "comentario": "O aumento de 25-100% no espaço coracoclavicular, com deformidade redutível e sem instabilidade posterior grosseira, caracteriza a luxação acromioclavicular Rockwood tipo III. A literatura atual (Rockwood e Campbell) recomenda tratamento inicial conservador para a maioria dos pacientes com tipo III, reservando cirurgia para casos refratários, atletas de arremesso/contato de alto nível ou trabalhadores braçais, dada a controvérsia sobre resultados funcionais semelhantes entre os dois tratamentos.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-006",
+      "tema": "Acromioclavicular",
+      "enunciado": "Qual achado clínico é característico da luxação acromioclavicular Rockwood tipo V, diferenciando-a do tipo III?",
+      "alternativas": [
+        "Espaço coracoclavicular aumentado em até 25% e sem deformidade visível",
+        "Deformidade acentuada com a clavícula distal perfurando o trapézio, espaço coracoclavicular aumentado 100-300%",
+        "Instabilidade posterior com deslocamento da clavícula sob a pele do dorso",
+        "Fratura associada obrigatória do processo coracoide"
+      ],
+      "correta": 1,
+      "comentario": "No tipo V de Rockwood há ruptura completa dos ligamentos AC, coracoclaviculares e também da fáscia deltotrapezoidal, com a clavícula distal desviando-se acentuadamente para cima (aumento do espaço coracoclavicular de 100-300% em relação ao lado normal), podendo até perfurar a pele por trás do trapézio — configurando deformidade muito mais grosseira que o tipo III, e geralmente com indicação cirúrgica. O tipo IV caracteriza deslocamento posterior da clavícula (para dentro/através do trapézio), não descrito aqui.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-007",
+      "tema": "Clavícula",
+      "enunciado": "Qual é o principal fator de risco associado ao desenvolvimento de pseudoartrose após fratura de clavícula em terço médio tratada conservadoramente?",
+      "alternativas": [
+        "Idade menor que 20 anos",
+        "Fratura sem desvio e sem cominuição",
+        "Desvio completo com encurtamento significativo e cominuição importante",
+        "Uso de tipoia por período inferior a 1 semana"
+      ],
+      "correta": 2,
+      "comentario": "Fraturas de clavícula com desvio completo, encurtamento acentuado (>2 cm) e cominuição (particularmente com fragmento em borboleta) têm risco aumentado de pseudoartrose quando tratadas de forma não cirúrgica, sendo esse o principal racional para a indicação cirúrgica nesses casos. Idade jovem, ausência de desvio e cominuição são fatores associados a bom prognóstico com tratamento conservador.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-008",
+      "tema": "Clavícula",
+      "enunciado": "Durante a fixação de uma fratura de clavícula com placa pela via anterossuperior, qual estrutura neurológica está em maior risco de lesão iatrogênica durante a dissecção do tecido subcutâneo?",
+      "alternativas": [
+        "Nervo axilar",
+        "Ramos do plexo cervical superficial (nervos supraclaviculares)",
+        "Nervo radial",
+        "Nervo torácico longo"
+      ],
+      "correta": 1,
+      "comentario": "Os ramos supraclaviculares do plexo cervical superficial cruzam superficialmente a clavícula e estão em risco de lesão ou aprisionamento em cicatriz durante incisões para osteossíntese, podendo causar hipoestesia ou neuroma doloroso na região anterior do tórax/ombro — por isso recomenda-se incisão paralela ao eixo da clavícula e dissecção romba do subcutâneo. O nervo axilar, radial e torácico longo não estão na topografia dessa via.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-009",
+      "tema": "Clavícula",
+      "enunciado": "Homem de 45 anos vítima de acidente motociclístico de alta energia apresenta fratura de clavícula direita associada a múltiplas fraturas de arcos costais ipsilaterais e dessaturação. Qual complicação deve ser ativamente investigada nesse contexto de trauma torácico associado?",
+      "alternativas": [
+        "Síndrome do túnel do carpo",
+        "Tórax instável (flail chest) e pneumotórax/hemotórax",
+        "Síndrome compartimental da coxa",
+        "Luxação do quadril"
+      ],
+      "correta": 1,
+      "comentario": "A associação de fratura de clavícula com múltiplas fraturas costais ipsilaterais de alta energia levanta suspeita de tórax instável (flail chest), pneumotórax e/ou hemotórax, exigindo avaliação sistemática da via aérea, respiração e circulação (ATLS) antes de qualquer foco no tratamento ortopédico da clavícula. As demais opções não guardam relação direta com esse mecanismo torácico.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-010",
+      "tema": "Clavícula",
+      "enunciado": "Em relação à pseudoartrose sintomática de clavícula em terço médio, qual é a conduta cirúrgica mais adequada?",
+      "alternativas": [
+        "Ressecção simples do fragmento sem fixação",
+        "Placa de compressão com enxerto ósseo autólogo quando há falha óssea",
+        "Artrodese da articulação acromioclavicular",
+        "Amputação do membro"
+      ],
+      "correta": 1,
+      "comentario": "O tratamento padrão da pseudoartrose sintomática de clavícula é a ressecção da fibrose interfragmentar, decorticação/preparo das extremidades ósseas, fixação estável com placa (geralmente de compressão) e enxerto ósseo autólogo quando há perda de substância óssea, alcançando altas taxas de consolidação. Ressecção simples sem fixação e artrodese da AC não tratam a pseudoartrose diafisária.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-011",
+      "tema": "Acromioclavicular",
+      "enunciado": "Atleta de alto rendimento com luxação acromioclavicular Rockwood III crônica e sintomática (dor e fraqueza persistentes após 3 meses de tratamento conservador adequado) é candidato à reconstrução cirúrgica. Qual técnica é classicamente descrita para reconstrução anatômica dos ligamentos coracoclaviculares?",
+      "alternativas": [
+        "Técnica de Weaver-Dunn (transferência do ligamento coracoacromial) com ou sem reforço com enxerto/fixação",
+        "Artroplastia total do ombro",
+        "Osteossíntese intramedular do úmero",
+        "Fixação percutânea da cabeça do rádio"
+      ],
+      "correta": 0,
+      "comentario": "A técnica de Weaver-Dunn, que transfere o ligamento coracoacromial para substituir os ligamentos coracoclaviculares (frequentemente associada a reforço sintético ou tendíneo e fixação temporária), é uma opção clássica para reconstrução em casos crônicos e sintomáticos após falha do tratamento conservador. As demais alternativas não têm relação com a reconstrução da articulação AC.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª ed.",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMS-012",
+      "tema": "Clavícula",
+      "enunciado": "Após retirada de placa de osteossíntese de clavícula consolidada, qual complicação é descrita com frequência relevante nas primeiras semanas?",
+      "alternativas": [
+        "Osteonecrose avascular da cabeça umeral",
+        "Refratura no trajeto dos antigos orifícios dos parafusos",
+        "Síndrome de Volkmann",
+        "Luxação glenoumeral recidivante"
+      ],
+      "correta": 1,
+      "comentario": "A remoção de implantes de clavícula deixa orifícios de parafusos que atuam como concentradores de estresse, predispondo a refratura, especialmente se a retirada ocorrer antes da remodelação óssea completa ou se o paciente retornar precocemente a atividades de impacto. As demais complicações não são características dessa situação.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-013",
+      "tema": "Úmero proximal",
+      "enunciado": "Mulher de 68 anos sofre queda da própria altura e refere dor intensa no ombro direito. A radiografia mostra fratura do colo cirúrgico do úmero com desvio de 0,5 cm e angulação de 30 graus entre os fragmentos, sem desvio significativo das tuberosidades. Segundo a classificação de Neer, como essa fratura deve ser categorizada?",
+      "alternativas": [
+        "Fratura em quatro partes",
+        "Fratura minimamente desviada (one-part), pois não atinge os critérios de desvio de Neer",
+        "Fratura em três partes",
+        "Fratura-luxação em duas partes"
+      ],
+      "correta": 1,
+      "comentario": "Pela classificação de Neer, um fragmento só é considerado 'desviado' quando há translação ≥1 cm ou angulação ≥45 graus entre os segmentos anatômicos (cabeça, tuberosidade maior, tuberosidade menor e diáfise). Como o caso descrito tem desvio de 0,5 cm e angulação de 30°, abaixo desses limiares, a fratura é classificada como minimamente desviada (impactada, 'one-part' funcional), independentemente do número de traços de fratura, e trata-se de forma conservadora na maioria dos casos.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-014",
+      "tema": "Úmero proximal",
+      "enunciado": "Qual das alternativas descreve corretamente os quatro segmentos anatômicos considerados na classificação de Neer para fraturas do úmero proximal?",
+      "alternativas": [
+        "Cabeça umeral, tuberosidade maior, tuberosidade menor e diáfise umeral",
+        "Cabeça umeral, colo anatômico, colo cirúrgico e glenoide",
+        "Acrômio, coracoide, clavícula e cabeça umeral",
+        "Cabeça umeral, cavidade glenoide, lábio e cápsula"
+      ],
+      "correta": 0,
+      "comentario": "A classificação de Neer baseia-se em quatro segmentos anatômicos principais — cabeça umeral (superfície articular), tuberosidade maior, tuberosidade menor e diáfise umeral — e no grau de desvio/angulação entre eles, definindo fraturas em duas, três ou quatro partes, além das fraturas-luxação e da fratura por afundamento (head-splitting).",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-015",
+      "tema": "Úmero proximal",
+      "enunciado": "Homem de 55 anos apresenta fratura-luxação anterior do úmero proximal em quatro partes (Neer), com a cabeça umeral deslocada e desvascularizada, associada a extenso comprometimento articular. Qual é o tratamento mais recomendado nesse cenário em paciente com boa qualidade óssea e demanda funcional elevada?",
+      "alternativas": [
+        "Tratamento conservador com tipoia por 6 semanas",
+        "Redução fechada isolada sem fixação",
+        "Hemiartroplastia ou artroplastia reversa do ombro, considerando o alto risco de necrose avascular",
+        "Fixação com parafuso canulado único"
+      ],
+      "correta": 2,
+      "comentario": "Fraturas em quatro partes com luxação da cabeça umeral têm risco muito elevado de necrose avascular pela interrupção do suprimento vascular (artéria circunflexa umeral posterior/ramo arqueado), o que geralmente contraindica a tentativa de preservação da cabeça em pacientes idosos ou com fragmentação relevante — a artroplastia (hemiartroplastia clássica ou, mais atualmente, artroplastia reversa, especialmente se o manguito rotador ou as tuberosidades estiverem comprometidos) é a opção preferida. Tratamento conservador e fixação isolada não são adequados nesse grau de instabilidade e desvascularização.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMS-016",
+      "tema": "Úmero proximal",
+      "enunciado": "Em relação à vascularização da cabeça umeral, qual artéria é classicamente considerada a principal responsável pela irrigação da cabeça e cuja lesão está associada a necrose avascular pós-fratura?",
+      "alternativas": [
+        "Artéria circunflexa umeral posterior, através do ramo arqueado (antigo ramo ascendente da circunflexa anterior)",
+        "Artéria axilar diretamente",
+        "Artéria radial recorrente",
+        "Artéria braquial profunda isoladamente"
+      ],
+      "correta": 0,
+      "comentario": "Estudos anatômicos mais recentes reposicionaram a artéria circunflexa umeral posterior (e não apenas o ramo ascendente da anterior, como se acreditava classicamente) como a principal fonte de suprimento vascular da cabeça umeral, através de ramos que penetram posteromedialmente. A extensão do desvio das tuberosidades e a integridade da dobradiça metafisária medial (calcar) são fatores prognósticos de necrose avascular mais confiáveis que a mera contagem de partes de Neer.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMS-017",
+      "tema": "Úmero proximal",
+      "enunciado": "Mulher de 72 anos, osteoporótica, sofre queda e apresenta fratura do colo cirúrgico do úmero em duas partes, com desvio de 2 cm e angulação de 50 graus, mas sem comprometimento das tuberosidades nem luxação da cabeça. Qual conduta inicial é mais apropriada?",
+      "alternativas": [
+        "Artroplastia reversa de urgência",
+        "Tentativa de redução fechada e fixação, dado o bom prognóstico vascular das fraturas em duas partes de colo cirúrgico",
+        "Amputação do membro",
+        "Observação sem qualquer tratamento, independentemente do desvio"
+      ],
+      "correta": 1,
+      "comentario": "Fraturas em duas partes do colo cirúrgico preservam a relação entre a cabeça e as tuberosidades, mantendo bom suprimento vascular na maioria dos casos; por isso, mesmo em idosos, a tentativa de redução (fechada ou aberta) com fixação (placa bloqueada, haste intramedular ou fios) é preferida à artroplastia primária, reservada a casos de cominuição extensa, má qualidade óssea proibitiva ou fratura em quatro partes com luxação.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-018",
+      "tema": "Úmero proximal",
+      "enunciado": "Qual estrutura neurológica está em maior risco durante o acesso deltopeitoral para osteossíntese do úmero proximal, especialmente na manipulação da região lateral/inferior à cabeça umeral?",
+      "alternativas": [
+        "Nervo axilar, que cursa cerca de 5-7 cm distal ao acrômio junto ao colo cirúrgico",
+        "Nervo radial no sulco espiral",
+        "Nervo mediano no túnel do carpo",
+        "Nervo ulnar no túnel cubital"
+      ],
+      "correta": 0,
+      "comentario": "O nervo axilar cruza a face profunda do músculo deltoide e passa junto ao colo cirúrgico do úmero, tipicamente a cerca de 5-7 cm (variável) distal à borda anterolateral do acrômio, sendo a estrutura mais vulnerável durante a via deltopeitoral (e ainda mais na via deltoide-splitting) para fraturas do úmero proximal. O nervo radial está em risco em fraturas diafisárias, não na região proximal.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-019",
+      "tema": "Úmero proximal",
+      "enunciado": "Em relação ao tratamento conservador das fraturas do úmero proximal minimamente desviadas (impactadas), qual é a conduta padrão inicial?",
+      "alternativas": [
+        "Imobilização com tipoia e mobilização precoce (pendular) guiada por dor, seguida de fisioterapia",
+        "Cirurgia obrigatória em até 24 horas",
+        "Imobilização rígida em gesso toracobraquial por 12 semanas sem qualquer mobilização",
+        "Tração esquelética contínua por 6 semanas"
+      ],
+      "correta": 0,
+      "comentario": "A maioria (cerca de 80-85%) das fraturas do úmero proximal é minimamente desviada e estável, sendo tratada de forma conservadora com tipoia por curto período e início precoce de exercícios pendulares/de amplitude de movimento guiados pela dor, para minimizar rigidez do ombro, seguidos de fisioterapia progressiva. Imobilização prolongada rígida e tração não são condutas padrão nesse cenário.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-020",
+      "tema": "Úmero proximal",
+      "enunciado": "Homem de 60 anos apresenta fratura isolada e desviada (>1 cm) da tuberosidade maior do úmero, sem fratura de colo cirúrgico. Qual é a principal preocupação funcional que justifica tratamento cirúrgico mesmo com desvio relativamente pequeno?",
+      "alternativas": [
+        "Risco de necrose avascular da cabeça umeral",
+        "Possível impacto subacromial e disfunção do manguito rotador com perda de rotação externa/elevação",
+        "Necessidade de artrodese do cotovelo",
+        "Compressão do nervo mediano"
+      ],
+      "correta": 1,
+      "comentario": "Mesmo desvios pequenos (classicamente ≥5 mm em pacientes ativos, ≥1 cm em geral) da tuberosidade maior podem causar impacto subacromial mecânico e alterar a biomecânica do manguito rotador (supraespinhal, infraespinhal, redondo menor se inserem nela), resultando em dor e perda de força/rotação externa — por isso a tolerância ao desvio é mais rígida que em outras fraturas do úmero proximal. Não há relação direta com necrose da cabeça umeral nesse padrão isolado.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-021",
+      "tema": "Úmero proximal",
+      "enunciado": "Em qual situação a hemiartroplastia clássica (não reversa) tem se tornado menos indicada em favor da artroplastia reversa do ombro, no contexto de fraturas complexas do úmero proximal em idosos?",
+      "alternativas": [
+        "Quando há grande probabilidade de falha de consolidação/reabsorção das tuberosidades, comprometendo a função do manguito rotador",
+        "Em fraturas isoladas e não desviadas do colo anatômico",
+        "Em pacientes jovens com fratura em duas partes sem cominuição",
+        "Em fraturas de estresse do olécrano"
+      ],
+      "correta": 0,
+      "comentario": "A artroplastia reversa ganhou preferência sobre a hemiartroplastia em fraturas complexas de úmero proximal em idosos porque não depende da consolidação e função das tuberosidades/manguito rotador para um bom resultado funcional, ao contrário da hemiartroplastia, que exige boa cicatrização das tuberosidades para funcionar adequadamente — daí a maior previsibilidade funcional da reversa nesse subgrupo de pacientes com osso osteoporótico e alto risco de reabsorção tuberositária.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMS-022",
+      "tema": "Úmero proximal",
+      "enunciado": "Uma fratura-luxação posterior do úmero proximal deve ser especialmente suspeitada em qual contexto clínico clássico?",
+      "alternativas": [
+        "Após crise convulsiva ou choque elétrico",
+        "Após trauma direto anterior de baixa energia em idoso osteoporótico",
+        "Em recém-nascidos durante o parto",
+        "Em atletas de arremesso overhead crônico apenas"
+      ],
+      "correta": 0,
+      "comentario": "Convulsões e choques elétricos geram contração muscular potente e assimétrica (rotadores internos mais fortes que externos), classicamente associada à luxação posterior do ombro, que pode se associar a fratura da porção posteromedial da cabeça umeral (fratura-luxação). O diagnóstico costuma ser perdido em radiografias simples em AP se não houver incidência axilar ou em perfil de escápula (Y).",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-023",
+      "tema": "Úmero proximal",
+      "enunciado": "Qual é a via de acesso cirúrgica mais utilizada para redução e fixação com placa bloqueada nas fraturas do úmero proximal, por preservar o suprimento vascular anterior e permitir boa exposição?",
+      "alternativas": [
+        "Via posterior transtricipital",
+        "Via deltopeitoral",
+        "Via de Kocher",
+        "Via de Henry no antebraço"
+      ],
+      "correta": 1,
+      "comentario": "A via deltopeitoral, no intervalo entre o deltoide (nervo axilar) e o peitoral maior (nervos peitorais), é a via padrão para a maioria das fixações do úmero proximal com placa bloqueada, permitindo boa exposição da região anterior e lateral proximal do úmero com preservação relativa da vascularização e do nervo axilar quando bem executada. A via de Kocher é usada para cotovelo lateral, e a via de Henry para antebraço.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-024",
+      "tema": "Úmero proximal",
+      "enunciado": "Em relação ao 'calcar' (esporão medial) do úmero proximal, qual afirmação está correta quanto ao seu papel na fixação com placa bloqueada?",
+      "alternativas": [
+        "É irrelevante para a estabilidade do implante",
+        "A presença de suporte medial (cortical medial intacta ou parafuso calcar bem posicionado) reduz o risco de perda de redução em varo e falha do implante",
+        "Deve sempre ser ressecado antes da fixação",
+        "Está localizado exclusivamente na diáfise distal do úmero"
+      ],
+      "correta": 1,
+      "comentario": "A integridade do calcar medial (cortical medial inferior ao colo anatômico) e o uso de parafusos de suporte calcar bem direcionados na placa bloqueada são fatores biomecânicos importantes para prevenir a perda de redução em varo e o corte (cut-out) dos parafusos proximais, especialmente em osso osteoporótico — sendo um dos principais determinantes de falha mecânica na osteossíntese do úmero proximal.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMS-025",
+      "tema": "Diáfise do úmero",
+      "enunciado": "Homem de 30 anos sofre trauma direto no braço durante acidente automobilístico e apresenta fratura transversa da diáfise umeral em terço médio. Ao exame, apresenta incapacidade de extensão do punho e dos dedos (mão caída), com sensibilidade reduzida no dorso da mão entre o primeiro e segundo metacarpos. Qual é a conduta inicial mais apropriada em relação à lesão nervosa?",
+      "alternativas": [
+        "Exploração cirúrgica imediata do nervo radial em caráter de urgência absoluta",
+        "Observação clínica com reavaliações seriadas, pois a maioria das lesões associadas a fratura fechada é neuropraxia com recuperação espontânea",
+        "Amputação do membro",
+        "Bloqueio anestésico definitivo do plexo braquial"
+      ],
+      "correta": 1,
+      "comentario": "A paralisia radial associada a fratura fechada da diáfise umeral (síndrome de Holstein-Lewis quando no terço distal) é, na grande maioria dos casos, uma neuropraxia por estiramento/contusão, com recuperação espontânea em semanas a poucos meses; por isso a conduta inicial padrão é observação clínica com exames seriados e eletroneuromiografia se não houver sinais de recuperação em 3-4 meses. Exploração cirúrgica imediata é reservada a fraturas expostas, lesão nervosa que surge após manipulação/redução, ou fraturas com aprisionamento evidente do nervo (ex.: interposição em fratura espiral distal).",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-026",
+      "tema": "Diáfise do úmero",
+      "enunciado": "Qual é o nome dado à fratura espiral do terço distal da diáfise umeral associada a paralisia do nervo radial, descrita por sua propensão ao aprisionamento do nervo entre os fragmentos?",
+      "alternativas": [
+        "Fratura de Monteggia",
+        "Fratura de Holstein-Lewis",
+        "Fratura de Galeazzi",
+        "Fratura de Essex-Lopresti"
+      ],
+      "correta": 1,
+      "comentario": "A fratura de Holstein-Lewis é uma fratura espiral do terço distal da diáfise umeral, na transição para a região onde o nervo radial perfura o septo intermuscular lateral, tornando esse trajeto nervoso vulnerável ao aprisionamento entre os fragmentos ósseos — daí a associação clássica com paralisia radial, inclusive com maior chance de necessitar exploração cirúrgica se a paralisia surgir após manipulação. Monteggia, Galeazzi e Essex-Lopresti são lesões do antebraço/punho, não do úmero.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-027",
+      "tema": "Diáfise do úmero",
+      "enunciado": "Em relação ao tratamento conservador (funcional) das fraturas diafisárias do úmero com a órtese funcional (brace de Sarmiento), qual das alternativas está correta?",
+      "alternativas": [
+        "É contraindicado em qualquer grau de angulação",
+        "Tolera-se angulação de até aproximadamente 20 graus em varo/valgo, 30 graus de anteroposterior e encurtamento de até 3 cm sem prejuízo funcional relevante",
+        "Exige imobilização rígida com gesso toracobraquial por 6 meses",
+        "É indicado apenas em fraturas expostas Gustilo IIIC"
+      ],
+      "correta": 1,
+      "comentario": "O tratamento funcional com órtese de Sarmiento, popularizado para fraturas diafisárias fechadas do úmero, tolera graus relativamente amplos de deformidade residual (até cerca de 20° varo/valgo, 30° antero-posterior, 3 cm de encurtamento e rotação leve) sem grande impacto funcional, dada a compensação pela grande mobilidade do ombro. Não é indicado como tratamento definitivo de fraturas expostas graves.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-028",
+      "tema": "Diáfise do úmero",
+      "enunciado": "Qual das situações abaixo é uma indicação clássica de tratamento cirúrgico (em vez de conservador) para fratura diafisária do úmero?",
+      "alternativas": [
+        "Fratura fechada, isolada, com angulação de 10 graus",
+        "Fratura bilateral do úmero, fratura em 'braço flutuante' (associada a fratura do antebraço/cotovelo ipsilateral), fratura exposta ou politraumatismo",
+        "Paciente idoso hígido com fratura isolada não desviada",
+        "Fratura em galho verde em criança"
+      ],
+      "correta": 1,
+      "comentario": "Situações como fraturas bilaterais de úmero, 'braço flutuante' (fratura diafisária do úmero associada a lesão ipsilateral do cotovelo/antebraço), fraturas expostas, lesão vascular associada, politraumatismo (para permitir mobilização precoce) e falha de redução/consolidação são indicações clássicas de tratamento cirúrgico. Fraturas isoladas fechadas com desvio aceitável em pacientes sem essas condições costumam ser bem tratadas conservadoramente.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-029",
+      "tema": "Diáfise do úmero",
+      "enunciado": "Na fixação cirúrgica de uma fratura diafisária do úmero por via anterolateral, qual estrutura neurológica corre risco especial na dissecção do intervalo entre o braquial e o braquiorradial/tríceps na porção distal?",
+      "alternativas": [
+        "Nervo radial, ao emergir do septo intermuscular lateral",
+        "Nervo ulnar no túnel cubital",
+        "Nervo axilar",
+        "Nervo frênico"
+      ],
+      "correta": 0,
+      "comentario": "Na via anterolateral do úmero, o nervo radial deve ser identificado e protegido na porção distal, onde perfura o septo intermuscular lateral entre o braquial e o braquiorradial/extensor radial longo do carpo, tornando-se superficial e vulnerável durante a exposição e colocação de implantes. O nervo ulnar corre posteromedialmente (sulco epitrócleo-olecraniano) e não está na via anterolateral.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-030",
+      "tema": "Diáfise do úmero",
+      "enunciado": "Qual é a principal vantagem da fixação intramedular (haste) em comparação à placa na diáfise umeral, e qual sua principal desvantagem relatada?",
+      "alternativas": [
+        "Vantagem: menor agressão de partes moles/abordagem minimamente invasiva; desvantagem: maior incidência de dor/impacto no ombro (via anterógrada) e risco de lesão do manguito rotador",
+        "Vantagem: elimina completamente o risco de pseudoartrose; desvantagem: necessidade de amputação em caso de falha",
+        "Vantagem: dispensa controle radioscópico; desvantagem: exige acesso posterior extenso",
+        "Vantagem: indicada exclusivamente em crianças; desvantagem: nenhuma"
+      ],
+      "correta": 0,
+      "comentario": "A haste intramedular permite fixação com menor exposição de partes moles e é útil em ossos patológicos ou fraturas segmentares, mas a via anterógrada clássica exige violação do manguito rotador/inserção supraespinhal para introdução do implante, associando-se a maior incidência de dor no ombro e possível impacto subacromial em comparação à placa, que preserva melhor a articulação do ombro à custa de maior dissecção de partes moles.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-031",
+      "tema": "Diáfise do úmero",
+      "enunciado": "Homem de 40 anos apresenta fratura exposta Gustilo II da diáfise do úmero após acidente de moto, sem lesão neurovascular associada. Qual é a sequência de conduta imediata mais adequada?",
+      "alternativas": [
+        "Fechamento primário sem desbridamento e gesso definitivo",
+        "Desbridamento cirúrgico, antibioticoprofilaxia precoce, estabilização (fixador externo ou fixação definitiva conforme condição de partes moles) e reavaliação seriada da ferida",
+        "Amputação primária do membro",
+        "Observação ambulatorial sem intervenção cirúrgica"
+      ],
+      "correta": 1,
+      "comentario": "O manejo padrão de fraturas expostas inclui antibioticoprofilaxia o mais precoce possível, desbridamento cirúrgico cuidadoso de todo tecido desvitalizado/contaminado, e estabilização óssea (que pode ser definitiva ou temporária com fixador externo, a depender das condições de partes moles e do paciente), seguidos de reavaliações seriadas até o fechamento definitivo. Fechamento primário sem desbridamento é contraindicado pelo risco de infecção.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-032",
+      "tema": "Diáfise do úmero",
+      "enunciado": "Em uma fratura diafisária do úmero, qual sinal clínico à inspeção da mão sugere lesão do nervo radial associada?",
+      "alternativas": [
+        "Incapacidade de flexão dos dedos e polegar (mão em garra)",
+        "Mão caída (wrist drop) com incapacidade de extensão do punho, MCFs e polegar",
+        "Perda de sensibilidade na polpa digital do quinto dedo isoladamente",
+        "Sinal de Froment positivo"
+      ],
+      "correta": 1,
+      "comentario": "A lesão do nervo radial causa a clássica 'mão caída' (wrist drop), com incapacidade de extensão ativa do punho, das articulações metacarpofalangeanas e do polegar, além de hipoestesia na região dorsal do primeiro espaço interdigital. A garra ulnar e o sinal de Froment (adutor do polegar) são acometimentos do nervo ulnar, não do radial.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-033",
+      "tema": "Diáfise do úmero",
+      "enunciado": "Após 4 meses de tratamento conservador de fratura diafisária do úmero com paralisia radial associada, o paciente não apresenta qualquer sinal clínico ou eletromiográfico de reinervação. Qual é a conduta mais apropriada nesse momento?",
+      "alternativas": [
+        "Continuar observação indefinidamente sem qualquer intervenção",
+        "Exploração cirúrgica do nervo radial com neurólise, reparo ou enxerto, conforme achado intraoperatório",
+        "Amputação do membro",
+        "Iniciar imediatamente transferência tendinosa sem confirmar ausência de recuperação nervosa"
+      ],
+      "correta": 1,
+      "comentario": "A ausência de sinais clínicos e eletroneuromiográficos de reinervação após cerca de 3-4 meses de observação é indicação de exploração cirúrgica do nervo radial, com neurólise (se em continuidade, mas com neuroma em continuidade não funcionante), reparo primário ou enxerto de nervo, conforme o achado intraoperatório — e não apenas seguir observando indefinidamente. Transferências tendinosas são reservadas para quando se confirma que a recuperação nervosa não é mais esperada, geralmente após tentativa de reparo ou em pacientes que recusam nova cirurgia.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMS-034",
+      "tema": "Diáfise do úmero",
+      "enunciado": "Qual é a taxa aproximada de consolidação e o comportamento típico de paralisia radial associada a fratura fechada de diáfise umeral tratada de forma conservadora, segundo a literatura clássica?",
+      "alternativas": [
+        "Consolidação em torno de 90-95% com tratamento funcional adequado; a maioria das paralisias radiais associadas recupera espontaneamente em até 3-4 meses",
+        "Consolidação inferior a 30%; paralisias radiais nunca recuperam espontaneamente",
+        "Consolidação de 100% garantida apenas com cirurgia; paralisia radial sempre definitiva",
+        "Consolidação e recuperação nervosa não têm relação com o tipo de tratamento"
+      ],
+      "correta": 0,
+      "comentario": "A literatura clássica (Sarmiento e outros) demonstra altas taxas de consolidação (90-95%) com tratamento funcional adequado das fraturas diafisárias fechadas do úmero, e a maioria (>70-90% conforme séries) das paralisias radiais associadas a fraturas fechadas recupera espontaneamente em semanas a poucos meses, reforçando a conduta inicial conservadora tanto para o osso quanto para o nervo nesse contexto.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-035",
+      "tema": "Cotovelo",
+      "enunciado": "Homem de 24 anos sofre queda sobre a mão espalmada com cotovelo em extensão, evoluindo com luxação posterior do cotovelo, fratura da cabeça do rádio e fratura do processo coronoide. Essa tríade de lesões é classicamente conhecida como:",
+      "alternativas": [
+        "Tríade infeliz do ombro",
+        "Tríade terrível do cotovelo (terrible triad)",
+        "Síndrome de Volkmann",
+        "Fratura de Monteggia"
+      ],
+      "correta": 1,
+      "comentario": "A associação de luxação do cotovelo, fratura da cabeça do rádio e fratura do processo coronoide é denominada 'tríade terrível do cotovelo' (terrible triad), configurando uma lesão complexa com alto potencial de instabilidade recorrente, exigindo abordagem cirúrgica estruturada (fixação/prótese da cabeça radial, fixação do coronoide, reparo do ligamento colateral lateral e, se necessário, do medial) para restaurar a estabilidade. A 'tríade infeliz do joelho' é uma entidade diferente (ligamentos do joelho), e Monteggia envolve fratura de ulna com luxação da cabeça do rádio, sem a tríade completa descrita.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-036",
+      "tema": "Cotovelo",
+      "enunciado": "Na abordagem cirúrgica da tríade terrível do cotovelo, qual é a sequência lógica geralmente recomendada para restaurar a estabilidade?",
+      "alternativas": [
+        "Reparo do ligamento colateral medial isoladamente, sem tratar as fraturas ósseas",
+        "Fixação ou artroplastia da cabeça do rádio, fixação do coronoide (quando indicado), reparo do ligamento colateral lateral e, se instabilidade persistir, reparo do colateral medial ou fixador externo articulado",
+        "Artrodese primária do cotovelo",
+        "Amputação do antebraço"
+      ],
+      "correta": 1,
+      "comentario": "A sequência clássica de reconstrução da tríade terrível prioriza restaurar o pilar ósseo lateral (cabeça do rádio, por fixação ou substituição protética quando muito cominuída) e o coronoide (fixação direta, sutura transóssea ou parafuso, conforme o tamanho do fragmento), seguida do reparo do complexo ligamentar colateral lateral; se, após esses passos, o cotovelo permanecer instável em teste intraoperatório, procede-se ao reparo do colateral medial e, em casos refratários, ao uso de fixador externo articulado para proteger a reconstrução durante a cicatrização.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMS-037",
+      "tema": "Cotovelo",
+      "enunciado": "Qual classificação é mais utilizada para fraturas do processo coronoide da ulna, com implicação prognóstica quanto à estabilidade do cotovelo?",
+      "alternativas": [
+        "Classificação de Regan e Morrey",
+        "Classificação de Neer",
+        "Classificação de Garden",
+        "Classificação de Weber"
+      ],
+      "correta": 0,
+      "comentario": "A classificação de Regan e Morrey divide as fraturas do coronoide em tipo I (ponta), tipo II (até 50% da altura) e tipo III (mais de 50% da altura), sendo esta última associada a maior instabilidade do cotovelo e geralmente exigindo fixação cirúrgica pela perda do apoio anterior à translação posterior da ulna. Neer é para úmero proximal, Garden para colo femoral e Weber para maléolo lateral.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-038",
+      "tema": "Cotovelo",
+      "enunciado": "Homem de 45 anos sofre queda direta sobre o cotovelo em flexão e apresenta fratura isolada e desviada (>2 mm) do olécrano, com extensor mecanismo comprometido (incapacidade de extensão ativa do cotovelo contra a gravidade). Qual é a conduta mais adequada?",
+      "alternativas": [
+        "Tratamento conservador com tipoia, pois fraturas de olécrano quase sempre consolidam sem cirurgia",
+        "Redução aberta e fixação interna (banda de tensão ou placa, conforme o padrão de fratura), pois o desvio compromete o mecanismo extensor",
+        "Amputação do antebraço",
+        "Artroplastia total do cotovelo de urgência"
+      ],
+      "correta": 1,
+      "comentario": "Fraturas de olécrano desviadas comprometem o mecanismo extensor do cotovelo (tríceps insere no olécrano) e a congruência articular, sendo indicação cirúrgica na maioria dos adultos ativos. A técnica de banda de tensão (fios + pinos ou parafuso) é clássica para fraturas transversas simples, enquanto placas (pré-contornadas, posicionadas dorsalmente) são preferidas em fraturas cominutas, oblíquas ou associadas a instabilidade do cotovelo. Tratamento conservador é reservado a fraturas não desviadas ou pacientes de baixa demanda/alto risco cirúrgico.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-039",
+      "tema": "Cotovelo",
+      "enunciado": "Qual é a principal vantagem da fixação com placa (em comparação à banda de tensão) nas fraturas cominutas ou instáveis do olécrano?",
+      "alternativas": [
+        "Maior custo sem qualquer benefício biomecânico",
+        "Melhor controle de fraturas cominutas/oblíquas e menor taxa de irritação de partes moles por proeminência de material comparado a fios de Kirschner migrados",
+        "Dispensa qualquer redução anatômica da superfície articular",
+        "É a única técnica aplicável em fraturas de olécrano em qualquer padrão"
+      ],
+      "correta": 1,
+      "comentario": "Placas pré-contornadas para olécrano permitem fixação mais robusta em fraturas cominutas, oblíquas, associadas a luxação (fratura-luxação de Monteggia posterior) ou com extensão diafisária, situações em que a banda de tensão simples é insuficiente ou biomecanicamente inadequada. Além disso, fios de banda de tensão migram/proeminenciam sob a pele subcutânea do olécrano com frequência relevante, sendo causa comum de reoperação para retirada de material — problema menos comum, embora não ausente, com placas bem posicionadas.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-040",
+      "tema": "Cotovelo",
+      "enunciado": "Em relação à fratura isolada da cabeça do rádio classificada como Mason tipo I (não desviada ou minimamente desviada, sem bloqueio mecânico), qual é o tratamento recomendado?",
+      "alternativas": [
+        "Ressecção cirúrgica imediata da cabeça do rádio",
+        "Tratamento conservador com mobilização precoce após curto período de imobilização",
+        "Artroplastia da cabeça do rádio de rotina",
+        "Osteossíntese obrigatória com múltiplos parafusos"
+      ],
+      "correta": 1,
+      "comentario": "Fraturas Mason tipo I (desvio mínimo, geralmente <2 mm, sem bloqueio mecânico à pronossupinação) são tratadas de forma conservadora, com breve período de imobilização (poucos dias) seguido de mobilização precoce, para evitar rigidez, já que o prognóstico funcional é excelente. Cirurgia é reservada a fraturas mais desviadas, cominutas (Mason III) ou com bloqueio mecânico documentado (Mason II com bloqueio).",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-041",
+      "tema": "Cotovelo",
+      "enunciado": "Homem de 38 anos apresenta fratura cominuta e não reconstrutível da cabeça do rádio (Mason tipo III/IV), associada a lesão do ligamento colateral medial em contexto de tríade terrível. Qual conduta cirúrgica é mais apropriada quando a fixação não é viável?",
+      "alternativas": [
+        "Ressecção simples da cabeça do rádio sem qualquer substituição",
+        "Artroplastia (substituição protética) da cabeça do rádio, preferencialmente metálica, para manter o suporte lateral do cotovelo",
+        "Amputação do antebraço",
+        "Fusão da articulação radioulnar proximal"
+      ],
+      "correta": 1,
+      "comentario": "Em fraturas cominutas irreconstrutíveis da cabeça do rádio associadas a instabilidade do cotovelo (como na tríade terrível) ou lesão da membrana interóssea (Essex-Lopresti), a ressecção isolada sem substituição é contraindicada, pois a cabeça do rádio é estabilizador secundário importante contra o valgo e a translação proximal do rádio; a artroplastia com prótese metálica (não de silicone, que tem alta taxa de falha/sinovite) restaura esse suporte e é a conduta recomendada.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMS-042",
+      "tema": "Cotovelo",
+      "enunciado": "Qual é a principal via de acesso cirúrgico utilizada para abordar a cabeça do rádio e o complexo ligamentar colateral lateral do cotovelo?",
+      "alternativas": [
+        "Via de Kocher (intervalo entre ancôneo e extensor ulnar do carpo)",
+        "Via de Henry no antebraço",
+        "Via posterior transtricipital",
+        "Via medial de Hotchkiss ao túnel cubital isoladamente"
+      ],
+      "correta": 0,
+      "comentario": "A via de Kocher explora o intervalo internervoso entre o ancôneo (nervo radial) e o extensor ulnar do carpo (nervo interósseo posterior), permitindo excelente exposição da cabeça do rádio, do complexo ligamentar colateral lateral e do coronoide lateral, sendo a via padrão para tratamento da tríade terrível e fraturas isoladas da cabeça do rádio. A via de Henry é usada para o rádio no antebraço, não no cotovelo.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-043",
+      "tema": "Cotovelo",
+      "enunciado": "Em fratura-luxação do tipo transolécranon (fratura do olécrano com luxação anterior do segmento distal da ulna e da cabeça do rádio em relação ao úmero, mantendo a relação radioulnar proximal), qual é o princípio fundamental do tratamento cirúrgico?",
+      "alternativas": [
+        "Fixação da fratura do olécrano restabelecendo o comprimento e alinhamento da ulna, o que reduz automaticamente a luxação associada",
+        "Amputação do antebraço",
+        "Fusão radioulnar proximal definitiva",
+        "Tratamento exclusivamente conservador com gesso"
+      ],
+      "correta": 0,
+      "comentario": "Na fratura-luxação transolécranon, a luxação da articulação ulnoumeral geralmente é resultado direto do desvio e encurtamento do fragmento do olécrano — ao restaurar o comprimento, o eixo e a redução anatômica da ulna proximal com fixação estável (placa), a relação articular ulnoumeral e radioumeral é restabelecida sem a necessidade de manobras de redução isoladas da luxação, sendo esse encadeamento um conceito central no tratamento dessa lesão.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMS-044",
+      "tema": "Úmero distal",
+      "enunciado": "Mulher de 55 anos sofre queda com trauma direto no cotovelo e apresenta fratura intercondilar do úmero distal com traço em 'T' cominuto, envolvendo ambas as colunas e a superfície articular. Qual é o princípio cirúrgico fundamental no tratamento dessas fraturas?",
+      "alternativas": [
+        "Redução anatômica da superfície articular associada a fixação estável de ambas as colunas (medial e lateral) com placas, permitindo mobilização precoce",
+        "Amputação do membro",
+        "Imobilização rígida prolongada sem cirurgia, independentemente do desvio",
+        "Artrodese primária do cotovelo em todos os casos"
+      ],
+      "correta": 0,
+      "comentario": "O tratamento padrão-ouro das fraturas intercondilares/supraintercondilares complexas do úmero distal em adultos é a redução aberta anatômica da superfície articular combinada à fixação estável de ambas as colunas (medial e lateral) com placas (paralelas ou ortogonais, conforme o padrão de fratura), permitindo mobilização precoce do cotovelo — fundamental para evitar rigidez, uma das complicações mais temidas nessa região. Artrodese e imobilização prolongada são reservadas a situações excepcionais (osso muito fragmentado/inviável, contraindicação cirúrgica).",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-045",
+      "tema": "Úmero distal",
+      "enunciado": "Em pacientes idosos com fratura cominuta e não reconstrutível do úmero distal (particularmente em osso muito osteoporótico), qual alternativa cirúrgica tem se consolidado como opção ao invés da tentativa de osteossíntese?",
+      "alternativas": [
+        "Artroplastia total do cotovelo",
+        "Amputação transumeral",
+        "Fusão do ombro",
+        "Ressecção da cabeça do rádio isolada"
+      ],
+      "correta": 0,
+      "comentario": "Em pacientes idosos de baixa demanda funcional com fraturas do úmero distal muito cominutas, especialmente com má qualidade óssea que compromete a fixação estável, a artroplastia total do cotovelo (geralmente do tipo semi-restrita/linked) é uma alternativa validada à osteossíntese, com bons resultados funcionais, desde que respeitadas as restrições de carga permanentes impostas ao implante.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-046",
+      "tema": "Úmero distal",
+      "enunciado": "Qual nervo periférico está classicamente em maior risco durante a fixação cirúrgica da coluna medial do úmero distal, especialmente próximo ao sulco epitrócleo-olecraniano?",
+      "alternativas": [
+        "Nervo ulnar",
+        "Nervo radial",
+        "Nervo mediano",
+        "Nervo musculocutâneo"
+      ],
+      "correta": 0,
+      "comentario": "O nervo ulnar passa posteriormente ao epicôndilo medial, no sulco epitrócleo-olecraniano (túnel cubital), estando em risco direto durante a dissecção e fixação da coluna medial do úmero distal — por isso a identificação e proteção (ou transposição anterior temporária) do nervo ulnar é etapa obrigatória nesse tipo de cirurgia. O nervo radial está mais relacionado à coluna lateral/diáfise, e mediano/musculocutâneo não correm risco direto nessa topografia posterior.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-047",
+      "tema": "Úmero distal",
+      "enunciado": "Qual é a complicação tardia mais temida e mais frequentemente citada após fraturas complexas do úmero distal tratadas cirurgicamente, mesmo com boa redução?",
+      "alternativas": [
+        "Rigidez do cotovelo (perda de amplitude de movimento)",
+        "Necrose avascular da cabeça do fêmur",
+        "Síndrome do túnel do tarso",
+        "Luxação recidivante do quadril"
+      ],
+      "correta": 0,
+      "comentario": "A rigidez do cotovelo é a complicação mais comumente relatada após fraturas complexas do úmero distal, mesmo com redução anatômica e fixação estável, devido à combinação de lesão de partes moles, formação de aderências capsulares, ossificação heterotópica e imobilização prolongada — por isso a ênfase em fixação estável o suficiente para permitir mobilização precoce é central no tratamento dessas fraturas. As demais opções não se relacionam ao cotovelo.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-048",
+      "tema": "Úmero distal",
+      "enunciado": "Homem jovem sofre trauma de alta energia com fratura exposta do úmero distal e evolui, dias após, com dor desproporcional, parestesias progressivas na mão e dor à extensão passiva dos dedos. Qual complicação deve ser prontamente excluída?",
+      "alternativas": [
+        "Síndrome compartimental do antebraço",
+        "Osteoartrite pós-traumática tardia",
+        "Pseudoartrose assintomática",
+        "Bursite do olécrano"
+      ],
+      "correta": 0,
+      "comentario": "Dor desproporcional ao exame, parestesias progressivas e dor intensa à extensão passiva dos dedos são sinais de alarme clássicos para síndrome compartimental do antebraço, uma emergência cirúrgica que exige fasciotomia imediata caso confirmada (clinicamente ou por medida de pressão compartimental), sob pena de evoluir para contratura isquêmica de Volkmann. As demais alternativas são condições crônicas/tardias, não emergências agudas.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-049",
+      "tema": "Luxação do cotovelo",
+      "enunciado": "Qual é o padrão de luxação do cotovelo mais comum em adultos, quanto à direção do deslocamento do antebraço em relação ao úmero?",
+      "alternativas": [
+        "Luxação anterior",
+        "Luxação posterior (ou posterolateral)",
+        "Luxação medial isolada",
+        "Luxação divergente"
+      ],
+      "correta": 1,
+      "comentario": "A luxação posterior (frequentemente posterolateral) é, de longe, o padrão mais comum de luxação do cotovelo em adultos, geralmente resultante de queda sobre a mão espalmada com o cotovelo em extensão, gerando uma força em valgo, supinação e carga axial que rompe progressivamente o complexo ligamentar lateral e depois o medial (conceito do 'círculo de Horii'). A luxação anterior é rara e geralmente associada a trauma direto de alta energia na face posterior do cotovelo fletido.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-050",
+      "tema": "Luxação do cotovelo",
+      "enunciado": "Após redução fechada bem-sucedida de uma luxação simples (sem fratura associada) do cotovelo, qual é a conduta padrão recomendada atualmente?",
+      "alternativas": [
+        "Imobilização rígida em gesso por 6 semanas sem qualquer mobilização",
+        "Curto período de imobilização (poucos dias) seguido de mobilização precoce protegida, avaliando a estabilidade em diferentes graus de flexão",
+        "Cirurgia de reconstrução ligamentar obrigatória em todos os casos",
+        "Amputação do antebraço"
+      ],
+      "correta": 1,
+      "comentario": "Em luxações simples e estáveis após a redução, a tendência atual é imobilização por curto período (dias) seguida de mobilização precoce protegida (órtese articulada, arco de movimento progressivo), pois a imobilização prolongada é o principal fator associado à rigidez do cotovelo, uma complicação comum e limitante. Reconstrução ligamentar cirúrgica é reservada a instabilidade recorrente ou luxações complexas (fraturas associadas) com falha em manter a redução.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-051",
+      "tema": "Luxação do cotovelo",
+      "enunciado": "Qual é a sequência de lesão ligamentar descrita no chamado 'círculo de Horii' nas luxações do cotovelo por mecanismo em valgo/supinação/carga axial?",
+      "alternativas": [
+        "Inicia-se lateralmente (complexo colateral lateral), progride pela cápsula anterior e posterior, terminando medialmente no ligamento colateral medial",
+        "Inicia-se sempre no ligamento colateral medial e nunca acomete estruturas laterais",
+        "Acomete exclusivamente o nervo ulnar, sem qualquer lesão ligamentar",
+        "Envolve apenas a membrana interóssea do antebraço"
+      ],
+      "correta": 0,
+      "comentario": "O círculo de Horii descreve uma progressão previsível da lesão de partes moles nas luxações do cotovelo: inicia-se no complexo ligamentar colateral lateral (incluindo o ligamento colateral ulnar lateral), progride através das cápsulas anterior e posterior, podendo terminar com a ruptura do ligamento colateral medial nos estágios mais graves — explicando por que a instabilidade lateral costuma ser mais precoce e relevante que a medial na maioria das luxações simples.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMS-052",
+      "tema": "Luxação do ombro",
+      "enunciado": "Homem de 22 anos sofre trauma em abdução, rotação externa e extensão do ombro durante partida de vôlei, evoluindo com dor intensa e deformidade, mantendo o braço em leve abdução e rotação externa, incapaz de aduzir o membro. Qual é o diagnóstico mais provável e o exame de imagem inicial recomendado?",
+      "alternativas": [
+        "Luxação glenoumeral posterior; radiografia em perfil axilar",
+        "Luxação glenoumeral anterior; radiografia em AP verdadeiro do ombro e perfil axilar/escapular (Y)",
+        "Luxação acromioclavicular tipo I; ultrassonografia",
+        "Fratura de escápula isolada; tomografia de tórax"
+      ],
+      "correta": 1,
+      "comentario": "A luxação glenoumeral anterior é, de longe, a mais comum (cerca de 95-97% das luxações do ombro) e classicamente ocorre por mecanismo de abdução, rotação externa e extensão, resultando em braço mantido em leve abdução/rotação externa. O diagnóstico deve ser confirmado com pelo menos duas incidências ortogonais — AP verdadeiro e perfil axilar ou escapular em Y — para excluir luxação posterior associada e avaliar fraturas associadas (Bankart ósseo, Hill-Sachs).",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-053",
+      "tema": "Luxação do ombro",
+      "enunciado": "Após redução de luxação glenoumeral anterior traumática em paciente de 20 anos, qual é o principal fator de risco para recidiva (instabilidade recorrente)?",
+      "alternativas": [
+        "Idade avançada (acima de 60 anos)",
+        "Idade jovem (<25-30 anos) no primeiro episódio",
+        "Sexo feminino isoladamente",
+        "Ausência completa de qualquer lesão labral"
+      ],
+      "correta": 1,
+      "comentario": "A idade jovem no momento do primeiro episódio de luxação anterior é o fator de risco mais robusto e consistente para recorrência, com taxas de instabilidade recorrente que podem ultrapassar 70-90% em pacientes muito jovens e ativos, ao contrário de pacientes mais velhos, nos quais a lesão associada mais comum passa a ser a ruptura do manguito rotador, e a recidiva é mais rara.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-054",
+      "tema": "Luxação do ombro",
+      "enunciado": "Qual lesão óssea da glenoide, caracterizada por fratura da borda anteroinferior associada a luxações anteriores recorrentes do ombro, é conhecida como:",
+      "alternativas": [
+        "Lesão de Bankart óssea",
+        "Lesão de Hill-Sachs",
+        "Lesão de Monteggia",
+        "Lesão de Segond"
+      ],
+      "correta": 0,
+      "comentario": "A lesão de Bankart óssea corresponde à fratura/avulsão da borda anteroinferior da glenoide associada a episódios de luxação anterior do ombro, sendo um fator importante de instabilidade recorrente quando o defeito ósseo é significativo (>20-25% da superfície glenoidal), podendo exigir procedimentos de enxerto ósseo (ex.: Latarjet) em vez de reparo labral isolado. A lesão de Hill-Sachs, em contraste, é o defeito de impactação na cabeça umeral posterolateral. Monteggia e Segond são lesões de outras topografias (antebraço e joelho, respectivamente).",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-055",
+      "tema": "Luxação do ombro",
+      "enunciado": "Homem de 50 anos sofre convulsão tônico-clônica e, ao acordar, apresenta dor no ombro com limitação importante da rotação externa, o braço mantido em rotação interna e adução, incapaz de realizar rotação externa ativa ou passiva completa. Qual diagnóstico deve ser fortemente suspeitado e qual incidência radiográfica é fundamental para não passar despercebida?",
+      "alternativas": [
+        "Luxação glenoumeral anterior; incidência em Y de escápula é dispensável",
+        "Luxação glenoumeral posterior; incidência axilar ou perfil de escápula (Y) é essencial, pois a incidência em AP pode parecer normal",
+        "Fratura isolada da clavícula; radiografia de tórax PA",
+        "Luxação acromioclavicular; ultrassonografia de partes moles"
+      ],
+      "correta": 1,
+      "comentario": "Convulsões e choques elétricos são mecanismos clássicos de luxação glenoumeral posterior (por contração potente dos rotadores internos, mais fortes que os externos), que classicamente cursa com limitação da rotação externa e braço em rotação interna/adução. É uma luxação frequentemente subdiagnosticada porque a radiografia em AP pode parecer enganosamente normal ('sinal da lâmpada elétrica' sutil); por isso a incidência axilar ou o perfil de escápula em Y são essenciais para confirmar o diagnóstico.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-056",
+      "tema": "Luxação do ombro",
+      "enunciado": "Em relação à lesão de Hill-Sachs (defeito de impactação na cabeça umeral posterolateral associado a luxação anterior recorrente), qual afirmação está correta quanto à sua relevância clínica quando de grande extensão ('engaging')?",
+      "alternativas": [
+        "É sempre irrelevante clinicamente, independentemente do tamanho",
+        "Quando extensa e 'engaging' (engatando na borda glenoidal durante rotação/abdução), contribui para instabilidade recorrente e pode exigir procedimentos ósseos adicionais (ex.: remplissage, Latarjet)",
+        "Está localizada exclusivamente na região anteroinferior da glenoide",
+        "É sinônimo de ruptura completa do manguito rotador"
+      ],
+      "correta": 1,
+      "comentario": "Uma lesão de Hill-Sachs extensa que 'engata' na borda anterior da glenoide durante movimentos de rotação externa/abdução contribui mecanicamente para a instabilidade recorrente, sendo um dos fatores considerados na decisão cirúrgica — podendo indicar procedimentos adicionais como o remplissage (preenchimento do defeito com a cápsula posterior/infraespinhal) ou, em defeitos ósseos combinados extensos (glenoide + úmero), a transferência óssea tipo Latarjet. Localiza-se na cabeça umeral posterolateral, não na glenoide.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMS-057",
+      "tema": "Luxação do ombro",
+      "enunciado": "Qual nervo periférico é mais frequentemente lesado (geralmente por neuropraxia) em associação com luxação glenoumeral anterior traumática, especialmente em pacientes idosos, e deve ser sistematicamente testado antes e depois da redução?",
+      "alternativas": [
+        "Nervo axilar",
+        "Nervo frênico",
+        "Nervo obturador",
+        "Nervo femoral"
+      ],
+      "correta": 0,
+      "comentario": "O nervo axilar é a estrutura neurológica mais comumente acometida em luxações glenoumerais anteriores, especialmente em pacientes mais velhos, geralmente por estiramento (neuropraxia), com boa recuperação espontânea na maioria dos casos. Deve-se testar a sensibilidade da região do 'sinal do distintivo' (deltoide lateral) e a contração do deltoide antes e após a redução, documentando o exame para fins médico-legais e de acompanhamento.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-058",
+      "tema": "Luxação do cotovelo",
+      "enunciado": "Em uma luxação do cotovelo associada a fratura significativa do processo coronoide e da cabeça do rádio (tríade terrível), qual é o principal motivo de a instabilidade persistir mesmo após tratamento inadequado das partes moles?",
+      "alternativas": [
+        "A perda do suporte ósseo anterior (coronoide) e lateral (cabeça do rádio) compromete os mecanismos primário e secundário de estabilidade do cotovelo, sobrecarregando os ligamentos remanescentes",
+        "O nervo mediano é sempre seccionado nesse tipo de lesão",
+        "A pele sempre necessita de enxerto nesse tipo de lesão",
+        "Não há qualquer relação entre estruturas ósseas e estabilidade do cotovelo"
+      ],
+      "correta": 0,
+      "comentario": "O coronoide (bloqueio anterior à translação posterior da ulna) e a cabeça do rádio (contraforte lateral contra o valgo e a translação proximal) são estabilizadores ósseos primários/secundários importantes do cotovelo; quando fraturados e não tratados adequadamente, mesmo um reparo ligamentar bem-feito pode ser insuficiente para manter a redução, justificando a abordagem estruturada e sequencial (óssea antes de ligamentar) preconizada no tratamento da tríade terrível.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMS-059",
+      "tema": "Luxação do ombro",
+      "enunciado": "Paciente de 45 anos, submetido à redução incruenta de luxação anterior do ombro, evolui após 2 semanas com dor persistente e fraqueza na elevação/rotação externa do ombro, sem sinais de nova luxação. Qual lesão associada deve ser investigada, especialmente em pacientes acima de 40 anos?",
+      "alternativas": [
+        "Ruptura do manguito rotador",
+        "Fratura de escafoide",
+        "Síndrome do túnel do carpo",
+        "Ruptura do tendão de Aquiles"
+      ],
+      "correta": 0,
+      "comentario": "Em pacientes com mais de 40 anos, a luxação glenoumeral anterior tem associação relevante com ruptura do manguito rotador (mais frequentemente do supraespinhal), que pode ser a causa de dor persistente e fraqueza funcional após a redução, devendo ser investigada com exame físico direcionado e, se necessário, ultrassonografia ou ressonância magnética. Nos pacientes mais jovens, a lesão labral (Bankart) é proporcionalmente mais relevante.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-060",
+      "tema": "Luxação do ombro",
+      "enunciado": "Qual é a manobra de redução da luxação glenoumeral anterior classicamente descrita como de baixa força, com tração longitudinal suave e rotação externa gradual do braço aduzido, minimizando o risco de lesão iatrogênica?",
+      "alternativas": [
+        "Manobra de Kocher clássica com alavancagem vigorosa",
+        "Método de Stimson (tração longitudinal em decúbito ventral com peso pendente) ou técnica de rotação externa (Hennepin), com analgesia/sedação adequada",
+        "Manobra de Ortolani",
+        "Manobra de Spurling"
+      ],
+      "correta": 1,
+      "comentario": "O método de Stimson (paciente em decúbito ventral, braço pendente com peso leve, permitindo relaxamento muscular gradual e redução espontânea) e a técnica de rotação externa (Hennepin), realizada lentamente com o braço aduzido junto ao corpo, são consideradas técnicas de baixa força e menor risco de lesão iatrogênica em comparação a manobras de alavancagem mais vigorosas como a Kocher clássica. Ortolani é um teste para displasia do quadril em recém-nascidos, e Spurling é um teste cervical, não manobras de redução do ombro.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-061",
+      "tema": "Antebraço",
+      "enunciado": "Homem de 30 anos sofre queda com trauma direto na face posterior do antebraço e apresenta fratura da diáfise da ulna em terço proximal associada à luxação da cabeça do rádio. Esse padrão de lesão é classicamente denominado:",
+      "alternativas": [
+        "Fratura de Galeazzi",
+        "Fratura-luxação de Monteggia",
+        "Fratura de Colles",
+        "Fratura de Barton"
+      ],
+      "correta": 1,
+      "comentario": "A fratura-luxação de Monteggia é definida pela fratura da diáfise da ulna associada à luxação da cabeça do rádio (articulação radioulnar proximal/umerorradial), classificada por Bado conforme a direção da luxação da cabeça radial (anterior, posterior, lateral ou associada a fratura do olécrano). A fratura de Galeazzi é o padrão inverso (fratura do rádio distal com luxação da articulação radioulnar distal). Colles e Barton são fraturas do rádio distal.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-062",
+      "tema": "Antebraço",
+      "enunciado": "Em relação à classificação de Bado para as fraturas de Monteggia, qual é o tipo mais comum em adultos?",
+      "alternativas": [
+        "Bado tipo I — luxação anterior da cabeça do rádio com fratura da ulna com ápice anterior",
+        "Bado tipo II — luxação posterior da cabeça do rádio",
+        "Bado tipo III — luxação lateral, mais comum em crianças",
+        "Bado tipo IV — associada a fratura do terço proximal do rádio"
+      ],
+      "correta": 0,
+      "comentario": "O tipo I de Bado (luxação anterior da cabeça do rádio associada à fratura da diáfise ulnar com angulação/ápice anterior) é o mais comum tanto em crianças quanto em adultos, representando a maioria dos casos. O tipo II (luxação posterior) é mais característico de adultos mas menos frequente que o tipo I; o tipo III é mais visto em crianças; o tipo IV é o mais raro, com fratura associada do terço proximal de ambos os ossos do antebraço.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-063",
+      "tema": "Antebraço",
+      "enunciado": "Qual é o princípio fundamental no tratamento cirúrgico da fratura-luxação de Monteggia em adultos?",
+      "alternativas": [
+        "Redução anatômica e fixação estável (placa) da fratura da ulna, o que geralmente reduz a luxação da cabeça do rádio de forma concêntrica",
+        "Ressecção da cabeça do rádio em todos os casos, independentemente da redução",
+        "Tratamento exclusivamente conservador com gesso, sem necessidade de cirurgia em adultos",
+        "Amputação do antebraço"
+      ],
+      "correta": 0,
+      "comentario": "Assim como na fratura-luxação transolécranon do cotovelo, na lesão de Monteggia a restauração do comprimento e do alinhamento anatômico da ulna com fixação estável (geralmente placa de compressão) costuma reduzir espontaneamente a cabeça do rádio de forma concêntrica; se isso não ocorrer, deve-se investigar interposição de partes moles (cápsula, ligamento anular) na articulação umerorradial/radioulnar proximal, exigindo redução aberta dessa articulação.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-064",
+      "tema": "Antebraço",
+      "enunciado": "Homem de 28 anos sofre trauma direto no antebraço distal e apresenta fratura da diáfise do rádio em terço distal associada a dor e instabilidade da articulação radioulnar distal, com alargamento dessa articulação na radiografia. Esse padrão é conhecido como:",
+      "alternativas": [
+        "Fratura de Monteggia",
+        "Fratura-luxação de Galeazzi",
+        "Fratura de Smith",
+        "Fratura de Chauffeur"
+      ],
+      "correta": 1,
+      "comentario": "A fratura-luxação de Galeazzi é caracterizada por fratura da diáfise do rádio (geralmente no terço distal) associada à luxação ou subluxação da articulação radioulnar distal, com lesão do complexo da fibrocartilagem triangular e da membrana interóssea distal. É por vezes chamada de 'Monteggia invertida', mas é uma entidade distinta.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-065",
+      "tema": "Antebraço",
+      "enunciado": "Qual é a conduta cirúrgica recomendada para a fratura-luxação de Galeazzi em adultos?",
+      "alternativas": [
+        "Tratamento exclusivamente conservador com gesso, pois a taxa de sucesso conservador é alta em adultos",
+        "Redução aberta e fixação interna estável (placa) do rádio, seguida de avaliação da estabilidade da articulação radioulnar distal (que geralmente se torna estável após a redução anatômica do rádio)",
+        "Amputação do antebraço",
+        "Fixação isolada da ulna sem tratar o rádio"
+      ],
+      "correta": 1,
+      "comentario": "Em adultos, a fratura de Galeazzi tem alta taxa de instabilidade e mau resultado com tratamento conservador (diferente das crianças, em que o tratamento incruento costuma ser satisfatório), sendo indicada a redução aberta e fixação interna estável do rádio com placa; após isso, a articulação radioulnar distal deve ser reavaliada quanto à estabilidade, podendo necessitar imobilização em supinação, fixação percutânea temporária ou, raramente, reparo aberto do complexo fibrocartilaginoso triangular se permanecer instável.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-066",
+      "tema": "Antebraço",
+      "enunciado": "Em relação às fraturas diafisárias de ambos os ossos do antebraço (rádio e ulna) em adultos, qual é o tratamento padrão atual?",
+      "alternativas": [
+        "Tratamento conservador com gesso longo braquiopalmar na maioria dos casos",
+        "Redução aberta e fixação interna com placa de compressão em ambos os ossos, restaurando o arco de pronossupinação",
+        "Fixação isolada da ulna, sem necessidade de tratar o rádio",
+        "Amputação do antebraço"
+      ],
+      "correta": 1,
+      "comentario": "Em adultos, o tratamento padrão das fraturas diafisárias de ambos os ossos do antebraço é a redução aberta e fixação interna com placa de compressão em cada osso separadamente, restaurando o comprimento, o alinhamento rotacional e, fundamentalmente, o arco radial (bow) necessário para a pronossupinação completa — o tratamento conservador tem alta taxa de perda de redução, sinostose radioulnar e limitação funcional em adultos, ao contrário de crianças.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-067",
+      "tema": "Antebraço",
+      "enunciado": "Qual é a complicação específica associada à perda do arco de curvatura radial ('radial bow') durante a fixação cirúrgica das fraturas do antebraço?",
+      "alternativas": [
+        "Necrose avascular do escafoide",
+        "Limitação da pronossupinação por incongruência na relação entre rádio e ulna durante a rotação",
+        "Síndrome do túnel do carpo isoladamente",
+        "Fratura periprotética do quadril"
+      ],
+      "correta": 1,
+      "comentario": "O arco de curvatura radial é essencial para que o rádio possa rodar em torno da ulna fixa durante a pronossupinação; sua restauração inadequada durante a osteossíntese (placa reta ou mal contornada) reduz o espaço disponível para essa rotação, resultando em limitação mecânica da pronação/supinação mesmo com consolidação óssea satisfatória — reforçando a importância de placas pré-contornadas ou moldadas ao contorno anatômico do rádio.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMS-068",
+      "tema": "Antebraço",
+      "enunciado": "Qual estrutura anatômica deve ser cuidadosamente preservada durante a via de Henry (anterior) para acesso ao rádio no terço proximal do antebraço, pelo risco de lesão do ramo motor?",
+      "alternativas": [
+        "Nervo interósseo posterior (ramo profundo do nervo radial), ao redor do colo do rádio na região do músculo supinador",
+        "Nervo ulnar no túnel cubital",
+        "Nervo mediano no túnel do carpo",
+        "Nervo axilar"
+      ],
+      "correta": 0,
+      "comentario": "Na via de Henry, especialmente na exposição do terço proximal do rádio, o ramo motor profundo do nervo radial (nervo interósseo posterior) cursa através do músculo supinador ao redor do colo do rádio e está em risco de lesão por tração ou lesão direta durante a dissecção — sendo recomendada a pronação do antebraço durante essa etapa para afastar o nervo da área de trabalho. O nervo ulnar e mediano não estão na topografia dessa via nesse nível.",
+      "referencia": "Campbell's Operative Orthopaedics, 14ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-069",
+      "tema": "Antebraço",
+      "enunciado": "Homem de 35 anos apresenta fratura isolada da diáfise da ulna, sem desvio significativo (<10 graus de angulação, sem encurtamento) após trauma direto (fratura do 'bastão de defesa' / nightstick fracture). Qual conduta é apropriada?",
+      "alternativas": [
+        "Cirurgia obrigatória em todos os casos",
+        "Tratamento conservador com imobilização funcional pode ser considerado em fraturas isoladas da ulna com desvio mínimo, dado o bom prognóstico nesse subgrupo",
+        "Amputação do antebraço",
+        "Artrodese radioulnar distal"
+      ],
+      "correta": 1,
+      "comentario": "Fraturas isoladas da diáfise da ulna com desvio mínimo (a chamada 'nightstick fracture', por trauma direto de defesa) têm bom prognóstico com tratamento conservador (imobilização funcional/tipoia), sendo a cirurgia reservada a fraturas com desvio significativo (>10° de angulação, >50% de desvio do diâmetro, encurtamento relevante) ou evidência de instabilidade, já que a ulna sozinha, ao contrário da associação com fratura do rádio, tem menor tendência a interferir na rotação quando bem alinhada.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-070",
+      "tema": "Antebraço",
+      "enunciado": "Qual é a lesão associada que deve ser sistematicamente pesquisada em toda fratura-luxação de Monteggia, dado o trajeto anatômico próximo à articulação radioulnar proximal luxada?",
+      "alternativas": [
+        "Lesão do nervo interósseo posterior (ramo profundo do nervo radial)",
+        "Lesão do nervo femoral",
+        "Lesão do nervo obturador",
+        "Lesão do nervo pudendo"
+      ],
+      "correta": 0,
+      "comentario": "O nervo interósseo posterior (ramo profundo do radial) passa próximo à cabeça do rádio e ao arco do supinador, estando em risco de neuropraxia por estiramento na luxação da cabeça radial associada à fratura-luxação de Monteggia (especialmente nos tipos com luxação anterior/lateral) — deve ser sistematicamente testado antes e após a redução/fixação, sendo a maioria dos casos neuropraxias com recuperação espontânea.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-071",
+      "tema": "Rádio distal",
+      "enunciado": "Mulher de 65 anos sofre queda sobre a mão espalmada e apresenta deformidade em 'dorso de garfo' no punho. A radiografia mostra fratura do rádio distal com desvio dorsal do fragmento distal, impactação e encurtamento radial. Esse padrão clássico é denominado:",
+      "alternativas": [
+        "Fratura de Smith",
+        "Fratura de Colles",
+        "Fratura de Barton volar",
+        "Fratura de Galeazzi"
+      ],
+      "correta": 1,
+      "comentario": "A fratura de Colles é o padrão mais comum de fratura do rádio distal, caracterizada por desvio dorsal, angulação dorsal e encurtamento radial do fragmento distal, tipicamente decorrente de queda sobre a mão espalmada em extensão, resultando na clássica deformidade em 'dorso de garfo' (dinner fork deformity). A fratura de Smith é o padrão inverso, com desvio volar do fragmento distal, geralmente por queda sobre o dorso da mão fletida.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-072",
+      "tema": "Rádio distal",
+      "enunciado": "Quais parâmetros radiográficos são classicamente avaliados para julgar a qualidade da redução de uma fratura do rádio distal?",
+      "alternativas": [
+        "Inclinação radial, inclinação volar (tilt palmar) e comprimento radial (altura radial)",
+        "Ângulo de Böhler e ângulo de Gissane",
+        "Índice acetabular e ângulo CE de Wiberg",
+        "Ângulo Q do joelho"
+      ],
+      "correta": 0,
+      "comentario": "Os três parâmetros radiográficos clássicos para avaliar a redução do rádio distal são a inclinação radial (normal ~22-23°), a inclinação volar/tilt palmar na incidência em perfil (normal ~11-12° de inclinação volar) e o comprimento (altura) radial (normal ~11-12 mm), cujos desvios significativos em relação aos valores normais estão associados a pior função e maior risco de artrose radiocarpal. Böhler/Gissane são do calcâneo, e os demais índices são do quadril e joelho.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-073",
+      "tema": "Rádio distal",
+      "enunciado": "Qual classificação de fraturas do rádio distal se baseia no padrão de traço de fratura (extra-articular, articular parcial, articular completa) e no grau de cominuição metafisária, sendo amplamente usada em pesquisa e prática clínica?",
+      "alternativas": [
+        "Classificação de Frykman",
+        "Classificação universal/AO (tipos A, B, C)",
+        "Classificação de Neer",
+        "Classificação de Garden"
+      ],
+      "correta": 1,
+      "comentario": "A classificação AO/OTA (também chamada de 'universal' em algumas adaptações) divide as fraturas do rádio distal em tipo A (extra-articular), tipo B (articular parcial) e tipo C (articular completa), com subgrupos conforme grau de cominuição, sendo amplamente utilizada tanto na prática clínica quanto em estudos. A classificação de Frykman também é usada para rádio distal, mas baseia-se na presença/ausência de fratura da ulna distal e acometimento articular radiocárpico/radioulnar; Neer e Garden não se aplicam ao rádio distal.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-074",
+      "tema": "Rádio distal",
+      "enunciado": "Homem de 45 anos, trabalhador braçal, apresenta fratura do rádio distal intra-articular com desvio dorsal significativo, cominuição metafisária e degrau articular de 3 mm. Qual é a indicação mais apropriada nesse contexto?",
+      "alternativas": [
+        "Tratamento conservador com gesso, independentemente do desvio articular",
+        "Redução aberta e fixação interna com placa volar bloqueada, dado o desvio articular relevante e a demanda funcional do paciente",
+        "Amputação do punho",
+        "Artrodese primária do punho"
+      ],
+      "correta": 1,
+      "comentario": "Degraus articulares maiores que 2 mm, cominuição metafisária significativa e desvio dorsal relevante em paciente jovem/ativo com alta demanda funcional são indicações consagradas de tratamento cirúrgico, sendo a placa volar bloqueada (placa volar de ângulo fixo) a técnica mais utilizada atualmente por permitir fixação estável mesmo em osso osteoporótico e reabilitação precoce. Tratamento conservador nesse cenário tende a evoluir com perda de redução e artrose pós-traumática.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-075",
+      "tema": "Rádio distal",
+      "enunciado": "Qual é a principal vantagem da placa volar bloqueada (locked volar plate) no tratamento das fraturas do rádio distal, em comparação à fixação percutânea isolada com fios de Kirschner?",
+      "alternativas": [
+        "Dispensa qualquer redução da fratura antes da fixação",
+        "Permite fixação angularmente estável mesmo em osso osteoporótico/cominuto, possibilitando mobilização precoce do punho",
+        "Elimina completamente o risco de síndrome do túnel do carpo",
+        "É indicada exclusivamente em fraturas extra-articulares simples"
+      ],
+      "correta": 1,
+      "comentario": "A placa volar bloqueada oferece estabilidade angular (parafusos bloqueados na placa), mantendo a redução mesmo em osso osteoporótico ou com cominuição metafisária/dorsal, permitindo mobilização precoce do punho — vantagem importante sobre a fixação isolada com fios de Kirschner, que depende mais da qualidade óssea e geralmente requer imobilização externa complementar por mais tempo. Ainda assim, a placa volar não elimina o risco de complicações como a síndrome do túnel do carpo ou irritação de tendões flexores/extensores.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-076",
+      "tema": "Rádio distal",
+      "enunciado": "Qual complicação tendínea é classicamente descrita em associação com fraturas do rádio distal (tratadas conservadoramente ou com material de síntese dorsal), podendo ocorrer semanas após o trauma?",
+      "alternativas": [
+        "Ruptura tardia do tendão extensor longo do polegar (EPL)",
+        "Ruptura do tendão do calcâneo",
+        "Ruptura do tendão patelar",
+        "Ruptura do manguito rotador"
+      ],
+      "correta": 0,
+      "comentario": "A ruptura tardia (geralmente semanas após o trauma) do tendão extensor longo do polegar é uma complicação clássica das fraturas do rádio distal, mesmo as tratadas conservadoramente, atribuída à isquemia relativa do tendão em seu trajeto pelo terceiro compartimento extensor (tubérculo de Lister) e/ou irritação mecânica por material de síntese dorsal proeminente, sendo tratada geralmente com transferência do tendão extensor próprio do indicador.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-077",
+      "tema": "Rádio distal",
+      "enunciado": "Mulher de 70 anos com fratura do rádio distal evolui, após 8 semanas, com dor difusa, edema, rigidez articular, alterações tróficas de pele e hipersensibilidade na mão, desproporcionais ao trauma inicial. Qual diagnóstico deve ser considerado?",
+      "alternativas": [
+        "Síndrome dolorosa regional complexa (distrofia simpático-reflexa)",
+        "Osteomielite crônica",
+        "Síndrome do túnel do tarso",
+        "Fratura de estresse do escafoide"
+      ],
+      "correta": 0,
+      "comentario": "A síndrome dolorosa regional complexa (antigamente chamada distrofia simpático-reflexa) é uma complicação relativamente comum após fraturas do rádio distal, caracterizada por dor desproporcional, edema, alterações vasomotoras e tróficas, rigidez articular e hipersensibilidade, exigindo diagnóstico precoce e manejo multidisciplinar (fisioterapia, controle da dor, eventualmente bloqueios simpáticos) para minimizar sequelas funcionais permanentes.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-078",
+      "tema": "Rádio distal",
+      "enunciado": "Em relação à fratura de Barton (fratura-luxação articular do rádio distal com fragmento marginal dorsal ou volar associado à subluxação do carpo), qual é o tratamento mais adequado?",
+      "alternativas": [
+        "Tratamento conservador exclusivo com gesso, mesmo com subluxação carpal evidente",
+        "Redução aberta e fixação interna com placa (volar ou dorsal, conforme o fragmento), pois é uma fratura-luxação inerentemente instável",
+        "Amputação do punho",
+        "Observação sem qualquer tratamento"
+      ],
+      "correta": 1,
+      "comentario": "A fratura de Barton é uma fratura-luxação intra-articular do rádio distal em que um fragmento marginal (dorsal ou volar) permanece ligado ao carpo, que se subluxa junto com o fragmento — configurando lesão inerentemente instável que não se mantém reduzida apenas com imobilização externa, sendo indicação cirúrgica formal com placa (volar para os fragmentos volares, dorsal ou de suporte para os dorsais) na grande maioria dos casos.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-079",
+      "tema": "Rádio distal",
+      "enunciado": "Qual é a diferença fundamental entre a fratura de Barton e a fratura de Chauffeur (Hutchinson) do rádio distal?",
+      "alternativas": [
+        "A fratura de Chauffeur acomete o processo estiloide radial (fratura por avulsão/cisalhamento), enquanto a fratura de Barton acomete a margem dorsal ou volar da superfície articular com subluxação do carpo",
+        "São sinônimos da mesma lesão",
+        "A fratura de Chauffeur nunca é intra-articular",
+        "A fratura de Barton nunca envolve a superfície articular"
+      ],
+      "correta": 0,
+      "comentario": "A fratura de Chauffeur (ou de Hutchinson) é uma fratura por cisalhamento do processo estiloide radial, classicamente associada a mecanismo de contragolpe da manivela de carros antigos, geralmente associada a lesão do ligamento escafolunato quando o traço se estende à fossa escafoide. Já a fratura de Barton acomete a margem articular dorsal ou volar do rádio distal, com o fragmento arrastando o carpo (subluxação), sendo entidades distintas quanto à localização e mecanismo, embora ambas sejam intra-articulares e frequentemente instáveis.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMS-080",
+      "tema": "Rádio distal",
+      "enunciado": "Em paciente jovem com fratura do rádio distal tratada com fixação interna, qual é a importância de avaliar clinicamente a articulação radioulnar distal (ARUD) no pós-operatório imediato?",
+      "alternativas": [
+        "É irrelevante, pois a ARUD nunca é afetada por fraturas do rádio distal",
+        "Instabilidade residual da ARUD (ex.: por fratura associada da base do processo estiloide ulnar ou lesão do complexo fibrocartilaginoso triangular) pode comprometer a pronossupinação e exigir imobilização adicional em supinação ou fixação temporária",
+        "Deve ser tratada sempre com artrodese radioulnar distal definitiva",
+        "É avaliada exclusivamente por ressonância magnética, nunca pelo exame físico"
+      ],
+      "correta": 1,
+      "comentario": "Fraturas do rádio distal frequentemente se associam a lesão da ARUD e/ou fratura da base do processo estiloide ulnar, podendo gerar instabilidade residual que compromete a pronossupinação; por isso, após a fixação do rádio, deve-se testar clinicamente a estabilidade dessa articulação (estresse dorsal/volar da ulna com o punho em diferentes posições de rotação), podendo ser necessário imobilizar temporariamente o antebraço em supinação ou associar fixação percutânea temporária radioulnar em casos de instabilidade grosseira.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMS-081",
+      "tema": "Rádio distal",
+      "enunciado": "Qual é a orientação de reabilitação inicial mais apropriada após fixação estável com placa volar bloqueada de uma fratura do rádio distal, sem lesões associadas relevantes?",
+      "alternativas": [
+        "Imobilização rígida obrigatória por 12 semanas sem qualquer movimento",
+        "Mobilização precoce dos dedos desde o pós-operatório imediato, com início gradual da mobilização do punho conforme orientação do cirurgião, dada a estabilidade conferida pela fixação angular",
+        "Amputação preventiva do polegar",
+        "Repouso absoluto do membro por 6 meses sem fisioterapia"
+      ],
+      "correta": 1,
+      "comentario": "A fixação estável com placa volar bloqueada permite, na maioria dos casos, mobilização precoce dos dedos (prevenindo rigidez e síndrome do túnel do carpo) desde o pós-operatório imediato e introdução gradual de exercícios de amplitude de movimento do punho conforme a evolução clínica e radiográfica, sendo uma das principais vantagens desse método em relação a técnicas que dependem de imobilização externa prolongada.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-082",
+      "tema": "Rádio distal",
+      "enunciado": "Homem de 55 anos com fratura do rádio distal apresenta, no pós-operatório de fixação com placa volar, dor progressiva e parestesia em polpa digital de polegar, indicador e médio, além de dor à extensão passiva dos dedos. Qual complicação deve ser prontamente suspeitada?",
+      "alternativas": [
+        "Síndrome do túnel do carpo aguda/compressão do nervo mediano",
+        "Lesão do nervo ulnar isolada",
+        "Ruptura do ligamento colateral ulnar do polegar",
+        "Fratura de estresse do quinto metacarpo"
+      ],
+      "correta": 0,
+      "comentario": "A distribuição sensitiva (polegar, indicador, médio e metade radial do anular) associada a dor progressiva e sinais de tensão sugere compressão aguda do nervo mediano no túnel do carpo, uma complicação conhecida após fraturas do rádio distal (pelo próprio trauma, hematoma ou compressão por material de síntese/edema pós-operatório), exigindo avaliação e, se confirmada clinicamente, liberação cirúrgica do túnel do carpo sem demora para evitar lesão neurológica permanente.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-083",
+      "tema": "Rádio distal",
+      "enunciado": "Em relação ao tratamento conservador (redução fechada e imobilização gessada) das fraturas do rádio distal em idosos de baixa demanda funcional, qual afirmação está correta?",
+      "alternativas": [
+        "É sempre contraindicado, independentemente da idade e demanda funcional",
+        "Pode ser uma opção razoável mesmo com algum grau de desvio residual aceitável, dado que estudos mostram resultados funcionais comparáveis à cirurgia em pacientes idosos de baixa demanda, apesar de alterações radiográficas residuais",
+        "Exige sempre cirurgia de revisão em até 48 horas",
+        "É indicado exclusivamente em fraturas expostas"
+      ],
+      "correta": 1,
+      "comentario": "Diversos estudos comparativos mostram que, em pacientes idosos de baixa demanda funcional, o tratamento conservador (mesmo com deformidade radiográfica residual moderada) pode oferecer resultados funcionais e de qualidade de vida comparáveis ao tratamento cirúrgico, sendo uma opção legítima nesse subgrupo, ao contrário de pacientes jovens/ativos, nos quais a restauração anatômica tem maior peso funcional a longo prazo.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMS-084",
+      "tema": "Rádio distal",
+      "enunciado": "Qual é a definição de 'degrau articular' (step-off) aceitável máximo, classicamente citado como limite associado a menor risco de artrose pós-traumática radiocarpal em fraturas articulares do rádio distal?",
+      "alternativas": [
+        "Até 10 mm",
+        "Até 2 mm",
+        "Não existe qualquer limite aceitável; qualquer desvio articular exige artrodese",
+        "Até 5 cm"
+      ],
+      "correta": 1,
+      "comentario": "Um degrau articular residual de até aproximadamente 2 mm é classicamente citado como o limite associado a menor risco de artrose radiocarpal pós-traumática nas fraturas articulares do rádio distal, sendo um dos parâmetros centrais na decisão de indicar redução aberta e fixação interna quando a redução fechada não consegue atingir esse objetivo.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-085",
+      "tema": "Escafoide",
+      "enunciado": "Homem de 24 anos sofre queda sobre a mão espalmada e apresenta dor localizada na tabaqueira anatômica, sem deformidade evidente. Radiografia inicial do punho é normal. Qual é a conduta mais apropriada?",
+      "alternativas": [
+        "Liberar o paciente sem qualquer restrição, pois a radiografia normal exclui fratura",
+        "Imobilizar o punho/polegar como se houvesse fratura de escafoide (tala/gesso) e repetir radiografia em 10-14 dias ou solicitar RM/TC precoce",
+        "Indicar cirurgia de urgência sem confirmação diagnóstica",
+        "Solicitar apenas ultrassonografia de partes moles"
+      ],
+      "correta": 1,
+      "comentario": "A dor na tabaqueira anatômica após queda sobre a mão espalmada é altamente sugestiva de fratura de escafoide, mesmo com radiografia inicial normal, pois até 20-30% dessas fraturas não são visíveis nas radiografias iniciais. A conduta padrão é imobilizar como se houvesse fratura e repetir a radiografia em 10-14 dias (quando a reabsorção óssea na linha de fratura a torna visível) ou, preferencialmente, solicitar ressonância magnética ou tomografia computadorizada precoce para diagnóstico mais rápido e preciso, evitando as graves consequências do subdiagnóstico dessa fratura.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "TMS-086",
+      "tema": "Escafoide",
+      "enunciado": "Por que o escafoide é particularmente propenso à pseudoartrose e à necrose avascular após fratura, em comparação a outros ossos do carpo?",
+      "alternativas": [
+        "Por ter suprimento vascular predominantemente retrógrado, entrando principalmente pelo polo distal via ramos da artéria radial",
+        "Por ser um osso extra-articular com farta vascularização periosteal em toda sua extensão",
+        "Por estar localizado fora do canal do carpo",
+        "Por não ter qualquer relevância biomecânica na cinemática do carpo"
+      ],
+      "correta": 0,
+      "comentario": "O suprimento vascular do escafoide é predominantemente retrógrado, penetrando principalmente pelo polo distal (ramos da artéria radial), de modo que fraturas no polo proximal comprometem significativamente a vascularização do fragmento proximal, aumentando o risco de necrose avascular e pseudoartrose — ao contrário de fraturas do polo distal ou da cintura (waist), que têm prognóstico vascular mais favorável.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-087",
+      "tema": "Escafoide",
+      "enunciado": "Qual localização da fratura de escafoide está associada ao maior risco de necrose avascular e pseudoartrose?",
+      "alternativas": [
+        "Fratura do tubérculo distal",
+        "Fratura do polo proximal",
+        "Fratura da cintura (waist) não desviada",
+        "Fratura por avulsão do ligamento escafolunato"
+      ],
+      "correta": 1,
+      "comentario": "As fraturas do polo proximal do escafoide têm o pior prognóstico vascular, dado o suprimento sanguíneo retrógrado que entra pelo polo distal — quanto mais proximal a fratura, menor a área de osso proximal que recebe irrigação através da linha de fratura, aumentando substancialmente o risco de necrose avascular e não consolidação, justificando indicação cirúrgica mais liberal nesse padrão mesmo sem grande desvio.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-088",
+      "tema": "Escafoide",
+      "enunciado": "Homem de 30 anos apresenta fratura da cintura do escafoide, desviada (>1 mm) e com angulação, confirmada por tomografia. Qual é o tratamento mais adequado?",
+      "alternativas": [
+        "Imobilização gessada isolada por 12 semanas, independentemente do desvio",
+        "Redução aberta ou percutânea e fixação interna com parafuso compressivo (tipo Herbert), dado o desvio significativo",
+        "Amputação do polegar",
+        "Observação sem qualquer tratamento"
+      ],
+      "correta": 1,
+      "comentario": "Fraturas de escafoide desviadas (>1 mm de desvio, angulação intraescafoide >15°, ou instabilidade associada) têm indicação cirúrgica formal, sendo o parafuso compressivo canulado (tipo Herbert) inserido por via percutânea (dorsal ou volar, conforme a localização) ou aberta a técnica mais utilizada, por permitir compressão interfragmentar e menor tempo de imobilização em comparação ao tratamento conservador dessas fraturas instáveis.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-089",
+      "tema": "Escafoide",
+      "enunciado": "Qual é a taxa aproximada de não-união (pseudoartrose) em fraturas não desviadas da cintura do escafoide tratadas conservadoramente de forma adequada, segundo a literatura clássica?",
+      "alternativas": [
+        "Próxima de 0%, com consolidação garantida em 100% dos casos",
+        "Relativamente baixa (cerca de 5-10%), mas não desprezível, sendo maior em fraturas do polo proximal ou com atraso diagnóstico",
+        "Superior a 90% em todos os casos",
+        "É irrelevante, pois a fratura de escafoide sempre consolida sem imobilização"
+      ],
+      "correta": 1,
+      "comentario": "Mesmo fraturas não desviadas da cintura do escafoide, tratadas com imobilização adequada, apresentam uma taxa de pseudoartrose relatada em torno de 5-10% (variável conforme a série), sendo maior em fraturas do polo proximal, em pacientes com atraso diagnóstico/tratamento tardio, tabagistas e em imobilização inadequada — daí a tendência atual de considerar fixação cirúrgica mesmo em fraturas não desviadas em pacientes jovens/ativos, para acelerar o retorno funcional e reduzir esse risco.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMS-090",
+      "tema": "Escafoide",
+      "enunciado": "Qual é a deformidade carpal característica associada à pseudoartrose crônica do escafoide, decorrente do colapso progressivo do carpo?",
+      "alternativas": [
+        "SLAC wrist (scapholunate advanced collapse)",
+        "SNAC wrist (scaphoid nonunion advanced collapse)",
+        "Deformidade em pescoço de cisne isolada dos dedos",
+        "Síndrome do túnel do carpo bilateral"
+      ],
+      "correta": 1,
+      "comentario": "A pseudoartrose crônica não tratada do escafoide evolui, ao longo dos anos, para um padrão degenerativo progressivo do carpo conhecido como SNAC wrist (scaphoid nonunion advanced collapse), com artrose radioescafoide inicial progredindo para acometimento capitolunar, análogo em conceito ao SLAC wrist (que decorre, por sua vez, da instabilidade escafolunata crônica não tratada, e não da pseudoartrose do escafoide em si).",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMS-091",
+      "tema": "Ossos do carpo",
+      "enunciado": "Qual é o osso do carpo mais frequentemente fraturado depois do escafoide?",
+      "alternativas": [
+        "Trapézio",
+        "Osso trapezoide",
+        "Osso gancho do hamato (hamato)",
+        "Osso capitato"
+      ],
+      "correta": 2,
+      "comentario": "Após o escafoide (o mais comumente fraturado dos ossos do carpo), o hamato (particularmente o gancho do hamato) é uma das fraturas carpais mais relevantes na prática clínica, classicamente associada a esportes com raquete/taco (golfe, beisebol, tênis) por impacto direto do cabo contra a região hipotenar, podendo cursar com dor localizada na região hipotenar e, eventualmente, lesão associada do nervo ulnar (canal de Guyon) ou ruptura tardia de tendões flexores dos dedos ulnares.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-092",
+      "tema": "Ossos do carpo",
+      "enunciado": "Golfista de 32 anos apresenta dor persistente na região hipotenar do punho após uma tacada, com dor à palpação profunda dessa região e fraqueza de preensão. Radiografia simples é inconclusiva. Qual exame de imagem é mais indicado para confirmar suspeita de fratura do gancho do hamato?",
+      "alternativas": [
+        "Radiografia em incidência de túnel do carpo (carpal tunnel view) ou tomografia computadorizada",
+        "Ultrassonografia Doppler exclusivamente",
+        "Cintilografia óssea como primeira escolha sempre",
+        "Radiografia simples em AP de punho apenas"
+      ],
+      "correta": 0,
+      "comentario": "A fratura do gancho do hamato é frequentemente perdida em radiografias convencionais de punho, sendo necessária a incidência específica em túnel do carpo (carpal tunnel view) ou, mais sensivelmente, a tomografia computadorizada para confirmação diagnóstica, dada a sobreposição óssea nessa região nas incidências padrão.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-093",
+      "tema": "Ossos do carpo",
+      "enunciado": "Em relação à luxação isolada do osso semilunar (lunato), qual afirmação está correta?",
+      "alternativas": [
+        "É a lesão mais comum entre as luxações carpais, superando a luxação perilunar",
+        "Representa o estágio mais avançado do espectro de instabilidade carpal descrito por Mayfield, com o semilunar completamente deslocado do seu leito e os demais ossos do carpo realinhados com o rádio",
+        "Nunca está associada a compressão do nervo mediano",
+        "É tratada exclusivamente de forma conservadora, sem necessidade de redução"
+      ],
+      "correta": 1,
+      "comentario": "A luxação do semilunar representa o estágio IV (mais avançado) da progressão descrita por Mayfield para a instabilidade carpal perilunar, na qual o semilunar se desloca completamente do seu leito radial (tipicamente para volar, com rotação), enquanto o restante do carpo permanece alinhado ao rádio — sendo, portanto, menos comum que a luxação perilunar (estágio III) e frequentemente associada a compressão aguda do nervo mediano pelo semilunar deslocado no túnel do carpo, configurando emergência cirúrgica.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMS-094",
+      "tema": "Escafoide",
+      "enunciado": "Qual é o teste clínico específico utilizado para avaliar a instabilidade do ligamento escafolunato (lesão frequentemente associada a fraturas/luxações carpais)?",
+      "alternativas": [
+        "Teste de Watson (scaphoid shift test)",
+        "Teste de Lachman",
+        "Teste de McMurray",
+        "Teste de Thompson"
+      ],
+      "correta": 0,
+      "comentario": "O teste de Watson (scaphoid shift test) avalia a instabilidade escafolunata: com pressão do polegar do examinador sobre o polo distal do escafoide, o punho é movido de desvio ulnar para radial; a subluxação dolorosa do polo proximal do escafoide sobre o rebordo dorsal do rádio, com um 'clunk' à liberação da pressão, sugere instabilidade escafolunata. Lachman é do joelho (LCA), McMurray é meniscal, e Thompson avalia o tendão do calcâneo.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-095",
+      "tema": "Luxação perilunar",
+      "enunciado": "Homem de 26 anos sofre queda de altura com trauma em hiperextensão do punho e apresenta dor intensa, edema difuso e parestesia no território do nervo mediano. Radiografia em perfil mostra o semilunar mantendo relação normal com o rádio, mas os demais ossos do carpo (capitato e distais) deslocados dorsalmente em relação ao semilunar. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        "Luxação isolada do semilunar",
+        "Luxação perilunar dorsal do carpo",
+        "Fratura de Colles isolada",
+        "Fratura do gancho do hamato isolada"
+      ],
+      "correta": 1,
+      "comentario": "Na luxação perilunar dorsal, o semilunar mantém sua relação anatômica normal com a fossa do rádio, enquanto o restante do carpo (capitato e demais ossos distais) se desloca dorsalmente em relação ao semilunar — o inverso do que ocorre na luxação do semilunar propriamente dita (estágio mais avançado), na qual é o semilunar que se desloca (geralmente para volar) enquanto o resto do carpo permanece alinhado ao rádio. Compressão do nervo mediano é uma associação clássica em ambas as lesões, exigindo atenção especial.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-096",
+      "tema": "Luxação perilunar",
+      "enunciado": "Qual é a classificação clássica que descreve os estágios progressivos de instabilidade carpal perilunar, desde a lesão inicial do ligamento escafolunato até a luxação completa do semilunar?",
+      "alternativas": [
+        "Classificação de Mayfield (estágios I a IV)",
+        "Classificação de Frykman",
+        "Classificação de Gartland",
+        "Classificação de Sanders"
+      ],
+      "correta": 0,
+      "comentario": "A classificação de Mayfield descreve uma progressão em 'arco maior' ou 'arco menor' de lesões periliunares em quatro estágios: estágio I (dissociação escafolunata), estágio II (luxação capitolunar/perilunar iniciando), estágio III (luxação perilunar completa, geralmente com fratura associada do escafoide no 'arco maior' — configurando a fratura-luxação transescafoperilunar), e estágio IV (luxação completa do semilunar). Frykman é para rádio distal, Gartland para fraturas supracondilianas do úmero em crianças, e Sanders para calcâneo.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMS-097",
+      "tema": "Luxação perilunar",
+      "enunciado": "Em relação à fratura-luxação transescafoperilunar do carpo (padrão de 'arco maior' de Mayfield), qual afirmação está correta?",
+      "alternativas": [
+        "É a variante em que a lesão ligamentar poupa completamente o escafoide, que permanece intacto",
+        "É a variante em que, em vez de rompimento puramente ligamentar do escafolunato, ocorre fratura do escafoide, com o polo proximal permanecendo ligado ao semilunar enquanto o restante do carpo se desloca dorsalmente",
+        "Não tem qualquer relação com a classificação de Mayfield",
+        "É sempre tratada apenas com imobilização gessada, sem necessidade de cirurgia"
+      ],
+      "correta": 1,
+      "comentario": "No padrão de 'arco maior', a força que se propagaria pelos ligamentos periliunares (arco menor) encontra o escafoide em seu trajeto, fraturando-o em vez de romper o ligamento escafolunato; o polo proximal do escafoide permanece ligado ao semilunar (mantendo relação normal com o rádio), enquanto o polo distal segue o restante do carpo deslocado dorsalmente — configurando a fratura-luxação transescafoperilunar, uma lesão grave que exige tratamento cirúrgico com redução anatômica, fixação do escafoide e reparo ligamentar.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "TMS-098",
+      "tema": "Luxação perilunar",
+      "enunciado": "Qual é a conduta de urgência mais apropriada diante de uma luxação perilunar ou do semilunar associada a sinais clínicos de compressão aguda do nervo mediano?",
+      "alternativas": [
+        "Observação ambulatorial, sem necessidade de redução precoce",
+        "Redução fechada urgente (sob sedação/anestesia) seguida de tratamento definitivo cirúrgico (redução aberta, fixação e reparo ligamentar), pela combinação de lesão grave do carpo e compressão nervosa aguda",
+        "Amputação da mão",
+        "Fisioterapia isolada sem qualquer intervenção"
+      ],
+      "correta": 1,
+      "comentario": "Luxações perilunares/do semilunar associadas a sinais de compressão aguda do nervo mediano configuram urgência ortopédica: deve-se realizar redução fechada o mais rápido possível para aliviar a compressão nervosa, seguida de tratamento cirúrgico definitivo (geralmente redução aberta, fixação com fios/parafusos dos ossos carpais e reparo dos ligamentos interósseos rotos, incluindo o escafolunato e lunotriquetral conforme o padrão da lesão), dada a gravidade potencial dessas lesões se não tratadas adequadamente e a céu aberto se a redução fechada falhar ou a compressão persistir.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-099",
+      "tema": "Luxação perilunar",
+      "enunciado": "Por que as luxações perilunares e do semilunar são frequentemente subdiagnosticadas na avaliação inicial em pronto-socorro?",
+      "alternativas": [
+        "Porque nunca causam dor ou edema significativos",
+        "Porque a radiografia em incidência AP pode parecer relativamente normal, sendo a incidência em perfil verdadeiro do punho fundamental para identificar a perda do alinhamento entre rádio, semilunar e capitato",
+        "Porque são sempre acompanhadas de fratura exposta evidente",
+        "Porque ocorrem exclusivamente em crianças"
+      ],
+      "correta": 1,
+      "comentario": "Na incidência em AP, a sobreposição dos ossos carpais pode mascarar a luxação perilunar/do semilunar, que muitas vezes é confundida com uma simples contusão de punho; a incidência em perfil verdadeiro é essencial, pois nela se avalia o alinhamento colinear entre o eixo longitudinal do rádio, do semilunar e do capitato — qualquer perda desse alinhamento (semilunar em formato de 'xícara derramada' ou deslocamento do capitato) sugere fortemente uma lesão perilunar, que é subdiagnosticada em uma proporção relevante dos casos na avaliação inicial.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "media"
+    },
+    {
+      "id": "TMS-100",
+      "tema": "Luxação perilunar",
+      "enunciado": "Qual é o principal objetivo do tratamento cirúrgico definitivo (redução aberta com fixação e reparo ligamentar) nas lesões perilunares agudas, em comparação ao tratamento apenas com redução fechada e imobilização?",
+      "alternativas": [
+        "Não há diferença de resultados entre as duas abordagens em qualquer prazo",
+        "Restaurar e manter a relação anatômica entre os ossos do carpo e reparar os ligamentos interósseos rotos, reduzindo o risco de instabilidade carpal crônica, artrose pós-traumática e colapso carpal (padrão SLAC-like)",
+        "Eliminar completamente a necessidade de qualquer reabilitação pós-operatória",
+        "Garantir amplitude de movimento idêntica à do lado não lesado em 100% dos casos"
+      ],
+      "correta": 1,
+      "comentario": "A redução fechada isolada, mesmo quando tecnicamente bem-sucedida, frequentemente não é suficiente para manter a redução das lesões ligamentares interósseas do carpo (especialmente escafolunato e lunotriquetral), predispondo a recidiva da luxação, instabilidade carpal crônica e degeneração articular progressiva; por isso o tratamento definitivo cirúrgico busca a redução anatômica estável associada ao reparo ou reconstrução ligamentar, reduzindo — embora não eliminando completamente — o risco dessas complicações a longo prazo.",
+      "referencia": "Rockwood and Green's Fractures in Adults, 9ª ed.",
+      "dificuldade": "dificil"
+    }
+  ]
+}
